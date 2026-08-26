@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055621470638727168"
+      ],
+      "media_source_tweet_id": [
+        "2055966568706621862"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055976521567985796",
+    "created_at": "2026-05-17T11:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055976521567985796"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "cover"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1154339046941810688",
+          "start": 3,
+          "username": "riwon1117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9k4e3FoAG0",
+          "end": 59,
+          "expanded_url": "https://x.com/riwon1117/status/2055966568706621862/video/1",
+          "media_key": "13_2055621470638727168",
+          "start": 36,
+          "url": "https://t.co/9k4e3FoAG0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055976521567985796",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055966568706621862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riwon1117: プラネテス / seiza #cover https://t.co/9k4e3FoAG0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34334,
+        "height": 1080,
+        "media_key": "13_2055621470638727168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055621470638727168/img/BUdbMcL3CNV1wfx8.jpg",
+        "public_metrics": {
+          "view_count": 877
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055621470638727168/vid/avc1/480x270/8Y0RHJqNaBaKJ7EP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055621470638727168/vid/avc1/1280x720/MGbxp14j9HvbT1az.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055621470638727168/vid/avc1/640x360/lwKPSmP7yCSzuBpJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055621470638727168/vid/avc1/1920x1080/gxirxCGnoUsBfm6s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055621470638727168/pl/X3iHmTe_Az0vz84_.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055621470638727168"
+          ],
+          "media_source_tweet_id": [
+            "2055966568706621862"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055976521567985796",
+        "created_at": "2026-05-17T11:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055976521567985796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "cover"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1154339046941810688",
+              "start": 3,
+              "username": "riwon1117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9k4e3FoAG0",
+              "end": 59,
+              "expanded_url": "https://x.com/riwon1117/status/2055966568706621862/video/1",
+              "media_key": "13_2055621470638727168",
+              "start": 36,
+              "url": "https://t.co/9k4e3FoAG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055976521567985796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055966568706621862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riwon1117: プラネテス / seiza #cover https://t.co/9k4e3FoAG0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055621470638727168"
+          ]
+        },
+        "author_id": "1154339046941810688",
+        "conversation_id": "2055966568706621862",
+        "created_at": "2026-05-17T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055966568706621862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "cover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9k4e3FoAG0",
+              "end": 44,
+              "expanded_url": "https://x.com/riwon1117/status/2055966568706621862/video/1",
+              "media_key": "13_2055621470638727168",
+              "start": 21,
+              "url": "https://t.co/9k4e3FoAG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055966568706621862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4475,
+          "like_count": 299,
+          "quote_count": 22,
+          "reply_count": 4,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "プラネテス / seiza #cover https://t.co/9k4e3FoAG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 167,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2082
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-25T10:34:10.000Z",
+        "description": "@riwonyan_ FA: #りをにゃんあーと Search: #りをにゃんみろ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 15,
+                "tag": "りをにゃんあーと"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "りをにゃんみろ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "riwonyan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/riwon1117",
+                "end": 23,
+                "expanded_url": "http://m.youtube.com/riwon1117",
+                "start": 0,
+                "url": "https://t.co/1yzL2R1bms"
+              }
+            ]
+          }
+        },
+        "id": "1154339046941810688",
+        "name": "りをん",
+        "pinned_tweet_id": "2036042711430812025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990718088975953920/k5RrZm0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11418,
+          "following_count": 298,
+          "like_count": 2886,
+          "listed_count": 76,
+          "media_count": 497,
+          "tweet_count": 3176
+        },
+        "url": "https://t.co/1yzL2R1bms",
+        "username": "riwon1117",
+        "verified": true
+      }
+    ]
+  }
+}

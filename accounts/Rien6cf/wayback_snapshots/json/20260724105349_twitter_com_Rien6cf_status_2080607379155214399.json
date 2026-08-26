@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080551060142514176"
+      ],
+      "media_source_tweet_id": [
+        "2080593843683029078"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2080607379155214399",
+    "created_at": "2026-07-24T10:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080607379155214399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1210104214262693889",
+          "start": 3,
+          "username": "MILGRAM_info"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「愛される弱者になりたかった」Vocal: ハルカ (CV: 堀江瞬)CD「弱肉共食」2020年6月24日発売■CD詳細h...",
+          "display_url": "youtu.be/h7PJ__3OVDI?fe…",
+          "end": 101,
+          "expanded_url": "https://youtu.be/h7PJ__3OVDI?feature=shared",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2080593886519361536/A9XuXbGi?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080593886519361536/A9XuXbGi?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 78,
+          "status": 200,
+          "title": "MILGRAM -ミルグラム- / ハルカ「弱肉共食」第一審MV",
+          "unwound_url": "https://www.youtube.com/watch?feature=shared&v=h7PJ__3OVDI",
+          "url": "https://t.co/zFfmnB4eNX"
+        },
+        {
+          "display_url": "pic.x.com/wtNzSPA4SK",
+          "end": 125,
+          "expanded_url": "https://x.com/MILGRAM_info/status/2080593843683029078/photo/1",
+          "media_key": "3_2080551060142514176",
+          "start": 102,
+          "url": "https://t.co/wtNzSPA4SK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080607379155214399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 551
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080593843683029078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MILGRAM_info: 「弱肉共食」500万再生突破ありがとうございます！\n\nMILGRAM -ミルグラム- / ハルカ「弱肉共食」第一審MV\nhttps://t.co/zFfmnB4eNX https://t.co/wtNzSPA4SK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2080551060142514176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-aKnzbYAAAsMk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080551060142514176"
+          ]
+        },
+        "author_id": "1210104214262693889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2080593843683029078",
+        "created_at": "2026-07-24T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080593843683029078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "「愛される弱者になりたかった」Vocal: ハルカ (CV: 堀江瞬)CD「弱肉共食」2020年6月24日発売■CD詳細h...",
+              "display_url": "youtu.be/h7PJ__3OVDI?fe…",
+              "end": 83,
+              "expanded_url": "https://youtu.be/h7PJ__3OVDI?feature=shared",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2080593886519361536/A9XuXbGi?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080593886519361536/A9XuXbGi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "MILGRAM -ミルグラム- / ハルカ「弱肉共食」第一審MV",
+              "unwound_url": "https://www.youtube.com/watch?feature=shared&v=h7PJ__3OVDI",
+              "url": "https://t.co/zFfmnB4eNX"
+            },
+            {
+              "display_url": "pic.x.com/wtNzSPA4SK",
+              "end": 107,
+              "expanded_url": "https://x.com/MILGRAM_info/status/2080593843683029078/photo/1",
+              "media_key": "3_2080551060142514176",
+              "start": 84,
+              "url": "https://t.co/wtNzSPA4SK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080593843683029078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 31376,
+          "like_count": 1989,
+          "quote_count": 142,
+          "reply_count": 50,
+          "retweet_count": 551
+        },
+        "reply_settings": "everyone",
+        "text": "「弱肉共食」500万再生突破ありがとうございます！\n\nMILGRAM -ミルグラム- / ハルカ「弱肉共食」第一審MV\nhttps://t.co/zFfmnB4eNX https://t.co/wtNzSPA4SK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080551060142514176"
+          ],
+          "media_source_tweet_id": [
+            "2080593843683029078"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2080607379155214399",
+        "created_at": "2026-07-24T10:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080607379155214399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1210104214262693889",
+              "start": 3,
+              "username": "MILGRAM_info"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「愛される弱者になりたかった」Vocal: ハルカ (CV: 堀江瞬)CD「弱肉共食」2020年6月24日発売■CD詳細h...",
+              "display_url": "youtu.be/h7PJ__3OVDI?fe…",
+              "end": 101,
+              "expanded_url": "https://youtu.be/h7PJ__3OVDI?feature=shared",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2080593886519361536/A9XuXbGi?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080593886519361536/A9XuXbGi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "MILGRAM -ミルグラム- / ハルカ「弱肉共食」第一審MV",
+              "unwound_url": "https://www.youtube.com/watch?feature=shared&v=h7PJ__3OVDI",
+              "url": "https://t.co/zFfmnB4eNX"
+            },
+            {
+              "display_url": "pic.x.com/wtNzSPA4SK",
+              "end": 125,
+              "expanded_url": "https://x.com/MILGRAM_info/status/2080593843683029078/photo/1",
+              "media_key": "3_2080551060142514176",
+              "start": 102,
+              "url": "https://t.co/wtNzSPA4SK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080607379155214399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 551
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080593843683029078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MILGRAM_info: 「弱肉共食」500万再生突破ありがとうございます！\n\nMILGRAM -ミルグラム- / ハルカ「弱肉共食」第一審MV\nhttps://t.co/zFfmnB4eNX https://t.co/wtNzSPA4SK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 202,
+          "like_count": 8576,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3081
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-26T07:45:13.000Z",
+        "description": "DECO*27×山中拓也×OTOIROが送る\n「音楽による裁判員制度」視聴者参加型楽曲プロジェクト \n\n■公式HP→https://t.co/yjfsdjLPkz \n■公式購買所→https://t.co/Lwe7aAXaA9\n■公式ファンアプリ→https://t.co/XZPHYL3s2s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "milgram.jp",
+                "end": 81,
+                "expanded_url": "http://milgram.jp",
+                "start": 58,
+                "url": "https://t.co/yjfsdjLPkz"
+              },
+              {
+                "display_url": "amnibus.com/official_shop/…",
+                "end": 113,
+                "expanded_url": "https://amnibus.com/official_shop/milgram",
+                "start": 90,
+                "url": "https://t.co/Lwe7aAXaA9"
+              },
+              {
+                "display_url": "c-rayon.com/milgram/",
+                "end": 147,
+                "expanded_url": "http://c-rayon.com/milgram/",
+                "start": 124,
+                "url": "https://t.co/XZPHYL3s2s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/MilgramOffic…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/MilgramOfficial",
+                "start": 0,
+                "url": "https://t.co/4wigvrHq1J"
+              }
+            ]
+          }
+        },
+        "id": "1210104214262693889",
+        "name": "MILGRAM -ミルグラム- 公式",
+        "pinned_tweet_id": "2057038626396295199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889615651494567936/YHamz9ug_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190862,
+          "following_count": 31,
+          "like_count": 3,
+          "listed_count": 379,
+          "media_count": 1711,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/4wigvrHq1J",
+        "username": "MILGRAM_info",
+        "verified": false
+      }
+    ]
+  }
+}

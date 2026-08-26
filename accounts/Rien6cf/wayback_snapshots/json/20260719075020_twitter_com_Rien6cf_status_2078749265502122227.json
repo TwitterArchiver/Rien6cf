@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078503484215992321"
+      ],
+      "media_source_tweet_id": [
+        "2078523944869548237"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2078749265502122227",
+    "created_at": "2026-07-19T07:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078749265502122227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWal249tPE",
+          "end": 75,
+          "expanded_url": "https://x.com/madaomoshiroi/status/2078523944869548237/video/1",
+          "media_key": "13_2078503484215992321",
+          "start": 52,
+          "url": "https://t.co/bWal249tPE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078749265502122227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7481
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078523944869548237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: 体をタオルで拭いてもらってめちゃ嬉しそうな子アザラシが可愛すぎる https://t.co/bWal249tPE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20271,
+        "height": 720,
+        "media_key": "13_2078503484215992321",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078503484215992321/img/Qi2RieSkIJfIVTBu.jpg",
+        "public_metrics": {
+          "view_count": 737971
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078503484215992321/vid/avc1/480x270/HEHsiL-ZxvzTi1dl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078503484215992321/vid/avc1/640x360/pDo5Wiz6BUt06hiY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078503484215992321/vid/avc1/1280x720/YLUKGZpoNqHw3B_g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078503484215992321/pl/_7goQ9aVF97qgYqJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078503484215992321"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "conversation_id": "2078523944869548237",
+        "created_at": "2026-07-18T16:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078523944869548237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWal249tPE",
+              "end": 56,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2078523944869548237/video/1",
+              "media_key": "13_2078503484215992321",
+              "start": 33,
+              "url": "https://t.co/bWal249tPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078523944869548237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5257,
+          "impression_count": 1702965,
+          "like_count": 58652,
+          "quote_count": 481,
+          "reply_count": 106,
+          "retweet_count": 7474
+        },
+        "reply_settings": "everyone",
+        "text": "体をタオルで拭いてもらってめちゃ嬉しそうな子アザラシが可愛すぎる https://t.co/bWal249tPE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078503484215992321"
+          ],
+          "media_source_tweet_id": [
+            "2078523944869548237"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2078749265502122227",
+        "created_at": "2026-07-19T07:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078749265502122227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWal249tPE",
+              "end": 75,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2078523944869548237/video/1",
+              "media_key": "13_2078503484215992321",
+              "start": 52,
+              "url": "https://t.co/bWal249tPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078749265502122227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078523944869548237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: 体をタオルで拭いてもらってめちゃ嬉しそうな子アザラシが可愛すぎる https://t.co/bWal249tPE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8134,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2978
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものを引用しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330853,
+          "following_count": 0,
+          "like_count": 4550,
+          "listed_count": 520,
+          "media_count": 9469,
+          "tweet_count": 9611
+        },
+        "url": "",
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}

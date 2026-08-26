@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "175",
+          "name": "Emergency Events"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      }
+    ],
+    "conversation_id": "2046137257607008551",
+    "created_at": "2026-04-20T08:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046137257607008551"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 99,
+          "tag": "nhk_news"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "256401886",
+          "start": 3,
+          "username": "nhk_seikatsu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "最新の津波警報・津波注意報の発表状況をお伝えします。津波のリスクや避難の注意点などの解説、最新の関連ニュースもお届けします。",
+          "display_url": "news.web.nhk/kishou-saigai/…",
+          "end": 132,
+          "expanded_url": "https://news.web.nhk/kishou-saigai/tsunami/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2046135781652385792/dfFfR-CQ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2046135781652385792/dfFfR-CQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 109,
+          "status": 200,
+          "title": "【NHK】最新の津波情報",
+          "unwound_url": "https://news.web.nhk/kishou-saigai/tsunami/",
+          "url": "https://t.co/dZvapIR3m6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046137257607008551",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1672
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046135710747701372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nhk_seikatsu: 【津波情報】\n■津波警報■岩手県　北海道太平洋沿岸中部\n■津波注意報■青森県太平洋沿岸　宮城県　北海道太平洋沿岸東部　北海道太平洋沿岸西部　福島県(16:55)\n#nhk_news https://t.co/dZvapIR3m6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          }
+        ],
+        "conversation_id": "2046137257607008551",
+        "created_at": "2026-04-20T08:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046137257607008551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 99,
+              "tag": "nhk_news"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "256401886",
+              "start": 3,
+              "username": "nhk_seikatsu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "最新の津波警報・津波注意報の発表状況をお伝えします。津波のリスクや避難の注意点などの解説、最新の関連ニュースもお届けします。",
+              "display_url": "news.web.nhk/kishou-saigai/…",
+              "end": 132,
+              "expanded_url": "https://news.web.nhk/kishou-saigai/tsunami/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2046135781652385792/dfFfR-CQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046135781652385792/dfFfR-CQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "【NHK】最新の津波情報",
+              "unwound_url": "https://news.web.nhk/kishou-saigai/tsunami/",
+              "url": "https://t.co/dZvapIR3m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046137257607008551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1672
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046135710747701372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nhk_seikatsu: 【津波情報】\n■津波警報■岩手県　北海道太平洋沿岸中部\n■津波注意報■青森県太平洋沿岸　宮城県　北海道太平洋沿岸東部　北海道太平洋沿岸西部　福島県(16:55)\n#nhk_news https://t.co/dZvapIR3m6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "256401886",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "気象庁によれば、地震がありました。",
+              "id": "1374413205275996170",
+              "name": "地震のニュース（テスト）"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2046135710747701372",
+        "created_at": "2026-04-20T07:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046135710747701372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 81,
+              "tag": "nhk_news"
+            }
+          ],
+          "urls": [
+            {
+              "description": "最新の津波警報・津波注意報の発表状況をお伝えします。津波のリスクや避難の注意点などの解説、最新の関連ニュースもお届けします。",
+              "display_url": "news.web.nhk/kishou-saigai/…",
+              "end": 114,
+              "expanded_url": "https://news.web.nhk/kishou-saigai/tsunami/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2046135781652385792/dfFfR-CQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046135781652385792/dfFfR-CQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 91,
+              "status": 200,
+              "title": "【NHK】最新の津波情報",
+              "unwound_url": "https://news.web.nhk/kishou-saigai/tsunami/",
+              "url": "https://t.co/dZvapIR3m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046135710747701372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 76077,
+          "like_count": 815,
+          "quote_count": 31,
+          "reply_count": 1,
+          "retweet_count": 1672
+        },
+        "reply_settings": "everyone",
+        "text": "【津波情報】\n■津波警報■岩手県　北海道太平洋沿岸中部\n■津波注意報■青森県太平洋沿岸　宮城県　北海道太平洋沿岸東部　北海道太平洋沿岸西部　福島県(16:55)\n#nhk_news https://t.co/dZvapIR3m6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 143,
+          "like_count": 2872,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1678
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-23T07:30:32.000Z",
+        "description": "「あなたの命と暮らしを守る」情報をお届けするＮＨＫ公式アカウントです。 地震や台風、大雨、大雪などの災害の情報や防災減災に役立つ情報、それに子育てや消費生活など暮らしの安心情報をお伝えします（利用規約: https://t.co/a9FXMnqQtN フォローについて:https://t.co/99rLDYYSkj )",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 125,
+                "expanded_url": "http://nhk.jp/rules",
+                "start": 102,
+                "url": "https://t.co/a9FXMnqQtN"
+              },
+              {
+                "display_url": "nhk.jp/tw_f",
+                "end": 158,
+                "expanded_url": "http://nhk.jp/tw_f",
+                "start": 135,
+                "url": "https://t.co/99rLDYYSkj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "www3.nhk.or.jp/news/special/l…",
+                "end": 23,
+                "expanded_url": "https://www3.nhk.or.jp/news/special/lifechat/",
+                "start": 0,
+                "url": "https://t.co/TTlZFm6OH4"
+              }
+            ]
+          }
+        },
+        "id": "256401886",
+        "location": "東京都渋谷区神南",
+        "name": "ＮＨＫ生活・防災",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1232909240752168960/O_KgYXx2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273541,
+          "following_count": 79,
+          "like_count": 30,
+          "listed_count": 39439,
+          "media_count": 8519,
+          "tweet_count": 78021
+        },
+        "url": "https://t.co/TTlZFm6OH4",
+        "username": "nhk_seikatsu",
+        "verified": true
+      }
+    ]
+  }
+}

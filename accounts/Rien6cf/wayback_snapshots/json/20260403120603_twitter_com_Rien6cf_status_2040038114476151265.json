@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2040038114476151265",
+    "created_at": "2026-04-03T12:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040038114476151265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "268758461",
+          "start": 3,
+          "username": "uni_mafumafu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040038114476151265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1953
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039999673344352403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uni_mafumafu: コミュ障、ひきこもり、朝起きられない、でも日中も眠たい、物捨てられない、忘れっぽい、体力がない、お酒飲めない。変なことは詳しいのに、みんなの知ってること何も知らない、だから会話に混ざれない、上記全てを改善しようにもうまくいかない、現在夕方６時…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2040038114476151265",
+        "created_at": "2026-04-03T12:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040038114476151265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "268758461",
+              "start": 3,
+              "username": "uni_mafumafu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040038114476151265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1953
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039999673344352403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uni_mafumafu: コミュ障、ひきこもり、朝起きられない、でも日中も眠たい、物捨てられない、忘れっぽい、体力がない、お酒飲めない。変なことは詳しいのに、みんなの知ってること何も知らない、だから会話に混ざれない、上記全てを改善しようにもうまくいかない、現在夕方６時…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "268758461",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2039999673344352403",
+        "created_at": "2026-04-03T09:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039999673344352403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039999673344352403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 649,
+          "impression_count": 899908,
+          "like_count": 16687,
+          "quote_count": 419,
+          "reply_count": 822,
+          "retweet_count": 1953
+        },
+        "reply_settings": "everyone",
+        "text": "コミュ障、ひきこもり、朝起きられない、でも日中も眠たい、物捨てられない、忘れっぽい、体力がない、お酒飲めない。変なことは詳しいのに、みんなの知ってること何も知らない、だから会話に混ざれない、上記全てを改善しようにもうまくいかない、現在夕方６時、ベッドの中でこれを書いてるのが私。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 128,
+          "like_count": 2221,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1394
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-19T12:05:43.000Z",
+        "description": "何でも屋です。ねむり After the Rain/ネオポルテ運営 ▶️YouTube https://t.co/rJzDs0Uz9d ▶️https://t.co/gdmowrQKWn #まふあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "まふあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/uni_mafumafu",
+                "end": 67,
+                "expanded_url": "http://youtube.com/c/uni_mafumafu",
+                "start": 44,
+                "url": "https://t.co/rJzDs0Uz9d"
+              },
+              {
+                "display_url": "nicovideo.jp/user/18874531/…",
+                "end": 93,
+                "expanded_url": "https://www.nicovideo.jp/user/18874531/mylist/22993832",
+                "start": 70,
+                "url": "https://t.co/gdmowrQKWn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "uni-mafumafu.jp",
+                "end": 23,
+                "expanded_url": "http://uni-mafumafu.jp/",
+                "start": 0,
+                "url": "https://t.co/OqYercCVSN"
+              }
+            ]
+          }
+        },
+        "id": "268758461",
+        "location": "夢の中",
+        "name": "まふまふ",
+        "pinned_tweet_id": "1825857996876034162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031299346155843584/yjIK57-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978011,
+          "following_count": 454,
+          "like_count": 3460,
+          "listed_count": 13279,
+          "media_count": 3389,
+          "tweet_count": 56771
+        },
+        "url": "https://t.co/OqYercCVSN",
+        "username": "uni_mafumafu",
+        "verified": true
+      }
+    ]
+  }
+}

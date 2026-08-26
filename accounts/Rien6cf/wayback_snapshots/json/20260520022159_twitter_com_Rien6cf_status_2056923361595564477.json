@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056680299459964928"
+      ],
+      "media_source_tweet_id": [
+        "2056680305159995397"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056923361595564477",
+    "created_at": "2026-05-20T02:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056923361595564477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1267286364841668608",
+          "start": 3,
+          "username": "emunculus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Nt711VH9O",
+          "end": 54,
+          "expanded_url": "https://x.com/emunculus/status/2056680305159995397/photo/1",
+          "media_key": "3_2056680299459964928",
+          "start": 31,
+          "url": "https://t.co/3Nt711VH9O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056923361595564477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 518
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056680305159995397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emunculus: 悪意がありすぎるスズメの紹介文 https://t.co/3Nt711VH9O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 497,
+        "media_key": "3_2056680299459964928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrL1ena8AA0vJF.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056680299459964928"
+          ],
+          "media_source_tweet_id": [
+            "2056680305159995397"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056923361595564477",
+        "created_at": "2026-05-20T02:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056923361595564477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1267286364841668608",
+              "start": 3,
+              "username": "emunculus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Nt711VH9O",
+              "end": 54,
+              "expanded_url": "https://x.com/emunculus/status/2056680305159995397/photo/1",
+              "media_key": "3_2056680299459964928",
+              "start": 31,
+              "url": "https://t.co/3Nt711VH9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056923361595564477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 518
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056680305159995397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emunculus: 悪意がありすぎるスズメの紹介文 https://t.co/3Nt711VH9O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056680299459964928"
+          ]
+        },
+        "author_id": "1267286364841668608",
+        "conversation_id": "2056680305159995397",
+        "created_at": "2026-05-19T10:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056680305159995397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Nt711VH9O",
+              "end": 39,
+              "expanded_url": "https://x.com/emunculus/status/2056680305159995397/photo/1",
+              "media_key": "3_2056680299459964928",
+              "start": 16,
+              "url": "https://t.co/3Nt711VH9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056680305159995397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 94971,
+          "like_count": 3381,
+          "quote_count": 20,
+          "reply_count": 19,
+          "retweet_count": 518
+        },
+        "reply_settings": "everyone",
+        "text": "悪意がありすぎるスズメの紹介文 https://t.co/3Nt711VH9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 170,
+          "like_count": 4283,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2152
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-01T02:47:32.000Z",
+        "description": "フォローするのでフォローしてください",
+        "id": "1267286364841668608",
+        "name": "えむ",
+        "pinned_tweet_id": "2055912722378932530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036697751858372608/kpXw_PQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70463,
+          "following_count": 64774,
+          "like_count": 81050,
+          "listed_count": 150,
+          "media_count": 130,
+          "tweet_count": 16718
+        },
+        "username": "emunculus",
+        "verified": true
+      }
+    ]
+  }
+}

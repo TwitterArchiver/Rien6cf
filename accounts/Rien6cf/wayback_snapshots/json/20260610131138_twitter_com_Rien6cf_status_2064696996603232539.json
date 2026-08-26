@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064696996603232539",
+    "created_at": "2026-06-10T13:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064696996603232539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463922277318381568",
+          "start": 3,
+          "username": "fmatheusmori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064696996603232539",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1859
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064462224643559617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fmatheusmori: Alguem por favor da um tiro na minha cabeça nao quero mais pensar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064696996603232539",
+        "created_at": "2026-06-10T13:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064696996603232539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463922277318381568",
+              "start": 3,
+              "username": "fmatheusmori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064696996603232539",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1859
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064462224643559617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fmatheusmori: Alguem por favor da um tiro na minha cabeça nao quero mais pensar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463922277318381568",
+        "conversation_id": "2064462224643559617",
+        "created_at": "2026-06-09T21:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064462224643559617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064462224643559617",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 47114,
+          "like_count": 3608,
+          "quote_count": 13,
+          "reply_count": 12,
+          "retweet_count": 1859
+        },
+        "reply_settings": "everyone",
+        "text": "Alguem por favor da um tiro na minha cabeça nao quero mais pensar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5433,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2534
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T17:27:54.000Z",
+        "description": "eng de software 28 anos",
+        "id": "1463922277318381568",
+        "location": "São Paulo",
+        "name": "felipe",
+        "pinned_tweet_id": "2027661256933412985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059726107293650947/tTNWP1ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 152,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "username": "fmatheusmori",
+        "verified": false
+      }
+    ]
+  }
+}

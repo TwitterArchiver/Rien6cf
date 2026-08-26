@@ -1,0 +1,903 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2035705810240872585",
+    "created_at": "2026-03-22T13:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T14:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035705810240872585"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "光優海真陽結翔恵直愛",
+          "probability": 0.0461,
+          "start": 42,
+          "type": "Person"
+        },
+        {
+          "end": 53,
+          "normalized_text": "拓彩",
+          "probability": 0.5619,
+          "start": 52,
+          "type": "Person"
+        },
+        {
+          "end": 56,
+          "normalized_text": "悠智香",
+          "probability": 0.385,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 57,
+          "normalized_text": "敦",
+          "probability": 0.8009,
+          "start": 57,
+          "type": "Person"
+        },
+        {
+          "end": 58,
+          "normalized_text": "祥",
+          "probability": 0.5321,
+          "start": 58,
+          "type": "Person"
+        },
+        {
+          "end": 59,
+          "normalized_text": "清",
+          "probability": 0.727,
+          "start": 59,
+          "type": "Person"
+        },
+        {
+          "end": 60,
+          "normalized_text": "律",
+          "probability": 0.5421,
+          "start": 60,
+          "type": "Person"
+        },
+        {
+          "end": 61,
+          "normalized_text": "凛",
+          "probability": 0.6606,
+          "start": 61,
+          "type": "Person"
+        },
+        {
+          "end": 62,
+          "normalized_text": "竜",
+          "probability": 0.4915,
+          "start": 62,
+          "type": "Person"
+        },
+        {
+          "end": 64,
+          "normalized_text": "輝蓮",
+          "probability": 0.3762,
+          "start": 63,
+          "type": "Person"
+        },
+        {
+          "end": 66,
+          "normalized_text": "蒼",
+          "probability": 0.7446,
+          "start": 66,
+          "type": "Person"
+        },
+        {
+          "end": 67,
+          "normalized_text": "碧",
+          "probability": 0.6985,
+          "start": 67,
+          "type": "Person"
+        },
+        {
+          "end": 68,
+          "normalized_text": "希",
+          "probability": 0.8101,
+          "start": 68,
+          "type": "Person"
+        },
+        {
+          "end": 69,
+          "normalized_text": "晴",
+          "probability": 0.8645,
+          "start": 69,
+          "type": "Person"
+        },
+        {
+          "end": 70,
+          "normalized_text": "芽",
+          "probability": 0.7512,
+          "start": 70,
+          "type": "Person"
+        },
+        {
+          "end": 71,
+          "normalized_text": "朋",
+          "probability": 0.7486,
+          "start": 71,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "normalized_text": "貴",
+          "probability": 0.6209,
+          "start": 72,
+          "type": "Person"
+        },
+        {
+          "end": 74,
+          "normalized_text": "哲修",
+          "probability": 0.4689,
+          "start": 73,
+          "type": "Person"
+        },
+        {
+          "end": 80,
+          "normalized_text": "泰",
+          "probability": 0.732,
+          "start": 80,
+          "type": "Person"
+        },
+        {
+          "end": 83,
+          "normalized_text": "豊奈亜",
+          "probability": 0.344,
+          "start": 81,
+          "type": "Person"
+        },
+        {
+          "end": 86,
+          "normalized_text": "織由佳",
+          "probability": 0.666,
+          "start": 84,
+          "type": "Person"
+        },
+        {
+          "end": 93,
+          "normalized_text": "菜花颯駿",
+          "probability": 0.4143,
+          "start": 90,
+          "type": "Person"
+        },
+        {
+          "end": 94,
+          "normalized_text": "隼",
+          "probability": 0.7959,
+          "start": 94,
+          "type": "Person"
+        },
+        {
+          "end": 95,
+          "normalized_text": "斗",
+          "probability": 0.4208,
+          "start": 95,
+          "type": "Person"
+        },
+        {
+          "end": 96,
+          "normalized_text": "翼",
+          "probability": 0.6284,
+          "start": 96,
+          "type": "Person"
+        },
+        {
+          "end": 98,
+          "normalized_text": "空陸",
+          "probability": 0.5398,
+          "start": 97,
+          "type": "Person"
+        },
+        {
+          "end": 100,
+          "normalized_text": "湊樹",
+          "probability": 0.4965,
+          "start": 99,
+          "type": "Person"
+        },
+        {
+          "end": 108,
+          "normalized_text": "環",
+          "probability": 0.9198,
+          "start": 108,
+          "type": "Person"
+        },
+        {
+          "end": 109,
+          "normalized_text": "涼",
+          "probability": 0.5495,
+          "start": 109,
+          "type": "Person"
+        },
+        {
+          "end": 111,
+          "normalized_text": "友幸",
+          "probability": 0.4811,
+          "start": 110,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1760957688203427840",
+          "start": 3,
+          "username": "batahuraisan"
+        },
+        {
+          "end": 33,
+          "id": "1776488071636434944",
+          "start": 18,
+          "username": "itoho_hikiyose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035705810240872585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035690927336112636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @batahuraisan: @itoho_hikiyose 子供の名前は、\n光優海真陽結翔恵直愛拓彩悠智香敦祥清律凛竜輝蓮瞳蒼碧希晴芽朋貴哲修尚賢英雄大泰豊奈亜織由佳純美心菜花颯駿隼斗翼空陸湊樹子冬夏秋月星虹環涼友幸\nにすることに決めました😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2035705810240872585",
+        "created_at": "2026-03-22T13:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035705810240872585"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "光優海真陽結翔恵直愛",
+              "probability": 0.0461,
+              "start": 42,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "拓彩",
+              "probability": 0.5619,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "悠智香",
+              "probability": 0.385,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 57,
+              "normalized_text": "敦",
+              "probability": 0.8009,
+              "start": 57,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "祥",
+              "probability": 0.5321,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "清",
+              "probability": 0.727,
+              "start": 59,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "律",
+              "probability": 0.5421,
+              "start": 60,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "凛",
+              "probability": 0.6606,
+              "start": 61,
+              "type": "Person"
+            },
+            {
+              "end": 62,
+              "normalized_text": "竜",
+              "probability": 0.4915,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 64,
+              "normalized_text": "輝蓮",
+              "probability": 0.3762,
+              "start": 63,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "蒼",
+              "probability": 0.7446,
+              "start": 66,
+              "type": "Person"
+            },
+            {
+              "end": 67,
+              "normalized_text": "碧",
+              "probability": 0.6985,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "希",
+              "probability": 0.8101,
+              "start": 68,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "晴",
+              "probability": 0.8645,
+              "start": 69,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "芽",
+              "probability": 0.7512,
+              "start": 70,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "朋",
+              "probability": 0.7486,
+              "start": 71,
+              "type": "Person"
+            },
+            {
+              "end": 72,
+              "normalized_text": "貴",
+              "probability": 0.6209,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "哲修",
+              "probability": 0.4689,
+              "start": 73,
+              "type": "Person"
+            },
+            {
+              "end": 80,
+              "normalized_text": "泰",
+              "probability": 0.732,
+              "start": 80,
+              "type": "Person"
+            },
+            {
+              "end": 83,
+              "normalized_text": "豊奈亜",
+              "probability": 0.344,
+              "start": 81,
+              "type": "Person"
+            },
+            {
+              "end": 86,
+              "normalized_text": "織由佳",
+              "probability": 0.666,
+              "start": 84,
+              "type": "Person"
+            },
+            {
+              "end": 93,
+              "normalized_text": "菜花颯駿",
+              "probability": 0.4143,
+              "start": 90,
+              "type": "Person"
+            },
+            {
+              "end": 94,
+              "normalized_text": "隼",
+              "probability": 0.7959,
+              "start": 94,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "斗",
+              "probability": 0.4208,
+              "start": 95,
+              "type": "Person"
+            },
+            {
+              "end": 96,
+              "normalized_text": "翼",
+              "probability": 0.6284,
+              "start": 96,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "空陸",
+              "probability": 0.5398,
+              "start": 97,
+              "type": "Person"
+            },
+            {
+              "end": 100,
+              "normalized_text": "湊樹",
+              "probability": 0.4965,
+              "start": 99,
+              "type": "Person"
+            },
+            {
+              "end": 108,
+              "normalized_text": "環",
+              "probability": 0.9198,
+              "start": 108,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "涼",
+              "probability": 0.5495,
+              "start": 109,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "友幸",
+              "probability": 0.4811,
+              "start": 110,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1760957688203427840",
+              "start": 3,
+              "username": "batahuraisan"
+            },
+            {
+              "end": 33,
+              "id": "1776488071636434944",
+              "start": 18,
+              "username": "itoho_hikiyose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035705810240872585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035690927336112636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @batahuraisan: @itoho_hikiyose 子供の名前は、\n光優海真陽結翔恵直愛拓彩悠智香敦祥清律凛竜輝蓮瞳蒼碧希晴芽朋貴哲修尚賢英雄大泰豊奈亜織由佳純美心菜花颯駿隼斗翼空陸湊樹子冬夏秋月星虹環涼友幸\nにすることに決めました😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760957688203427840",
+        "conversation_id": "2035567144696422741",
+        "created_at": "2026-03-22T12:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035690927336112636"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "光優海真陽結翔恵直愛",
+              "probability": 0.0868,
+              "start": 24,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "拓彩悠智香",
+              "probability": 0.2091,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "敦",
+              "probability": 0.7521,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 40,
+              "normalized_text": "祥",
+              "probability": 0.4872,
+              "start": 40,
+              "type": "Person"
+            },
+            {
+              "end": 41,
+              "normalized_text": "清",
+              "probability": 0.6826,
+              "start": 41,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "律",
+              "probability": 0.5058,
+              "start": 42,
+              "type": "Person"
+            },
+            {
+              "end": 43,
+              "normalized_text": "凛",
+              "probability": 0.6146,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "竜",
+              "probability": 0.465,
+              "start": 44,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "輝",
+              "probability": 0.7848,
+              "start": 45,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "蓮",
+              "probability": 0.4425,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "瞳",
+              "probability": 0.3973,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 48,
+              "normalized_text": "蒼",
+              "probability": 0.7205,
+              "start": 48,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "碧",
+              "probability": 0.6925,
+              "start": 49,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "希",
+              "probability": 0.8013,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 51,
+              "normalized_text": "晴",
+              "probability": 0.8588,
+              "start": 51,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "芽",
+              "probability": 0.7545,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "朋",
+              "probability": 0.7513,
+              "start": 53,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "貴",
+              "probability": 0.6358,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "哲修",
+              "probability": 0.453,
+              "start": 55,
+              "type": "Person"
+            },
+            {
+              "end": 62,
+              "normalized_text": "泰",
+              "probability": 0.7292,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "豊奈亜",
+              "probability": 0.3512,
+              "start": 63,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "織由佳",
+              "probability": 0.6628,
+              "start": 66,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "菜花颯駿",
+              "probability": 0.4103,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "隼",
+              "probability": 0.796,
+              "start": 76,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "斗",
+              "probability": 0.4211,
+              "start": 77,
+              "type": "Person"
+            },
+            {
+              "end": 78,
+              "normalized_text": "翼",
+              "probability": 0.6282,
+              "start": 78,
+              "type": "Person"
+            },
+            {
+              "end": 80,
+              "normalized_text": "空陸",
+              "probability": 0.541,
+              "start": 79,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "湊樹",
+              "probability": 0.4983,
+              "start": 81,
+              "type": "Person"
+            },
+            {
+              "end": 90,
+              "normalized_text": "環",
+              "probability": 0.9193,
+              "start": 90,
+              "type": "Person"
+            },
+            {
+              "end": 91,
+              "normalized_text": "涼",
+              "probability": 0.5472,
+              "start": 91,
+              "type": "Person"
+            },
+            {
+              "end": 93,
+              "normalized_text": "友幸",
+              "probability": 0.479,
+              "start": 92,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776488071636434944",
+              "start": 0,
+              "username": "itoho_hikiyose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035690927336112636",
+        "in_reply_to_user_id": "1776488071636434944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10977,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035567144696422741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itoho_hikiyose 子供の名前は、\n光優海真陽結翔恵直愛拓彩悠智香敦祥清律凛竜輝蓮瞳蒼碧希晴芽朋貴哲修尚賢英雄大泰豊奈亜織由佳純美心菜花颯駿隼斗翼空陸湊樹子冬夏秋月星虹環涼友幸\nにすることに決めました😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2035372064241303646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 116,
+          "like_count": 1847,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1217
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T09:20:34.000Z",
+        "description": "ばたふらいです 前趣味垢→@btflysnn （凍結済み） ーーーこの素晴らしい世界に祝福を!というライトノベルが好きです。 日常という漫画も好きです。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "btflysnn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/@btflysnn",
+                "end": 23,
+                "expanded_url": "http://x.com/@btflysnn",
+                "start": 0,
+                "url": "https://t.co/NqS1bYJGdg"
+              }
+            ]
+          }
+        },
+        "id": "1760957688203427840",
+        "location": "鳥取県ではない",
+        "name": "ばたふらいさん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875562299433611264/nlByW3mp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 3466,
+          "like_count": 14956,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 2183
+        },
+        "url": "https://t.co/NqS1bYJGdg",
+        "username": "batahuraisan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T05:52:26.000Z",
+        "description": "【フォローで恋愛成就✨】もう無理かも....と諦めかけていたあなたの恋を叶える占い師※紹介制の対面鑑定は3ヶ月待ち✨ 片想いが実った、復縁できた、禁断の恋や年の差恋愛が叶った！などのご報告も多数✨ あなたを引き寄せ体質へと導きます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lin.ee/19xr6N3",
+                "end": 23,
+                "expanded_url": "https://lin.ee/19xr6N3",
+                "start": 0,
+                "url": "https://t.co/Cmu8ldIYQW"
+              }
+            ]
+          }
+        },
+        "id": "1776488071636434944",
+        "location": "無料占い企画はこちらから👉",
+        "name": "いとほ|引き寄せ恋愛占い師",
+        "pinned_tweet_id": "1952327610341671359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776488171292983296/ov7Hya9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 4,
+          "like_count": 7495,
+          "listed_count": 5,
+          "media_count": 1332,
+          "tweet_count": 4420
+        },
+        "url": "https://t.co/Cmu8ldIYQW",
+        "username": "itoho_hikiyose",
+        "verified": true
+      }
+    ]
+  }
+}

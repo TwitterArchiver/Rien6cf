@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2053442404666274148",
+    "created_at": "2026-05-10T11:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053442404666274148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/khojocho/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/khojocho/status/2053332726078640233",
+          "start": 2,
+          "url": "https://t.co/lswS3lAGf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053442404666274148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053332726078640233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草 https://t.co/lswS3lAGf5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2053332699973406720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7nNiub0AAXIMR.jpg",
+        "width": 554
+      },
+      {
+        "height": 630,
+        "media_key": "3_2053332700011061248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7nNi3aYAA8O8W.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053332699998531584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7nNi0bMAAx1YG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2053332699990089728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7nNiyaYAAvtCc.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2053442404666274148",
+        "created_at": "2026-05-10T11:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053442404666274148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/khojocho/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/khojocho/status/2053332726078640233",
+              "start": 2,
+              "url": "https://t.co/lswS3lAGf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053442404666274148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053332726078640233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草 https://t.co/lswS3lAGf5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053332699973406720",
+            "3_2053332700011061248",
+            "3_2053332699998531584",
+            "3_2053332699990089728"
+          ]
+        },
+        "author_id": "1422161472570814467",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2053332726078640233",
+        "created_at": "2026-05-10T04:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053332726078640233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hk9lNwzGZO",
+              "end": 33,
+              "expanded_url": "https://x.com/khojocho/status/2053332726078640233/photo/1",
+              "media_key": "3_2053332699973406720",
+              "start": 10,
+              "url": "https://t.co/hk9lNwzGZO"
+            },
+            {
+              "display_url": "pic.x.com/hk9lNwzGZO",
+              "end": 33,
+              "expanded_url": "https://x.com/khojocho/status/2053332726078640233/photo/1",
+              "media_key": "3_2053332700011061248",
+              "start": 10,
+              "url": "https://t.co/hk9lNwzGZO"
+            },
+            {
+              "display_url": "pic.x.com/hk9lNwzGZO",
+              "end": 33,
+              "expanded_url": "https://x.com/khojocho/status/2053332726078640233/photo/1",
+              "media_key": "3_2053332699998531584",
+              "start": 10,
+              "url": "https://t.co/hk9lNwzGZO"
+            },
+            {
+              "display_url": "pic.x.com/hk9lNwzGZO",
+              "end": 33,
+              "expanded_url": "https://x.com/khojocho/status/2053332726078640233/photo/1",
+              "media_key": "3_2053332699990089728",
+              "start": 10,
+              "url": "https://t.co/hk9lNwzGZO"
+            },
+            {
+              "display_url": "x.com/ryo_mcz916/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ryo_mcz916/status/2053055755277017367",
+              "start": 34,
+              "url": "https://t.co/QsRQnqqTL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053332726078640233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 394629,
+          "like_count": 1165,
+          "quote_count": 98,
+          "reply_count": 3,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053055755277017367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一方メン地下オタク https://t.co/hk9lNwzGZO https://t.co/QsRQnqqTL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3649,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1955
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T11:45:02.000Z",
+        "description": "元 DATTE / ARC∀THAЯ ｜ チェキスタ ｜ イベント制作 ｜ メンズ・ガールズ",
+        "id": "1422161472570814467",
+        "location": "なか卯",
+        "name": "工場長&エリマネ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422166075395829763/WpWicCfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 658,
+          "like_count": 7861,
+          "listed_count": 4,
+          "media_count": 324,
+          "tweet_count": 3471
+        },
+        "username": "khojocho",
+        "verified": false
+      }
+    ]
+  }
+}

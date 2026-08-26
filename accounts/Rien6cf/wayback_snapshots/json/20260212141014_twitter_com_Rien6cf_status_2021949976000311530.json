@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2021949976000311530",
+    "created_at": "2026-02-12T14:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021949976000311530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/6__2_p/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/6__2_p/status/2021864092332699991",
+          "start": 7,
+          "url": "https://t.co/AkK2C6s1qQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021949976000311530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021864092332699991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "まじでおもろ https://t.co/AkK2C6s1qQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2021949976000311530",
+        "created_at": "2026-02-12T14:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021949976000311530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6__2_p/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/6__2_p/status/2021864092332699991",
+              "start": 7,
+              "url": "https://t.co/AkK2C6s1qQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021949976000311530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021864092332699991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まじでおもろ https://t.co/AkK2C6s1qQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888054686848344064",
+        "conversation_id": "2021864092332699991",
+        "created_at": "2026-02-12T08:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021864092332699991"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "スペクトラムちゃん",
+              "probability": 0.4939,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 113,
+              "normalized_text": "田堂翔ちゃん",
+              "probability": 0.3678,
+              "start": 108,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021864092332699991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 374749,
+          "like_count": 4514,
+          "quote_count": 18,
+          "reply_count": 27,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "👦🏻「可愛い子ですね！お名前はなんて言うんですか？」\n\n👧🏻「私の名前〜？発達障害から取った名前だよ」\n\n👦🏻（スペクトラムちゃんか…可愛い名前だな///）\n\n👧🏻「あ、ママー！」\n\n👩🏻「あら、田堂翔ちゃん、早く帰るわよ〜」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 314
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T02:38:33.000Z",
+        "description": "Latom",
+        "id": "1888054686848344064",
+        "location": "回帰",
+        "name": "ゆみ",
+        "pinned_tweet_id": "2002322972988879147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017547277548851202/eenq8pHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 729,
+          "like_count": 22587,
+          "listed_count": 8,
+          "media_count": 510,
+          "tweet_count": 10542
+        },
+        "username": "6__2_p",
+        "verified": false
+      }
+    ]
+  }
+}
