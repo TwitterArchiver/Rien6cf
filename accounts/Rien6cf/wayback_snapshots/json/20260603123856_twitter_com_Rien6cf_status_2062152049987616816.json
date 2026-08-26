@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2062152049987616816",
+    "created_at": "2026-06-03T12:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062152049987616816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekochanmachin…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/nekochanmachine/status/2062127656166912466",
+          "start": 2,
+          "url": "https://t.co/atdfTiL9iI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062152049987616816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062127656166912466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神 https://t.co/atdfTiL9iI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33000,
+        "height": 720,
+        "media_key": "13_2061840585032638464",
+        "preview_image_url": "https://pbs.twimg.com/media/HJ0hlY5acAAhHpj.jpg",
+        "public_metrics": {
+          "view_count": 5567
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061840585032638464/vid/avc1/480x270/FyZu7EzoEOaklYAs.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061840585032638464/vid/avc1/1920x1080/sdCPmmmfc4AC2fIu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061840585032638464/vid/avc1/640x360/taj8MIq82VfIlfi2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061840585032638464/vid/avc1/1280x720/WwAk8Y6yEe5ZlG-1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061840585032638464/pl/MQ8hUpyf725hmY6L.m3u8?v=a6e"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2062152049987616816",
+        "created_at": "2026-06-03T12:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062152049987616816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekochanmachin…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nekochanmachine/status/2062127656166912466",
+              "start": 2,
+              "url": "https://t.co/atdfTiL9iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062152049987616816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062127656166912466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神 https://t.co/atdfTiL9iI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061840585032638464"
+          ]
+        },
+        "author_id": "1536344866224893954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2062127656166912466",
+        "created_at": "2026-06-03T11:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062127656166912466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "歌ってみた"
+            },
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "だれかの心臓になれたなら"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFYyt1nuEp",
+              "end": 100,
+              "expanded_url": "https://x.com/NekochanMachine/status/2062127656166912466/video/1",
+              "media_key": "13_2061840585032638464",
+              "start": 77,
+              "url": "https://t.co/MFYyt1nuEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062127656166912466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 26058,
+          "like_count": 1068,
+          "quote_count": 37,
+          "reply_count": 29,
+          "retweet_count": 416
+        },
+        "reply_settings": "everyone",
+        "text": "だれかの心臓になれたなら / ユリイ・カノン (cover)\nvocal : ニャンヤオチュー\nMIX：りする\n#歌ってみた #だれかの心臓になれたなら https://t.co/MFYyt1nuEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 184,
+          "like_count": 5015,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2379
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T13:49:05.000Z",
+        "description": "高音殺戮機械猫 成人男性三人組@SeijinDansei3 nyanyaochu@gmail.com FAタグ🐈#ニャンヤオチューの設計図 Youtube https://t.co/hS7zDNsUvk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 56,
+                "tag": "ニャンヤオチューの設計図"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "SeijinDansei3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC2lVH…",
+                "end": 101,
+                "expanded_url": "https://youtube.com/channel/UC2lVHvoycjQZork33yImt0A",
+                "start": 78,
+                "url": "https://t.co/hS7zDNsUvk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyanyaochu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyanyaochu",
+                "start": 0,
+                "url": "https://t.co/sEWg83HASD"
+              }
+            ]
+          }
+        },
+        "id": "1536344866224893954",
+        "name": "ニャンヤオチュー",
+        "pinned_tweet_id": "2062127656166912466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870418024358174720/2YcD9tzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25648,
+          "following_count": 401,
+          "like_count": 148400,
+          "listed_count": 106,
+          "media_count": 418,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/sEWg83HASD",
+        "username": "NekochanMachine",
+        "verified": true
+      }
+    ]
+  }
+}

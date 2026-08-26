@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029139493262114816"
+      ],
+      "media_source_tweet_id": [
+        "2029139497766797620"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029187976274821377",
+    "created_at": "2026-03-04T13:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029187976274821377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1523192114548383744",
+          "start": 3,
+          "username": "mei_situation"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dSHfZDGNJI",
+          "end": 42,
+          "expanded_url": "https://x.com/mei_situation/status/2029139497766797620/photo/1",
+          "media_key": "3_2029139493262114816",
+          "start": 19,
+          "url": "https://t.co/dSHfZDGNJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029187976274821377",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029139497766797620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mei_situation: https://t.co/dSHfZDGNJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1217,
+        "media_key": "3_2029139493262114816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjznkeawAAZ1i8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029139493262114816"
+          ],
+          "media_source_tweet_id": [
+            "2029139497766797620"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029187976274821377",
+        "created_at": "2026-03-04T13:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029187976274821377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1523192114548383744",
+              "start": 3,
+              "username": "mei_situation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSHfZDGNJI",
+              "end": 42,
+              "expanded_url": "https://x.com/mei_situation/status/2029139497766797620/photo/1",
+              "media_key": "3_2029139493262114816",
+              "start": 19,
+              "url": "https://t.co/dSHfZDGNJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029187976274821377",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029139497766797620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mei_situation: https://t.co/dSHfZDGNJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029139493262114816"
+          ]
+        },
+        "author_id": "1523192114548383744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029139497766797620",
+        "created_at": "2026-03-04T10:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029139497766797620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSHfZDGNJI",
+              "end": 23,
+              "expanded_url": "https://x.com/mei_situation/status/2029139497766797620/photo/1",
+              "media_key": "3_2029139493262114816",
+              "start": 0,
+              "url": "https://t.co/dSHfZDGNJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029139497766797620",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 82851,
+          "like_count": 5590,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dSHfZDGNJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 100,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 743
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T06:44:47.000Z",
+        "description": "永遠に笑える画像を募集しています✉️",
+        "id": "1523192114548383744",
+        "location": "採用→👍",
+        "name": "永遠に笑える画像",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896771879232552960/4qla9pDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105855,
+          "following_count": 16,
+          "like_count": 3330,
+          "listed_count": 236,
+          "media_count": 1159,
+          "tweet_count": 1264
+        },
+        "username": "mei_situation",
+        "verified": false
+      }
+    ]
+  }
+}

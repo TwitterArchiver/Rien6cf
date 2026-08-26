@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2061448345475039671",
+    "created_at": "2026-06-01T14:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061448345475039671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033094355972726788",
+          "start": 3,
+          "username": "dongmugen0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061448345475039671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061315166344806690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dongmugen0508: 你约炮知识懂的比你爸妈还多就你还想过儿童节？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2061448345475039671",
+        "created_at": "2026-06-01T14:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061448345475039671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033094355972726788",
+              "start": 3,
+              "username": "dongmugen0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061448345475039671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061315166344806690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dongmugen0508: 你约炮知识懂的比你爸妈还多就你还想过儿童节？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033094355972726788",
+        "conversation_id": "2061315166344806690",
+        "created_at": "2026-06-01T05:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061315166344806690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yu_huacs/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yu_huacs/status/2061313973941841998",
+              "start": 23,
+              "url": "https://t.co/xd5yQHdPrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061315166344806690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061313973941841998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你约炮知识懂的比你爸妈还多就你还想过儿童节？ https://t.co/xd5yQHdPrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 183,
+          "like_count": 4919,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2339
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T08:14:16.000Z",
+        "description": "幸福的活下去吧\n前世@dongmugen08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "dongmugen08"
+              }
+            ]
+          }
+        },
+        "id": "2033094355972726788",
+        "name": "东木艮（推油巡回中）",
+        "pinned_tweet_id": "2033095957039194381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033095147467190276/aYDkP8w8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 272,
+          "like_count": 2472,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 410
+        },
+        "username": "dongmugen0508",
+        "verified": false
+      }
+    ]
+  }
+}

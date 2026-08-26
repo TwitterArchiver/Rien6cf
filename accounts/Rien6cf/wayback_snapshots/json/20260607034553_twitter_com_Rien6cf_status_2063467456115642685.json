@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063248838547394560"
+      ],
+      "media_source_tweet_id": [
+        "2063248842552996249"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063467456115642685",
+    "created_at": "2026-06-07T03:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063467456115642685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2564774179",
+          "start": 3,
+          "username": "kusowarataww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zeRKaGbGYT",
+          "end": 50,
+          "expanded_url": "https://x.com/kusowarataww/status/2063248842552996249/photo/1",
+          "media_key": "3_2063248838547394560",
+          "start": 27,
+          "url": "https://t.co/zeRKaGbGYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063467456115642685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063248842552996249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kusowarataww: これはあるある？ https://t.co/zeRKaGbGYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2063248838547394560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIh4xja0AARV2o.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063248838547394560"
+          ],
+          "media_source_tweet_id": [
+            "2063248842552996249"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063467456115642685",
+        "created_at": "2026-06-07T03:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063467456115642685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2564774179",
+              "start": 3,
+              "username": "kusowarataww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zeRKaGbGYT",
+              "end": 50,
+              "expanded_url": "https://x.com/kusowarataww/status/2063248842552996249/photo/1",
+              "media_key": "3_2063248838547394560",
+              "start": 27,
+              "url": "https://t.co/zeRKaGbGYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063467456115642685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063248842552996249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kusowarataww: これはあるある？ https://t.co/zeRKaGbGYT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063248838547394560"
+          ]
+        },
+        "author_id": "2564774179",
+        "conversation_id": "2063248842552996249",
+        "created_at": "2026-06-06T13:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063248842552996249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zeRKaGbGYT",
+              "end": 32,
+              "expanded_url": "https://x.com/kusowarataww/status/2063248842552996249/photo/1",
+              "media_key": "3_2063248838547394560",
+              "start": 9,
+              "url": "https://t.co/zeRKaGbGYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063248842552996249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 153369,
+          "like_count": 5919,
+          "quote_count": 27,
+          "reply_count": 35,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "これはあるある？ https://t.co/zeRKaGbGYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 183,
+          "like_count": 5160,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2446
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-13T06:18:02.000Z",
+        "description": "毎日更新中🌟Xの機能を利用し引用形式で面白い動画をポストしています！アフィリエイトなどは一切今後も行いません。",
+        "id": "2564774179",
+        "name": "めちゃワラ大全集",
+        "pinned_tweet_id": "2045780882292969769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038514760636133376/j8yKr_k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218595,
+          "following_count": 66,
+          "like_count": 162693,
+          "listed_count": 421,
+          "media_count": 18,
+          "tweet_count": 26279
+        },
+        "username": "kusowarataww",
+        "verified": true
+      }
+    ]
+  }
+}

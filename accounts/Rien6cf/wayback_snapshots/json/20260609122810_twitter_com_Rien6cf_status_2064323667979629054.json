@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064236711169953792",
+        "3_2064236711648137216"
+      ],
+      "media_source_tweet_id": [
+        "2064236720506446110",
+        "2064236720506446110"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2064323667979629054",
+    "created_at": "2026-06-09T12:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064323667979629054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889861257",
+          "start": 3,
+          "username": "__summer__sea__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IZQhW8NumR",
+          "end": 101,
+          "expanded_url": "https://x.com/__summer__sea__/status/2064236720506446110/photo/1",
+          "media_key": "3_2064236711169953792",
+          "start": 78,
+          "url": "https://t.co/IZQhW8NumR"
+        },
+        {
+          "display_url": "pic.x.com/IZQhW8NumR",
+          "end": 101,
+          "expanded_url": "https://x.com/__summer__sea__/status/2064236720506446110/photo/1",
+          "media_key": "3_2064236711648137216",
+          "start": 78,
+          "url": "https://t.co/IZQhW8NumR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064323667979629054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064236720506446110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__summer__sea__: 我在此宣誓:\n无论疾病还是健康\n无论快乐还是忧愁\n无论富有还是贫困\n直至死亡将我们分开\n我都会永远喜欢着砂糖酱。 https://t.co/IZQhW8NumR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2064236711169953792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWkWh2bEAAAaX0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2064236711648137216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWkWjobkAAEMn8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064236711169953792",
+            "3_2064236711648137216"
+          ],
+          "media_source_tweet_id": [
+            "2064236720506446110",
+            "2064236720506446110"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2064323667979629054",
+        "created_at": "2026-06-09T12:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064323667979629054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889861257",
+              "start": 3,
+              "username": "__summer__sea__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZQhW8NumR",
+              "end": 101,
+              "expanded_url": "https://x.com/__summer__sea__/status/2064236720506446110/photo/1",
+              "media_key": "3_2064236711169953792",
+              "start": 78,
+              "url": "https://t.co/IZQhW8NumR"
+            },
+            {
+              "display_url": "pic.x.com/IZQhW8NumR",
+              "end": 101,
+              "expanded_url": "https://x.com/__summer__sea__/status/2064236720506446110/photo/1",
+              "media_key": "3_2064236711648137216",
+              "start": 78,
+              "url": "https://t.co/IZQhW8NumR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323667979629054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064236720506446110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__summer__sea__: 我在此宣誓:\n无论疾病还是健康\n无论快乐还是忧愁\n无论富有还是贫困\n直至死亡将我们分开\n我都会永远喜欢着砂糖酱。 https://t.co/IZQhW8NumR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064236711169953792",
+            "3_2064236711648137216"
+          ]
+        },
+        "author_id": "1889861257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2064236720506446110",
+        "created_at": "2026-06-09T06:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064236720506446110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZQhW8NumR",
+              "end": 80,
+              "expanded_url": "https://x.com/__summer__sea__/status/2064236720506446110/photo/1",
+              "media_key": "3_2064236711169953792",
+              "start": 57,
+              "url": "https://t.co/IZQhW8NumR"
+            },
+            {
+              "display_url": "pic.x.com/IZQhW8NumR",
+              "end": 80,
+              "expanded_url": "https://x.com/__summer__sea__/status/2064236720506446110/photo/1",
+              "media_key": "3_2064236711648137216",
+              "start": 57,
+              "url": "https://t.co/IZQhW8NumR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064236720506446110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 487,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我在此宣誓:\n无论疾病还是健康\n无论快乐还是忧愁\n无论富有还是贫困\n直至死亡将我们分开\n我都会永远喜欢着砂糖酱。 https://t.co/IZQhW8NumR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5361,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2500
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜已扭转一年半｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "pinned_tweet_id": "2063845585845989427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 931,
+          "like_count": 8876,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2786
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

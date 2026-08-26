@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089899108521967617"
+      ],
+      "media_source_tweet_id": [
+        "2089899112972034259"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090058648953487442",
+    "created_at": "2026-08-19T12:49:47.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090058648953487442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1125534922205089792",
+          "start": 3,
+          "username": "genbaneko_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AWeg7lokLh",
+          "end": 48,
+          "expanded_url": "https://x.com/genbaneko_bot/status/2089899112972034259/photo/1",
+          "media_key": "3_2089899108521967617",
+          "start": 25,
+          "url": "https://t.co/AWeg7lokLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090058648953487442",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089899108521967617"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3482
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089899112972034259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @genbaneko_bot: 今日も一日 https://t.co/AWeg7lokLh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2089899108521967617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDQKpvbgAEUG-f.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089899108521967617"
+          ],
+          "media_source_tweet_id": [
+            "2089899112972034259"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090058648953487442",
+        "created_at": "2026-08-19T12:49:47.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090058648953487442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1125534922205089792",
+              "start": 3,
+              "username": "genbaneko_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWeg7lokLh",
+              "end": 48,
+              "expanded_url": "https://x.com/genbaneko_bot/status/2089899112972034259/photo/1",
+              "media_key": "3_2089899108521967617",
+              "start": 25,
+              "url": "https://t.co/AWeg7lokLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090058648953487442",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089899108521967617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3482
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089899112972034259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @genbaneko_bot: 今日も一日 https://t.co/AWeg7lokLh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089899108521967617"
+          ]
+        },
+        "author_id": "1125534922205089792",
+        "conversation_id": "2089899112972034259",
+        "created_at": "2026-08-19T02:15:51.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089899112972034259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWeg7lokLh",
+              "end": 29,
+              "expanded_url": "https://x.com/genbaneko_bot/status/2089899112972034259/photo/1",
+              "media_key": "3_2089899108521967617",
+              "start": 6,
+              "url": "https://t.co/AWeg7lokLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089899112972034259",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089899108521967617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 955,
+          "impression_count": 803808,
+          "like_count": 16807,
+          "quote_count": 130,
+          "reply_count": 68,
+          "retweet_count": 3482
+        },
+        "reply_settings": "everyone",
+        "text": "今日も一日 https://t.co/AWeg7lokLh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090058648953487442",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 213,
+          "like_count": 9507,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-06T22:56:51.000Z",
+        "description": "今日も一日ゼロ災ヨシ！",
+        "id": "1125534922205089792",
+        "is_identity_verified": false,
+        "location": "ふたばちゃんねる",
+        "most_recent_tweet_id": "2089899112972034259",
+        "name": "現場猫bot",
+        "pinned_tweet_id": "1644285216872345601",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125534922205089792/1560807718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322677816471691264/jrRD7Uvn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268492,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 957,
+          "media_count": 3048,
+          "tweet_count": 186350
+        },
+        "url": "",
+        "username": "genbaneko_bot",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

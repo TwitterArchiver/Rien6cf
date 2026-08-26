@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073757589603840428",
+    "created_at": "2026-07-05T13:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073757769971486808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073757769971486808",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073757589603840428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "半年高中给我留下的什么都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073757589603840428",
+        "created_at": "2026-07-05T13:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073757769971486808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073757769971486808",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073757589603840428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "半年高中给我留下的什么都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073757589603840428",
+        "created_at": "2026-07-05T13:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073757589603840428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073757589603840428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特么一想到我在老中上的高中我的眼泪就停不下来我的脑子里有二十万个lex在喊太痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 194,
+          "like_count": 7037,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2815
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

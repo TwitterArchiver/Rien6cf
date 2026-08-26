@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2057600395619520746",
+    "created_at": "2026-05-22T00:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057612634791493872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946736168990846976",
+          "start": 0,
+          "username": "yaesakimimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057612634791493872",
+    "in_reply_to_user_id": "1946736168990846976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057600395619520746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaesakimimu 死ぬwwwwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057600388266942464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4QpshbYAA0svn.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2057600395619520746",
+        "created_at": "2026-05-22T00:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057612634791493872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946736168990846976",
+              "start": 0,
+              "username": "yaesakimimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057612634791493872",
+        "in_reply_to_user_id": "1946736168990846976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057600395619520746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaesakimimu 死ぬwwwwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057600388266942464"
+          ]
+        },
+        "author_id": "1946736168990846976",
+        "conversation_id": "2057600395619520746",
+        "created_at": "2026-05-21T23:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057600395619520746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tukcRclZma",
+              "end": 58,
+              "expanded_url": "https://x.com/yaesakimimu/status/2057600395619520746/photo/1",
+              "media_key": "3_2057600388266942464",
+              "start": 35,
+              "url": "https://t.co/tukcRclZma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057600395619520746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "なんかw中濃ソース机にあったwwwww死ぬwwwwwww\n塩分過多で https://t.co/tukcRclZma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 171,
+          "like_count": 4332,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2167
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T00:57:45.000Z",
+        "description": "⬆️男",
+        "id": "1946736168990846976",
+        "location": "ヘドロ",
+        "name": "Миму",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027410772184514561/pODMbszD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 56,
+          "like_count": 4803,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 436
+        },
+        "username": "yaesakimimu",
+        "verified": false
+      }
+    ]
+  }
+}

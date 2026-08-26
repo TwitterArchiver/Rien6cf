@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060066203624787969"
+      ],
+      "media_source_tweet_id": [
+        "2060066263687184445"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060189989674320362",
+    "created_at": "2026-05-29T02:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060189989674320362"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 60,
+          "tag": "アザラシ幼稚園"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "WEC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1819359263443058688",
+          "start": 3,
+          "username": "PankaSealNurse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HgVErkKlsy",
+          "end": 97,
+          "expanded_url": "https://x.com/PankaSealNurse/status/2060066263687184445/video/1",
+          "media_key": "13_2060066203624787969",
+          "start": 74,
+          "url": "https://t.co/HgVErkKlsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060189989674320362",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060066263687184445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PankaSealNurse: Mochi falling asleep after full tummy😋\n\n#アザラシ幼稚園\n#WEC https://t.co/HgVErkKlsy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10469,
+        "height": 1920,
+        "media_key": "13_2060066203624787969",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060066203624787969/img/qoPuc79gQUBNZ-AN.jpg",
+        "public_metrics": {
+          "view_count": 3758
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060066203624787969/vid/avc1/320x568/ObTSqlvT2wYvkxNK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060066203624787969/vid/avc1/480x852/MdM1ffzVNvEOAAwV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060066203624787969/vid/avc1/720x1280/rVuBXdXBUE5-7lfZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060066203624787969/pl/plv_G_tTqMtjKF8E.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060066203624787969"
+          ],
+          "media_source_tweet_id": [
+            "2060066263687184445"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060189989674320362",
+        "created_at": "2026-05-29T02:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060189989674320362"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 60,
+              "tag": "アザラシ幼稚園"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "WEC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1819359263443058688",
+              "start": 3,
+              "username": "PankaSealNurse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgVErkKlsy",
+              "end": 97,
+              "expanded_url": "https://x.com/PankaSealNurse/status/2060066263687184445/video/1",
+              "media_key": "13_2060066203624787969",
+              "start": 74,
+              "url": "https://t.co/HgVErkKlsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060189989674320362",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060066263687184445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PankaSealNurse: Mochi falling asleep after full tummy😋\n\n#アザラシ幼稚園\n#WEC https://t.co/HgVErkKlsy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060066203624787969"
+          ]
+        },
+        "author_id": "1819359263443058688",
+        "conversation_id": "2060066263687184445",
+        "created_at": "2026-05-28T18:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060066263687184445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "アザラシ幼稚園"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "WEC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgVErkKlsy",
+              "end": 77,
+              "expanded_url": "https://x.com/PankaSealNurse/status/2060066263687184445/video/1",
+              "media_key": "13_2060066203624787969",
+              "start": 54,
+              "url": "https://t.co/HgVErkKlsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060066263687184445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 10835,
+          "like_count": 1380,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "Mochi falling asleep after full tummy😋\n\n#アザラシ幼稚園\n#WEC https://t.co/HgVErkKlsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 175,
+          "like_count": 4663,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2272
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T13:07:19.000Z",
+        "description": "Seal Nurse in NL\nWEC🦭",
+        "id": "1819359263443058688",
+        "location": "Netherlands",
+        "name": "Panka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829657274459045888/V_slwJR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5691,
+          "following_count": 31,
+          "like_count": 2167,
+          "listed_count": 59,
+          "media_count": 186,
+          "tweet_count": 653
+        },
+        "username": "PankaSealNurse",
+        "verified": false
+      }
+    ]
+  }
+}

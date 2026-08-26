@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1348608592987885568"
+      ],
+      "media_source_tweet_id": [
+        "1348608938296573952"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2021515108548231576",
+    "created_at": "2026-02-11T09:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021515108548231576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3112919876",
+          "start": 3,
+          "username": "30_voca_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EttlhcOBHQ",
+          "end": 61,
+          "expanded_url": "https://x.com/30_voca_music/status/1348608938296573952/video/1",
+          "media_key": "13_1348608592987885568",
+          "start": 38,
+          "url": "https://t.co/EttlhcOBHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021515108548231576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021348005576683839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30_voca_music: とある一家の御茶会議 / くるりんご\nhttps://t.co/EttlhcOBHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29963,
+        "height": 360,
+        "media_key": "13_1348608592987885568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1348608592987885568/img/U6TZwRCcrFF_ZJIG.jpg",
+        "public_metrics": {
+          "view_count": 318264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1348608592987885568/vid/360x270/U2Fa5v5Xuv_JcaX5.mp4?tag=13"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1348608592987885568/vid/480x360/6WFSeITBycmY4GbH.mp4?tag=13"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1348608592987885568/pl/jvvvDrJPIDta2VzZ.m3u8?tag=13&v=008"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1348608592987885568"
+          ],
+          "media_source_tweet_id": [
+            "1348608938296573952"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2021515108548231576",
+        "created_at": "2026-02-11T09:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021515108548231576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3112919876",
+              "start": 3,
+              "username": "30_voca_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EttlhcOBHQ",
+              "end": 61,
+              "expanded_url": "https://x.com/30_voca_music/status/1348608938296573952/video/1",
+              "media_key": "13_1348608592987885568",
+              "start": 38,
+              "url": "https://t.co/EttlhcOBHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021515108548231576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021348005576683839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30_voca_music: とある一家の御茶会議 / くるりんご\nhttps://t.co/EttlhcOBHQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1348608592987885568"
+          ],
+          "media_source_tweet_id": [
+            "1348608938296573952"
+          ]
+        },
+        "author_id": "3112919876",
+        "conversation_id": "2021348005576683839",
+        "created_at": "2026-02-10T22:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T23:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021348005576683839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EttlhcOBHQ",
+              "end": 42,
+              "expanded_url": "https://x.com/30_voca_music/status/1348608938296573952/video/1",
+              "media_key": "13_1348608592987885568",
+              "start": 19,
+              "url": "https://t.co/EttlhcOBHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021348005576683839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 6081,
+          "like_count": 177,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "とある一家の御茶会議 / くるりんご\nhttps://t.co/EttlhcOBHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 63,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 285
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-28T13:05:48.000Z",
+        "description": "ボーカロイド(たまにUTAU まれにCeVIO等)の楽曲を30秒くらいにして流します。",
+        "id": "3112919876",
+        "name": "30秒ボカロbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/903257944392732672/JZWhJls2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109529,
+          "following_count": 3,
+          "like_count": 290,
+          "listed_count": 408,
+          "media_count": 46591,
+          "tweet_count": 45082
+        },
+        "username": "30_voca_music",
+        "verified": false
+      }
+    ]
+  }
+}

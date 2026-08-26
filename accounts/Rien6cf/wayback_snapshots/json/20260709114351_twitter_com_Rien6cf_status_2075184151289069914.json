@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2075184151289069914",
+    "created_at": "2026-07-09T11:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075184151289069914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1520962823546830848",
+          "start": 3,
+          "username": "hashi_gummy"
+        },
+        {
+          "end": 90,
+          "id": "1528356988413186049",
+          "start": 75,
+          "username": "hokahoka_times"
+        },
+        {
+          "end": 136,
+          "id": "2022194885802307584",
+          "start": 121,
+          "username": "nikinekiof2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075184151289069914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075139408836321550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hashi_gummy: HokaHoka - ホカホカ\nWEC保護ゼニガタアザラシ\nアザラシ幼稚園を日本に広めてくださったホカホカ通信さん @hokahoka_times のお名前をいただいた、\nアザラシ幼稚園を応援する多くの方々 @nikinekiof2026 の想…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2075139403748720640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxgSwvbwAAxC8G.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2075184151289069914",
+        "created_at": "2026-07-09T11:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075184151289069914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1520962823546830848",
+              "start": 3,
+              "username": "hashi_gummy"
+            },
+            {
+              "end": 90,
+              "id": "1528356988413186049",
+              "start": 75,
+              "username": "hokahoka_times"
+            },
+            {
+              "end": 136,
+              "id": "2022194885802307584",
+              "start": 121,
+              "username": "nikinekiof2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075184151289069914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075139408836321550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hashi_gummy: HokaHoka - ホカホカ\nWEC保護ゼニガタアザラシ\nアザラシ幼稚園を日本に広めてくださったホカホカ通信さん @hokahoka_times のお名前をいただいた、\nアザラシ幼稚園を応援する多くの方々 @nikinekiof2026 の想…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075139403748720640"
+          ]
+        },
+        "author_id": "1520962823546830848",
+        "conversation_id": "2075139408836321550",
+        "created_at": "2026-07-09T08:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075139408836321550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1528356988413186049",
+              "start": 58,
+              "username": "hokahoka_times"
+            },
+            {
+              "end": 119,
+              "id": "2022194885802307584",
+              "start": 104,
+              "username": "nikinekiof2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RhO4SRulv",
+              "end": 185,
+              "expanded_url": "https://x.com/hashi_gummy/status/2075139408836321550/photo/1",
+              "media_key": "3_2075139403748720640",
+              "start": 162,
+              "url": "https://t.co/3RhO4SRulv"
+            },
+            {
+              "display_url": "x.com/Zeehondencrech…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/Zeehondencreche/status/2074145971248755124",
+              "start": 186,
+              "url": "https://t.co/Aq6HBL2pya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075139408836321550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 397,
+                "start": 389,
+                "tag": "アザラシ幼稚園"
+              },
+              {
+                "end": 403,
+                "start": 398,
+                "tag": "イラスト"
+              },
+              {
+                "end": 409,
+                "start": 404,
+                "tag": "アザラシ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 73,
+                "id": "1528356988413186049",
+                "start": 58,
+                "username": "hokahoka_times"
+              },
+              {
+                "end": 119,
+                "id": "2022194885802307584",
+                "start": 104,
+                "username": "nikinekiof2026"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hashi_gummy/",
+                "end": 453,
+                "expanded_url": "https://instagram.com/hashi_gummy/",
+                "start": 430,
+                "url": "https://t.co/43jHmPX5aW"
+              }
+            ]
+          },
+          "text": "HokaHoka - ホカホカ\nWEC保護ゼニガタアザラシ\nアザラシ幼稚園を日本に広めてくださったホカホカ通信さん @hokahoka_times のお名前をいただいた、\nアザラシ幼稚園を応援する多くの方々 @nikinekiof2026 の想いの子\n\n悲しみを乗り越えるために、やっぱりホカホカちゃんを描くことにしました\n急変からのお別れはあまりにも突然で、言葉が見つかりませんでした\n\nとても頑張ったね\n最期まで、本当に頑張りました\nその頑張りを思うと、今の自分が抱えている手の状態や心の問題も、きちんと受け止めなければいけないと感じました\n\n描いていると不思議とホカホカちゃんがすこし微笑んでいるような色合いになっていきました\nホカホカちゃんが残してくれたあたたかな思い出は、これからもみんなの心に生き続けます\n空へ大きく羽ばたいて……おやすみ、HokaHokaちゃん\n\n#アザラシ幼稚園 #イラスト #アザラシ\nイラストはInstagramにも公開中 https://t.co/43jHmPX5aW"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3420,
+          "like_count": 178,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074145971248755124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "HokaHoka - ホカホカ\nWEC保護ゼニガタアザラシ\nアザラシ幼稚園を日本に広めてくださったホカホカ通信さん @hokahoka_times のお名前をいただいた、\nアザラシ幼稚園を応援する多くの方々 @nikinekiof2026 の想いの子\n\n悲しみを乗り越えるために、やっぱりホカホカちゃんを描くことにしました https://t.co/3RhO4SRulv https://t.co/Aq6HBL2pya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 194,
+          "like_count": 7410,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2873
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T03:06:46.000Z",
+        "description": "🍀主に保護アザラシを描いています/❤️絵を描くことが大好き/🖌️写真を元にClipStudioによる手描き/🖼️イラストはハイライトタブにまとめ/🦭アザラシ幼稚園を応援！/🌿SUZURIでグッズ販売中/🎮趣味はゲーム、プロレス観戦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hashi_gummy/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hashi_gummy/",
+                "start": 0,
+                "url": "https://t.co/aTpZT0sPug"
+              }
+            ]
+          }
+        },
+        "id": "1520962823546830848",
+        "location": "イラスト無断転載販売禁止/AI学習禁止",
+        "name": "ハシユキヲ",
+        "pinned_tweet_id": "2075139408836321550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023263609640620032/5lJZ9IGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 238,
+          "like_count": 69453,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 8326
+        },
+        "url": "https://t.co/aTpZT0sPug",
+        "username": "hashi_gummy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-22T12:49:08.000Z",
+        "description": "ごきげんクッキーより愛を込めて https://t.co/fSkliq8tr4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/hokahoka_tim…",
+                "end": 39,
+                "expanded_url": "https://odaibako.net/u/hokahoka_times",
+                "start": 16,
+                "url": "https://t.co/fSkliq8tr4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zeehondencent…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@zeehondencentrumpieterburen?si=dLlInqf_UDQLha6u",
+                "start": 0,
+                "url": "https://t.co/ZJWF21T53L"
+              }
+            ]
+          }
+        },
+        "id": "1528356988413186049",
+        "location": "バンカラ街",
+        "name": "ホカホカ通信",
+        "pinned_tweet_id": "1818902114212757541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672830722565111811/R_qSUSk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22940,
+          "following_count": 753,
+          "like_count": 142328,
+          "listed_count": 135,
+          "media_count": 1812,
+          "tweet_count": 42844
+        },
+        "url": "https://t.co/ZJWF21T53L",
+        "username": "hokahoka_times",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T06:23:53.000Z",
+        "description": "2026年GWにニキネキのご要望によりオフ会を計画しています。こちらから発信すること以外は何もありません。ニキネキや公式へのDM、リプでの問い合わせはお控えください。",
+        "id": "2022194885802307584",
+        "name": "nikinekioffmeeting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022195260835905536/rccTMjDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 8,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "nikinekiof2026",
+        "verified": false
+      }
+    ]
+  }
+}

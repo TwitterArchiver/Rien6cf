@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1830949932364169221"
+      ],
+      "media_source_tweet_id": [
+        "1830950346895794534"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023096745077653728",
+    "created_at": "2026-02-15T18:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T19:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023096745077653728"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "吉原ラメント",
+          "probability": 0.7518,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 35,
+          "normalized_text": "亜沙",
+          "probability": 0.9492,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3112919876",
+          "start": 3,
+          "username": "30_voca_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5JbtOUGHn",
+          "end": 60,
+          "expanded_url": "https://x.com/30_voca_music/status/1830950346895794534/video/1",
+          "media_key": "13_1830949932364169221",
+          "start": 37,
+          "url": "https://t.co/G5JbtOUGHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023096745077653728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022873056033525886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30_voca_music: 吉原ラメント -再来盤- / 亜沙\nhttps://t.co/G5JbtOUGHn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36266,
+        "height": 720,
+        "media_key": "13_1830949932364169221",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1830949932364169221/img/G1gDlPSOa7woA4ch.jpg",
+        "public_metrics": {
+          "view_count": 74904
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1830949932364169221/vid/avc1/480x270/_YFbnHEDXhaTrPRK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1830949932364169221/vid/avc1/640x360/Xm3Lxuw80bTbH2L7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1830949932364169221/vid/avc1/1280x720/J-OubAZWZ-8seqRI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1830949932364169221/pl/QrSdFl6cbWBvZKcS.m3u8?tag=14&v=b20"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1830949932364169221"
+          ],
+          "media_source_tweet_id": [
+            "1830950346895794534"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023096745077653728",
+        "created_at": "2026-02-15T18:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023096745077653728"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "吉原ラメント",
+              "probability": 0.7518,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 35,
+              "normalized_text": "亜沙",
+              "probability": 0.9492,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3112919876",
+              "start": 3,
+              "username": "30_voca_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5JbtOUGHn",
+              "end": 60,
+              "expanded_url": "https://x.com/30_voca_music/status/1830950346895794534/video/1",
+              "media_key": "13_1830949932364169221",
+              "start": 37,
+              "url": "https://t.co/G5JbtOUGHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023096745077653728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022873056033525886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30_voca_music: 吉原ラメント -再来盤- / 亜沙\nhttps://t.co/G5JbtOUGHn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1830949932364169221"
+          ],
+          "media_source_tweet_id": [
+            "1830950346895794534"
+          ]
+        },
+        "author_id": "3112919876",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022873056033525886",
+        "created_at": "2026-02-15T03:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022873056033525886"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "吉原ラメント",
+              "probability": 0.7308,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 16,
+              "normalized_text": "亜沙",
+              "probability": 0.9569,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5JbtOUGHn",
+              "end": 41,
+              "expanded_url": "https://x.com/30_voca_music/status/1830950346895794534/video/1",
+              "media_key": "13_1830949932364169221",
+              "start": 18,
+              "url": "https://t.co/G5JbtOUGHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022873056033525886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 12110,
+          "like_count": 411,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "吉原ラメント -再来盤- / 亜沙\nhttps://t.co/G5JbtOUGHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 65,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 401
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-28T13:05:48.000Z",
+        "description": "ボーカロイド(たまにUTAU まれにCeVIO等)の楽曲を30秒くらいにして流します。",
+        "id": "3112919876",
+        "name": "30秒ボカロbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/903257944392732672/JZWhJls2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109788,
+          "following_count": 3,
+          "like_count": 290,
+          "listed_count": 408,
+          "media_count": 46660,
+          "tweet_count": 45151
+        },
+        "username": "30_voca_music",
+        "verified": false
+      }
+    ]
+  }
+}

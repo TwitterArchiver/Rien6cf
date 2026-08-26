@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2039412021163139267",
+    "created_at": "2026-04-01T18:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T19:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039412021163139267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039412021163139267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明日から帰る\nいや帰るってちょっと微妙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2039412021163139267",
+        "created_at": "2026-04-01T18:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T19:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039412021163139267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039412021163139267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明日から帰る\nいや帰るってちょっと微妙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 124,
+          "like_count": 2175,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1379
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

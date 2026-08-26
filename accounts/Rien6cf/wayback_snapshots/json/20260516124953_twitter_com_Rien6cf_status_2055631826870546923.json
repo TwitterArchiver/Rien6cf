@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055499774447722496"
+      ],
+      "media_source_tweet_id": [
+        "2055499849693642877"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055631826870546923",
+    "created_at": "2026-05-16T12:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055631826870546923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "179782905",
+          "start": 3,
+          "username": "onsen427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PWJI9pAn6z",
+          "end": 70,
+          "expanded_url": "https://x.com/onsen427/status/2055499849693642877/video/1",
+          "media_key": "7_2055499774447722496",
+          "start": 47,
+          "url": "https://t.co/PWJI9pAn6z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055631826870546923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055499849693642877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onsen427: 今年最多の１０個体確認　いっぺんに撮れたのは８匹　これも今年最多 https://t.co/PWJI9pAn6z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25600,
+        "height": 720,
+        "media_key": "7_2055499774447722496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055499774447722496/pu/img/cTVaF2NY-waEjsYi.jpg",
+        "public_metrics": {
+          "view_count": 175701
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055499774447722496/pu/vid/avc1/480x270/hjPjrywRmXDpSQh6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055499774447722496/pu/vid/avc1/640x360/Meu_WNqsfZz2cZPd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055499774447722496/pu/vid/avc1/1280x720/VA0Kj9eJmFddwt3g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055499774447722496/pu/pl/HnNzOjuIvgJITiPp.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055499774447722496"
+          ],
+          "media_source_tweet_id": [
+            "2055499849693642877"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055631826870546923",
+        "created_at": "2026-05-16T12:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055631826870546923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "179782905",
+              "start": 3,
+              "username": "onsen427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWJI9pAn6z",
+              "end": 70,
+              "expanded_url": "https://x.com/onsen427/status/2055499849693642877/video/1",
+              "media_key": "7_2055499774447722496",
+              "start": 47,
+              "url": "https://t.co/PWJI9pAn6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055631826870546923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055499849693642877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onsen427: 今年最多の１０個体確認　いっぺんに撮れたのは８匹　これも今年最多 https://t.co/PWJI9pAn6z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055499774447722496"
+          ]
+        },
+        "author_id": "179782905",
+        "conversation_id": "2055499849693642877",
+        "created_at": "2026-05-16T04:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055499849693642877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWJI9pAn6z",
+              "end": 56,
+              "expanded_url": "https://x.com/onsen427/status/2055499849693642877/video/1",
+              "media_key": "7_2055499774447722496",
+              "start": 33,
+              "url": "https://t.co/PWJI9pAn6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055499849693642877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 392624,
+          "like_count": 5149,
+          "quote_count": 15,
+          "reply_count": 8,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "今年最多の１０個体確認　いっぺんに撮れたのは８匹　これも今年最多 https://t.co/PWJI9pAn6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 4037,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2070
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-18T02:56:14.000Z",
+        "description": "趣味等\n◯収集癖：コカコーラ・牛乳瓶・生物フィギュア　他色色\n📷️：野生動物・夜空の撮影\n🚗：VW type1・三菱 トライトン\n🏍️：ピアジオ ベスパ 125 プリマベーラ・ホンダ モトコンポ・ヤマハ ランツァ\n全日本テーブル筐体愛好会 No.380・レトロコンシューマー愛好会 No.1712",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1EJTBSZ8CD6YA?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/68LAgh9GKD"
+              }
+            ]
+          }
+        },
+        "id": "179782905",
+        "location": "日本列島の北東付近",
+        "name": "温根湯温泉の人♨️",
+        "pinned_tweet_id": "2054371994423226847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011557504153767936/fPask6sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 367,
+          "like_count": 68119,
+          "listed_count": 10,
+          "media_count": 2945,
+          "tweet_count": 6282
+        },
+        "url": "https://t.co/68LAgh9GKD",
+        "username": "onsen427",
+        "verified": false
+      }
+    ]
+  }
+}

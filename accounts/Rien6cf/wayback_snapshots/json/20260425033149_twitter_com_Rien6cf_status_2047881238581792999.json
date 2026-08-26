@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047239873577541633"
+      ],
+      "media_source_tweet_id": [
+        "2047241134217601176"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047881238581792999",
+    "created_at": "2026-04-25T03:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047881238581792999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B7BRuLXZsH",
+          "end": 29,
+          "expanded_url": "https://x.com/_YOUSUKE0329/status/2047241134217601176/video/1",
+          "media_key": "13_2047239873577541633",
+          "start": 6,
+          "url": "https://t.co/B7BRuLXZsH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047881238581792999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在做梦吗 https://t.co/B7BRuLXZsH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 542346,
+        "height": 720,
+        "media_key": "13_2047239873577541633",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047239873577541633/img/rmcgxQGR248yxa2H.jpg",
+        "public_metrics": {
+          "view_count": 9466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047239873577541633/vid/avc1/480x270/TtZ2QrKd_QTlojaz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047239873577541633/vid/avc1/640x360/Cfs5tBZZqjZ8edmT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047239873577541633/vid/avc1/1280x720/WmR74M0hlxK4dTG-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047239873577541633/pl/h1-kpaLJ3bl-5mFd.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047239873577541633"
+          ],
+          "media_source_tweet_id": [
+            "2047241134217601176"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047881238581792999",
+        "created_at": "2026-04-25T03:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047881238581792999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7BRuLXZsH",
+              "end": 29,
+              "expanded_url": "https://x.com/_YOUSUKE0329/status/2047241134217601176/video/1",
+              "media_key": "13_2047239873577541633",
+              "start": 6,
+              "url": "https://t.co/B7BRuLXZsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047881238581792999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在做梦吗 https://t.co/B7BRuLXZsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 146,
+          "like_count": 3005,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1730
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074379030187700224"
+      ],
+      "media_source_tweet_id": [
+        "2074379115399205259"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2074666386224533686",
+    "created_at": "2026-07-08T01:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074666386224533686"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 35,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "ゴマフアザラシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "148219108",
+          "start": 3,
+          "username": "sammy3339"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7wn2DOLhVH",
+          "end": 77,
+          "expanded_url": "https://x.com/sammy3339/status/2074379115399205259/video/1",
+          "media_key": "7_2074379030187700224",
+          "start": 54,
+          "url": "https://t.co/7wn2DOLhVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074666386224533686",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074379115399205259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sammy3339: 今日のﾎﾟﾖﾝﾎﾟﾖﾝ帰宅(女子編)\n\n#とっかりセンター\n#ゴマフアザラシ https://t.co/7wn2DOLhVH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9357,
+        "height": 720,
+        "media_key": "7_2074379030187700224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074379030187700224/pu/img/jAot4r0NppFUPFnr.jpg",
+        "public_metrics": {
+          "view_count": 424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074379030187700224/pu/vid/avc1/480x270/dbRI6cpoafDhZnWG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074379030187700224/pu/vid/avc1/640x360/nl0O0AKDmiH78l9Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074379030187700224/pu/vid/avc1/1280x720/Un0ugMn6JtUauxfM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074379030187700224/pu/pl/yPEI3eIUlUoa26Jb.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074379030187700224"
+          ],
+          "media_source_tweet_id": [
+            "2074379115399205259"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2074666386224533686",
+        "created_at": "2026-07-08T01:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074666386224533686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "ゴマフアザラシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "148219108",
+              "start": 3,
+              "username": "sammy3339"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wn2DOLhVH",
+              "end": 77,
+              "expanded_url": "https://x.com/sammy3339/status/2074379115399205259/video/1",
+              "media_key": "7_2074379030187700224",
+              "start": 54,
+              "url": "https://t.co/7wn2DOLhVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074666386224533686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074379115399205259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sammy3339: 今日のﾎﾟﾖﾝﾎﾟﾖﾝ帰宅(女子編)\n\n#とっかりセンター\n#ゴマフアザラシ https://t.co/7wn2DOLhVH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074379030187700224"
+          ]
+        },
+        "author_id": "148219108",
+        "conversation_id": "2074379115399205259",
+        "created_at": "2026-07-07T06:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074379115399205259"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "ゴマフアザラシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wn2DOLhVH",
+              "end": 62,
+              "expanded_url": "https://x.com/sammy3339/status/2074379115399205259/video/1",
+              "media_key": "7_2074379030187700224",
+              "start": 39,
+              "url": "https://t.co/7wn2DOLhVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074379115399205259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1722,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "今日のﾎﾟﾖﾝﾎﾟﾖﾝ帰宅(女子編)\n\n#とっかりセンター\n#ゴマフアザラシ https://t.co/7wn2DOLhVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 194,
+          "like_count": 7300,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2850
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-26T04:14:46.000Z",
+        "description": "シロフクロウ、マイクロブタ、アザラシ(海遊館出身、おたる水族館のミゾレくん推し)、ガチャピン、旅行が大好きです。最近はほぼ一日中シロフクロウとミゾレくんで頭がいっぱいです(〃∇〃)たまにフクロウ、アザラシ中心でつぶやくと思います。気軽にフォローしてください。よろしくお願いします。\nブヒブヒ🦉🐖🐸🗿🦭💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC23TY…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC23TYCIAqp-PPgqcE-IqbPA",
+                "start": 0,
+                "url": "https://t.co/ajtfsOSy3U"
+              }
+            ]
+          }
+        },
+        "id": "148219108",
+        "name": "グリーン",
+        "pinned_tweet_id": "2039293233453490486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/949966399614599169/sbQ1d4w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 626,
+          "like_count": 116780,
+          "listed_count": 6,
+          "media_count": 1334,
+          "tweet_count": 8600
+        },
+        "url": "https://t.co/ajtfsOSy3U",
+        "username": "sammy3339",
+        "verified": false
+      }
+    ]
+  }
+}

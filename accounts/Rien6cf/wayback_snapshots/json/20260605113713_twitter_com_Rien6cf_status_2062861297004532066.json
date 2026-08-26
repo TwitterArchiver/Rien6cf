@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062861297004532066",
+    "created_at": "2026-06-05T11:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062861297004532066"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062861297004532066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ほんまに辛すぎて涙が出ちゃっても甘えって言われるんでしょ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062861297004532066",
+        "created_at": "2026-06-05T11:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062861297004532066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062861297004532066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ほんまに辛すぎて涙が出ちゃっても甘えって言われるんでしょ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 182,
+          "like_count": 5092,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2418
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

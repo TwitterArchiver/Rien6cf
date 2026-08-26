@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080912480440893440"
+      ],
+      "media_source_tweet_id": [
+        "2080912487525110117"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2081180824062542037",
+    "created_at": "2026-07-26T00:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081180824062542037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1244842057488838656",
+          "start": 3,
+          "username": "a16195860"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HlbC9q9RKH",
+          "end": 64,
+          "expanded_url": "https://x.com/a16195860/status/2080912487525110117/photo/1",
+          "media_key": "3_2080912480440893440",
+          "start": 41,
+          "url": "https://t.co/HlbC9q9RKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081180824062542037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 956
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080912487525110117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a16195860: 東京住みのいとこからいただいた甲斐田くんのトラック https://t.co/HlbC9q9RKH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1987,
+        "media_key": "3_2080912480440893440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODi4DVbQAAm3Pl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080912480440893440"
+          ]
+        },
+        "author_id": "1244842057488838656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2080912487525110117",
+        "created_at": "2026-07-25T07:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080912487525110117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlbC9q9RKH",
+              "end": 49,
+              "expanded_url": "https://x.com/a16195860/status/2080912487525110117/photo/1",
+              "media_key": "3_2080912480440893440",
+              "start": 26,
+              "url": "https://t.co/HlbC9q9RKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080912487525110117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 526,
+          "impression_count": 192192,
+          "like_count": 13716,
+          "quote_count": 86,
+          "reply_count": 2,
+          "retweet_count": 956
+        },
+        "reply_settings": "everyone",
+        "text": "東京住みのいとこからいただいた甲斐田くんのトラック https://t.co/HlbC9q9RKH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080912480440893440"
+          ],
+          "media_source_tweet_id": [
+            "2080912487525110117"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2081180824062542037",
+        "created_at": "2026-07-26T00:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081180824062542037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1244842057488838656",
+              "start": 3,
+              "username": "a16195860"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlbC9q9RKH",
+              "end": 64,
+              "expanded_url": "https://x.com/a16195860/status/2080912487525110117/photo/1",
+              "media_key": "3_2080912480440893440",
+              "start": 41,
+              "url": "https://t.co/HlbC9q9RKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081180824062542037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 956
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080912487525110117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a16195860: 東京住みのいとこからいただいた甲斐田くんのトラック https://t.co/HlbC9q9RKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2080735603323523206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 202,
+          "like_count": 8673,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3114
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T04:21:36.000Z",
+        "description": "🌞 ☯️ 🎻🛵 🔺 20↑ https://t.co/SCklcWmsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/rara1617132",
+                "end": 37,
+                "expanded_url": "https://lit.link/rara1617132",
+                "start": 14,
+                "url": "https://t.co/SCklcWmsn2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/4bab5hjudsi4w3…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/4bab5hjudsi4w3w?t=b4T727&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/EXkpD09UYB"
+              }
+            ]
+          }
+        },
+        "id": "1244842057488838656",
+        "name": "とうか",
+        "pinned_tweet_id": "2059941204712882219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768317336598282240/TSgNfdEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 187,
+          "like_count": 11078,
+          "listed_count": 8,
+          "media_count": 576,
+          "tweet_count": 7428
+        },
+        "url": "https://t.co/EXkpD09UYB",
+        "username": "a16195860",
+        "verified": false
+      }
+    ]
+  }
+}

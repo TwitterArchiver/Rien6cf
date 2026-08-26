@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049771896225566721"
+      ],
+      "media_source_tweet_id": [
+        "2049771903909532113"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2049821794056716770",
+    "created_at": "2026-04-30T12:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049821794056716770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "934230543352217601",
+          "start": 3,
+          "username": "ksk_nonrotation"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7KVWMDHpU6",
+          "end": 74,
+          "expanded_url": "https://x.com/ksk_nonrotation/status/2049771903909532113/photo/1",
+          "media_key": "3_2049771896225566721",
+          "start": 51,
+          "url": "https://t.co/7KVWMDHpU6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049821794056716770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 524
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049771903909532113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ksk_nonrotation: ⬅️街中の顔整い\n⬇️面長で辛い😭って言ってる人\n➡️自分 https://t.co/7KVWMDHpU6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_2049771896225566721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJArfEakAEFZGs.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049771896225566721"
+          ],
+          "media_source_tweet_id": [
+            "2049771903909532113"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2049821794056716770",
+        "created_at": "2026-04-30T12:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049821794056716770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "934230543352217601",
+              "start": 3,
+              "username": "ksk_nonrotation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KVWMDHpU6",
+              "end": 74,
+              "expanded_url": "https://x.com/ksk_nonrotation/status/2049771903909532113/photo/1",
+              "media_key": "3_2049771896225566721",
+              "start": 51,
+              "url": "https://t.co/7KVWMDHpU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049821794056716770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 524
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049771903909532113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ksk_nonrotation: ⬅️街中の顔整い\n⬇️面長で辛い😭って言ってる人\n➡️自分 https://t.co/7KVWMDHpU6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049771896225566721"
+          ]
+        },
+        "author_id": "934230543352217601",
+        "conversation_id": "2049771903909532113",
+        "created_at": "2026-04-30T08:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049771903909532113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KVWMDHpU6",
+              "end": 53,
+              "expanded_url": "https://x.com/ksk_nonrotation/status/2049771903909532113/photo/1",
+              "media_key": "3_2049771896225566721",
+              "start": 30,
+              "url": "https://t.co/7KVWMDHpU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049771903909532113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 484,
+          "impression_count": 229638,
+          "like_count": 12503,
+          "quote_count": 127,
+          "reply_count": 24,
+          "retweet_count": 524
+        },
+        "reply_settings": "everyone",
+        "text": "⬅️街中の顔整い\n⬇️面長で辛い😭って言ってる人\n➡️自分 https://t.co/7KVWMDHpU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 157,
+          "like_count": 3200,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1809
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-25T01:21:33.000Z",
+        "description": "顔面コンプの雑多垢/ルッキズム/整形💉",
+        "id": "934230543352217601",
+        "name": "ʕ•̫͡•ʕ•̫͡•ʕ•̫͡•",
+        "pinned_tweet_id": "2049771903909532113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049488026087432192/g4YMZUTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279577,
+          "following_count": 0,
+          "like_count": 4199,
+          "listed_count": 426,
+          "media_count": 3492,
+          "tweet_count": 4023
+        },
+        "username": "ksk_nonrotation",
+        "verified": false
+      }
+    ]
+  }
+}

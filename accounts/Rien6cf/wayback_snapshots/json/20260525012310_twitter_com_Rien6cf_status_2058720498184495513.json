@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058037895961976832"
+      ],
+      "media_source_tweet_id": [
+        "2058037904694460588"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058720498184495513",
+    "created_at": "2026-05-25T01:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058720498184495513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2167397804",
+          "start": 3,
+          "username": "miyazakiarts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uTEz6e9Qc",
+          "end": 62,
+          "expanded_url": "https://x.com/miyazakiarts/status/2058037904694460588/photo/1",
+          "media_key": "3_2058037895961976832",
+          "start": 39,
+          "url": "https://t.co/8uTEz6e9Qc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058720498184495513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 732
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058037904694460588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyazakiarts: 上大岡なう。\nほんと「お」が多い駅なの。 https://t.co/8uTEz6e9Qc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1491,
+        "media_key": "3_2058037895961976832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-ej_sbIAAr03u.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058037895961976832"
+          ],
+          "media_source_tweet_id": [
+            "2058037904694460588"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058720498184495513",
+        "created_at": "2026-05-25T01:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058720498184495513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2167397804",
+              "start": 3,
+              "username": "miyazakiarts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uTEz6e9Qc",
+              "end": 62,
+              "expanded_url": "https://x.com/miyazakiarts/status/2058037904694460588/photo/1",
+              "media_key": "3_2058037895961976832",
+              "start": 39,
+              "url": "https://t.co/8uTEz6e9Qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058720498184495513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 732
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058037904694460588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyazakiarts: 上大岡なう。\nほんと「お」が多い駅なの。 https://t.co/8uTEz6e9Qc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058037895961976832"
+          ]
+        },
+        "author_id": "2167397804",
+        "conversation_id": "2058037904694460588",
+        "created_at": "2026-05-23T04:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058037904694460588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uTEz6e9Qc",
+              "end": 44,
+              "expanded_url": "https://x.com/miyazakiarts/status/2058037904694460588/photo/1",
+              "media_key": "3_2058037895961976832",
+              "start": 21,
+              "url": "https://t.co/8uTEz6e9Qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058037904694460588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 551,
+          "impression_count": 1064191,
+          "like_count": 6963,
+          "quote_count": 214,
+          "reply_count": 133,
+          "retweet_count": 732
+        },
+        "reply_settings": "everyone",
+        "text": "上大岡なう。\nほんと「お」が多い駅なの。 https://t.co/8uTEz6e9Qc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 171,
+          "like_count": 4459,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2216
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-31T23:12:54.000Z",
+        "description": "軍艦と航空機と写真好き。  艦これトラック泊地で甲33、嫁艦は潮なのん。 週末は横須賀によく出没するなのねー(*´▽｀*)",
+        "id": "2167397804",
+        "location": "湘南 藤沢",
+        "name": "ガーハー",
+        "pinned_tweet_id": "883592118605717504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1117335423984865285/aJQQI2ja_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 1506,
+          "like_count": 30460,
+          "listed_count": 15,
+          "media_count": 14876,
+          "tweet_count": 27133
+        },
+        "username": "miyazakiarts",
+        "verified": false
+      }
+    ]
+  }
+}

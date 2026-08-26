@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064301486818177024"
+      ],
+      "media_source_tweet_id": [
+        "2064301580044964290"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064323262042305020",
+    "created_at": "2026-06-09T12:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064323262042305020"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 102,
+          "tag": "のんふぃく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1378792485728649220",
+          "start": 3,
+          "username": "Nonfic_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mVm6KfDG8p",
+          "end": 132,
+          "expanded_url": "https://x.com/Nonfic_official/status/2064301580044964290/video/1",
+          "media_key": "13_2064301486818177024",
+          "start": 109,
+          "url": "https://t.co/mVm6KfDG8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064323262042305020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 597
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064301580044964290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nonfic_official: 【新体制公開】\n天使衣装ティザームービー公開❤️\n\nこの後公開のアー写ポストが3000RP達成で\nNEW MEMBER公開！\n\n6月13日新体制お披露目₊˚✧\n\n#のんふぃく https://t.co/mVm6KfDG8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60060,
+        "height": 1080,
+        "media_key": "13_2064301486818177024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064301486818177024/img/LhxBq5QTqJBsI7o1.jpg",
+        "public_metrics": {
+          "view_count": 23724
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064301486818177024/vid/avc1/1920x1080/0yh2yTP1OQAyjQPN.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064301486818177024/vid/avc1/480x270/WvyJpjBHIt2kz_Lj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064301486818177024/vid/avc1/640x360/UcXiP1JQHSa_3uhH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064301486818177024/vid/avc1/1280x720/G2AmmY85uJQvGBnh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064301486818177024/pl/s8vrtLOzfc7TtUWY.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064301486818177024"
+          ],
+          "media_source_tweet_id": [
+            "2064301580044964290"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064323262042305020",
+        "created_at": "2026-06-09T12:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064323262042305020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 102,
+              "tag": "のんふぃく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1378792485728649220",
+              "start": 3,
+              "username": "Nonfic_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVm6KfDG8p",
+              "end": 132,
+              "expanded_url": "https://x.com/Nonfic_official/status/2064301580044964290/video/1",
+              "media_key": "13_2064301486818177024",
+              "start": 109,
+              "url": "https://t.co/mVm6KfDG8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323262042305020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 597
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064301580044964290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nonfic_official: 【新体制公開】\n天使衣装ティザームービー公開❤️\n\nこの後公開のアー写ポストが3000RP達成で\nNEW MEMBER公開！\n\n6月13日新体制お披露目₊˚✧\n\n#のんふぃく https://t.co/mVm6KfDG8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064301486818177024"
+          ]
+        },
+        "author_id": "1378792485728649220",
+        "conversation_id": "2064301580044964290",
+        "created_at": "2026-06-09T11:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064301580044964290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "のんふぃく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVm6KfDG8p",
+              "end": 111,
+              "expanded_url": "https://x.com/Nonfic_official/status/2064301580044964290/video/1",
+              "media_key": "13_2064301486818177024",
+              "start": 88,
+              "url": "https://t.co/mVm6KfDG8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064301580044964290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 85629,
+          "like_count": 2926,
+          "quote_count": 93,
+          "reply_count": 15,
+          "retweet_count": 597
+        },
+        "reply_settings": "everyone",
+        "text": "【新体制公開】\n天使衣装ティザームービー公開❤️\n\nこの後公開のアー写ポストが3000RP達成で\nNEW MEMBER公開！\n\n6月13日新体制お披露目₊˚✧\n\n#のんふぃく https://t.co/mVm6KfDG8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5355,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2498
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T19:33:46.000Z",
+        "description": "「貴方の愛した私はノンフィクションですか？」公式グッズ（https://t.co/SpQemP1AOe）出演依頼・お問い合わせ▶non-fiction@imaginate.jp / ライブ予定(https://t.co/Gp9qN2Vpe5) /HEROINES #のんふぃく #ふぃくみん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 132,
+                "tag": "のんふぃく"
+              },
+              {
+                "end": 145,
+                "start": 139,
+                "tag": "ふぃくみん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "heroines.stores.jp",
+                "end": 51,
+                "expanded_url": "http://heroines.stores.jp",
+                "start": 28,
+                "url": "https://t.co/SpQemP1AOe"
+              },
+              {
+                "display_url": "timetr.ee/pc/nonfic_offi…",
+                "end": 120,
+                "expanded_url": "https://timetr.ee/pc/nonfic_official",
+                "start": 97,
+                "url": "https://t.co/Gp9qN2Vpe5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCHESj…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCHESjSxJMTVqYnJU724pwGw",
+                "start": 0,
+                "url": "https://t.co/M8wkVhSX9J"
+              }
+            ]
+          }
+        },
+        "id": "1378792485728649220",
+        "location": "HEROINES【ヒロインズ】",
+        "name": "のんふぃく！",
+        "pinned_tweet_id": "2060315233030447575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443613332481609730/s0jNsucA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76824,
+          "following_count": 15,
+          "like_count": 25,
+          "listed_count": 465,
+          "media_count": 2589,
+          "tweet_count": 2816
+        },
+        "url": "https://t.co/M8wkVhSX9J",
+        "username": "Nonfic_official",
+        "verified": true
+      }
+    ]
+  }
+}

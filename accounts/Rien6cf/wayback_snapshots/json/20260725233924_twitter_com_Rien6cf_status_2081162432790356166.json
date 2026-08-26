@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081162426784051200"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2081162432790356166",
+    "created_at": "2026-07-25T23:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081162432790356166"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 12,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q2a12wHU5e",
+          "end": 42,
+          "expanded_url": "https://x.com/Rien6cf/status/2081162432790356166/photo/1",
+          "media_key": "3_2081162426784051200",
+          "start": 19,
+          "url": "https://t.co/Q2a12wHU5e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081162432790356166",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "久しぶりにナチュラル、\n#自撮り界隈 https://t.co/Q2a12wHU5e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_2081162426784051200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHGM2BacAAq1R6.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081162426784051200"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2081162432790356166",
+        "created_at": "2026-07-25T23:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081162432790356166"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2a12wHU5e",
+              "end": 42,
+              "expanded_url": "https://x.com/Rien6cf/status/2081162432790356166/photo/1",
+              "media_key": "3_2081162426784051200",
+              "start": 19,
+              "url": "https://t.co/Q2a12wHU5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081162432790356166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりにナチュラル、\n#自撮り界隈 https://t.co/Q2a12wHU5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2080735603323523206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 202,
+          "like_count": 8670,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 3112
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

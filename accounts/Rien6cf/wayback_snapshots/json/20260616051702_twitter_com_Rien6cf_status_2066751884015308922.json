@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066521495258669056"
+      ],
+      "media_source_tweet_id": [
+        "2066683375642120192"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066751884015308922",
+    "created_at": "2026-06-16T05:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066751884015308922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1801947889046040576",
+          "start": 3,
+          "username": "mogumogumatetsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6f5sxTHZb",
+          "end": 68,
+          "expanded_url": "https://x.com/mogumogumatetsu/status/2066683375642120192/photo/1",
+          "media_key": "3_2066521495258669056",
+          "start": 45,
+          "url": "https://t.co/H6f5sxTHZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066751884015308922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066683375642120192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mogumogumatetsu: \\\\偉大なるメイに伊勢海老を捧げるのよ！！// https://t.co/H6f5sxTHZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2066521495258669056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3CWd2aIAAl15A.jpg",
+        "width": 1543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066521495258669056"
+          ],
+          "media_source_tweet_id": [
+            "2066683375642120192"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066751884015308922",
+        "created_at": "2026-06-16T05:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066751884015308922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1801947889046040576",
+              "start": 3,
+              "username": "mogumogumatetsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6f5sxTHZb",
+              "end": 68,
+              "expanded_url": "https://x.com/mogumogumatetsu/status/2066683375642120192/photo/1",
+              "media_key": "3_2066521495258669056",
+              "start": 45,
+              "url": "https://t.co/H6f5sxTHZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066751884015308922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066683375642120192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mogumogumatetsu: \\\\偉大なるメイに伊勢海老を捧げるのよ！！// https://t.co/H6f5sxTHZb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066521495258669056"
+          ]
+        },
+        "author_id": "1801947889046040576",
+        "conversation_id": "2066683375642120192",
+        "created_at": "2026-06-16T00:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066683375642120192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6f5sxTHZb",
+              "end": 47,
+              "expanded_url": "https://x.com/mogumogumatetsu/status/2066683375642120192/photo/1",
+              "media_key": "3_2066521495258669056",
+              "start": 24,
+              "url": "https://t.co/H6f5sxTHZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066683375642120192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4165,
+          "like_count": 571,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "\\\\偉大なるメイに伊勢海老を捧げるのよ！！// https://t.co/H6f5sxTHZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 188,
+          "like_count": 5790,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2606
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T12:01:10.000Z",
+        "description": "ラッコ大好き🦦\nメイちゃんのバズーカ砲に心撃ち抜かれました🦦\nメイちゃんキラちゃんあと100年生きて！！\n可愛いものも好き🧸💕\n人見知りラッコ。無言フォロー失礼します。",
+        "id": "1801947889046040576",
+        "location": "メイちゃんの秘密のポケットの片隅",
+        "name": "マリィ🦦🦦🌼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060689426272190464/inMp5ZRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 230,
+          "like_count": 31520,
+          "listed_count": 5,
+          "media_count": 796,
+          "tweet_count": 2097
+        },
+        "username": "mogumogumatetsu",
+        "verified": false
+      }
+    ]
+  }
+}

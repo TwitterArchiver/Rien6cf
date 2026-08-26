@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073995107360211285",
+    "created_at": "2026-07-06T04:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073995107360211285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "602436204",
+          "start": 3,
+          "username": "ChibaZoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073995107360211285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4070
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073674910241902871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChibaZoo: 本日は風太の23歳の誕生会にご参加頂き、そしてたくさんのお祝いメッセージ、ありがとうございました！本来は展示予定はありませんでしたが、涼しい天気に恵まれ、皆様に少しご覧いただくこともできました。また来年24歳の誕生日を迎えられることを願っております！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2073674880302956544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcsURwbwAARsAT.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2073674880256745472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcsURlaoAAtce0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073995107360211285",
+        "created_at": "2026-07-06T04:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073995107360211285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "602436204",
+              "start": 3,
+              "username": "ChibaZoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073995107360211285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4070
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073674910241902871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChibaZoo: 本日は風太の23歳の誕生会にご参加頂き、そしてたくさんのお祝いメッセージ、ありがとうございました！本来は展示予定はありませんでしたが、涼しい天気に恵まれ、皆様に少しご覧いただくこともできました。また来年24歳の誕生日を迎えられることを願っております！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073674880302956544",
+            "3_2073674880256745472"
+          ]
+        },
+        "author_id": "602436204",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1295937299117555712",
+              "name": "Kanto region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296114377788026880",
+              "name": "Chiba Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296485385434873857",
+              "name": "Chiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1296485385434873857",
+              "name": "Chiba"
+            }
+          }
+        ],
+        "conversation_id": "2073674910241902871",
+        "created_at": "2026-07-05T07:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073674910241902871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 130,
+              "tag": "千葉市動物公園"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "風太"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZQSjeVJau",
+              "end": 167,
+              "expanded_url": "https://x.com/ChibaZoo/status/2073674910241902871/photo/1",
+              "media_key": "3_2073674880302956544",
+              "start": 144,
+              "url": "https://t.co/MZQSjeVJau"
+            },
+            {
+              "display_url": "pic.x.com/MZQSjeVJau",
+              "end": 167,
+              "expanded_url": "https://x.com/ChibaZoo/status/2073674910241902871/photo/1",
+              "media_key": "3_2073674880256745472",
+              "start": 144,
+              "url": "https://t.co/MZQSjeVJau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073674910241902871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 731,
+          "impression_count": 428845,
+          "like_count": 21858,
+          "quote_count": 277,
+          "reply_count": 167,
+          "retweet_count": 4070
+        },
+        "reply_settings": "everyone",
+        "text": "本日は風太の23歳の誕生会にご参加頂き、そしてたくさんのお祝いメッセージ、ありがとうございました！本来は展示予定はありませんでしたが、涼しい天気に恵まれ、皆様に少しご覧いただくこともできました。また来年24歳の誕生日を迎えられることを願っております！（飼1）\n#千葉市動物公園 \n#風太 https://t.co/MZQSjeVJau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 196,
+          "like_count": 7125,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2828
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-08T01:22:33.000Z",
+        "description": "千葉市動物公園の公式アカウントです。※投稿内容:動物の日常や、イベント情報など。※フォロー、リプライ(DM含む)は原則行っていませんのでご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "city.chiba.jp/zoo/index.html",
+                "end": 23,
+                "expanded_url": "https://www.city.chiba.jp/zoo/index.html",
+                "start": 0,
+                "url": "https://t.co/F0zbn6YciY"
+              }
+            ]
+          }
+        },
+        "id": "602436204",
+        "location": "千葉市若葉区源町280",
+        "name": "千葉市動物公園【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/761555977455841282/taRem8t5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164102,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 2000,
+          "media_count": 21429,
+          "tweet_count": 23725
+        },
+        "url": "https://t.co/F0zbn6YciY",
+        "username": "ChibaZoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061287739468001280"
+      ],
+      "media_source_tweet_id": [
+        "2061287753049145749"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2061349776164270395",
+    "created_at": "2026-06-01T07:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061349776164270395"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1345806819189424129",
+          "start": 3,
+          "username": "DaeCHU_K"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBl3tPRBCg",
+          "end": 45,
+          "expanded_url": "https://x.com/DaeCHU_K/status/2061287753049145749/photo/1",
+          "media_key": "3_2061287739468001280",
+          "start": 22,
+          "url": "https://t.co/bBl3tPRBCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061349776164270395",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061287753049145749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DaeCHU_K: #SKC美術部 https://t.co/bBl3tPRBCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061287739468001280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsqRyLbsAALqXT.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061287739468001280"
+          ],
+          "media_source_tweet_id": [
+            "2061287753049145749"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2061349776164270395",
+        "created_at": "2026-06-01T07:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061349776164270395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1345806819189424129",
+              "start": 3,
+              "username": "DaeCHU_K"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBl3tPRBCg",
+              "end": 45,
+              "expanded_url": "https://x.com/DaeCHU_K/status/2061287753049145749/photo/1",
+              "media_key": "3_2061287739468001280",
+              "start": 22,
+              "url": "https://t.co/bBl3tPRBCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061349776164270395",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061287753049145749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DaeCHU_K: #SKC美術部 https://t.co/bBl3tPRBCg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061287739468001280"
+          ]
+        },
+        "author_id": "1345806819189424129",
+        "conversation_id": "2061287753049145749",
+        "created_at": "2026-06-01T03:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061287753049145749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBl3tPRBCg",
+              "end": 31,
+              "expanded_url": "https://x.com/DaeCHU_K/status/2061287753049145749/photo/1",
+              "media_key": "3_2061287739468001280",
+              "start": 8,
+              "url": "https://t.co/bBl3tPRBCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061287753049145749",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 7816,
+          "like_count": 970,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 https://t.co/bBl3tPRBCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 181,
+          "like_count": 4907,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2333
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T18:58:51.000Z",
+        "description": "김대추 KR/JP/ENG / Contact : DM or 📧daechu111011@gmail.com /\nhttps://t.co/GTbpuJiwEy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/daechu_k?igsh=…",
+                "end": 81,
+                "expanded_url": "https://www.instagram.com/daechu_k?igsh=aDAxdXV6cm96cG9k",
+                "start": 58,
+                "url": "https://t.co/GTbpuJiwEy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120995098",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120995098",
+                "start": 0,
+                "url": "https://t.co/vFl8AkPJoC"
+              }
+            ]
+          }
+        },
+        "id": "1345806819189424129",
+        "name": "DAECHU",
+        "pinned_tweet_id": "2040779032795754850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984506742039068675/ydf7a7hB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5662,
+          "following_count": 108,
+          "like_count": 22259,
+          "listed_count": 32,
+          "media_count": 2385,
+          "tweet_count": 14209
+        },
+        "url": "https://t.co/vFl8AkPJoC",
+        "username": "DaeCHU_K",
+        "verified": false
+      }
+    ]
+  }
+}

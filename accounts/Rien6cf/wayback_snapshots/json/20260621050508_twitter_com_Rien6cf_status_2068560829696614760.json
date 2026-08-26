@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068560829696614760",
+    "created_at": "2026-06-21T05:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068560829696614760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3076565779",
+          "start": 3,
+          "username": "tomonasisan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068560829696614760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 597
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068299607793349072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tomonasisan: ADHDとASDの併発は地獄だよ。\n両者の欠点が悪魔合体して、負のシナジー効果を発揮するからね。\n\n「神経質なのにだらしない」、「興味や関心の範囲が狭いのに飽きっぽい」、「コミュ障で衝動的で不注意が激しい」とか、周囲の人達にとっては理解不能でム…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068560829696614760",
+        "created_at": "2026-06-21T05:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068560829696614760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3076565779",
+              "start": 3,
+              "username": "tomonasisan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068560829696614760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 597
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068299607793349072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tomonasisan: ADHDとASDの併発は地獄だよ。\n両者の欠点が悪魔合体して、負のシナジー効果を発揮するからね。\n\n「神経質なのにだらしない」、「興味や関心の範囲が狭いのに飽きっぽい」、「コミュ障で衝動的で不注意が激しい」とか、周囲の人達にとっては理解不能でム…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3076565779",
+        "conversation_id": "2068299607793349072",
+        "created_at": "2026-06-20T11:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068299607793349072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sorasora9900/s…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/sorasora9900/status/2068209341078110684",
+              "start": 136,
+              "url": "https://t.co/JEFKvDro1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068299607793349072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1059,
+          "impression_count": 600012,
+          "like_count": 4604,
+          "quote_count": 201,
+          "reply_count": 18,
+          "retweet_count": 593
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068209341078110684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ADHDとASDの併発は地獄だよ。\n両者の欠点が悪魔合体して、負のシナジー効果を発揮するからね。\n\n「神経質なのにだらしない」、「興味や関心の範囲が狭いのに飽きっぽい」、「コミュ障で衝動的で不注意が激しい」とか、周囲の人達にとっては理解不能でムカつく存在が爆誕するのよ。 https://t.co/JEFKvDro1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "頑張ってるよ",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 191,
+          "like_count": 5958,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2635
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-13T11:39:08.000Z",
+        "description": "発達障害(ADHD、ASD）、バイク（カワサキ・Ninja1000 2019年型→ヤマハ・NMAX155 2025年型）、アニメ、鉄道、生き物、駅メモ、プリコネR、ブルアカ、アリスギア、ポケモンGOなどの雑多垢です。北海道ツーリングや遠距離乗り鉄旅に再び行ける日が来ることを願って… 。",
+        "id": "3076565779",
+        "location": "虚妄のサンクトゥム",
+        "name": "hamusuke㌠",
+        "pinned_tweet_id": "2066822383164707056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031343413791223808/xnuTC-Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6860,
+          "following_count": 6963,
+          "like_count": 864288,
+          "listed_count": 96,
+          "media_count": 11073,
+          "tweet_count": 464137
+        },
+        "url": "",
+        "username": "tomonasisan",
+        "verified": false
+      }
+    ]
+  }
+}

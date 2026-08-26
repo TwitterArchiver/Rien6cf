@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073708523163385880",
+    "created_at": "2026-07-05T10:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073708523163385880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1598976218715803648",
+          "start": 3,
+          "username": "Knn_zZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073708523163385880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073362040291459110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Knn_zZZ: 高中嗑药的后果是记忆力剧烈失去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073708523163385880",
+        "created_at": "2026-07-05T10:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073708523163385880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1598976218715803648",
+              "start": 3,
+              "username": "Knn_zZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073708523163385880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073362040291459110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Knn_zZZ: 高中嗑药的后果是记忆力剧烈失去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598976218715803648",
+        "conversation_id": "2073362040291459110",
+        "created_at": "2026-07-04T11:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073362040291459110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073362040291459110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1681,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "高中嗑药的后果是记忆力剧烈失去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 194,
+          "like_count": 7013,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2811
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T09:43:50.000Z",
+        "description": "就这样",
+        "id": "1598976218715803648",
+        "name": "嗨呀是我吗",
+        "pinned_tweet_id": "2068671606403334629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799892620598276096/IJLGuVkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1527,
+          "like_count": 31464,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 3180
+        },
+        "url": "",
+        "username": "Knn_zZZ",
+        "verified": false
+      }
+    ]
+  }
+}

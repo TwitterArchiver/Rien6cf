@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2023002563663233451",
+    "created_at": "2026-02-15T11:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023002563663233451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gomio_kyodai_/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/gomio_kyodai_/status/2022921040352207141",
+          "start": 12,
+          "url": "https://t.co/c0Xvc0kXAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023002563663233451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022921040352207141",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "くそwwwwwwwww https://t.co/c0Xvc0kXAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 537,
+        "media_key": "3_2022920888350580736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLb1H7aoAATodD.png",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2023002563663233451",
+        "created_at": "2026-02-15T11:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023002563663233451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gomio_kyodai_/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/gomio_kyodai_/status/2022921040352207141",
+              "start": 12,
+              "url": "https://t.co/c0Xvc0kXAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023002563663233451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022921040352207141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "くそwwwwwwwww https://t.co/c0Xvc0kXAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022920888350580736"
+          ]
+        },
+        "author_id": "1747270201262092288",
+        "conversation_id": "2022921040352207141",
+        "created_at": "2026-02-15T06:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022921040352207141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKNtqW5HLq",
+              "end": 45,
+              "expanded_url": "https://x.com/gomio_kyodai_/status/2022921040352207141/photo/1",
+              "media_key": "3_2022920888350580736",
+              "start": 22,
+              "url": "https://t.co/dKNtqW5HLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022921040352207141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 257036,
+          "like_count": 11560,
+          "quote_count": 86,
+          "reply_count": 22,
+          "retweet_count": 807
+        },
+        "reply_settings": "everyone",
+        "text": "同志社大学合格したみんな‼️おめでとう‼️ https://t.co/dKNtqW5HLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 385
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T14:51:03.000Z",
+        "description": "頻繁に、そして長く熟考すればするほどに、ますます新たな驚きと畏敬の念をもって心を満たす二つのものがある。我が頭上の星を散りばめた天空と、京都大学である。",
+        "id": "1747270201262092288",
+        "location": "n+k=4(京文)",
+        "name": "ゴミ浪人生",
+        "pinned_tweet_id": "1835972017000210804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747853599131287552/LqfykSA-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 1878,
+          "like_count": 10835,
+          "listed_count": 6,
+          "media_count": 1426,
+          "tweet_count": 13229
+        },
+        "username": "gomio_kyodai_",
+        "verified": false
+      }
+    ]
+  }
+}

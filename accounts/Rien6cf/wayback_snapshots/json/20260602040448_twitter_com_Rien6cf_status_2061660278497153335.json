@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2061660278497153335",
+    "created_at": "2026-06-02T04:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061660278497153335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jpu89cbkow7497…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jpu89cbkow74979/status/2061439587889856703",
+          "start": 3,
+          "url": "https://t.co/SWWmGxPdlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061660278497153335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061439587889856703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死ぬ https://t.co/SWWmGxPdlD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2017,
+        "media_key": "3_2061439582823170051",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu0YOwawAM3njO.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2061660278497153335",
+        "created_at": "2026-06-02T04:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061660278497153335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jpu89cbkow7497…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jpu89cbkow74979/status/2061439587889856703",
+              "start": 3,
+              "url": "https://t.co/SWWmGxPdlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061660278497153335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061439587889856703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死ぬ https://t.co/SWWmGxPdlD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061439582823170051"
+          ]
+        },
+        "author_id": "1939608229035790336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2061439587889856703",
+        "created_at": "2026-06-01T13:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061439587889856703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KzZ9kt6Gnu",
+              "end": 38,
+              "expanded_url": "https://x.com/jpU89cbKOw74979/status/2061439587889856703/photo/1",
+              "media_key": "3_2061439582823170051",
+              "start": 15,
+              "url": "https://t.co/KzZ9kt6Gnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061439587889856703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 892194,
+          "like_count": 4587,
+          "quote_count": 860,
+          "reply_count": 55,
+          "retweet_count": 997
+        },
+        "reply_settings": "everyone",
+        "text": "と、東京都…マジですか？？… https://t.co/KzZ9kt6Gnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 183,
+          "like_count": 4934,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2350
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T08:53:54.000Z",
+        "description": "高3、シビア現象マニア（気象予報士資格は持っていません）スーパーセル型雷雨が好き。ゲームWar Thunder Mobileをする。政治・社会的なポストあり。絵を描いたりするのも好き。YouTubeで気象に関する情報発信しています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@whether_maste…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@whether_master?si=cpT2ZKziKABOMlQE",
+                "start": 0,
+                "url": "https://t.co/GX4koc0kgp"
+              }
+            ]
+          }
+        },
+        "id": "1939608229035790336",
+        "location": "東京都",
+        "name": "ウェザーマスター（⚡️シビア現象監視）",
+        "pinned_tweet_id": "2058340403968168414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992742486964609024/sDomEPft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 712,
+          "like_count": 5296,
+          "listed_count": 5,
+          "media_count": 353,
+          "tweet_count": 1710
+        },
+        "url": "https://t.co/GX4koc0kgp",
+        "username": "jpU89cbKOw74979",
+        "verified": false
+      }
+    ]
+  }
+}

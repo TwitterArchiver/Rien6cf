@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063875079713530084",
+    "created_at": "2026-06-08T06:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063875079713530084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1011452042143940609",
+          "start": 3,
+          "username": "minolinmama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063875079713530084",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063613463843479643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minolinmama: ミゾレ可愛いなぁと思ってたら、日付を見て胸が痛くなった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063875079713530084",
+        "created_at": "2026-06-08T06:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063875079713530084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1011452042143940609",
+              "start": 3,
+              "username": "minolinmama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063875079713530084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063613463843479643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minolinmama: ミゾレ可愛いなぁと思ってたら、日付を見て胸が痛くなった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1011452042143940609",
+        "conversation_id": "2063613463843479643",
+        "created_at": "2026-06-07T13:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063613463843479643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/osaka_kaiyukan…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/osaka_kaiyukan/status/1670714870776627202",
+              "start": 28,
+              "url": "https://t.co/UcAXUiPJI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063613463843479643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 39261,
+          "like_count": 604,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1670714870776627202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ミゾレ可愛いなぁと思ってたら、日付を見て胸が痛くなった https://t.co/UcAXUiPJI3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5264,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2471
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-26T03:32:13.000Z",
+        "description": "アザラシ大好き🦭2023年夏にワモンアザラシのミゾレに出会い人生が豊かになりました🦭京都水族館と海遊館に通ってます。撮影は古いiPhone📱低画質でお見苦しくてすみません。",
+        "id": "1011452042143940609",
+        "location": "京都府京都市",
+        "name": "mi🦭🔰",
+        "pinned_tweet_id": "1704472153742356596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039368370458656768/gQ4jZAFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3639,
+          "following_count": 998,
+          "like_count": 147409,
+          "listed_count": 48,
+          "media_count": 5100,
+          "tweet_count": 21831
+        },
+        "username": "minolinmama",
+        "verified": false
+      }
+    ]
+  }
+}

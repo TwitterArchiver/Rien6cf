@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2022461966590316598",
+    "created_at": "2026-02-14T08:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T09:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022591914223321363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913191921855746048",
+          "start": 0,
+          "username": "gdpg5dhxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022591914223321363",
+    "in_reply_to_user_id": "1913191921855746048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022461966590316598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdpg5dhxq え同じですw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2022461966590316598",
+        "created_at": "2026-02-14T08:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022591914223321363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913191921855746048",
+              "start": 0,
+              "username": "gdpg5dhxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022591914223321363",
+        "in_reply_to_user_id": "1913191921855746048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022461966590316598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdpg5dhxq え同じですw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913191921855746048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2022461966590316598",
+        "created_at": "2026-02-14T00:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T01:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022461966590316598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "はにさんの回答「母が56、父が59です」",
+              "display_url": "marshmallow-qa.com/messages/1c132…",
+              "end": 35,
+              "expanded_url": "https://marshmallow-qa.com/messages/1c132aef-d7c8-4ac8-a3fd-39e0ca919d8d?utm_medium=twitter&utm_source=answer",
+              "start": 12,
+              "status": 200,
+              "title": "親何歳ですか？ | マシュマロ",
+              "unwound_url": "https://marshmallow-qa.com/messages/1c132aef-d7c8-4ac8-a3fd-39e0ca919d8d?utm_medium=twitter&utm_source=answer",
+              "url": "https://t.co/mfkIycLMVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022461966590316598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1922,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "母が56、父が59です\nhttps://t.co/mfkIycLMVz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 364
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T11:27:09.000Z",
+        "description": "│学生│ASD│自傷│高齢出産の賜物ガイジ\n@gdpg5dhxq_2♥︎拗れサブ垢︎@jplgmbj_honey♥︎避難垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "gdpg5dhxq_2"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "jplgmbj_honey"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/i5rvtrpvebtyts…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/i5rvtrpvebtyts1?t=c6RTYs&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/WqqDDIes5C"
+              }
+            ]
+          }
+        },
+        "id": "1913191921855746048",
+        "name": "はに",
+        "pinned_tweet_id": "1917140702796153098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004339597237743616/78-YMTpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 209,
+          "like_count": 18334,
+          "listed_count": 7,
+          "media_count": 109,
+          "tweet_count": 4418
+        },
+        "url": "https://t.co/WqqDDIes5C",
+        "username": "gdpg5dhxq",
+        "verified": false
+      }
+    ]
+  }
+}

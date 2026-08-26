@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2023120107887886747",
+    "created_at": "2026-02-15T19:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T20:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023120107887886747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "822727418532139009",
+          "start": 3,
+          "username": "gutineko20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023120107887886747",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022879494969921606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gutineko20: 俺の不幸の始まりがこんなふざけた行為な事に怒りを感じる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2023120107887886747",
+        "created_at": "2026-02-15T19:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023120107887886747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "822727418532139009",
+              "start": 3,
+              "username": "gutineko20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023120107887886747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022879494969921606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @gutineko20: 俺の不幸の始まりがこんなふざけた行為な事に怒りを感じる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822727418532139009",
+        "conversation_id": "2022879494969921606",
+        "created_at": "2026-02-15T03:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022879494969921606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dareka_sav/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/dareka_sav/status/2022641014171910322",
+              "start": 28,
+              "url": "https://t.co/NwNY5XWNLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022879494969921606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 183800,
+          "like_count": 7297,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022641014171910322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "俺の不幸の始まりがこんなふざけた行為な事に怒りを感じる https://t.co/NwNY5XWNLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 412
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:47:56.000Z",
+        "description": "思ったことを書いていきます。",
+        "id": "822727418532139009",
+        "name": "愚痴猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941032720856956928/YU5q7hsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 55,
+          "like_count": 16453,
+          "listed_count": 29,
+          "media_count": 459,
+          "tweet_count": 19211
+        },
+        "username": "gutineko20",
+        "verified": false
+      }
+    ]
+  }
+}

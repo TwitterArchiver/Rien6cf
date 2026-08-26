@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045866280377593856"
+      ],
+      "media_source_tweet_id": [
+        "2055204034378645513"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055448752081780997",
+    "created_at": "2026-05-16T00:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055448752081780997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771867187512594432",
+          "start": 3,
+          "username": "amaru_hkmn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0V2RuUypeq",
+          "end": 39,
+          "expanded_url": "https://x.com/amaru_hkmn/status/2055204034378645513/photo/1",
+          "media_key": "3_2045866280377593856",
+          "start": 16,
+          "url": "https://t.co/0V2RuUypeq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055448752081780997",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055204034378645513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amaru_hkmn: https://t.co/0V2RuUypeq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_2045866280377593856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRgiuPbMAABv1Z.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045866280377593856"
+          ],
+          "media_source_tweet_id": [
+            "2055204034378645513"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055448752081780997",
+        "created_at": "2026-05-16T00:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055448752081780997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771867187512594432",
+              "start": 3,
+              "username": "amaru_hkmn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0V2RuUypeq",
+              "end": 39,
+              "expanded_url": "https://x.com/amaru_hkmn/status/2055204034378645513/photo/1",
+              "media_key": "3_2045866280377593856",
+              "start": 16,
+              "url": "https://t.co/0V2RuUypeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055448752081780997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055204034378645513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amaru_hkmn: https://t.co/0V2RuUypeq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045866280377593856"
+          ]
+        },
+        "author_id": "1771867187512594432",
+        "conversation_id": "2055204034378645513",
+        "created_at": "2026-05-15T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055204034378645513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0V2RuUypeq",
+              "end": 23,
+              "expanded_url": "https://x.com/amaru_hkmn/status/2055204034378645513/photo/1",
+              "media_key": "3_2045866280377593856",
+              "start": 0,
+              "url": "https://t.co/0V2RuUypeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055204034378645513",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 48830,
+          "like_count": 2331,
+          "quote_count": 15,
+          "reply_count": 7,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0V2RuUypeq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 3983,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2063
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T11:51:07.000Z",
+        "description": "※オ一バ一ド一ズを推奨する目的はありません \nDiscord鯖:https://t.co/3O01i9Pa4G\n自我垢@ODdaisukinTV \n鍵垢@the_last09s  コラ画像のリクエスト、提供受け付けてます🦪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "ODdaisukinTV"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "the_last09s"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Tyfp7DryE2",
+                "end": 55,
+                "expanded_url": "https://discord.gg/Tyfp7DryE2",
+                "start": 32,
+                "url": "https://t.co/3O01i9Pa4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saenskinbot.com",
+                "end": 23,
+                "expanded_url": "http://saenskinbot.com",
+                "start": 0,
+                "url": "https://t.co/8Du10tPXKM"
+              }
+            ]
+          }
+        },
+        "id": "1771867187512594432",
+        "location": "投稿してる画像はほぼコラ画像、改変動画です。",
+        "name": "オ一バ一ド一ズキン",
+        "pinned_tweet_id": "1885310578090230113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048410632819814400/FLuVDd0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4516,
+          "following_count": 2930,
+          "like_count": 603,
+          "listed_count": 13,
+          "media_count": 821,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/8Du10tPXKM",
+        "username": "amaru_hkmn",
+        "verified": false
+      }
+    ]
+  }
+}

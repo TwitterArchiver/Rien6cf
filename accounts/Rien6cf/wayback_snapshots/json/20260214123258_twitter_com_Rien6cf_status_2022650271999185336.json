@@ -1,0 +1,802 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022643315360088064"
+      ],
+      "media_source_tweet_id": [
+        "2022643458264174987"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2022650271999185336",
+    "created_at": "2026-02-14T12:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022650271999185336"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "愛言葉V",
+          "probability": 0.6628,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 68,
+          "normalized_text": "愛言葉V",
+          "probability": 0.5111,
+          "start": 65,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "初音ミク",
+          "probability": 0.8295,
+          "start": 76,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "33290455",
+          "start": 3,
+          "username": "DECO27"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「愛言葉は終わらせない」Listen & Download: https://karent.jp/album/5374 (2/15 0時配信スタート)デコミク LIVE starring 初音ミク『Hello』夜公演のアーカイブ配信中！詳細ページ: https://abema.go.link/4X3il配信日時:...",
+          "display_url": "youtu.be/hK82hfN_ymQ",
+          "end": 104,
+          "expanded_url": "https://youtu.be/hK82hfN_ymQ",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2022642551841525767/895V1g2Z?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2022642551841525767/895V1g2Z?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 81,
+          "status": 200,
+          "title": "DECO*27 - 愛言葉V feat. 初音ミク",
+          "unwound_url": "https://www.youtube.com/watch?v=hK82hfN_ymQ&feature=youtu.be",
+          "url": "https://t.co/uLhvGFGPqb"
+        },
+        {
+          "display_url": "pic.x.com/TCUlXC7NQY",
+          "end": 128,
+          "expanded_url": "https://x.com/DECO27/status/2022643458264174987/photo/1",
+          "media_key": "3_2022643315360088064",
+          "start": 105,
+          "url": "https://t.co/TCUlXC7NQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022650271999185336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3745
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022643458264174987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DECO27: このあと22時からデコミクライブで初披露した「愛言葉V」のMVをプレミア公開します\n\nDECO*27 - 愛言葉V feat. 初音ミク\nhttps://t.co/uLhvGFGPqb https://t.co/TCUlXC7NQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2022643315360088064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHfYP9bQAAboKj.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022643315360088064"
+          ],
+          "media_source_tweet_id": [
+            "2022643458264174987"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2022650271999185336",
+        "created_at": "2026-02-14T12:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022650271999185336"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "愛言葉V",
+              "probability": 0.6628,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "愛言葉V",
+              "probability": 0.5111,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "初音ミク",
+              "probability": 0.8295,
+              "start": 76,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "33290455",
+              "start": 3,
+              "username": "DECO27"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「愛言葉は終わらせない」Listen & Download: https://karent.jp/album/5374 (2/15 0時配信スタート)デコミク LIVE starring 初音ミク『Hello』夜公演のアーカイブ配信中！詳細ページ: https://abema.go.link/4X3il配信日時:...",
+              "display_url": "youtu.be/hK82hfN_ymQ",
+              "end": 104,
+              "expanded_url": "https://youtu.be/hK82hfN_ymQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2022642551841525767/895V1g2Z?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022642551841525767/895V1g2Z?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "DECO*27 - 愛言葉V feat. 初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=hK82hfN_ymQ&feature=youtu.be",
+              "url": "https://t.co/uLhvGFGPqb"
+            },
+            {
+              "display_url": "pic.x.com/TCUlXC7NQY",
+              "end": 128,
+              "expanded_url": "https://x.com/DECO27/status/2022643458264174987/photo/1",
+              "media_key": "3_2022643315360088064",
+              "start": 105,
+              "url": "https://t.co/TCUlXC7NQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022650271999185336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3745
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022643458264174987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DECO27: このあと22時からデコミクライブで初披露した「愛言葉V」のMVをプレミア公開します\n\nDECO*27 - 愛言葉V feat. 初音ミク\nhttps://t.co/uLhvGFGPqb https://t.co/TCUlXC7NQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022643315360088064"
+          ]
+        },
+        "author_id": "33290455",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2022643458264174987",
+        "created_at": "2026-02-14T12:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022643458264174987"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "愛言葉V",
+              "probability": 0.6633,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "愛言葉V",
+              "probability": 0.5235,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "初音ミク",
+              "probability": 0.8277,
+              "start": 64,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「愛言葉は終わらせない」Listen & Download: https://karent.jp/album/5374 (2/15 0時配信スタート)デコミク LIVE starring 初音ミク『Hello』夜公演のアーカイブ配信中！詳細ページ: https://abema.go.link/4X3il配信日時:...",
+              "display_url": "youtu.be/hK82hfN_ymQ",
+              "end": 92,
+              "expanded_url": "https://youtu.be/hK82hfN_ymQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2022642551841525767/895V1g2Z?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022642551841525767/895V1g2Z?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "DECO*27 - 愛言葉V feat. 初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=hK82hfN_ymQ&feature=youtu.be",
+              "url": "https://t.co/uLhvGFGPqb"
+            },
+            {
+              "display_url": "pic.x.com/TCUlXC7NQY",
+              "end": 116,
+              "expanded_url": "https://x.com/DECO27/status/2022643458264174987/photo/1",
+              "media_key": "3_2022643315360088064",
+              "start": 93,
+              "url": "https://t.co/TCUlXC7NQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022643458264174987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 501,
+          "impression_count": 98182,
+          "like_count": 10341,
+          "quote_count": 526,
+          "reply_count": 28,
+          "retweet_count": 3745
+        },
+        "reply_settings": "everyone",
+        "text": "このあと22時からデコミクライブで初披露した「愛言葉V」のMVをプレミア公開します\n\nDECO*27 - 愛言葉V feat. 初音ミク\nhttps://t.co/uLhvGFGPqb https://t.co/TCUlXC7NQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 368
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-19T19:37:59.000Z",
+        "description": "27人いるわけじゃないです\nYouTube: https://t.co/tDVoNjhuCj\nInstagram: https://t.co/CQjW3Abk1S\nTikTok: https://t.co/vLjgzOnWET",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/DECO27Offici…",
+                "end": 46,
+                "expanded_url": "http://youtube.com/c/DECO27Official",
+                "start": 23,
+                "url": "https://t.co/tDVoNjhuCj"
+              },
+              {
+                "display_url": "instagram.com/deco27_39",
+                "end": 81,
+                "expanded_url": "https://www.instagram.com/deco27_39",
+                "start": 58,
+                "url": "https://t.co/CQjW3Abk1S"
+              },
+              {
+                "display_url": "tiktok.com/@deco27_offici…",
+                "end": 113,
+                "expanded_url": "https://www.tiktok.com/@deco27_official",
+                "start": 90,
+                "url": "https://t.co/vLjgzOnWET"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "otoiro.co.jp",
+                "end": 23,
+                "expanded_url": "https://otoiro.co.jp/",
+                "start": 0,
+                "url": "https://t.co/Chf4PUYlpM"
+              }
+            ]
+          }
+        },
+        "id": "33290455",
+        "location": "愛迷エレジー (Reloaded)",
+        "name": "DECO*27",
+        "pinned_tweet_id": "1958832444305809421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400323907735805954/DzkBzUPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154398,
+          "following_count": 596,
+          "like_count": 640,
+          "listed_count": 5797,
+          "media_count": 697,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/Chf4PUYlpM",
+        "username": "DECO27",
+        "verified": true
+      }
+    ]
+  }
+}

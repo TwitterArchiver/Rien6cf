@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065684507957862400"
+      ],
+      "media_source_tweet_id": [
+        "2065723599948837248"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066131015366828386",
+    "created_at": "2026-06-14T12:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066131015366828386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664742004423794688",
+          "start": 3,
+          "username": "rwayne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZxV6ADSna",
+          "end": 46,
+          "expanded_url": "https://x.com/rwayne/status/2065723599948837248/photo/1",
+          "media_key": "3_2065684507957862400",
+          "start": 23,
+          "url": "https://t.co/iZxV6ADSna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066131015366828386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065723599948837248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rwayne: 狼都知道保护老弱病残 https://t.co/iZxV6ADSna"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1198,
+        "media_key": "3_2065684507957862400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrJHZLbIAAkgIE.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065684507957862400"
+          ],
+          "media_source_tweet_id": [
+            "2065723599948837248"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066131015366828386",
+        "created_at": "2026-06-14T12:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066131015366828386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664742004423794688",
+              "start": 3,
+              "username": "rwayne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZxV6ADSna",
+              "end": 46,
+              "expanded_url": "https://x.com/rwayne/status/2065723599948837248/photo/1",
+              "media_key": "3_2065684507957862400",
+              "start": 23,
+              "url": "https://t.co/iZxV6ADSna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066131015366828386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065723599948837248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rwayne: 狼都知道保护老弱病残 https://t.co/iZxV6ADSna"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065684507957862400"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2065723599948837248",
+        "created_at": "2026-06-13T09:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065723599948837248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZxV6ADSna",
+              "end": 34,
+              "expanded_url": "https://x.com/rwayne/status/2065723599948837248/photo/1",
+              "media_key": "3_2065684507957862400",
+              "start": 11,
+              "url": "https://t.co/iZxV6ADSna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065723599948837248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 280176,
+          "like_count": 4202,
+          "quote_count": 2,
+          "reply_count": 294,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "狼都知道保护老弱病残 https://t.co/iZxV6ADSna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 189,
+          "like_count": 5674,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2581
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "一切身份标签都是当下的自我逃避\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2050050113142509886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51436,
+          "following_count": 768,
+          "like_count": 37023,
+          "listed_count": 268,
+          "media_count": 4246,
+          "tweet_count": 17692
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

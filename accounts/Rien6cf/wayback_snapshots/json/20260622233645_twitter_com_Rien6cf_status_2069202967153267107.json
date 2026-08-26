@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1263237723713724416",
+          "name": "Speedrunning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263237723713724416",
+          "name": "Speedrunning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541881395164786688",
+          "name": "Adventure games"
+        }
+      }
+    ],
+    "conversation_id": "2069202967153267107",
+    "created_at": "2026-06-22T23:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T00:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069202967153267107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734717788",
+          "start": 3,
+          "username": "SakaiMitaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069202967153267107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 859
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069077882882961692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakaiMitaru: 「ゲームを禁止されていた家庭」で思い出すのは今は亡き幼なじみです。一応1日15分は許されていたのですが、お母様が15分で容赦なく電源を切るので彼はミッキーのマジカルアドベンチャー一面を永遠にやっていました。17分でクリアしたRTA動画を見て、「…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1263237723713724416",
+              "name": "Speedrunning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263237723713724416",
+              "name": "Speedrunning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2069202967153267107",
+        "created_at": "2026-06-22T23:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T00:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069202967153267107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734717788",
+              "start": 3,
+              "username": "SakaiMitaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069202967153267107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 859
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069077882882961692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakaiMitaru: 「ゲームを禁止されていた家庭」で思い出すのは今は亡き幼なじみです。一応1日15分は許されていたのですが、お母様が15分で容赦なく電源を切るので彼はミッキーのマジカルアドベンチャー一面を永遠にやっていました。17分でクリアしたRTA動画を見て、「…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734717788",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1263237723713724416",
+              "name": "Speedrunning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263237723713724416",
+              "name": "Speedrunning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2069077882882961692",
+        "created_at": "2026-06-22T15:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069077882882961692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069077882882961692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1159,
+          "impression_count": 1680528,
+          "like_count": 17162,
+          "quote_count": 52,
+          "reply_count": 98,
+          "retweet_count": 859
+        },
+        "reply_settings": "everyone",
+        "text": "「ゲームを禁止されていた家庭」で思い出すのは今は亡き幼なじみです。一応1日15分は許されていたのですが、お母様が15分で容赦なく電源を切るので彼はミッキーのマジカルアドベンチャー一面を永遠にやっていました。17分でクリアしたRTA動画を見て、「15分あれば最終面まで行けるんだ…」と思いました"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "芸術科/SJK  \n頑張ってるから捨てないでね",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 187,
+          "like_count": 6090,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2664
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-06T10:34:02.000Z",
+        "description": "色々やる漫画アシ✳︎二次創作(百合)オリジナル(下ネタ)実録漫画✳︎転載・無断使用禁止✳︎https://t.co/ItigfmG92P✳︎YouTube:https://t.co/gRZ7NPTpst✳︎Skeb: https://t.co/fBJCvQLO93✳︎ほしい物リスト:https://t.co/Km9Mqx9Q5M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/sakaimitaru",
+                "end": 68,
+                "expanded_url": "https://lit.link/sakaimitaru",
+                "start": 45,
+                "url": "https://t.co/ItigfmG92P"
+              },
+              {
+                "display_url": "bit.ly/3ol16r6",
+                "end": 101,
+                "expanded_url": "http://bit.ly/3ol16r6",
+                "start": 78,
+                "url": "https://t.co/gRZ7NPTpst"
+              },
+              {
+                "display_url": "x.gd/qhUI2",
+                "end": 132,
+                "expanded_url": "https://x.gd/qhUI2",
+                "start": 109,
+                "url": "https://t.co/fBJCvQLO93"
+              },
+              {
+                "display_url": "x.gd/SPfRo",
+                "end": 165,
+                "expanded_url": "https://x.gd/SPfRo",
+                "start": 142,
+                "url": "https://t.co/Km9Mqx9Q5M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touch.pixiv.net/member_illust.…",
+                "end": 23,
+                "expanded_url": "http://touch.pixiv.net/member_illust.php?id=104327",
+                "start": 0,
+                "url": "https://t.co/UeU2QOaH1v"
+              }
+            ]
+          }
+        },
+        "id": "1734717788",
+        "location": "https://lit.link/sakaimitaru",
+        "name": "境みたる@6/7ティアゆ55a",
+        "pinned_tweet_id": "2059923280258322897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059939992248668160/8itbLYOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7829,
+          "following_count": 616,
+          "like_count": 7569,
+          "listed_count": 114,
+          "media_count": 2418,
+          "tweet_count": 21630
+        },
+        "url": "https://t.co/UeU2QOaH1v",
+        "username": "SakaiMitaru",
+        "verified": false
+      }
+    ]
+  }
+}

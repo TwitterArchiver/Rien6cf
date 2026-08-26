@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026724678350548993"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2026724684264517632",
+    "created_at": "2026-02-25T18:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T19:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026724684264517632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GURWAk9Lt6",
+          "end": 84,
+          "expanded_url": "https://x.com/Rien6cf/status/2026724684264517632/photo/1",
+          "media_key": "3_2026724678350548993",
+          "start": 61,
+          "url": "https://t.co/GURWAk9Lt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026724684264517632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有知道这位推友现生地址门牌号的……\n她现在吞了喹硫平和安非他酮，喝了八度的强爽出现心律失常，我打算报警但是没有门牌号 https://t.co/GURWAk9Lt6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026724678350548993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBfW16aMAEIup6.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026724678350548993"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2026724684264517632",
+        "created_at": "2026-02-25T18:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026724684264517632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GURWAk9Lt6",
+              "end": 84,
+              "expanded_url": "https://x.com/Rien6cf/status/2026724684264517632/photo/1",
+              "media_key": "3_2026724678350548993",
+              "start": 61,
+              "url": "https://t.co/GURWAk9Lt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026724684264517632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有知道这位推友现生地址门牌号的……\n她现在吞了喹硫平和安非他酮，喝了八度的强爽出现心律失常，我打算报警但是没有门牌号 https://t.co/GURWAk9Lt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 80,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 598
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

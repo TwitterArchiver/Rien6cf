@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056493858113138689",
+        "3_2056493858977202176",
+        "3_2056493861355368448",
+        "3_2056493863360208896"
+      ],
+      "media_source_tweet_id": [
+        "2056493866094854410",
+        "2056493866094854410",
+        "2056493866094854410",
+        "2056493866094854410"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056630116093231252",
+    "created_at": "2026-05-19T06:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056630116093231252"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "みにたんみにきて"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991449919790673924",
+          "start": 3,
+          "username": "32mini_luv2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/88BGL6GCMf",
+          "end": 83,
+          "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+          "media_key": "3_2056493858113138689",
+          "start": 60,
+          "url": "https://t.co/88BGL6GCMf"
+        },
+        {
+          "display_url": "pic.x.com/88BGL6GCMf",
+          "end": 83,
+          "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+          "media_key": "3_2056493858977202176",
+          "start": 60,
+          "url": "https://t.co/88BGL6GCMf"
+        },
+        {
+          "display_url": "pic.x.com/88BGL6GCMf",
+          "end": 83,
+          "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+          "media_key": "3_2056493861355368448",
+          "start": 60,
+          "url": "https://t.co/88BGL6GCMf"
+        },
+        {
+          "display_url": "pic.x.com/88BGL6GCMf",
+          "end": 83,
+          "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+          "media_key": "3_2056493863360208896",
+          "start": 60,
+          "url": "https://t.co/88BGL6GCMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056630116093231252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056493866094854410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @32mini_luv2: 可愛すぎて写メが止まらなかったo̴̶̷᷄  ·̭ o̴̶̷̥᷅\n #みにたんみにきて https://t.co/88BGL6GCMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1955,
+        "media_key": "3_2056493858113138689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoiRKebMAEhjO9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1943,
+        "media_key": "3_2056493858977202176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoiRNsbwAAauP5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1946,
+        "media_key": "3_2056493861355368448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoiRWjbsAAzgzu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1959,
+        "media_key": "3_2056493863360208896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoiReBbIAAMPaO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056493858113138689",
+            "3_2056493858977202176",
+            "3_2056493861355368448",
+            "3_2056493863360208896"
+          ],
+          "media_source_tweet_id": [
+            "2056493866094854410",
+            "2056493866094854410",
+            "2056493866094854410",
+            "2056493866094854410"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056630116093231252",
+        "created_at": "2026-05-19T06:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056630116093231252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "みにたんみにきて"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991449919790673924",
+              "start": 3,
+              "username": "32mini_luv2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88BGL6GCMf",
+              "end": 83,
+              "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+              "media_key": "3_2056493858113138689",
+              "start": 60,
+              "url": "https://t.co/88BGL6GCMf"
+            },
+            {
+              "display_url": "pic.x.com/88BGL6GCMf",
+              "end": 83,
+              "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+              "media_key": "3_2056493858977202176",
+              "start": 60,
+              "url": "https://t.co/88BGL6GCMf"
+            },
+            {
+              "display_url": "pic.x.com/88BGL6GCMf",
+              "end": 83,
+              "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+              "media_key": "3_2056493861355368448",
+              "start": 60,
+              "url": "https://t.co/88BGL6GCMf"
+            },
+            {
+              "display_url": "pic.x.com/88BGL6GCMf",
+              "end": 83,
+              "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+              "media_key": "3_2056493863360208896",
+              "start": 60,
+              "url": "https://t.co/88BGL6GCMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056630116093231252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056493866094854410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @32mini_luv2: 可愛すぎて写メが止まらなかったo̴̶̷᷄  ·̭ o̴̶̷̥᷅\n #みにたんみにきて https://t.co/88BGL6GCMf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056493858113138689",
+            "3_2056493858977202176",
+            "3_2056493861355368448",
+            "3_2056493863360208896"
+          ]
+        },
+        "author_id": "1991449919790673924",
+        "conversation_id": "2056493866094854410",
+        "created_at": "2026-05-18T21:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T22:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056493866094854410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "みにたんみにきて"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88BGL6GCMf",
+              "end": 66,
+              "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+              "media_key": "3_2056493858113138689",
+              "start": 43,
+              "url": "https://t.co/88BGL6GCMf"
+            },
+            {
+              "display_url": "pic.x.com/88BGL6GCMf",
+              "end": 66,
+              "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+              "media_key": "3_2056493858977202176",
+              "start": 43,
+              "url": "https://t.co/88BGL6GCMf"
+            },
+            {
+              "display_url": "pic.x.com/88BGL6GCMf",
+              "end": 66,
+              "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+              "media_key": "3_2056493861355368448",
+              "start": 43,
+              "url": "https://t.co/88BGL6GCMf"
+            },
+            {
+              "display_url": "pic.x.com/88BGL6GCMf",
+              "end": 66,
+              "expanded_url": "https://x.com/32mini_luv2/status/2056493866094854410/photo/1",
+              "media_key": "3_2056493863360208896",
+              "start": 43,
+              "url": "https://t.co/88BGL6GCMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056493866094854410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 30861,
+          "like_count": 1234,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "可愛すぎて写メが止まらなかったo̴̶̷᷄  ·̭ o̴̶̷̥᷅\n #みにたんみにきて https://t.co/88BGL6GCMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 169,
+          "like_count": 4242,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2137
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T10:14:06.000Z",
+        "description": "🩵@iLiFE_mini 26♡ 1🗣︎ / 🩷@para_chuin 59♡ 3🗣︎\nヘッダーは作ってもらいました♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "iLiFE_mini"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "para_chuin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/32mini_luv",
+                "end": 23,
+                "expanded_url": "http://lit.link/32mini_luv",
+                "start": 0,
+                "url": "https://t.co/ZqzyrRJAmU"
+              }
+            ]
+          }
+        },
+        "id": "1991449919790673924",
+        "name": "ゆうな",
+        "pinned_tweet_id": "2034934241562436044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015550674466230272/sowDrJeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 754,
+          "like_count": 23649,
+          "listed_count": 5,
+          "media_count": 540,
+          "tweet_count": 5268
+        },
+        "url": "https://t.co/ZqzyrRJAmU",
+        "username": "32mini_luv2",
+        "verified": false
+      }
+    ]
+  }
+}

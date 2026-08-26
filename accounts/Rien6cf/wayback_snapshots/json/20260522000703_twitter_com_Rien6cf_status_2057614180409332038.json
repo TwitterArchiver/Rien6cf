@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2057614180409332038",
+    "created_at": "2026-05-22T00:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057614180409332038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957602337352216576",
+          "start": 3,
+          "username": "sumin_chu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057614180409332038",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057110073621795033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sumin_chu: 親 「好きなことするのが1番だから☺️」\n⬆️\nえ⁉️⁉️否定してくるのは貴方ですよ😰😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2057614180409332038",
+        "created_at": "2026-05-22T00:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057614180409332038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957602337352216576",
+              "start": 3,
+              "username": "sumin_chu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057614180409332038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057110073621795033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sumin_chu: 親 「好きなことするのが1番だから☺️」\n⬆️\nえ⁉️⁉️否定してくるのは貴方ですよ😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957602337352216576",
+        "conversation_id": "2057110073621795033",
+        "created_at": "2026-05-20T14:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057110073621795033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057110073621795033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 19286,
+          "like_count": 2150,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "親 「好きなことするのが1番だから☺️」\n⬆️\nえ⁉️⁉️否定してくるのは貴方ですよ😰😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 171,
+          "like_count": 4333,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2169
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T00:36:19.000Z",
+        "description": "👊🏻🩸￤顔面コンプ￤学生🚺￤🗝@_ncyu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "_ncyu_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hq0vm7uqt2g3xr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/hq0vm7uqt2g3xrh?t=dYY0pw&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/cHNb7PZpBM"
+              }
+            ]
+          }
+        },
+        "id": "1957602337352216576",
+        "location": "一応雑多でス",
+        "name": "住人",
+        "pinned_tweet_id": "2006035322824511595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053118707464052736/FQSccvV9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 637,
+          "like_count": 100470,
+          "listed_count": 37,
+          "media_count": 290,
+          "tweet_count": 2779
+        },
+        "url": "https://t.co/cHNb7PZpBM",
+        "username": "sumin_chu",
+        "verified": false
+      }
+    ]
+  }
+}

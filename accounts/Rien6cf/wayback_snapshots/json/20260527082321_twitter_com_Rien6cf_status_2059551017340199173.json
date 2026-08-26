@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059507207281295360"
+      ],
+      "media_source_tweet_id": [
+        "2059507213836947638"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2059551017340199173",
+    "created_at": "2026-05-27T08:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059551017340199173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1456258384034820104",
+          "start": 3,
+          "username": "pupuno_pu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9lFRtvuL8H",
+          "end": 72,
+          "expanded_url": "https://x.com/pupuno_pu/status/2059507213836947638/photo/1",
+          "media_key": "3_2059507207281295360",
+          "start": 49,
+          "url": "https://t.co/9lFRtvuL8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059551017340199173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059507213836947638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pupuno_pu: 飼育員さんの指示待ちキラちゃん🌟\n(可愛すぎやろおおおおおおお💘) https://t.co/9lFRtvuL8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059507207281295360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTW5K5bwAA5pQW.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059507207281295360"
+          ],
+          "media_source_tweet_id": [
+            "2059507213836947638"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2059551017340199173",
+        "created_at": "2026-05-27T08:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059551017340199173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1456258384034820104",
+              "start": 3,
+              "username": "pupuno_pu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lFRtvuL8H",
+              "end": 72,
+              "expanded_url": "https://x.com/pupuno_pu/status/2059507213836947638/photo/1",
+              "media_key": "3_2059507207281295360",
+              "start": 49,
+              "url": "https://t.co/9lFRtvuL8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059551017340199173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059507213836947638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pupuno_pu: 飼育員さんの指示待ちキラちゃん🌟\n(可愛すぎやろおおおおおおお💘) https://t.co/9lFRtvuL8H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059507207281295360"
+          ]
+        },
+        "author_id": "1456258384034820104",
+        "conversation_id": "2059507213836947638",
+        "created_at": "2026-05-27T05:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059507213836947638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lFRtvuL8H",
+              "end": 57,
+              "expanded_url": "https://x.com/pupuno_pu/status/2059507213836947638/photo/1",
+              "media_key": "3_2059507207281295360",
+              "start": 34,
+              "url": "https://t.co/9lFRtvuL8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059507213836947638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 9247,
+          "like_count": 1199,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "飼育員さんの指示待ちキラちゃん🌟\n(可愛すぎやろおおおおおおお💘) https://t.co/9lFRtvuL8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 175,
+          "like_count": 4602,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2254
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T13:54:04.000Z",
+        "description": "",
+        "id": "1456258384034820104",
+        "location": "極地の海",
+        "name": "まるこ🦦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023541874309599232/P8OCtAsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 287,
+          "like_count": 31363,
+          "listed_count": 6,
+          "media_count": 1882,
+          "tweet_count": 4717
+        },
+        "username": "pupuno_pu",
+        "verified": false
+      }
+    ]
+  }
+}

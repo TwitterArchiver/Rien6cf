@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056891455613116416"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056891461166379452",
+    "created_at": "2026-05-20T00:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T01:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056891461166379452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OZoVnXOnUi",
+          "end": 28,
+          "expanded_url": "https://x.com/Rien6cf/status/2056891461166379452/photo/1",
+          "media_key": "3_2056891455613116416",
+          "start": 5,
+          "url": "https://t.co/OZoVnXOnUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056891461166379452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "終わった https://t.co/OZoVnXOnUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056891455613116416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuL4YlbIAAfOy7.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056891455613116416"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056891461166379452",
+        "created_at": "2026-05-20T00:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056891461166379452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZoVnXOnUi",
+              "end": 28,
+              "expanded_url": "https://x.com/Rien6cf/status/2056891461166379452/photo/1",
+              "media_key": "3_2056891455613116416",
+              "start": 5,
+              "url": "https://t.co/OZoVnXOnUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056891461166379452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "終わった https://t.co/OZoVnXOnUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 169,
+          "like_count": 4280,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2147
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

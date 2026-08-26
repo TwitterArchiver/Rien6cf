@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2027054668409704951",
+    "created_at": "2026-02-26T16:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027054668409704951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orz_kokomi/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/orz_kokomi/status/2026987303663775848",
+          "start": 8,
+          "url": "https://t.co/eyuzENPivr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027054668409704951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026987303663775848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我恨死我自己了 https://t.co/eyuzENPivr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2027054668409704951",
+        "created_at": "2026-02-26T16:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027054668409704951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orz_kokomi/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/orz_kokomi/status/2026987303663775848",
+              "start": 8,
+              "url": "https://t.co/eyuzENPivr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027054668409704951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026987303663775848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我恨死我自己了 https://t.co/eyuzENPivr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963964207218794498",
+        "conversation_id": "2026987303663775848",
+        "created_at": "2026-02-26T11:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026987303663775848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026987303663775848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 56703,
+          "like_count": 753,
+          "quote_count": 16,
+          "reply_count": 49,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "从我有做爱这个意识开始，我就特别恐惧做爱，因为我害怕对方看见我的小肚子、我的乳头和逼根本不是粉色的、我的胳膊特别粗……甚至我幻想做爱体位都是后入，因为这样对方就看不见我的脸了…………\n后面发现完全多虑，但是回想起来还是觉得少女心事萌萌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 83,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 613
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T13:55:50.000Z",
+        "description": "大量碎碎念/有男友版/纯绿不拍黄图不约/ 会视奸所有给我评论的孩子/防丢失小号@kokomi33ovo‼️不回男的私信‼️置顶关评推广自辨‼️‼️没有电报‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "kokomi33ovo"
+              }
+            ]
+          }
+        },
+        "id": "1963964207218794498",
+        "name": "小睡不睡了",
+        "pinned_tweet_id": "2002710121273802962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963964496038490112/zSL8tUpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9433,
+          "following_count": 61,
+          "like_count": 850,
+          "listed_count": 20,
+          "media_count": 16,
+          "tweet_count": 608
+        },
+        "username": "orz_kokomi",
+        "verified": false
+      }
+    ]
+  }
+}

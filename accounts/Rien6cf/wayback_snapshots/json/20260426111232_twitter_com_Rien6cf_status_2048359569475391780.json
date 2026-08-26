@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2048358003049701379",
+    "created_at": "2026-04-26T11:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048359569475391780"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048359569475391780",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048358003049701379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我塞进各种辅导班，想去的不想去的，我变得除了学习以外啥都不会，那你好歹让我玩一会啊？在学校没人和我说话在外边同学约我去玩全被我老冯子推掉了，我妈的指定朋友也带着所有人排挤我，爸妈俩理念不合的农村人结婚了天天为了要上哪个补习班吵，生病烧到三十八度也有练习题等着我，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2048358003049701379",
+        "created_at": "2026-04-26T11:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048359569475391780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048359569475391780",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048358003049701379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我塞进各种辅导班，想去的不想去的，我变得除了学习以外啥都不会，那你好歹让我玩一会啊？在学校没人和我说话在外边同学约我去玩全被我老冯子推掉了，我妈的指定朋友也带着所有人排挤我，爸妈俩理念不合的农村人结婚了天天为了要上哪个补习班吵，生病烧到三十八度也有练习题等着我，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2048358003049701379",
+        "created_at": "2026-04-26T11:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048358003049701379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048358003049701379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "走到今天这一步到底是为什么？他妈，这个，小时候为了不让我学艺术啥都干得出来现在只剩这一条了是不是又对我不闻不问啥都不敢等着坐享其成"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 147,
+          "like_count": 3061,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1747
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

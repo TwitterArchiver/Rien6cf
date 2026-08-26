@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065819128682991666",
+    "created_at": "2026-06-13T15:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065819128682991666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869318936388608000",
+          "start": 3,
+          "username": "p_sama1616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065819128682991666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065687969193926942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p_sama1616: 双極性障害の「躁」って\nただの「明るい」ではないんだよ\n【イカれた明るさ】なんだよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2065819128682991666",
+        "created_at": "2026-06-13T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065819128682991666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869318936388608000",
+              "start": 3,
+              "username": "p_sama1616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065819128682991666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065687969193926942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p_sama1616: 双極性障害の「躁」って\nただの「明るい」ではないんだよ\n【イカれた明るさ】なんだよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869318936388608000",
+        "conversation_id": "2065687969193926942",
+        "created_at": "2026-06-13T06:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:00:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065675536639344810",
+          "2065687969193926942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065687969193926942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 55495,
+          "like_count": 1133,
+          "quote_count": 27,
+          "reply_count": 10,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "双極性障害の「躁」って\nただの「明るい」ではないんだよ\n【イカれた明るさ】なんだよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 188,
+          "like_count": 5640,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2577
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T09:49:08.000Z",
+        "description": "愛されてるやつの言葉は、信じるな",
+        "id": "1869318936388608000",
+        "name": "限界がんこちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997843633714999296/BwLMyQKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30470,
+          "following_count": 3635,
+          "like_count": 16243,
+          "listed_count": 104,
+          "media_count": 6,
+          "tweet_count": 4545
+        },
+        "username": "p_sama1616",
+        "verified": true
+      }
+    ]
+  }
+}

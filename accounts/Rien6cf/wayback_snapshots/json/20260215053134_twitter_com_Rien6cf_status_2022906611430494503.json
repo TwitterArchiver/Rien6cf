@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022906611430494503",
+    "created_at": "2026-02-15T05:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022906611430494503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857670314240659456",
+          "start": 3,
+          "username": "Mocha_108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022906611430494503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022527217184715016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mocha_108: 良い依存先ランキング\n\n3位　人間、ネット\n2位　ゲーム\n1位　趣味\n\n最下位　薬、自傷行為"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022906611430494503",
+        "created_at": "2026-02-15T05:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022906611430494503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857670314240659456",
+              "start": 3,
+              "username": "Mocha_108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022906611430494503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022527217184715016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mocha_108: 良い依存先ランキング\n\n3位　人間、ネット\n2位　ゲーム\n1位　趣味\n\n最下位　薬、自傷行為"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857670314240659456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022527217184715016",
+        "created_at": "2026-02-14T04:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022527217184715016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022527217184715016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4738,
+          "like_count": 523,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "良い依存先ランキング\n\n3位　人間、ネット\n2位　ゲーム\n1位　趣味\n\n最下位　薬、自傷行為"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 68,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 370
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T06:21:49.000Z",
+        "description": "251🎀@mmme__aa ￤ ペア画@WhEnj_o0 ￤ ꄗ @1_o_o_e_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "mmme__aa"
+              },
+              {
+                "end": 28,
+                "start": 19,
+                "username": "WhEnj_o0"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "1_o_o_e_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ktpex1r15rwp1p…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ktpex1r15rwp1p0?t=TtGDj5&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/nUI7LIyJJB"
+              }
+            ]
+          }
+        },
+        "id": "1857670314240659456",
+        "location": "浮上≠DM",
+        "name": "清水",
+        "pinned_tweet_id": "2022893042504732847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022210889324408842/QDYc69_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 292,
+          "like_count": 25900,
+          "listed_count": 25,
+          "media_count": 10,
+          "tweet_count": 28212
+        },
+        "url": "https://t.co/nUI7LIyJJB",
+        "username": "Mocha_108",
+        "verified": false
+      }
+    ]
+  }
+}

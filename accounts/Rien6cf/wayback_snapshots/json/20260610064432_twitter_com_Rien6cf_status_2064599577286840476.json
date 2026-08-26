@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064355034419339264"
+      ],
+      "media_source_tweet_id": [
+        "2064355044980634108"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064599577286840476",
+    "created_at": "2026-06-10T06:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064599577286840476"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "あざらし界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1099178101580296192",
+          "start": 3,
+          "username": "jiromaru0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/atvsNtQ7Qb",
+          "end": 49,
+          "expanded_url": "https://x.com/jiromaru0/status/2064355044980634108/video/1",
+          "media_key": "13_2064355034419339264",
+          "start": 26,
+          "url": "https://t.co/atvsNtQ7Qb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064599577286840476",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064355044980634108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiromaru0: べー\n#あざらし界隈 https://t.co/atvsNtQ7Qb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5508,
+        "height": 720,
+        "media_key": "13_2064355034419339264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064355034419339264/img/WHTkjlZ-RIAN8_D1.jpg",
+        "public_metrics": {
+          "view_count": 1365
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064355034419339264/vid/avc1/320x320/ZtttU4VTcqQkO9xr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064355034419339264/vid/avc1/540x540/25MyrtPuICgcgPtr.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064355034419339264/vid/avc1/720x720/Keni2ePWi5cFiyaa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064355034419339264/pl/wyvxUcy8NKf0Fmie.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064355034419339264"
+          ],
+          "media_source_tweet_id": [
+            "2064355044980634108"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064599577286840476",
+        "created_at": "2026-06-10T06:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064599577286840476"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "あざらし界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1099178101580296192",
+              "start": 3,
+              "username": "jiromaru0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/atvsNtQ7Qb",
+              "end": 49,
+              "expanded_url": "https://x.com/jiromaru0/status/2064355044980634108/video/1",
+              "media_key": "13_2064355034419339264",
+              "start": 26,
+              "url": "https://t.co/atvsNtQ7Qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064599577286840476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064355044980634108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiromaru0: べー\n#あざらし界隈 https://t.co/atvsNtQ7Qb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064355034419339264"
+          ]
+        },
+        "author_id": "1099178101580296192",
+        "conversation_id": "2064355044980634108",
+        "created_at": "2026-06-09T14:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064355044980634108"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "あざらし界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/atvsNtQ7Qb",
+              "end": 34,
+              "expanded_url": "https://x.com/jiromaru0/status/2064355044980634108/video/1",
+              "media_key": "13_2064355034419339264",
+              "start": 11,
+              "url": "https://t.co/atvsNtQ7Qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064355044980634108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 6565,
+          "like_count": 295,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "べー\n#あざらし界隈 https://t.co/atvsNtQ7Qb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5398,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2515
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-23T05:24:15.000Z",
+        "description": "はじめまして、じろうまるです。\nいちにちいっかい、みんなにおててをふります。ふらないときもあります。\n #あざらし界隈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 52,
+                "tag": "あざらし界隈"
+              }
+            ]
+          }
+        },
+        "id": "1099178101580296192",
+        "location": "こんにちは〜",
+        "name": "じろうまる。",
+        "pinned_tweet_id": "1981378267639857476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032629182883360768/mRdvkUw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 1,
+          "like_count": 2627,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 63
+        },
+        "username": "jiromaru0",
+        "verified": false
+      }
+    ]
+  }
+}

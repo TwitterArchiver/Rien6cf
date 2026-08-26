@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2028602260520042532",
+    "created_at": "2026-03-02T22:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T23:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028602260520042532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028602260520042532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我见过我自己濒死的样子…其实也不算吧应该是低血压到休克然后脸很白、据我同学描述像诈尸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2028602260520042532",
+        "created_at": "2026-03-02T22:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T23:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028602260520042532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028602260520042532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我见过我自己濒死的样子…其实也不算吧应该是低血压到休克然后脸很白、据我同学描述像诈尸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 91,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 672
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

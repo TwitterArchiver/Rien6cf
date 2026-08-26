@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063586267477282816",
+        "3_2063586267447906305",
+        "3_2063586267498242048",
+        "3_2063586267447930880"
+      ],
+      "media_source_tweet_id": [
+        "2063586273240211767",
+        "2063586273240211767",
+        "2063586273240211767",
+        "2063586273240211767"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063596099659759689",
+    "created_at": "2026-06-07T12:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063596099659759689"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 27,
+          "tag": "恋するへびべあ診断"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060238168532926464",
+          "start": 3,
+          "username": "heavybear_37"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mcs6pjOWZo",
+          "end": 61,
+          "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+          "media_key": "3_2063586267477282816",
+          "start": 38,
+          "url": "https://t.co/Mcs6pjOWZo"
+        },
+        {
+          "display_url": "pic.x.com/Mcs6pjOWZo",
+          "end": 61,
+          "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+          "media_key": "3_2063586267447906305",
+          "start": 38,
+          "url": "https://t.co/Mcs6pjOWZo"
+        },
+        {
+          "display_url": "pic.x.com/Mcs6pjOWZo",
+          "end": 61,
+          "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+          "media_key": "3_2063586267498242048",
+          "start": 38,
+          "url": "https://t.co/Mcs6pjOWZo"
+        },
+        {
+          "display_url": "pic.x.com/Mcs6pjOWZo",
+          "end": 61,
+          "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+          "media_key": "3_2063586267447930880",
+          "start": 38,
+          "url": "https://t.co/Mcs6pjOWZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063596099659759689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063586273240211767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heavybear_37: 『不安になる』\n\n#恋するへびべあ診断 https://t.co/Mcs6pjOWZo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063586267477282816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNUxuRbkAATYfI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063586267447906305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNUxuKbUAE2izO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063586267498242048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNUxuWbYAAhhu0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063586267447930880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNUxuKbsAAqOlY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063586267477282816",
+            "3_2063586267447906305",
+            "3_2063586267498242048",
+            "3_2063586267447930880"
+          ],
+          "media_source_tweet_id": [
+            "2063586273240211767",
+            "2063586273240211767",
+            "2063586273240211767",
+            "2063586273240211767"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063596099659759689",
+        "created_at": "2026-06-07T12:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063596099659759689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "恋するへびべあ診断"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060238168532926464",
+              "start": 3,
+              "username": "heavybear_37"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mcs6pjOWZo",
+              "end": 61,
+              "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+              "media_key": "3_2063586267477282816",
+              "start": 38,
+              "url": "https://t.co/Mcs6pjOWZo"
+            },
+            {
+              "display_url": "pic.x.com/Mcs6pjOWZo",
+              "end": 61,
+              "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+              "media_key": "3_2063586267447906305",
+              "start": 38,
+              "url": "https://t.co/Mcs6pjOWZo"
+            },
+            {
+              "display_url": "pic.x.com/Mcs6pjOWZo",
+              "end": 61,
+              "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+              "media_key": "3_2063586267498242048",
+              "start": 38,
+              "url": "https://t.co/Mcs6pjOWZo"
+            },
+            {
+              "display_url": "pic.x.com/Mcs6pjOWZo",
+              "end": 61,
+              "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+              "media_key": "3_2063586267447930880",
+              "start": 38,
+              "url": "https://t.co/Mcs6pjOWZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063596099659759689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063586273240211767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heavybear_37: 『不安になる』\n\n#恋するへびべあ診断 https://t.co/Mcs6pjOWZo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063586267477282816",
+            "3_2063586267447906305",
+            "3_2063586267498242048",
+            "3_2063586267447930880"
+          ]
+        },
+        "author_id": "2060238168532926464",
+        "conversation_id": "2063586273240211767",
+        "created_at": "2026-06-07T11:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063586273240211767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 9,
+              "tag": "恋するへびべあ診断"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mcs6pjOWZo",
+              "end": 43,
+              "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+              "media_key": "3_2063586267477282816",
+              "start": 20,
+              "url": "https://t.co/Mcs6pjOWZo"
+            },
+            {
+              "display_url": "pic.x.com/Mcs6pjOWZo",
+              "end": 43,
+              "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+              "media_key": "3_2063586267447906305",
+              "start": 20,
+              "url": "https://t.co/Mcs6pjOWZo"
+            },
+            {
+              "display_url": "pic.x.com/Mcs6pjOWZo",
+              "end": 43,
+              "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+              "media_key": "3_2063586267498242048",
+              "start": 20,
+              "url": "https://t.co/Mcs6pjOWZo"
+            },
+            {
+              "display_url": "pic.x.com/Mcs6pjOWZo",
+              "end": 43,
+              "expanded_url": "https://x.com/heavybear_37/status/2063586273240211767/photo/1",
+              "media_key": "3_2063586267447930880",
+              "start": 20,
+              "url": "https://t.co/Mcs6pjOWZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063586273240211767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 29638,
+          "like_count": 1373,
+          "quote_count": 61,
+          "reply_count": 1,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "『不安になる』\n\n#恋するへびべあ診断 https://t.co/Mcs6pjOWZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 185,
+          "like_count": 5202,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2455
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T05:55:27.000Z",
+        "description": "『重いくらいが丁度いい』\n♥ #恋するへびべあ診断 🧸💗｜https://t.co/vksTqPralF\n♥ LOGRAY(@LOGRAY_37)\n♥ お問い合わせはこちら ❥❥ staff@logray.jp",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 15,
+                "tag": "恋するへびべあ診断"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "LOGRAY_37"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kuma-16-type.vercel.app",
+                "end": 52,
+                "expanded_url": "https://kuma-16-type.vercel.app/",
+                "start": 29,
+                "url": "https://t.co/vksTqPralF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/heavybear_37?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/heavybear_37?igsh=N2s2ejFyM3phdzI5&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/yXtWzR769z"
+              }
+            ]
+          }
+        },
+        "id": "2060238168532926464",
+        "name": "へびーべあー",
+        "pinned_tweet_id": "2060299568747786666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060239887195164672/dPNG8I2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7143,
+          "following_count": 6,
+          "like_count": 65,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/yXtWzR769z",
+        "username": "heavybear_37",
+        "verified": false
+      }
+    ]
+  }
+}

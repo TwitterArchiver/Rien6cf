@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2036791214092243449",
+    "created_at": "2026-03-25T13:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T14:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036791214092243449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903024816430649346",
+          "start": 3,
+          "username": "sinseinno_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036791214092243449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036431043335692679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sinseinno_: 眠剤飲んで凍死したあの子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2036791214092243449",
+        "created_at": "2026-03-25T13:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036791214092243449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903024816430649346",
+              "start": 3,
+              "username": "sinseinno_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036791214092243449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036431043335692679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sinseinno_: 眠剤飲んで凍死したあの子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903024816430649346",
+        "conversation_id": "2036431043335692679",
+        "created_at": "2026-03-24T13:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036431043335692679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036431043335692679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 31810,
+          "like_count": 746,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "眠剤飲んで凍死したあの子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2035372064241303646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 116,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1259
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T10:04:26.000Z",
+        "description": "神聖かまってちゃん🐼\n無言フォロー失礼します\n🗝️@KgDa60okB030203",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "KgDa60okB030203"
+              }
+            ]
+          }
+        },
+        "id": "1903024816430649346",
+        "location": "市民プールから参上",
+        "name": "なな",
+        "pinned_tweet_id": "1979731504797479295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941049046942076928/yBPaXvky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 679,
+          "like_count": 22460,
+          "listed_count": 6,
+          "media_count": 108,
+          "tweet_count": 2095
+        },
+        "username": "sinseinno_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051248122907725824"
+      ],
+      "media_source_tweet_id": [
+        "2051248262498410957"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051350298267111744",
+    "created_at": "2026-05-04T17:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051350298267111744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "90615141",
+          "start": 3,
+          "username": "NishizawasanP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BchjO5X8cJ",
+          "end": 53,
+          "expanded_url": "https://x.com/NishizawasanP/status/2051248262498410957/video/1",
+          "media_key": "13_2051248122907725824",
+          "start": 30,
+          "url": "https://t.co/BchjO5X8cJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051350298267111744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3878
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051248262498410957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NishizawasanP: 我が家の令和リメイク https://t.co/BchjO5X8cJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29098,
+        "height": 1080,
+        "media_key": "13_2051248122907725824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051248122907725824/img/GN7akyX2ZYuOvFzA.jpg",
+        "public_metrics": {
+          "view_count": 202655
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051248122907725824/vid/avc1/640x360/yHUtQPNBl_lHe-16.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051248122907725824/vid/avc1/1920x1080/FD81VLMeUHGdQmcG.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051248122907725824/pl/z3IZMLYCbMZlg8RI.m3u8?tag=27&v=7ab"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051248122907725824/vid/avc1/480x270/rj6K5h8OYt26g4hi.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051248122907725824/vid/avc1/1280x720/SLLYg1wpoFXtvnfE.mp4?tag=27"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051248122907725824"
+          ],
+          "media_source_tweet_id": [
+            "2051248262498410957"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051350298267111744",
+        "created_at": "2026-05-04T17:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051350298267111744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "90615141",
+              "start": 3,
+              "username": "NishizawasanP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BchjO5X8cJ",
+              "end": 53,
+              "expanded_url": "https://x.com/NishizawasanP/status/2051248262498410957/video/1",
+              "media_key": "13_2051248122907725824",
+              "start": 30,
+              "url": "https://t.co/BchjO5X8cJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051350298267111744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3878
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051248262498410957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NishizawasanP: 我が家の令和リメイク https://t.co/BchjO5X8cJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051248122907725824"
+          ]
+        },
+        "author_id": "90615141",
+        "conversation_id": "2051248262498410957",
+        "created_at": "2026-05-04T10:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051248262498410957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BchjO5X8cJ",
+              "end": 34,
+              "expanded_url": "https://x.com/NishizawasanP/status/2051248262498410957/video/1",
+              "media_key": "13_2051248122907725824",
+              "start": 11,
+              "url": "https://t.co/BchjO5X8cJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051248262498410957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2122,
+          "impression_count": 702452,
+          "like_count": 18009,
+          "quote_count": 475,
+          "reply_count": 8,
+          "retweet_count": 3878
+        },
+        "reply_settings": "everyone",
+        "text": "我が家の令和リメイク https://t.co/BchjO5X8cJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 163,
+          "like_count": 3344,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1854
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-17T12:03:23.000Z",
+        "description": "ボカロと音楽家。夜もすがら君想ふ/Booo!/ワールドワイドワンダー他。 Vの曲：リゼ・ヘルエスタ/竜胆尊/湊あくあ/白上フブキ/白銀ノエル/白雪みしろ ◆Works：https://t.co/5cs9PywKdP ◆YouTube：https://t.co/novntXSLMB ◆連絡先：nicoyou302☆https://t.co/A6o6DoNLBo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/y8w73U",
+                "end": 107,
+                "expanded_url": "http://goo.gl/y8w73U",
+                "start": 84,
+                "url": "https://t.co/5cs9PywKdP"
+              },
+              {
+                "display_url": "goo.gl/Qphzmw",
+                "end": 140,
+                "expanded_url": "http://goo.gl/Qphzmw",
+                "start": 117,
+                "url": "https://t.co/novntXSLMB"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 180,
+                "expanded_url": "http://gmail.com",
+                "start": 157,
+                "url": "https://t.co/A6o6DoNLBo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zawaso.com",
+                "end": 23,
+                "expanded_url": "https://zawaso.com",
+                "start": 0,
+                "url": "https://t.co/ddCiIahZJq"
+              }
+            ]
+          }
+        },
+        "id": "90615141",
+        "location": "雀豪",
+        "name": "TOKOTOKO（西沢さんP）/ zawaso",
+        "pinned_tweet_id": "2035295741737148427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/817565973507018752/mG0PvWOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74659,
+          "following_count": 424,
+          "like_count": 1226,
+          "listed_count": 1028,
+          "media_count": 1350,
+          "tweet_count": 48736
+        },
+        "url": "https://t.co/ddCiIahZJq",
+        "username": "NishizawasanP",
+        "verified": true
+      }
+    ]
+  }
+}

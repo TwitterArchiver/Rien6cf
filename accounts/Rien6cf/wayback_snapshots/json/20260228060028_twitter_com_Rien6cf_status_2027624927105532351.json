@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027425011615838208",
+        "3_2027425055307915265"
+      ],
+      "media_source_tweet_id": [
+        "2027425109691236699",
+        "2027425109691236699"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2027624927105532351",
+    "created_at": "2026-02-28T06:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027624927105532351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7O6vKUB68e",
+          "end": 51,
+          "expanded_url": "https://x.com/DDaquaforever/status/2027425109691236699/photo/1",
+          "media_key": "3_2027425011615838208",
+          "start": 28,
+          "url": "https://t.co/7O6vKUB68e"
+        },
+        {
+          "display_url": "pic.x.com/7O6vKUB68e",
+          "end": 51,
+          "expanded_url": "https://x.com/DDaquaforever/status/2027425109691236699/photo/1",
+          "media_key": "3_2027425055307915265",
+          "start": 28,
+          "url": "https://t.co/7O6vKUB68e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027624927105532351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027425109691236699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 我小时候的台湾病 https://t.co/7O6vKUB68e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2027425011615838208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLcTmoasAAQDPp.png",
+        "width": 640
+      },
+      {
+        "height": 640,
+        "media_key": "3_2027425055307915265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLcWJZa4AEiRfu.png",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027425011615838208",
+            "3_2027425055307915265"
+          ],
+          "media_source_tweet_id": [
+            "2027425109691236699",
+            "2027425109691236699"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2027624927105532351",
+        "created_at": "2026-02-28T06:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027624927105532351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7O6vKUB68e",
+              "end": 51,
+              "expanded_url": "https://x.com/DDaquaforever/status/2027425109691236699/photo/1",
+              "media_key": "3_2027425011615838208",
+              "start": 28,
+              "url": "https://t.co/7O6vKUB68e"
+            },
+            {
+              "display_url": "pic.x.com/7O6vKUB68e",
+              "end": 51,
+              "expanded_url": "https://x.com/DDaquaforever/status/2027425109691236699/photo/1",
+              "media_key": "3_2027425055307915265",
+              "start": 28,
+              "url": "https://t.co/7O6vKUB68e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027624927105532351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027425109691236699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 我小时候的台湾病 https://t.co/7O6vKUB68e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027425011615838208",
+            "3_2027425055307915265"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2027425109691236699",
+        "created_at": "2026-02-27T16:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027425109691236699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7O6vKUB68e",
+              "end": 32,
+              "expanded_url": "https://x.com/DDaquaforever/status/2027425109691236699/photo/1",
+              "media_key": "3_2027425011615838208",
+              "start": 9,
+              "url": "https://t.co/7O6vKUB68e"
+            },
+            {
+              "display_url": "pic.x.com/7O6vKUB68e",
+              "end": 32,
+              "expanded_url": "https://x.com/DDaquaforever/status/2027425109691236699/photo/1",
+              "media_key": "3_2027425055307915265",
+              "start": 9,
+              "url": "https://t.co/7O6vKUB68e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027425109691236699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 67968,
+          "like_count": 1151,
+          "quote_count": 14,
+          "reply_count": 61,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候的台湾病 https://t.co/7O6vKUB68e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 84,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 632
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 3515,
+          "like_count": 5240,
+          "listed_count": 9,
+          "media_count": 1991,
+          "tweet_count": 8783
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2031733072929124713",
+    "created_at": "2026-03-11T14:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031745142152138762"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "関東",
+          "probability": 0.6646,
+          "start": 14,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2023505570473594880",
+          "start": 0,
+          "username": "shIkIx0_0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031745142152138762",
+    "in_reply_to_user_id": "2023505570473594880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031733072929124713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shIkIx0_0x 逆に関東が多すぎ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2031733072929124713",
+        "created_at": "2026-03-11T14:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031745142152138762"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "関東",
+              "probability": 0.6646,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2023505570473594880",
+              "start": 0,
+              "username": "shIkIx0_0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031745142152138762",
+        "in_reply_to_user_id": "2023505570473594880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031733072929124713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shIkIx0_0x 逆に関東が多すぎ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023505570473594880",
+        "conversation_id": "2031733072929124713",
+        "created_at": "2026-03-11T14:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031733072929124713"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "岐阜",
+              "probability": 0.9837,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 4,
+              "normalized_text": "静岡",
+              "probability": 0.9888,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 7,
+              "normalized_text": "三重",
+              "probability": 0.9782,
+              "start": 6,
+              "type": "Place"
+            },
+            {
+              "end": 18,
+              "normalized_text": "東海",
+              "probability": 0.7158,
+              "start": 17,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031733072929124713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "岐阜も静岡も三重もほんとにいない\n東海の病み率まじ少ねえ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 106,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 959
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T21:11:53.000Z",
+        "description": "08 東海 通信 激甘微塩 片思い× 固定みて",
+        "id": "2023505570473594880",
+        "location": "すぐ信用しない",
+        "name": "死希",
+        "pinned_tweet_id": "2031370735353254218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031268577429553152/NPMb7mXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 108,
+          "like_count": 2575,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 218
+        },
+        "username": "shIkIx0_0x",
+        "verified": false
+      }
+    ]
+  }
+}

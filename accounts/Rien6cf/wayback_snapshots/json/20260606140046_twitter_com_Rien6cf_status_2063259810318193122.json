@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063205716136182199",
+    "created_at": "2026-06-06T14:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063259810318193122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047133284833144832",
+          "start": 0,
+          "username": "panipanitoire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063259810318193122",
+    "in_reply_to_user_id": "2047133284833144832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063205716136182199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@panipanitoire 肝臓も死んじゃった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063205716136182199",
+        "created_at": "2026-06-06T14:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063259810318193122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047133284833144832",
+              "start": 0,
+              "username": "panipanitoire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063259810318193122",
+        "in_reply_to_user_id": "2047133284833144832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063205716136182199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@panipanitoire 肝臓も死んじゃった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047133284833144832",
+        "conversation_id": "2063205716136182199",
+        "created_at": "2026-06-06T10:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063205716136182199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063205716136182199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3738,
+          "like_count": 205,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "✨0Dの後遺症集✨\n✨記憶力死ぬ✨\n✨視力死ぬ✨\n✨白髪増える✨\n✨頭がぼーっとする✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 184,
+          "like_count": 5134,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2441
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T02:00:47.000Z",
+        "description": "絶対に健常者\nよく垢制限されてこっちの垢からポスト、リプとかいいね飛ばすことある@pak1pak1toire\n251 @cymbalwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "pak1pak1toire"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "cymbalwo"
+              }
+            ]
+          }
+        },
+        "id": "2047133284833144832",
+        "location": "千×31　万×４　10万×１",
+        "name": "イーロンの奴隷",
+        "pinned_tweet_id": "2060307285604483265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048036737864421376/VGTYggqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 254,
+          "like_count": 16922,
+          "listed_count": 12,
+          "media_count": 101,
+          "tweet_count": 3470
+        },
+        "username": "panipanitoire",
+        "verified": false
+      }
+    ]
+  }
+}

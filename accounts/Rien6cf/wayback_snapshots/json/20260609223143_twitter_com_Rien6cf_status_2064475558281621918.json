@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064302074964345131",
+    "created_at": "2026-06-09T22:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T23:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064475558281621918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023729444276629505",
+          "start": 0,
+          "username": "konuno_kuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064475558281621918",
+    "in_reply_to_user_id": "2023729444276629505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064474771342131512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konuno_kuzu そんなことないですよ...！とにかく自分よりだいぶ大人だと思ってましたww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064302074964345131",
+        "created_at": "2026-06-09T22:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064475558281621918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023729444276629505",
+              "start": 0,
+              "username": "konuno_kuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064475558281621918",
+        "in_reply_to_user_id": "2023729444276629505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064474771342131512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konuno_kuzu そんなことないですよ...！とにかく自分よりだいぶ大人だと思ってましたww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023729444276629505",
+        "conversation_id": "2064302074964345131",
+        "created_at": "2026-06-09T22:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064474771342131512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064474771342131512",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064474219589824706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf ありがとうございますー！т т❤︎\n私めちゃくちゃガキです🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5380,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2506
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T12:01:56.000Z",
+        "description": "お荷物ガイジ︎ ︎ ︎ ︎🗝@konuno_sub  避難@konuno_hinan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "konuno_sub"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "konuno_hinan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/qvg8kxcocpbvrf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/qvg8kxcocpbvrfo?t=7PGb0B&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/n9YIYdh4gz"
+              }
+            ]
+          }
+        },
+        "id": "2023729444276629505",
+        "name": "こぬの",
+        "pinned_tweet_id": "2043254096040444346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024031728999059456/xH_qAVoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 154,
+          "like_count": 11036,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/n9YIYdh4gz",
+        "username": "konuno_kuzu",
+        "verified": false
+      }
+    ]
+  }
+}

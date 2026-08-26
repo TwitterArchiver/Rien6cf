@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2085305954837635179",
+    "created_at": "2026-08-06T10:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085305954837635179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047257672257290240",
+          "start": 3,
+          "username": "iyochandesu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085305954837635179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085264463561977877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iyochandesu_: なんで私女に生まれてきちゃったんだろう\n私が男だったら喧嘩で弟に殴り返せるのに負けないのに\n舐められないのに\n支配する側になれるのに\n顔にこんな悩まなくていいのに"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2085305954837635179",
+        "created_at": "2026-08-06T10:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085305954837635179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047257672257290240",
+              "start": 3,
+              "username": "iyochandesu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085305954837635179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085264463561977877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iyochandesu_: なんで私女に生まれてきちゃったんだろう\n私が男だったら喧嘩で弟に殴り返せるのに負けないのに\n舐められないのに\n支配する側になれるのに\n顔にこんな悩まなくていいのに"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047257672257290240",
+        "conversation_id": "2085264463561977877",
+        "created_at": "2026-08-06T07:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085264463561977877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085264463561977877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "なんで私女に生まれてきちゃったんだろう\n私が男だったら喧嘩で弟に殴り返せるのに負けないのに\n舐められないのに\n支配する側になれるのに\n顔にこんな悩まなくていいのに"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 210,
+          "like_count": 9253,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3280
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T10:14:18.000Z",
+        "description": "全コンプfjk雑多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/lgbp1dvpd3hb23…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/lgbp1dvpd3hb23j?t=vtSALb&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/hkXFc24Hi8"
+              }
+            ]
+          }
+        },
+        "id": "2047257672257290240",
+        "location": "是多高等学校",
+        "name": "いいよ‼️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064309732798873600/1fw4pUYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 448,
+          "like_count": 16343,
+          "listed_count": 13,
+          "media_count": 46,
+          "tweet_count": 2715
+        },
+        "url": "https://t.co/hkXFc24Hi8",
+        "username": "iyochandesu_",
+        "verified": false
+      }
+    ]
+  }
+}

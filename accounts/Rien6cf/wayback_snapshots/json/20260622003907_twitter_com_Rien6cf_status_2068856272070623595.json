@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068856268006293504"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068856272070623595",
+    "created_at": "2026-06-22T00:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068856272070623595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3jXsexyddQ",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2068856272070623595/photo/1",
+          "media_key": "3_2068856268006293504",
+          "start": 0,
+          "url": "https://t.co/3jXsexyddQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068856272070623595",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/3jXsexyddQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "芸術科しかない学校なのにPRの時にAIを使うってどういうこと？",
+        "height": 992,
+        "media_key": "3_2068856268006293504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYN0IHbAAAE5wL.jpg",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068856268006293504"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068856272070623595",
+        "created_at": "2026-06-22T00:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068856272070623595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jXsexyddQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2068856272070623595/photo/1",
+              "media_key": "3_2068856268006293504",
+              "start": 0,
+              "url": "https://t.co/3jXsexyddQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068856272070623595",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3jXsexyddQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "頑張ってるよ",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 190,
+          "like_count": 6013,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2640
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

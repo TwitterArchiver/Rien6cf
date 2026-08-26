@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      }
+    ],
+    "conversation_id": "2080578966071783535",
+    "created_at": "2026-07-24T09:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080578966071783535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1106071751794937856",
+          "start": 3,
+          "username": "plantae_nelumbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080578966071783535",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 447
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080259057882218707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plantae_nelumbo: 大森靖子の「絶対彼女」に「1週間お風呂は禁止、そのあとはほらねわかるでしょ？」という歌詞があるけど、どういう意味なのか未だに分かっておらず、永遠の謎とされている"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          }
+        ],
+        "conversation_id": "2080578966071783535",
+        "created_at": "2026-07-24T09:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080578966071783535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1106071751794937856",
+              "start": 3,
+              "username": "plantae_nelumbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080578966071783535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 447
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080259057882218707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plantae_nelumbo: 大森靖子の「絶対彼女」に「1週間お風呂は禁止、そのあとはほらねわかるでしょ？」という歌詞があるけど、どういう意味なのか未だに分かっておらず、永遠の謎とされている"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106071751794937856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          }
+        ],
+        "conversation_id": "2080259057882218707",
+        "created_at": "2026-07-23T11:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080259057882218707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080259057882218707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3159,
+          "impression_count": 7350604,
+          "like_count": 24398,
+          "quote_count": 469,
+          "reply_count": 404,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "大森靖子の「絶対彼女」に「1週間お風呂は禁止、そのあとはほらねわかるでしょ？」という歌詞があるけど、どういう意味なのか未だに分かっておらず、永遠の謎とされている"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 203,
+          "like_count": 8553,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-14T05:57:10.000Z",
+        "description": "通り過ぎていく天国の足跡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/nelumbo/n/nd5a…",
+                "end": 23,
+                "expanded_url": "https://note.com/nelumbo/n/nd5ae8ea66907",
+                "start": 0,
+                "url": "https://t.co/iull8Qw0bN"
+              }
+            ]
+          }
+        },
+        "id": "1106071751794937856",
+        "location": "依頼等→plantae.nelumbo@gmail.com",
+        "name": "二枚貝",
+        "pinned_tweet_id": "1928823345274871957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1106073238004600833/LyeQpo82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 347,
+          "like_count": 44819,
+          "listed_count": 42,
+          "media_count": 847,
+          "tweet_count": 4535
+        },
+        "url": "https://t.co/iull8Qw0bN",
+        "username": "plantae_nelumbo",
+        "verified": true
+      }
+    ]
+  }
+}

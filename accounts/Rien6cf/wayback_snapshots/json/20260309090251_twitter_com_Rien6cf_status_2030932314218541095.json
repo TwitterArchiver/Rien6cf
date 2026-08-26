@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030909330485329920"
+      ],
+      "media_source_tweet_id": [
+        "2030909457631522927"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2030932314218541095",
+    "created_at": "2026-03-09T09:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030932314218541095"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "ミクの日2026"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "6644442",
+          "start": 3,
+          "username": "morii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9spwJcYNz",
+          "end": 60,
+          "expanded_url": "https://x.com/morii/status/2030909457631522927/photo/1",
+          "media_key": "3_2030909330485329920",
+          "start": 37,
+          "url": "https://t.co/J9spwJcYNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030932314218541095",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030909457631522927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @morii: ストロボライト\n#ミクの日2026  \n#初音ミク https://t.co/J9spwJcYNz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2030909330485329920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC89Rp6awAAkac_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030909330485329920"
+          ],
+          "media_source_tweet_id": [
+            "2030909457631522927"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2030932314218541095",
+        "created_at": "2026-03-09T09:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030932314218541095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "ミクの日2026"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "6644442",
+              "start": 3,
+              "username": "morii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9spwJcYNz",
+              "end": 60,
+              "expanded_url": "https://x.com/morii/status/2030909457631522927/photo/1",
+              "media_key": "3_2030909330485329920",
+              "start": 37,
+              "url": "https://t.co/J9spwJcYNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030932314218541095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030909457631522927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @morii: ストロボライト\n#ミクの日2026  \n#初音ミク https://t.co/J9spwJcYNz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030909330485329920"
+          ]
+        },
+        "author_id": "6644442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2030909457631522927",
+        "created_at": "2026-03-09T07:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030909457631522927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "ミクの日2026"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9spwJcYNz",
+              "end": 49,
+              "expanded_url": "https://x.com/morii/status/2030909457631522927/photo/1",
+              "media_key": "3_2030909330485329920",
+              "start": 26,
+              "url": "https://t.co/J9spwJcYNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030909457631522927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1907,
+          "like_count": 182,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "ストロボライト\n#ミクの日2026  \n#初音ミク https://t.co/J9spwJcYNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 109,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 899
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-07T16:06:38.000Z",
+        "description": "KenshiroMorii. 株式会社スタジオモリケン代表。マンガ家、アニメ監督。クリプト民。TVアニメ「じゃんたまPONG!」監督。「さかな＆ねこ」１～２巻竹書房より。 https://t.co/RWDoWoEWBN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "imdb.com/name/nm3981351/",
+                "end": 109,
+                "expanded_url": "http://imdb.com/name/nm3981351/",
+                "start": 86,
+                "url": "https://t.co/RWDoWoEWBN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "studio-moriken.co.jp",
+                "end": 23,
+                "expanded_url": "https://studio-moriken.co.jp/",
+                "start": 0,
+                "url": "https://t.co/EAz3hiLkGd"
+              }
+            ]
+          }
+        },
+        "id": "6644442",
+        "location": "東京 江東区",
+        "name": "森井ケンシロウ",
+        "pinned_tweet_id": "1783837939916845391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780410735/____100_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7643,
+          "following_count": 2405,
+          "like_count": 14337,
+          "listed_count": 329,
+          "media_count": 2895,
+          "tweet_count": 44379
+        },
+        "url": "https://t.co/EAz3hiLkGd",
+        "username": "morii",
+        "verified": true
+      }
+    ]
+  }
+}

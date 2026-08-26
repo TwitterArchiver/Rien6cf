@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043226076110008320"
+      ],
+      "media_source_tweet_id": [
+        "2045052895524258225"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2045267430164074942",
+    "created_at": "2026-04-17T22:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T23:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045267430164074942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "179782905",
+          "start": 3,
+          "username": "onsen427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/46sIQuaIAx",
+          "end": 48,
+          "expanded_url": "https://x.com/onsen0427/status/2045052895524258225/photo/1",
+          "media_key": "3_2043226076110008320",
+          "start": 25,
+          "url": "https://t.co/46sIQuaIAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045267430164074942",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045052895524258225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onsen427: カメラ目線ありがとう https://t.co/46sIQuaIAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2043226076110008320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr_Sm5aMAAizGX.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043226076110008320"
+          ],
+          "media_source_tweet_id": [
+            "2045052895524258225"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2045267430164074942",
+        "created_at": "2026-04-17T22:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045267430164074942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "179782905",
+              "start": 3,
+              "username": "onsen427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/46sIQuaIAx",
+              "end": 48,
+              "expanded_url": "https://x.com/onsen0427/status/2045052895524258225/photo/1",
+              "media_key": "3_2043226076110008320",
+              "start": 25,
+              "url": "https://t.co/46sIQuaIAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045267430164074942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045052895524258225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onsen427: カメラ目線ありがとう https://t.co/46sIQuaIAx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043226076110008320"
+          ]
+        },
+        "author_id": "179782905",
+        "conversation_id": "2045052895524258225",
+        "created_at": "2026-04-17T08:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045052895524258225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46sIQuaIAx",
+              "end": 34,
+              "expanded_url": "https://x.com/onsen0427/status/2045052895524258225/photo/1",
+              "media_key": "3_2043226076110008320",
+              "start": 11,
+              "url": "https://t.co/46sIQuaIAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045052895524258225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 15319,
+          "like_count": 1617,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "カメラ目線ありがとう https://t.co/46sIQuaIAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 141,
+          "like_count": 2804,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1651
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-18T02:56:14.000Z",
+        "description": "趣味等\n収集癖あり〼（コカコーラ・牛乳瓶・生物フィギュア　他色色）\n車：VW type1(1973)\nバイク：Piaggio Vespa 125 PRIMAVERA・HONDA モトコンポ・YAMAHA ランツァ\n全日本テーブル筐体愛好会 No.380・レトロコンシューマー愛好会 No.1712\n野生動物・夜空の撮影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1EJTBSZ8CD6YA?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/68LAgh9GKD"
+              }
+            ]
+          }
+        },
+        "id": "179782905",
+        "location": "日本列島の北東付近",
+        "name": "温根湯温泉の人♨️",
+        "pinned_tweet_id": "2045073979346710993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011557504153767936/fPask6sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 363,
+          "like_count": 65192,
+          "listed_count": 10,
+          "media_count": 2754,
+          "tweet_count": 5910
+        },
+        "url": "https://t.co/68LAgh9GKD",
+        "username": "onsen427",
+        "verified": false
+      }
+    ]
+  }
+}

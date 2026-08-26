@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2050089796505366884",
+    "created_at": "2026-05-01T05:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050089796505366884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kami__519/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kami__519/status/2050072623007375702",
+          "start": 5,
+          "url": "https://t.co/TqbqclNNVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050089796505366884",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050072623007375702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "終わった https://t.co/TqbqclNNVj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2050089796505366884",
+        "created_at": "2026-05-01T05:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050089796505366884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kami__519/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kami__519/status/2050072623007375702",
+              "start": 5,
+              "url": "https://t.co/TqbqclNNVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050089796505366884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050072623007375702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "終わった https://t.co/TqbqclNNVj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664601148098224128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2050072623007375702",
+        "created_at": "2026-05-01T04:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050072623007375702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050072623007375702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 48364,
+          "like_count": 1202,
+          "quote_count": 147,
+          "reply_count": 27,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "【予後悪い人あるある】\n\n・不登校経験あり\n・毒親or片親\n・スクリーンタイム5時間以上\n・LINEの友達150人以下\n・文化部or帰宅部"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 161,
+          "like_count": 3246,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1813
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T11:53:57.000Z",
+        "description": "15歳｜サブ@rz4tqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "rz4tqr"
+              }
+            ]
+          }
+        },
+        "id": "1664601148098224128",
+        "name": "紙",
+        "pinned_tweet_id": "2039260162188611666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010266033010159621/32nTuqcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17689,
+          "following_count": 1599,
+          "like_count": 118897,
+          "listed_count": 40,
+          "media_count": 1149,
+          "tweet_count": 33899
+        },
+        "username": "kami__519",
+        "verified": false
+      }
+    ]
+  }
+}

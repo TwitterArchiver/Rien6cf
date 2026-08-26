@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057568157779591168"
+      ],
+      "media_source_tweet_id": [
+        "2057568181791911954"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2057765499094843434",
+    "created_at": "2026-05-22T10:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057765499094843434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1949305788960571393",
+          "start": 3,
+          "username": "tabosuki9999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MJ3wzZOSKw",
+          "end": 59,
+          "expanded_url": "https://x.com/tabosuki9999/status/2057568181791911954/photo/1",
+          "media_key": "3_2057568157779591168",
+          "start": 36,
+          "url": "https://t.co/MJ3wzZOSKw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057765499094843434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057568181791911954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tabosuki9999: うわっかわいい！\n迫り来るカワイイ https://t.co/MJ3wzZOSKw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 5712,
+        "media_key": "3_2057568157779591168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3zVombgAANGRA.jpg",
+        "width": 4284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057568157779591168"
+          ],
+          "media_source_tweet_id": [
+            "2057568181791911954"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2057765499094843434",
+        "created_at": "2026-05-22T10:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057765499094843434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1949305788960571393",
+              "start": 3,
+              "username": "tabosuki9999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJ3wzZOSKw",
+              "end": 59,
+              "expanded_url": "https://x.com/tabosuki9999/status/2057568181791911954/photo/1",
+              "media_key": "3_2057568157779591168",
+              "start": 36,
+              "url": "https://t.co/MJ3wzZOSKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057765499094843434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057568181791911954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tabosuki9999: うわっかわいい！\n迫り来るカワイイ https://t.co/MJ3wzZOSKw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057568157779591168"
+          ]
+        },
+        "author_id": "1949305788960571393",
+        "conversation_id": "2057568181791911954",
+        "created_at": "2026-05-21T21:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057568181791911954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJ3wzZOSKw",
+              "end": 41,
+              "expanded_url": "https://x.com/tabosuki9999/status/2057568181791911954/photo/1",
+              "media_key": "3_2057568157779591168",
+              "start": 18,
+              "url": "https://t.co/MJ3wzZOSKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057568181791911954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 11341,
+          "like_count": 1252,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "うわっかわいい！\n迫り来るカワイイ https://t.co/MJ3wzZOSKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4357,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2183
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T03:09:33.000Z",
+        "description": "アザラシ（特にタボちゃん）大好きです。いつもかわいい写真やイラストをアップしてくださってありがとうございます🙏",
+        "id": "1949305788960571393",
+        "name": "たぼすき",
+        "pinned_tweet_id": "2051986145060536780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021071356784410626/nNy1HyMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 80,
+          "like_count": 12304,
+          "listed_count": 6,
+          "media_count": 252,
+          "tweet_count": 2386
+        },
+        "username": "tabosuki9999",
+        "verified": false
+      }
+    ]
+  }
+}

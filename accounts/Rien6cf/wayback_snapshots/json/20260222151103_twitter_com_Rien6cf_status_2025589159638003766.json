@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025520144676700160"
+      ],
+      "media_source_tweet_id": [
+        "2025525981143036413"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2025589159638003766",
+    "created_at": "2026-02-22T15:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025589159638003766"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "歌ってみた"
+        },
+        {
+          "end": 39,
+          "start": 33,
+          "tag": "cover"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1565905460007292928",
+          "start": 3,
+          "username": "kqdllb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZsaTzS5gp0",
+          "end": 63,
+          "expanded_url": "https://x.com/kqdllb/status/2025525981143036413/video/1",
+          "media_key": "13_2025520144676700160",
+          "start": 40,
+          "url": "https://t.co/ZsaTzS5gp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025589159638003766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025525981143036413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kqdllb: 阿吽のビーツ 歌いました！\n#歌ってみた #cover https://t.co/ZsaTzS5gp0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26473,
+        "height": 1080,
+        "media_key": "13_2025520144676700160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025520144676700160/img/tOU_-GebeSVv2iyn.jpg",
+        "public_metrics": {
+          "view_count": 4561
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025520144676700160/vid/avc1/480x270/hLbTAhvZFTGys1RA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025520144676700160/vid/avc1/640x360/QVw3_NYZSoHjPasU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025520144676700160/vid/avc1/1280x720/1jVJWmX-Pp1aGCZm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025520144676700160/pl/45ZaKY2ZWOJYftjo.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025520144676700160"
+          ],
+          "media_source_tweet_id": [
+            "2025525981143036413"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2025589159638003766",
+        "created_at": "2026-02-22T15:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025589159638003766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "歌ってみた"
+            },
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "cover"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1565905460007292928",
+              "start": 3,
+              "username": "kqdllb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsaTzS5gp0",
+              "end": 63,
+              "expanded_url": "https://x.com/kqdllb/status/2025525981143036413/video/1",
+              "media_key": "13_2025520144676700160",
+              "start": 40,
+              "url": "https://t.co/ZsaTzS5gp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025589159638003766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025525981143036413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kqdllb: 阿吽のビーツ 歌いました！\n#歌ってみた #cover https://t.co/ZsaTzS5gp0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025520144676700160"
+          ]
+        },
+        "author_id": "1565905460007292928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2025525981143036413",
+        "created_at": "2026-02-22T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025525981143036413"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "歌ってみた"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "cover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsaTzS5gp0",
+              "end": 51,
+              "expanded_url": "https://x.com/kqdllb/status/2025525981143036413/video/1",
+              "media_key": "13_2025520144676700160",
+              "start": 28,
+              "url": "https://t.co/ZsaTzS5gp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025525981143036413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 14345,
+          "like_count": 849,
+          "quote_count": 17,
+          "reply_count": 1,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "阿吽のビーツ 歌いました！\n#歌ってみた #cover https://t.co/ZsaTzS5gp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 73,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 553
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T03:32:26.000Z",
+        "description": "宅録/サブ垢→ @katakori_itaine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "katakori_itaine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kqdlb",
+                "end": 23,
+                "expanded_url": "https://lit.link/kqdlb",
+                "start": 0,
+                "url": "https://t.co/WPnKTYm4Pk"
+              }
+            ]
+          }
+        },
+        "id": "1565905460007292928",
+        "name": "柿崎ユウタ",
+        "pinned_tweet_id": "2017196803800907847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669283829591461889/eKvfSb1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6017,
+          "following_count": 379,
+          "like_count": 3114,
+          "listed_count": 5,
+          "media_count": 135,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/WPnKTYm4Pk",
+        "username": "kqdllb",
+        "verified": false
+      }
+    ]
+  }
+}

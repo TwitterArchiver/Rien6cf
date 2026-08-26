@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2060983909303890280",
+    "created_at": "2026-05-31T07:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060983909303890280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418734187826188296",
+          "start": 3,
+          "username": "mlwgzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060983909303890280",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 887
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060887854113530175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mlwgzz: 아니 나지금진짜 이상한일있었음\n일어나서 폰을봣는데 9:47인거\n좀더자야지 하고 꽤 오래자다인남\n근데아직도 9:47이었음\n뭐지?싶었는데 걍 헷갈렸나 하고\n폰을했음 연락 답장도하고\n트위터도하고 엄청 오래했는데\n아직도 9:47인거야…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060983909303890280",
+        "created_at": "2026-05-31T07:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060983909303890280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418734187826188296",
+              "start": 3,
+              "username": "mlwgzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060983909303890280",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 887
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060887854113530175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mlwgzz: 아니 나지금진짜 이상한일있었음\n일어나서 폰을봣는데 9:47인거\n좀더자야지 하고 꽤 오래자다인남\n근데아직도 9:47이었음\n뭐지?싶었는데 걍 헷갈렸나 하고\n폰을했음 연락 답장도하고\n트위터도하고 엄청 오래했는데\n아직도 9:47인거야…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418734187826188296",
+        "conversation_id": "2060887854113530175",
+        "created_at": "2026-05-31T00:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060887854113530175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060887854113530175",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1598,
+          "impression_count": 1692420,
+          "like_count": 14445,
+          "quote_count": 519,
+          "reply_count": 139,
+          "retweet_count": 887
+        },
+        "reply_settings": "everyone",
+        "text": "아니 나지금진짜 이상한일있었음\n일어나서 폰을봣는데 9:47인거\n좀더자야지 하고 꽤 오래자다인남\n근데아직도 9:47이었음\n뭐지?싶었는데 걍 헷갈렸나 하고\n폰을했음 연락 답장도하고\n트위터도하고 엄청 오래했는데\n아직도 9:47인거야\n너무이상해서 시계를 의식한순간 \n갑자기 시간이 가기시작햇음 ㅅㅂ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 180,
+          "like_count": 4805,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2305
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T00:46:18.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/mlwgzz",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/mlwgzz",
+                "start": 0,
+                "url": "https://t.co/bVAwB3O6hX"
+              }
+            ]
+          }
+        },
+        "id": "1418734187826188296",
+        "name": "잠잠이",
+        "pinned_tweet_id": "2045887413898313790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059988136655249408/TS2lng7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 986,
+          "like_count": 51318,
+          "listed_count": 13,
+          "media_count": 1972,
+          "tweet_count": 23232
+        },
+        "url": "https://t.co/bVAwB3O6hX",
+        "username": "mlwgzz",
+        "verified": true
+      }
+    ]
+  }
+}

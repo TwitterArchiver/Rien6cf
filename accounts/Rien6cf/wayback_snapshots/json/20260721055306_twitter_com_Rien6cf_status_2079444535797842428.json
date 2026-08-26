@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2079444535797842428",
+    "created_at": "2026-07-21T05:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079444535797842428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1773119589062418432",
+          "start": 3,
+          "username": "Ed5JelrpAd93177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079444535797842428",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079146017631727783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ed5JelrpAd93177: 맨날 비엘봣더니\n게이보다 게이력이 높음"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2079444535797842428",
+        "created_at": "2026-07-21T05:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079444535797842428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1773119589062418432",
+              "start": 3,
+              "username": "Ed5JelrpAd93177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079444535797842428",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079146017631727783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ed5JelrpAd93177: 맨날 비엘봣더니\n게이보다 게이력이 높음"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773119589062418432",
+        "conversation_id": "2079146017631727783",
+        "created_at": "2026-07-20T10:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079146017631727783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079146017631727783",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 285909,
+          "like_count": 14078,
+          "quote_count": 289,
+          "reply_count": 8,
+          "retweet_count": 3203
+        },
+        "reply_settings": "everyone",
+        "text": "맨날 비엘봣더니\n게이보다 게이력이 높음"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 200,
+          "like_count": 8307,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 3006
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T22:47:18.000Z",
+        "description": "부계: @haeju_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "haeju_2"
+              }
+            ]
+          }
+        },
+        "id": "1773119589062418432",
+        "location": "폐쇄병동",
+        "name": "해줘",
+        "pinned_tweet_id": "2062533651313914356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060725368802492416/_qkGu633_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 273,
+          "like_count": 12632,
+          "listed_count": 6,
+          "media_count": 51,
+          "tweet_count": 395
+        },
+        "url": "",
+        "username": "Ed5JelrpAd93177",
+        "verified": false
+      }
+    ]
+  }
+}

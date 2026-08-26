@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043942949546012675"
+      ],
+      "media_source_tweet_id": [
+        "2043943150465765486"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042999172",
+          "name": "Crunchyroll"
+        }
+      }
+    ],
+    "conversation_id": "2043957813211476458",
+    "created_at": "2026-04-14T07:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043957813211476458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1286475130823049216",
+          "start": 3,
+          "username": "taizan_5"
+        }
+      ],
+      "urls": [
+        {
+          "description": "The Crunchyroll Anime Awards returns to celebrate the year’s best anime and the talented people who bring it to life. Vote for your favorites April 3–14, 2025, and tune in to our award show in Tokyo on May 25 for the results.",
+          "display_url": "crunchyroll.com/ja/animeawards/",
+          "end": 92,
+          "expanded_url": "http://crunchyroll.com/ja/animeawards/",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/2042379961584254976/YfJV7A4t?format=jpg&name=orig",
+              "width": 1920
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2042379961584254976/YfJV7A4t?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "The Anime Awards - Crunchyroll",
+          "unwound_url": "https://www.crunchyroll.com/ja/animeawards/",
+          "url": "https://t.co/QWN2HuGkWi"
+        },
+        {
+          "display_url": "pic.x.com/XNt8Re3TzQ",
+          "end": 116,
+          "expanded_url": "https://x.com/taizan_5/status/2043943150465765486/photo/1",
+          "media_key": "3_2043942949546012675",
+          "start": 93,
+          "url": "https://t.co/XNt8Re3TzQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043957813211476458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043943150465765486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taizan_5: Crunchyroll Anime Awards\nノミネートありがとうございます。\nよければご投票ぜひ…！\n\nhttps://t.co/QWN2HuGkWi https://t.co/XNt8Re3TzQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043942949546012675",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2LSIjasAMRH1m.jpg",
+        "width": 2364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043942949546012675"
+          ],
+          "media_source_tweet_id": [
+            "2043943150465765486"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042999172",
+              "name": "Crunchyroll"
+            }
+          }
+        ],
+        "conversation_id": "2043957813211476458",
+        "created_at": "2026-04-14T07:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043957813211476458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1286475130823049216",
+              "start": 3,
+              "username": "taizan_5"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The Crunchyroll Anime Awards returns to celebrate the year’s best anime and the talented people who bring it to life. Vote for your favorites April 3–14, 2025, and tune in to our award show in Tokyo on May 25 for the results.",
+              "display_url": "crunchyroll.com/ja/animeawards/",
+              "end": 92,
+              "expanded_url": "http://crunchyroll.com/ja/animeawards/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2042379961584254976/YfJV7A4t?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042379961584254976/YfJV7A4t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "The Anime Awards - Crunchyroll",
+              "unwound_url": "https://www.crunchyroll.com/ja/animeawards/",
+              "url": "https://t.co/QWN2HuGkWi"
+            },
+            {
+              "display_url": "pic.x.com/XNt8Re3TzQ",
+              "end": 116,
+              "expanded_url": "https://x.com/taizan_5/status/2043943150465765486/photo/1",
+              "media_key": "3_2043942949546012675",
+              "start": 93,
+              "url": "https://t.co/XNt8Re3TzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043957813211476458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043943150465765486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taizan_5: Crunchyroll Anime Awards\nノミネートありがとうございます。\nよければご投票ぜひ…！\n\nhttps://t.co/QWN2HuGkWi https://t.co/XNt8Re3TzQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043942949546012675"
+          ]
+        },
+        "author_id": "1286475130823049216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042999172",
+              "name": "Crunchyroll"
+            }
+          }
+        ],
+        "conversation_id": "2043943150465765486",
+        "created_at": "2026-04-14T06:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043943150465765486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The Crunchyroll Anime Awards returns to celebrate the year’s best anime and the talented people who bring it to life. Vote for your favorites April 3–14, 2025, and tune in to our award show in Tokyo on May 25 for the results.",
+              "display_url": "crunchyroll.com/ja/animeawards/",
+              "end": 78,
+              "expanded_url": "http://crunchyroll.com/ja/animeawards/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2042379961584254976/YfJV7A4t?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042379961584254976/YfJV7A4t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "The Anime Awards - Crunchyroll",
+              "unwound_url": "https://www.crunchyroll.com/ja/animeawards/",
+              "url": "https://t.co/QWN2HuGkWi"
+            },
+            {
+              "display_url": "pic.x.com/XNt8Re3TzQ",
+              "end": 102,
+              "expanded_url": "https://x.com/taizan_5/status/2043943150465765486/photo/1",
+              "media_key": "3_2043942949546012675",
+              "start": 79,
+              "url": "https://t.co/XNt8Re3TzQ"
+            },
+            {
+              "display_url": "x.com/takopi_pr/stat…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/takopi_pr/status/2043656557821587784",
+              "start": 103,
+              "url": "https://t.co/agUMXKQCwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043943150465765486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 19834,
+          "like_count": 675,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043656557821587784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Crunchyroll Anime Awards\nノミネートありがとうございます。\nよければご投票ぜひ…！\n\nhttps://t.co/QWN2HuGkWi https://t.co/XNt8Re3TzQ https://t.co/agUMXKQCwL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 136,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1593
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-24T01:36:32.000Z",
+        "description": "『一ノ瀬家の大罪』『タコピーの原罪』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shonenjumpplus.com/episode/326975…",
+                "end": 23,
+                "expanded_url": "https://shonenjumpplus.com/episode/3269754496638370192",
+                "start": 0,
+                "url": "https://t.co/cVqzO2kaew"
+              }
+            ]
+          }
+        },
+        "id": "1286475130823049216",
+        "name": "タイザン5",
+        "pinned_tweet_id": "1939241131021390174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1308408802111299584/7U5ChoM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298490,
+          "following_count": 5,
+          "like_count": 895,
+          "listed_count": 850,
+          "media_count": 302,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/cVqzO2kaew",
+        "username": "taizan_5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2017940645575623120",
+    "created_at": "2026-02-02T09:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T10:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018256293426008156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1887080689889398784",
+          "start": 0,
+          "username": "_7xliy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018256293426008156",
+    "in_reply_to_user_id": "1887080689889398784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017940645575623120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_7xliy メンヘラコンプレックスです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2017940645575623120",
+        "created_at": "2026-02-02T09:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018256293426008156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1887080689889398784",
+              "start": 0,
+              "username": "_7xliy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018256293426008156",
+        "in_reply_to_user_id": "1887080689889398784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017940645575623120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_7xliy メンヘラコンプレックスです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887080689889398784",
+        "conversation_id": "2017940645575623120",
+        "created_at": "2026-02-01T12:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017940645575623120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017940645575623120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 25422,
+          "like_count": 539,
+          "quote_count": 19,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "リスカ好きな男ってなんでこんなに多いんだろうか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "前世@みんなの黙示録///关于理衣的一切",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 37,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T10:08:10.000Z",
+        "description": "地理界隈 名前はそゆさんです ꄗ@soyu_444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "soyu_444"
+              }
+            ]
+          }
+        },
+        "id": "1887080689889398784",
+        "location": "Adelaide, South Australia",
+        "name": "山田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017498572980424707/7G9XKfHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 138,
+          "like_count": 26594,
+          "listed_count": 5,
+          "media_count": 61,
+          "tweet_count": 345
+        },
+        "username": "_7xliy",
+        "verified": false
+      }
+    ]
+  }
+}

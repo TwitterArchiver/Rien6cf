@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065890862870220800"
+      ],
+      "media_source_tweet_id": [
+        "2065890922571980833"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065957744591679675",
+    "created_at": "2026-06-14T00:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065957744591679675"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 44,
+          "tag": "ワモンアザラシ"
+        },
+        {
+          "end": 63,
+          "start": 56,
+          "tag": "おたる水族館"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222904611079475202",
+          "start": 3,
+          "username": "yumiko0619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fPYfZazuWz",
+          "end": 87,
+          "expanded_url": "https://x.com/yumiko0619/status/2065890922571980833/video/1",
+          "media_key": "13_2065890862870220800",
+          "start": 64,
+          "url": "https://t.co/fPYfZazuWz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065957744591679675",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065890922571980833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumiko0619: すしは握りたてが1番美味い‼︎\n2026/06/08\n\n#ワモンアザラシ ルル\n#おたる水族館 https://t.co/fPYfZazuWz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16096,
+        "height": 790,
+        "media_key": "13_2065890862870220800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065890862870220800/img/mIR4S51diboSPLa2.jpg",
+        "public_metrics": {
+          "view_count": 2846
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065890862870220800/vid/avc1/320x350/A-LnNIAjaAJNBWzd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065890862870220800/vid/avc1/480x526/qQHea0TpxRK35S1u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065890862870220800/vid/avc1/720x790/ypSB6gf5N4Y3IBa9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065890862870220800/pl/MWgD09Mp_X9NCHUF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065890862870220800"
+          ],
+          "media_source_tweet_id": [
+            "2065890922571980833"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2065957744591679675",
+        "created_at": "2026-06-14T00:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065957744591679675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "ワモンアザラシ"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "おたる水族館"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222904611079475202",
+              "start": 3,
+              "username": "yumiko0619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPYfZazuWz",
+              "end": 87,
+              "expanded_url": "https://x.com/yumiko0619/status/2065890922571980833/video/1",
+              "media_key": "13_2065890862870220800",
+              "start": 64,
+              "url": "https://t.co/fPYfZazuWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065957744591679675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065890922571980833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumiko0619: すしは握りたてが1番美味い‼︎\n2026/06/08\n\n#ワモンアザラシ ルル\n#おたる水族館 https://t.co/fPYfZazuWz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065890862870220800"
+          ]
+        },
+        "author_id": "1222904611079475202",
+        "conversation_id": "2065890922571980833",
+        "created_at": "2026-06-13T20:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065890922571980833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "ワモンアザラシ"
+            },
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "おたる水族館"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPYfZazuWz",
+              "end": 71,
+              "expanded_url": "https://x.com/yumiko0619/status/2065890922571980833/video/1",
+              "media_key": "13_2065890862870220800",
+              "start": 48,
+              "url": "https://t.co/fPYfZazuWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065890922571980833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 9366,
+          "like_count": 966,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "すしは握りたてが1番美味い‼︎\n2026/06/08\n\n#ワモンアザラシ ルル\n#おたる水族館 https://t.co/fPYfZazuWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 5647,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2579
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T15:29:21.000Z",
+        "description": "アザラシと釣りと旅行が好きです🦭🎣✈️",
+        "id": "1222904611079475202",
+        "location": "日本 神奈川",
+        "name": "ユミコ",
+        "pinned_tweet_id": "1702097246135951733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1375381738269011974/K7asj32j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 218,
+          "like_count": 27693,
+          "listed_count": 11,
+          "media_count": 1664,
+          "tweet_count": 2909
+        },
+        "username": "yumiko0619",
+        "verified": false
+      }
+    ]
+  }
+}

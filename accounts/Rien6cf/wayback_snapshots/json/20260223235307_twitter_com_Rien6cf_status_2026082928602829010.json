@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2025829642909991385",
+    "created_at": "2026-02-23T23:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T00:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026082928602829010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970923303033548800",
+          "start": 0,
+          "username": "juanjuanneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026082928602829010",
+    "in_reply_to_user_id": "1970923303033548800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025829642909991385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juanjuanneko 支持越南粉神教"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2025829598005731329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0xSTyaoAEYERS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2025829642909991385",
+        "created_at": "2026-02-23T23:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T00:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026082928602829010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970923303033548800",
+              "start": 0,
+              "username": "juanjuanneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026082928602829010",
+        "in_reply_to_user_id": "1970923303033548800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025829642909991385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juanjuanneko 支持越南粉神教"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025829598005731329"
+          ]
+        },
+        "author_id": "1970923303033548800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025829642909991385",
+        "created_at": "2026-02-23T07:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025829642909991385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpJSJNqIWB",
+              "end": 37,
+              "expanded_url": "https://x.com/juanjuanneko/status/2025829642909991385/photo/1",
+              "media_key": "3_2025829598005731329",
+              "start": 14,
+              "url": "https://t.co/PpJSJNqIWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025829642909991385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这怎么和有冰一样这么好吃。 https://t.co/PpJSJNqIWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 76,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 573
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T18:48:44.000Z",
+        "description": "此用户是一个脆弱的小宝宝",
+        "id": "1970923303033548800",
+        "location": "薯条王国",
+        "name": "佐仓双叶ovo",
+        "pinned_tweet_id": "1991377972700541133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023959653131173888/y2u1x48m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 59,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 412
+        },
+        "username": "juanjuanneko",
+        "verified": false
+      }
+    ]
+  }
+}

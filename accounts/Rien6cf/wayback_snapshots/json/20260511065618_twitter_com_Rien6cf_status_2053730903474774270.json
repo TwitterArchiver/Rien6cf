@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053390888542625792"
+      ],
+      "media_source_tweet_id": [
+        "2053390890883047531"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2053730903474774270",
+    "created_at": "2026-05-11T06:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053730903474774270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2023761474037190656",
+          "start": 3,
+          "username": "BJeiLBnwLCSOUDG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WJ4CXKz51p",
+          "end": 49,
+          "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2053390890883047531/photo/1",
+          "media_key": "3_2053390888542625792",
+          "start": 26,
+          "url": "https://t.co/WJ4CXKz51p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053730903474774270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053390890883047531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BJeiLBnwLCSOUDG: みによわ https://t.co/WJ4CXKz51p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053390888542625792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8cIkCbYAAd2B-.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053390888542625792"
+          ],
+          "media_source_tweet_id": [
+            "2053390890883047531"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2053730903474774270",
+        "created_at": "2026-05-11T06:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053730903474774270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2023761474037190656",
+              "start": 3,
+              "username": "BJeiLBnwLCSOUDG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJ4CXKz51p",
+              "end": 49,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2053390890883047531/photo/1",
+              "media_key": "3_2053390888542625792",
+              "start": 26,
+              "url": "https://t.co/WJ4CXKz51p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053730903474774270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053390890883047531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BJeiLBnwLCSOUDG: みによわ https://t.co/WJ4CXKz51p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053390888542625792"
+          ]
+        },
+        "author_id": "2023761474037190656",
+        "conversation_id": "2053390890883047531",
+        "created_at": "2026-05-10T08:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053390890883047531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJ4CXKz51p",
+              "end": 28,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2053390890883047531/photo/1",
+              "media_key": "3_2053390888542625792",
+              "start": 5,
+              "url": "https://t.co/WJ4CXKz51p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053390890883047531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 26781,
+          "like_count": 3701,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "みによわ https://t.co/WJ4CXKz51p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3725,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1968
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:08:43.000Z",
+        "description": "Xと絵両方初心者です！　いよわさん大大好き！\nネタ絵やボカロ絵、ボカロネタ、ボカロ関連の実写などなど…（男の娘（））\n宇宙で一番好きなボカロ曲は\n「IMAWANOKIWA」です！いまわさん最高に愛してる…\n憧れはいつだっていよわさん！",
+        "id": "2023761474037190656",
+        "location": "結露越しの街",
+        "name": "ただのゴーレムさん",
+        "pinned_tweet_id": "2050926293794074655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050929340725264384/231hnt0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 494,
+          "like_count": 6867,
+          "listed_count": 1,
+          "media_count": 509,
+          "tweet_count": 4102
+        },
+        "username": "BJeiLBnwLCSOUDG",
+        "verified": false
+      }
+    ]
+  }
+}

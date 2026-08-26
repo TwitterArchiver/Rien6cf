@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2031038760482447783",
+    "created_at": "2026-03-14T13:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032809664891797948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1348131033594568705",
+          "start": 0,
+          "username": "milk_tea1117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032809664891797948",
+    "in_reply_to_user_id": "1348131033594568705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032806249860051154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@milk_tea1117 そうです！天才💮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2031038760482447783",
+        "created_at": "2026-03-14T13:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032809664891797948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1348131033594568705",
+              "start": 0,
+              "username": "milk_tea1117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032809664891797948",
+        "in_reply_to_user_id": "1348131033594568705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032806249860051154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@milk_tea1117 そうです！天才💮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1348131033594568705",
+        "conversation_id": "2031038760482447783",
+        "created_at": "2026-03-14T13:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032806249860051154"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "吉原ラメント",
+              "probability": 0.6279,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032806249860051154",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032761916058382689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf FF外すみません！\n吉原ラメントですよね！！めっちゃ好きです"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 108,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1064
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T04:54:49.000Z",
+        "description": "今年受験生なので低浮上デス。／世界一大好きな愛方@merompam877| タグ #もこもこにしてやんよ|鍵垢⇒@milk_teasub |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 41,
+                "tag": "もこもこにしてやんよ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "merompam877"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "milk_teasub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Mazeta",
+                "end": 23,
+                "expanded_url": "https://lit.link/Mazeta",
+                "start": 0,
+                "url": "https://t.co/xHcl20KvoZ"
+              }
+            ]
+          }
+        },
+        "id": "1348131033594568705",
+        "location": "ﾘｸはﾏｼｭﾒﾛやﾘﾌﾟ、DMにてお願いします",
+        "name": "もこⓒ",
+        "pinned_tweet_id": "1887056433071710454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898020328653438977/-C_Jdjgq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 196,
+          "like_count": 20706,
+          "listed_count": 10,
+          "media_count": 728,
+          "tweet_count": 26899
+        },
+        "url": "https://t.co/xHcl20KvoZ",
+        "username": "milk_tea1117",
+        "verified": false
+      }
+    ]
+  }
+}

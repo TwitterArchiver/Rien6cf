@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071641601303261184"
+      ],
+      "media_source_tweet_id": [
+        "2071641608001569124"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2071920901852144058",
+    "created_at": "2026-06-30T11:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071920901852144058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1565267749906968576",
+          "start": 3,
+          "username": "doneosling"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7X6UO6jkeL",
+          "end": 59,
+          "expanded_url": "https://x.com/doneosling/status/2071641608001569124/photo/1",
+          "media_key": "3_2071641601303261184",
+          "start": 36,
+          "url": "https://t.co/7X6UO6jkeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071920901852144058",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 534
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071641608001569124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doneosling: 고등학생 때려치우고 마법소녀 할게요 https://t.co/7X6UO6jkeL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071641601303261184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_zD3OaMAA7C5p.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071641601303261184"
+          ],
+          "media_source_tweet_id": [
+            "2071641608001569124"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2071920901852144058",
+        "created_at": "2026-06-30T11:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071920901852144058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1565267749906968576",
+              "start": 3,
+              "username": "doneosling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7X6UO6jkeL",
+              "end": 59,
+              "expanded_url": "https://x.com/doneosling/status/2071641608001569124/photo/1",
+              "media_key": "3_2071641601303261184",
+              "start": 36,
+              "url": "https://t.co/7X6UO6jkeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071920901852144058",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 534
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071641608001569124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doneosling: 고등학생 때려치우고 마법소녀 할게요 https://t.co/7X6UO6jkeL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071641601303261184"
+          ]
+        },
+        "author_id": "1565267749906968576",
+        "conversation_id": "2071641608001569124",
+        "created_at": "2026-06-29T17:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071641608001569124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7X6UO6jkeL",
+              "end": 43,
+              "expanded_url": "https://x.com/doneosling/status/2071641608001569124/photo/1",
+              "media_key": "3_2071641601303261184",
+              "start": 20,
+              "url": "https://t.co/7X6UO6jkeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071641608001569124",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 42495,
+          "like_count": 5336,
+          "quote_count": 36,
+          "reply_count": 6,
+          "retweet_count": 534
+        },
+        "reply_settings": "everyone",
+        "text": "고등학생 때려치우고 마법소녀 할게요 https://t.co/7X6UO6jkeL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 194,
+          "like_count": 6593,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2737
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T09:20:32.000Z",
+        "description": "잡탕 아무거나 올림\n스핀 https://t.co/aftr9AXYCb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Sinel",
+                "end": 37,
+                "expanded_url": "https://spin-spin.com/Sinel",
+                "start": 14,
+                "url": "https://t.co/aftr9AXYCb"
+              }
+            ]
+          }
+        },
+        "id": "1565267749906968576",
+        "name": "루시넬0",
+        "pinned_tweet_id": "1862409812237337021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002050907039727616/S6hQYX-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 347,
+          "like_count": 14446,
+          "listed_count": 11,
+          "media_count": 990,
+          "tweet_count": 6004
+        },
+        "url": "",
+        "username": "doneosling",
+        "verified": false
+      }
+    ]
+  }
+}

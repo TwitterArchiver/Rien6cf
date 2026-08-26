@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063862896518742526",
+    "created_at": "2026-06-08T05:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063862896518742526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0lfy_37/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/0lfy_37/status/2063643552996004103",
+          "start": 28,
+          "url": "https://t.co/lLMqyKIYxV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063862896518742526",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063643552996004103",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "付き合ってた頃は元カレとヤったことある相手全員殺したい https://t.co/lLMqyKIYxV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063862896518742526",
+        "created_at": "2026-06-08T05:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063862896518742526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0lfy_37/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/0lfy_37/status/2063643552996004103",
+              "start": 28,
+              "url": "https://t.co/lLMqyKIYxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063862896518742526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063643552996004103",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "付き合ってた頃は元カレとヤったことある相手全員殺したい https://t.co/lLMqyKIYxV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709850251845378048",
+        "conversation_id": "2063643552996004103",
+        "created_at": "2026-06-07T15:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063643552996004103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063643552996004103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15623,
+          "like_count": 403,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "彼氏に近づく女全員死ねばいいのに"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5250,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2467
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T08:37:35.000Z",
+        "description": "@aitaic2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "aitaic2"
+              }
+            ]
+          }
+        },
+        "id": "1709850251845378048",
+        "name": "ْ",
+        "pinned_tweet_id": "2038664991340167272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953665665346547718/dFbRima7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 523,
+          "like_count": 13519,
+          "listed_count": 21,
+          "media_count": 5,
+          "tweet_count": 8137
+        },
+        "username": "0lfy_37",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039338833343590400"
+      ],
+      "media_source_tweet_id": [
+        "2039338837747663322"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2039425501865893960",
+    "created_at": "2026-04-01T19:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T20:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039425501865893960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1517083839428202497",
+          "start": 3,
+          "username": "BuncheeAZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7mEEhliNR",
+          "end": 46,
+          "expanded_url": "https://x.com/BuncheeAZ/status/2039338837747663322/photo/1",
+          "media_key": "3_2039338833343590400",
+          "start": 23,
+          "url": "https://t.co/N7mEEhliNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039425501865893960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 636
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039338837747663322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BuncheeAZ: 文鳥の喜怒哀楽 https://t.co/N7mEEhliNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2039338833343590400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0v3TIasAAxzKj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039338833343590400"
+          ],
+          "media_source_tweet_id": [
+            "2039338837747663322"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2039425501865893960",
+        "created_at": "2026-04-01T19:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T20:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039425501865893960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1517083839428202497",
+              "start": 3,
+              "username": "BuncheeAZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7mEEhliNR",
+              "end": 46,
+              "expanded_url": "https://x.com/BuncheeAZ/status/2039338837747663322/photo/1",
+              "media_key": "3_2039338833343590400",
+              "start": 23,
+              "url": "https://t.co/N7mEEhliNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039425501865893960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 636
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039338837747663322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BuncheeAZ: 文鳥の喜怒哀楽 https://t.co/N7mEEhliNR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039338833343590400"
+          ]
+        },
+        "author_id": "1517083839428202497",
+        "conversation_id": "2039338837747663322",
+        "created_at": "2026-04-01T13:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039338837747663322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7mEEhliNR",
+              "end": 31,
+              "expanded_url": "https://x.com/BuncheeAZ/status/2039338837747663322/photo/1",
+              "media_key": "3_2039338833343590400",
+              "start": 8,
+              "url": "https://t.co/N7mEEhliNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039338837747663322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 80613,
+          "like_count": 8290,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 636
+        },
+        "reply_settings": "everyone",
+        "text": "文鳥の喜怒哀楽 https://t.co/N7mEEhliNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 124,
+          "like_count": 2183,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1382
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T10:12:54.000Z",
+        "description": "文鳥狂い",
+        "id": "1517083839428202497",
+        "location": "鳥とか相談所",
+        "name": "ぼぉんぶんち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517084384276664320/4PDQEziQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13949,
+          "following_count": 393,
+          "like_count": 19048,
+          "listed_count": 131,
+          "media_count": 3230,
+          "tweet_count": 14288
+        },
+        "username": "BuncheeAZ",
+        "verified": false
+      }
+    ]
+  }
+}

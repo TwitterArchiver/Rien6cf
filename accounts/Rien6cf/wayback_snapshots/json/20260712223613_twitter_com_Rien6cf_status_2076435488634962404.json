@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2076433970871591045",
+    "created_at": "2026-07-12T22:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T23:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076435488634962404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031954172732719112",
+          "start": 0,
+          "username": "Minastear030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076435488634962404",
+    "in_reply_to_user_id": "2031954172732719112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076433970871591045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minastear030 卧槽凭空掉下来两千块钱怎么还"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2076433968371830784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HND5sVxbkAA_do6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2076433970871591045",
+        "created_at": "2026-07-12T22:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076435488634962404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031954172732719112",
+              "start": 0,
+              "username": "Minastear030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076435488634962404",
+        "in_reply_to_user_id": "2031954172732719112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076433970871591045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minastear030 卧槽凭空掉下来两千块钱怎么还"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076433968371830784"
+          ]
+        },
+        "author_id": "2031954172732719112",
+        "conversation_id": "2076433970871591045",
+        "created_at": "2026-07-12T22:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076433970871591045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wFfePYdY5",
+              "end": 87,
+              "expanded_url": "https://x.com/Minastear030/status/2076433970871591045/photo/1",
+              "media_key": "3_2076433968371830784",
+              "start": 64,
+              "url": "https://t.co/5wFfePYdY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076433970871591045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最奇异搞笑。有没有可能我一直说的是我货没到先不营业。这两千块到底是哪来的我真看笑了。。。因为我标价低所以来搞我吗hyw这是。。 https://t.co/5wFfePYdY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7656,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2920
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T04:43:39.000Z",
+        "description": "前世@minastear1︱热衷于研究实验室物质 不西渡不范读︱18↑︱oder︱友一切︱顺女泛性恋︱点击神秘链接概率获得小零食掉落😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "minastear1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Minastear",
+                "end": 23,
+                "expanded_url": "http://t.me/Minastear",
+                "start": 0,
+                "url": "https://t.co/NjVeeSyZBZ"
+              }
+            ]
+          }
+        },
+        "id": "2031954172732719112",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2074940642598453455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032141006750302211/tUre2IlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 188,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/NjVeeSyZBZ",
+        "username": "Minastear030",
+        "verified": false
+      }
+    ]
+  }
+}

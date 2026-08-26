@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078445747557855232"
+      ],
+      "media_source_tweet_id": [
+        "2078445749910827039"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2078732827353575484",
+    "created_at": "2026-07-19T06:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078732827353575484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "822486799184314368",
+          "start": 3,
+          "username": "YTMGS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bpfDRlPho0",
+          "end": 34,
+          "expanded_url": "https://x.com/YTMGS/status/2078445749910827039/photo/1",
+          "media_key": "3_2078445747557855232",
+          "start": 11,
+          "url": "https://t.co/bpfDRlPho0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078732827353575484",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 713
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078445749910827039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YTMGS: https://t.co/bpfDRlPho0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2078445747557855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgfZTQbcAAKFbz.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078445747557855232"
+          ]
+        },
+        "author_id": "822486799184314368",
+        "conversation_id": "2078445749910827039",
+        "created_at": "2026-07-18T11:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078445749910827039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpfDRlPho0",
+              "end": 23,
+              "expanded_url": "https://x.com/YTMGS/status/2078445749910827039/photo/1",
+              "media_key": "3_2078445747557855232",
+              "start": 0,
+              "url": "https://t.co/bpfDRlPho0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078445749910827039",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 869,
+          "impression_count": 847908,
+          "like_count": 30392,
+          "quote_count": 31,
+          "reply_count": 44,
+          "retweet_count": 713
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bpfDRlPho0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078445747557855232"
+          ],
+          "media_source_tweet_id": [
+            "2078445749910827039"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2078732827353575484",
+        "created_at": "2026-07-19T06:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078732827353575484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "822486799184314368",
+              "start": 3,
+              "username": "YTMGS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpfDRlPho0",
+              "end": 34,
+              "expanded_url": "https://x.com/YTMGS/status/2078445749910827039/photo/1",
+              "media_key": "3_2078445747557855232",
+              "start": 11,
+              "url": "https://t.co/bpfDRlPho0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078732827353575484",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 713
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078445749910827039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YTMGS: https://t.co/bpfDRlPho0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8121,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2975
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T16:51:48.000Z",
+        "description": "YouTubeで見かけた面白いコメントや名言、迷シーンなどをツイートします。ネタ提供・宣伝拡散のRT依頼・企業案件はお気軽にDMまで。過去にバズったツイートはブログ/TikTok/YouTubeで。→https://t.co/U5s7sBwm6o  Amazonアソシエイト参加中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/YTMGS",
+                "end": 123,
+                "expanded_url": "https://lit.link/YTMGS",
+                "start": 100,
+                "url": "https://t.co/U5s7sBwm6o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ytmgs.blog.jp",
+                "end": 23,
+                "expanded_url": "https://ytmgs.blog.jp/",
+                "start": 0,
+                "url": "https://t.co/7Xh89gHx6U"
+              }
+            ]
+          }
+        },
+        "id": "822486799184314368",
+        "name": "𝕐ouTube迷コメント集",
+        "pinned_tweet_id": "2073440685559279931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727746473201438722/drCsVJps_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558870,
+          "following_count": 86,
+          "like_count": 16685,
+          "listed_count": 874,
+          "media_count": 19062,
+          "tweet_count": 36268
+        },
+        "url": "https://t.co/7Xh89gHx6U",
+        "username": "YTMGS",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1935668971866357761"
+      ],
+      "media_source_tweet_id": [
+        "1935669024664563918"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2072502225767915616",
+    "created_at": "2026-07-02T02:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072502225767915616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2059902566964895744",
+          "start": 3,
+          "username": "tyuuihou12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KS2TLCF5TX",
+          "end": 56,
+          "expanded_url": "https://x.com/gogogos_/status/1935669024664563918/video/1",
+          "media_key": "7_1935668971866357761",
+          "start": 33,
+          "url": "https://t.co/KS2TLCF5TX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072502225767915616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072217525350518987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyuuihou12: コアラのいびき…聞いたことある？ https://t.co/KS2TLCF5TX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31743,
+        "height": 1280,
+        "media_key": "7_1935668971866357761",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1935668971866357761/pu/img/jaGY7-sd085zgQ3w.jpg",
+        "public_metrics": {
+          "view_count": 961715
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935668971866357761/pu/vid/avc1/320x568/IVA-9__pO41Xoq3W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935668971866357761/pu/vid/avc1/480x852/QwYHF_6ttexbZXDF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935668971866357761/pu/vid/avc1/720x1280/tSD3ZuWsBsni8WqM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1935668971866357761/pu/pl/Mx3EUttZRrL33lD-.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1935668971866357761"
+          ],
+          "media_source_tweet_id": [
+            "1935669024664563918"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2072502225767915616",
+        "created_at": "2026-07-02T02:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072502225767915616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2059902566964895744",
+              "start": 3,
+              "username": "tyuuihou12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KS2TLCF5TX",
+              "end": 56,
+              "expanded_url": "https://x.com/gogogos_/status/1935669024664563918/video/1",
+              "media_key": "7_1935668971866357761",
+              "start": 33,
+              "url": "https://t.co/KS2TLCF5TX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072502225767915616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072217525350518987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyuuihou12: コアラのいびき…聞いたことある？ https://t.co/KS2TLCF5TX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1935668971866357761"
+          ],
+          "media_source_tweet_id": [
+            "1935669024664563918"
+          ]
+        },
+        "author_id": "2059902566964895744",
+        "conversation_id": "2072217525350518987",
+        "created_at": "2026-07-01T07:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072217525350518987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KS2TLCF5TX",
+              "end": 40,
+              "expanded_url": "https://x.com/gogogos_/status/1935669024664563918/video/1",
+              "media_key": "7_1935668971866357761",
+              "start": 17,
+              "url": "https://t.co/KS2TLCF5TX"
+            },
+            {
+              "display_url": "x.com/tyuuihou12/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/tyuuihou12/status/2072198752757338474",
+              "start": 41,
+              "url": "https://t.co/EhhW7R62L4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072217525350518987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1533,
+          "impression_count": 722509,
+          "like_count": 6949,
+          "quote_count": 102,
+          "reply_count": 24,
+          "retweet_count": 1145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072198752757338474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "コアラのいびき…聞いたことある？ https://t.co/KS2TLCF5TX https://t.co/EhhW7R62L4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 196,
+          "like_count": 6695,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T07:41:54.000Z",
+        "description": "見たら最後、癒されます。",
+        "id": "2059902566964895744",
+        "name": "可愛さ注意報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067133649997414400/VrsZ1viQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "tyuuihou12",
+        "verified": false
+      }
+    ]
+  }
+}

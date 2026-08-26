@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2080415296754798689",
+    "created_at": "2026-07-24T02:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080487048495136894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1789475739659821056",
+          "start": 0,
+          "username": "muuuau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080487048495136894",
+    "in_reply_to_user_id": "1789475739659821056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080485730112180256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muuuau 我买来上吊的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2080415296754798689",
+        "created_at": "2026-07-24T02:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080487048495136894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1789475739659821056",
+              "start": 0,
+              "username": "muuuau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080487048495136894",
+        "in_reply_to_user_id": "1789475739659821056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080485730112180256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muuuau 我买来上吊的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789475739659821056",
+        "conversation_id": "2080415296754798689",
+        "created_at": "2026-07-24T02:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080485730112180256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080485730112180256",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080415296754798689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf ?下次我要小心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 202,
+          "like_count": 8520,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T02:00:57.000Z",
+        "description": "マイマイ/ff14/gal/\n中国語＋日本語OK\nISFJ  |  HRT 2023.11.29",
+        "id": "1789475739659821056",
+        "location": "Tokyo, Japan",
+        "name": "祷潵",
+        "pinned_tweet_id": "1903128887833628770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902360819486408704/RTo6q0o9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 436,
+          "like_count": 4353,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "muuuau",
+        "verified": false
+      }
+    ]
+  }
+}

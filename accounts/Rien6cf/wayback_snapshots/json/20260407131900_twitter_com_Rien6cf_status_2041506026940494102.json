@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041430462351196160"
+      ],
+      "media_source_tweet_id": [
+        "2041430513441980821"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2041506026940494102",
+    "created_at": "2026-04-07T13:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041506026940494102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512129744195575808",
+          "start": 3,
+          "username": "kibe_kibo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/86rPaHCpeT",
+          "end": 54,
+          "expanded_url": "https://x.com/kibe_kibo/status/2041430513441980821/video/1",
+          "media_key": "13_2041430462351196160",
+          "start": 31,
+          "url": "https://t.co/86rPaHCpeT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041506026940494102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041430513441980821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kibe_kibo: あいすのTOは間違いなくこるね https://t.co/86rPaHCpeT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3295,
+        "height": 884,
+        "media_key": "13_2041430462351196160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041430462351196160/img/XdVJTqF6PJy0JbKM.jpg",
+        "public_metrics": {
+          "view_count": 22915
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041430462351196160/pl/DBE8LGOcYRTOrmmV.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041430462351196160/vid/avc1/472x270/AL1UBCQkISQVQ37r.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041430462351196160/vid/avc1/1550x884/1inyV4aJRn0gQzw6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041430462351196160/vid/avc1/1262x720/w7YO8Vg8aogIhAcN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041430462351196160/vid/avc1/630x360/t7PU9RkgpSsWfbF5.mp4"
+          }
+        ],
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041430462351196160"
+          ],
+          "media_source_tweet_id": [
+            "2041430513441980821"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2041506026940494102",
+        "created_at": "2026-04-07T13:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041506026940494102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512129744195575808",
+              "start": 3,
+              "username": "kibe_kibo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/86rPaHCpeT",
+              "end": 54,
+              "expanded_url": "https://x.com/kibe_kibo/status/2041430513441980821/video/1",
+              "media_key": "13_2041430462351196160",
+              "start": 31,
+              "url": "https://t.co/86rPaHCpeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041506026940494102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041430513441980821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kibe_kibo: あいすのTOは間違いなくこるね https://t.co/86rPaHCpeT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041430462351196160"
+          ]
+        },
+        "author_id": "1512129744195575808",
+        "conversation_id": "2041430513441980821",
+        "created_at": "2026-04-07T08:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041430513441980821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86rPaHCpeT",
+              "end": 39,
+              "expanded_url": "https://x.com/kibe_kibo/status/2041430513441980821/video/1",
+              "media_key": "13_2041430462351196160",
+              "start": 16,
+              "url": "https://t.co/86rPaHCpeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041430513441980821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 62728,
+          "like_count": 3232,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "あいすのTOは間違いなくこるね https://t.co/86rPaHCpeT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 130,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1476
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T18:06:47.000Z",
+        "description": "アイドル好きです！割とフォロバします！ アイドル界隈で起きたことツイートしてるので情報提供待ってます！",
+        "id": "1512129744195575808",
+        "location": "フォロー制限かかるのでフォロバ遅め🙇‍♀️",
+        "name": "きべ(キッキ)🎈",
+        "pinned_tweet_id": "2039357691915829539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210652186112000/AxQdd8KK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12062,
+          "following_count": 6793,
+          "like_count": 68220,
+          "listed_count": 30,
+          "media_count": 2851,
+          "tweet_count": 26254
+        },
+        "username": "kibe_kibo",
+        "verified": true
+      }
+    ]
+  }
+}

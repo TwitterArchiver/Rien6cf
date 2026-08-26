@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058768409530376192"
+      ],
+      "media_source_tweet_id": [
+        "2058768415003984194"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2058833522023182565",
+    "created_at": "2026-05-25T08:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058833522023182565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1569617042998988800",
+          "start": 3,
+          "username": "hajimekakeru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zt6aEKHst",
+          "end": 69,
+          "expanded_url": "https://x.com/hajimekakeru/status/2058768415003984194/photo/1",
+          "media_key": "3_2058768409530376192",
+          "start": 46,
+          "url": "https://t.co/1zt6aEKHst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058833522023182565",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058768415003984194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hajimekakeru: 解体新書によれば初音ミクの骨格はこうなっているらしい🤔 https://t.co/1zt6aEKHst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 883,
+        "media_key": "3_2058768409530376192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI29ezaoAAjDXk.jpg",
+        "width": 741
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058768409530376192"
+          ],
+          "media_source_tweet_id": [
+            "2058768415003984194"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2058833522023182565",
+        "created_at": "2026-05-25T08:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058833522023182565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1569617042998988800",
+              "start": 3,
+              "username": "hajimekakeru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zt6aEKHst",
+              "end": 69,
+              "expanded_url": "https://x.com/hajimekakeru/status/2058768415003984194/photo/1",
+              "media_key": "3_2058768409530376192",
+              "start": 46,
+              "url": "https://t.co/1zt6aEKHst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058833522023182565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058768415003984194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hajimekakeru: 解体新書によれば初音ミクの骨格はこうなっているらしい🤔 https://t.co/1zt6aEKHst"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058768409530376192"
+          ]
+        },
+        "author_id": "1569617042998988800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          }
+        ],
+        "conversation_id": "2058768415003984194",
+        "created_at": "2026-05-25T04:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058768415003984194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zt6aEKHst",
+              "end": 51,
+              "expanded_url": "https://x.com/hajimekakeru/status/2058768415003984194/photo/1",
+              "media_key": "3_2058768409530376192",
+              "start": 28,
+              "url": "https://t.co/1zt6aEKHst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058768415003984194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 14756,
+          "like_count": 718,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "解体新書によれば初音ミクの骨格はこうなっているらしい🤔 https://t.co/1zt6aEKHst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 172,
+          "like_count": 4533,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2231
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T09:20:58.000Z",
+        "description": "歌い手🎤/Vライバー📱/ツイ廃界隈🐦/⚡️一推し様 @tokidoki77/🤝251 @sakenmilove @xavierutage/🧑‍🎨絵師様@Miyusu_uZz/👍トレードマーク/ポストは基本ネタです。拾い画をポストしてます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "tokidoki77"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "sakenmilove"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "xavierutage"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Miyusu_uZz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "room.rakuten.co.jp/room_1bf61238a…",
+                "end": 23,
+                "expanded_url": "https://room.rakuten.co.jp/room_1bf61238a9/items",
+                "start": 0,
+                "url": "https://t.co/hi7rPeU72j"
+              }
+            ]
+          }
+        },
+        "id": "1569617042998988800",
+        "name": "はじめ駆ける👍@面白ツイート",
+        "pinned_tweet_id": "2058777173646061923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004088957068627969/WIsGaXzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62764,
+          "following_count": 25950,
+          "like_count": 76125,
+          "listed_count": 163,
+          "media_count": 3145,
+          "tweet_count": 11322
+        },
+        "url": "https://t.co/hi7rPeU72j",
+        "username": "hajimekakeru",
+        "verified": true
+      }
+    ]
+  }
+}

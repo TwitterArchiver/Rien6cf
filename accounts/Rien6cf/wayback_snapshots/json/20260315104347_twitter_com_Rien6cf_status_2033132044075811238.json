@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2033132044075811238",
+    "created_at": "2026-03-15T10:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T11:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033132044075811238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1891771275032612864",
+          "start": 3,
+          "username": "smpc8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033132044075811238",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033052082551620007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @smpc8c: 最近jkだけでなく、jcも怖い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2033132044075811238",
+        "created_at": "2026-03-15T10:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033132044075811238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1891771275032612864",
+              "start": 3,
+              "username": "smpc8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033132044075811238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033052082551620007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @smpc8c: 最近jkだけでなく、jcも怖い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891771275032612864",
+        "conversation_id": "2033052082551620007",
+        "created_at": "2026-03-15T05:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033052082551620007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033052082551620007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 101203,
+          "like_count": 6802,
+          "quote_count": 73,
+          "reply_count": 8,
+          "retweet_count": 265
+        },
+        "reply_settings": "following",
+        "text": "最近jkだけでなく、jcも怖い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 110,
+          "like_count": 1606,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1080
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T08:46:42.000Z",
+        "description": "🌳 👊🏻🩸 ljk 縮小@a7_j30 ﾌｫﾛｰﾌｫﾛﾊﾞありがとうございます🫰🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "a7_j30"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/a0hyj1jjsbb5x3…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/a0hyj1jjsbb5x3a?t=L9gPgY&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/nsgpz04MCW"
+              }
+            ]
+          }
+        },
+        "id": "1891771275032612864",
+        "name": "悲哀",
+        "pinned_tweet_id": "2006605048055476334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911028451407998976/qorcjtlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3507,
+          "following_count": 131,
+          "like_count": 15382,
+          "listed_count": 23,
+          "media_count": 271,
+          "tweet_count": 2526
+        },
+        "url": "https://t.co/nsgpz04MCW",
+        "username": "smpc8c",
+        "verified": false
+      }
+    ]
+  }
+}

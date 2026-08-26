@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2077815782751486360",
+    "created_at": "2026-07-16T18:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077815782751486360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1811674110839427072",
+          "start": 3,
+          "username": "xe20202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077815782751486360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1366
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077384478947987814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xe20202: いつも思うんだけど数学「だけ」異常に良い人って発達障害なの？数学できる地頭あるのに英語できないのマジで意味がわからないんだが"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2077815782751486360",
+        "created_at": "2026-07-16T18:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077815782751486360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1811674110839427072",
+              "start": 3,
+              "username": "xe20202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077815782751486360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1366
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077384478947987814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xe20202: いつも思うんだけど数学「だけ」異常に良い人って発達障害なの？数学できる地頭あるのに英語できないのマジで意味がわからないんだが"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811674110839427072",
+        "conversation_id": "2077384478947987814",
+        "created_at": "2026-07-15T13:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077384478947987814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rin_mnkn/statu…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/rin_mnkn/status/2076991349279375658",
+              "start": 63,
+              "url": "https://t.co/VJx64jt2Di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077384478947987814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4293,
+          "impression_count": 17340880,
+          "like_count": 55221,
+          "quote_count": 2504,
+          "reply_count": 693,
+          "retweet_count": 1366
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076991349279375658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "いつも思うんだけど数学「だけ」異常に良い人って発達障害なの？数学できる地頭あるのに英語できないのマジで意味がわからないんだが https://t.co/VJx64jt2Di"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 193,
+          "like_count": 7944,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2954
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T08:09:28.000Z",
+        "description": "ジア現役生です",
+        "id": "1811674110839427072",
+        "name": "タウン",
+        "pinned_tweet_id": "2077745454746575300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962498589793632256/V5tIFmje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 323,
+          "like_count": 2117,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1246
+        },
+        "url": "",
+        "username": "xe20202",
+        "verified": false
+      }
+    ]
+  }
+}

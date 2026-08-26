@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058347981418659840"
+      ],
+      "media_source_tweet_id": [
+        "2058347986011447432"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058403314509955471",
+    "created_at": "2026-05-24T04:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058403314509955471"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 55,
+          "start": 47,
+          "tag": "ワモンアザラシ"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "ましろ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997234739481399296",
+          "start": 3,
+          "username": "tmr_gmgm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WMUyx1v5hi",
+          "end": 84,
+          "expanded_url": "https://x.com/tmr_gmgm/status/2058347986011447432/photo/1",
+          "media_key": "3_2058347981418659840",
+          "start": 61,
+          "url": "https://t.co/WMUyx1v5hi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058403314509955471",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058347986011447432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tmr_gmgm: ピンボケだけど可愛いので…！\n\n2026.5\n#とっかりセンター\n#ワモンアザラシ #ましろ https://t.co/WMUyx1v5hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1339,
+        "media_key": "3_2058347981418659840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJC4lWCaAAAoetv.jpg",
+        "width": 2006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058347981418659840"
+          ],
+          "media_source_tweet_id": [
+            "2058347986011447432"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058403314509955471",
+        "created_at": "2026-05-24T04:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058403314509955471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "ワモンアザラシ"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "ましろ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997234739481399296",
+              "start": 3,
+              "username": "tmr_gmgm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMUyx1v5hi",
+              "end": 84,
+              "expanded_url": "https://x.com/tmr_gmgm/status/2058347986011447432/photo/1",
+              "media_key": "3_2058347981418659840",
+              "start": 61,
+              "url": "https://t.co/WMUyx1v5hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058403314509955471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058347986011447432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tmr_gmgm: ピンボケだけど可愛いので…！\n\n2026.5\n#とっかりセンター\n#ワモンアザラシ #ましろ https://t.co/WMUyx1v5hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058347981418659840"
+          ]
+        },
+        "author_id": "1997234739481399296",
+        "conversation_id": "2058347986011447432",
+        "created_at": "2026-05-24T00:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058347986011447432"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "ワモンアザラシ"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "ましろ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMUyx1v5hi",
+              "end": 70,
+              "expanded_url": "https://x.com/tmr_gmgm/status/2058347986011447432/photo/1",
+              "media_key": "3_2058347981418659840",
+              "start": 47,
+              "url": "https://t.co/WMUyx1v5hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058347986011447432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2447,
+          "like_count": 391,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "ピンボケだけど可愛いので…！\n\n2026.5\n#とっかりセンター\n#ワモンアザラシ #ましろ https://t.co/WMUyx1v5hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4414,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2204
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T09:20:54.000Z",
+        "description": "時差投稿多め🦭無言フォロー失礼します",
+        "id": "1997234739481399296",
+        "name": "つみれ🧊",
+        "pinned_tweet_id": "2040726057679294948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999489173246607366/MS73vB53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 112,
+          "like_count": 5442,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 243
+        },
+        "username": "tmr_gmgm",
+        "verified": false
+      }
+    ]
+  }
+}

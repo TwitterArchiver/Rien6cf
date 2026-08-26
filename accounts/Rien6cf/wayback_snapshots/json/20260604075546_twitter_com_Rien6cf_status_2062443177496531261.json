@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062318106782072832",
+        "3_2062318107755245568"
+      ],
+      "media_source_tweet_id": [
+        "2062318109848150333",
+        "2062318109848150333"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2062443177496531261",
+    "created_at": "2026-06-04T07:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062443177496531261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2023761474037190656",
+          "start": 3,
+          "username": "BJeiLBnwLCSOUDG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6OexBKwAsc",
+          "end": 106,
+          "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2062318109848150333/photo/1",
+          "media_key": "3_2062318106782072832",
+          "start": 83,
+          "url": "https://t.co/6OexBKwAsc"
+        },
+        {
+          "display_url": "pic.x.com/6OexBKwAsc",
+          "end": 106,
+          "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2062318109848150333/photo/1",
+          "media_key": "3_2062318107755245568",
+          "start": 83,
+          "url": "https://t.co/6OexBKwAsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062443177496531261",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062318109848150333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BJeiLBnwLCSOUDG: ボカロ好きが想像する夏→現実\n\nじゃないこんなの現実じゃないこんなの現実じゃないこんなの現実じゃないこんなの耐えられないの https://t.co/6OexBKwAsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2062318106782072832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7TZDiaAAAjc3v.jpg",
+        "width": 800
+      },
+      {
+        "height": 720,
+        "media_key": "3_2062318107755245568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7TZHKbcAAjbsJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062318106782072832",
+            "3_2062318107755245568"
+          ],
+          "media_source_tweet_id": [
+            "2062318109848150333",
+            "2062318109848150333"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2062443177496531261",
+        "created_at": "2026-06-04T07:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062443177496531261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2023761474037190656",
+              "start": 3,
+              "username": "BJeiLBnwLCSOUDG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OexBKwAsc",
+              "end": 106,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2062318109848150333/photo/1",
+              "media_key": "3_2062318106782072832",
+              "start": 83,
+              "url": "https://t.co/6OexBKwAsc"
+            },
+            {
+              "display_url": "pic.x.com/6OexBKwAsc",
+              "end": 106,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2062318109848150333/photo/1",
+              "media_key": "3_2062318107755245568",
+              "start": 83,
+              "url": "https://t.co/6OexBKwAsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062443177496531261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062318109848150333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BJeiLBnwLCSOUDG: ボカロ好きが想像する夏→現実\n\nじゃないこんなの現実じゃないこんなの現実じゃないこんなの現実じゃないこんなの耐えられないの https://t.co/6OexBKwAsc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062318106782072832",
+            "3_2062318107755245568"
+          ]
+        },
+        "author_id": "2023761474037190656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2062318109848150333",
+        "created_at": "2026-06-03T23:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062318109848150333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OexBKwAsc",
+              "end": 85,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2062318109848150333/photo/1",
+              "media_key": "3_2062318106782072832",
+              "start": 62,
+              "url": "https://t.co/6OexBKwAsc"
+            },
+            {
+              "display_url": "pic.x.com/6OexBKwAsc",
+              "end": 85,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2062318109848150333/photo/1",
+              "media_key": "3_2062318107755245568",
+              "start": 62,
+              "url": "https://t.co/6OexBKwAsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062318109848150333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 17279,
+          "like_count": 1697,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "ボカロ好きが想像する夏→現実\n\nじゃないこんなの現実じゃないこんなの現実じゃないこんなの現実じゃないこんなの耐えられないの https://t.co/6OexBKwAsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 182,
+          "like_count": 5050,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2401
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:08:43.000Z",
+        "description": "Xと絵両方初心者です！　いよわさん大大好き！サブ垢開設！https://t.co/ODYM6JMfyl\nネタ絵やボカロ絵、ボカロネタ、ボカロ関連の実写などなど…（男の娘（））\n宇宙で一番好きなボカロ曲は\n「IMAWANOKIWA」です！いまわさん最高に愛してる…\n憧れはいつだっていよわさん！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/kiwakiwaimawa",
+                "end": 51,
+                "expanded_url": "https://x.com/kiwakiwaimawa",
+                "start": 28,
+                "url": "https://t.co/ODYM6JMfyl"
+              }
+            ]
+          }
+        },
+        "id": "2023761474037190656",
+        "location": "結露越しの街",
+        "name": "ただのゴーレムさん",
+        "pinned_tweet_id": "2059621784316788962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058520433151111168/wNEynRjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 666,
+          "like_count": 8823,
+          "listed_count": 1,
+          "media_count": 690,
+          "tweet_count": 5060
+        },
+        "username": "BJeiLBnwLCSOUDG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058354063679651840"
+      ],
+      "media_source_tweet_id": [
+        "2058354066997334042"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058403282952097996",
+    "created_at": "2026-05-24T04:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058403282952097996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "111888347",
+          "start": 3,
+          "username": "odayakaninarou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HRS7yBAv4k",
+          "end": 63,
+          "expanded_url": "https://x.com/odayakaninarou/status/2058354066997334042/photo/1",
+          "media_key": "3_2058354063679651840",
+          "start": 40,
+          "url": "https://t.co/HRS7yBAv4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058403282952097996",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058354066997334042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odayakaninarou: ポサポサにされたふたり\n表情が最高😂💕 https://t.co/HRS7yBAv4k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2058354063679651840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJC-HYObgAAUz60.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058354063679651840"
+          ],
+          "media_source_tweet_id": [
+            "2058354066997334042"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058403282952097996",
+        "created_at": "2026-05-24T04:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058403282952097996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "111888347",
+              "start": 3,
+              "username": "odayakaninarou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRS7yBAv4k",
+              "end": 63,
+              "expanded_url": "https://x.com/odayakaninarou/status/2058354066997334042/photo/1",
+              "media_key": "3_2058354063679651840",
+              "start": 40,
+              "url": "https://t.co/HRS7yBAv4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058403282952097996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058354066997334042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odayakaninarou: ポサポサにされたふたり\n表情が最高😂💕 https://t.co/HRS7yBAv4k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058354063679651840"
+          ]
+        },
+        "author_id": "111888347",
+        "conversation_id": "2058354066997334042",
+        "created_at": "2026-05-24T01:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058354066997334042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRS7yBAv4k",
+              "end": 43,
+              "expanded_url": "https://x.com/odayakaninarou/status/2058354066997334042/photo/1",
+              "media_key": "3_2058354063679651840",
+              "start": 20,
+              "url": "https://t.co/HRS7yBAv4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058354066997334042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1040,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "ポサポサにされたふたり\n表情が最高😂💕 https://t.co/HRS7yBAv4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4413,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2203
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T13:46:46.000Z",
+        "description": "難聴です。ちょっと変わり者かも知れません。はっくしょん。\n勧誘ものは興味がありません。",
+        "id": "111888347",
+        "location": "キトキト県",
+        "name": "まりも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/604792439988101120/8iErM0h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 313,
+          "like_count": 285928,
+          "listed_count": 10,
+          "media_count": 6998,
+          "tweet_count": 39855
+        },
+        "username": "odayakaninarou",
+        "verified": false
+      }
+    ]
+  }
+}

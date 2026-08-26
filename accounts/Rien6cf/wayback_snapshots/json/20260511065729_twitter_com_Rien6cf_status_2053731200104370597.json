@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053468021965066240"
+      ],
+      "media_source_tweet_id": [
+        "2053468029233803546"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2053731200104370597",
+    "created_at": "2026-05-11T06:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053731200104370597"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "北海道"
+        },
+        {
+          "end": 55,
+          "start": 42,
+          "tag": "HokkaidoLove"
+        },
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "北海道が美しい"
+        },
+        {
+          "end": 74,
+          "start": 67,
+          "tag": "東京カメラ部"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "ラッコ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2278838978",
+          "start": 3,
+          "username": "maichon58"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqeW63Y3Es",
+          "end": 104,
+          "expanded_url": "https://x.com/maichon58/status/2053468029233803546/photo/1",
+          "media_key": "3_2053468021965066240",
+          "start": 81,
+          "url": "https://t.co/oqeW63Y3Es"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053731200104370597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 350
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053468029233803546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maichon58: おおきい獲物が捕れてご満悦の様子🦦🐙\n\n #北海道  #HokkaidoLove  #北海道が美しい  #東京カメラ部  #ラッコ https://t.co/oqeW63Y3Es"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 829,
+        "media_key": "3_2053468021965066240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9iSUbaEAAOYtj.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053468021965066240"
+          ],
+          "media_source_tweet_id": [
+            "2053468029233803546"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2053731200104370597",
+        "created_at": "2026-05-11T06:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053731200104370597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "北海道"
+            },
+            {
+              "end": 55,
+              "start": 42,
+              "tag": "HokkaidoLove"
+            },
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "北海道が美しい"
+            },
+            {
+              "end": 74,
+              "start": 67,
+              "tag": "東京カメラ部"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "ラッコ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2278838978",
+              "start": 3,
+              "username": "maichon58"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqeW63Y3Es",
+              "end": 104,
+              "expanded_url": "https://x.com/maichon58/status/2053468029233803546/photo/1",
+              "media_key": "3_2053468021965066240",
+              "start": 81,
+              "url": "https://t.co/oqeW63Y3Es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053731200104370597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053468029233803546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maichon58: おおきい獲物が捕れてご満悦の様子🦦🐙\n\n #北海道  #HokkaidoLove  #北海道が美しい  #東京カメラ部  #ラッコ https://t.co/oqeW63Y3Es"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053468021965066240"
+          ]
+        },
+        "author_id": "2278838978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2053468029233803546",
+        "created_at": "2026-05-10T13:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053468029233803546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "北海道"
+            },
+            {
+              "end": 40,
+              "start": 27,
+              "tag": "HokkaidoLove"
+            },
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "北海道が美しい"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "東京カメラ部"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "ラッコ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqeW63Y3Es",
+              "end": 89,
+              "expanded_url": "https://x.com/maichon58/status/2053468029233803546/photo/1",
+              "media_key": "3_2053468021965066240",
+              "start": 66,
+              "url": "https://t.co/oqeW63Y3Es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053468029233803546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 80725,
+          "like_count": 3564,
+          "quote_count": 18,
+          "reply_count": 8,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "おおきい獲物が捕れてご満悦の様子🦦🐙\n\n #北海道  #HokkaidoLove  #北海道が美しい  #東京カメラ部  #ラッコ https://t.co/oqeW63Y3Es"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3729,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1969
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-06T09:31:02.000Z",
+        "description": "北海道で活動中📷(SONY α7Ⅲ)⛰＆⛺️！お気軽に♥RTフォローお待ちしてます( ¨̮ )【無断転載は×です🙅‍♀️】たまーに絵も描く ❁⃘写真のプリント、カレンダー、フォトブックの販売賜ります！お気軽にお申し付けください❁⃘撮影のご依頼はDMまで✉️ コス垢→@maichoncos 日常垢→@mcncju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "maichoncos"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "mcncju"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/maichon.photos",
+                "end": 23,
+                "expanded_url": "http://www.Instagram.com/maichon.photos",
+                "start": 0,
+                "url": "https://t.co/nsESDpsMQ7"
+              }
+            ]
+          }
+        },
+        "id": "2278838978",
+        "location": "日本 北海道",
+        "name": "まいちょん＠きたそらちまったりLIFE",
+        "pinned_tweet_id": "1798657078221041903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851627245351419904/S-HHI9R4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4064,
+          "following_count": 717,
+          "like_count": 36715,
+          "listed_count": 48,
+          "media_count": 2561,
+          "tweet_count": 12364
+        },
+        "url": "https://t.co/nsESDpsMQ7",
+        "username": "maichon58",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051612602770542592"
+      ],
+      "media_source_tweet_id": [
+        "2051612678964334910"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051614800946626798",
+    "created_at": "2026-05-05T10:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051614800946626798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZSOaawDqDh",
+          "end": 31,
+          "expanded_url": "https://x.com/kibe_kibo/status/2051612678964334910/video/1",
+          "media_key": "13_2051612602770542592",
+          "start": 8,
+          "url": "https://t.co/ZSOaawDqDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051614800946626798",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ちょいこれまじ https://t.co/ZSOaawDqDh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12911,
+        "height": 1170,
+        "media_key": "13_2051612602770542592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051612602770542592/img/R6XY50YyhptXU_DZ.jpg",
+        "public_metrics": {
+          "view_count": 577
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051612602770542592/vid/avc1/480x270/5rf0baN1x2DdNPmX.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051612602770542592/vid/avc1/2080x1170/Et7rnRjQ2CfAN9tT.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051612602770542592/pl/y5DYMWYH49J6SWDb.m3u8?tag=27&v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051612602770542592/vid/avc1/1280x720/2Q5cn0RYyx2SLSp-.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051612602770542592/vid/avc1/640x360/Yf_qYxJDqqsGpjxH.mp4?tag=27"
+          }
+        ],
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051612602770542592"
+          ],
+          "media_source_tweet_id": [
+            "2051612678964334910"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051614800946626798",
+        "created_at": "2026-05-05T10:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051614800946626798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSOaawDqDh",
+              "end": 31,
+              "expanded_url": "https://x.com/kibe_kibo/status/2051612678964334910/video/1",
+              "media_key": "13_2051612602770542592",
+              "start": 8,
+              "url": "https://t.co/ZSOaawDqDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051614800946626798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ちょいこれまじ https://t.co/ZSOaawDqDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 164,
+          "like_count": 3364,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1868
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

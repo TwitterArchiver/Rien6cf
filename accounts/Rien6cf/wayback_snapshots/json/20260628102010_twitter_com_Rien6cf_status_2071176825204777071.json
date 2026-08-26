@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2070900875019911168"
+      ],
+      "media_source_tweet_id": [
+        "2070901161012678848"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071176825204777071",
+    "created_at": "2026-06-28T10:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071176825204777071"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "コールダック"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "アヒル"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1082518284002516992",
+          "start": 3,
+          "username": "UZURAB1006"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6a8zS0UZes",
+          "end": 63,
+          "expanded_url": "https://x.com/UZURAB1006/status/2070901161012678848/video/1",
+          "media_key": "7_2070900875019911168",
+          "start": 40,
+          "url": "https://t.co/6a8zS0UZes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071176825204777071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070901161012678848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UZURAB1006: 一列になる瞬間🎵\n\n　#コールダック　#アヒル https://t.co/6a8zS0UZes"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36482,
+        "height": 720,
+        "media_key": "7_2070900875019911168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070900875019911168/pu/img/EGoc88lmzBv-aWNd.jpg",
+        "public_metrics": {
+          "view_count": 4085
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070900875019911168/pu/vid/avc1/480x270/LkA8d81Bc9E1u0kD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070900875019911168/pu/vid/avc1/640x360/QgaYpiKZiDFrId_B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070900875019911168/pu/vid/avc1/1280x720/Jng7_wcYEGXGasqM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070900875019911168/pu/pl/61VliAF2L4gwz8NN.m3u8?tag=12&v=6cc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070900875019911168"
+          ],
+          "media_source_tweet_id": [
+            "2070901161012678848"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071176825204777071",
+        "created_at": "2026-06-28T10:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071176825204777071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "コールダック"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "アヒル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1082518284002516992",
+              "start": 3,
+              "username": "UZURAB1006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6a8zS0UZes",
+              "end": 63,
+              "expanded_url": "https://x.com/UZURAB1006/status/2070901161012678848/video/1",
+              "media_key": "7_2070900875019911168",
+              "start": 40,
+              "url": "https://t.co/6a8zS0UZes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071176825204777071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070901161012678848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UZURAB1006: 一列になる瞬間🎵\n\n　#コールダック　#アヒル https://t.co/6a8zS0UZes"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070900875019911168"
+          ]
+        },
+        "author_id": "1082518284002516992",
+        "conversation_id": "2070901161012678848",
+        "created_at": "2026-06-27T16:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070901161012678848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "コールダック"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "アヒル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6a8zS0UZes",
+              "end": 47,
+              "expanded_url": "https://x.com/UZURAB1006/status/2070901161012678848/video/1",
+              "media_key": "7_2070900875019911168",
+              "start": 24,
+              "url": "https://t.co/6a8zS0UZes"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "bcf7dca0cae1c2e6"
+        },
+        "id": "2070901161012678848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 14523,
+          "like_count": 772,
+          "quote_count": 12,
+          "reply_count": 15,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "一列になる瞬間🎵\n\n　#コールダック　#アヒル https://t.co/6a8zS0UZes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 6454,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2715
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T06:04:05.000Z",
+        "description": "コールダックを\n\n8羽飼育しています。毎日散歩しています。横浜市在住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@uzurab1006?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@uzurab1006?si=r_4Bd4teXN4wcmq3",
+                "start": 0,
+                "url": "https://t.co/OOB48aIYvF"
+              }
+            ]
+          }
+        },
+        "id": "1082518284002516992",
+        "name": "うずら番長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671344561363484673/U-k3vMWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12798,
+          "following_count": 13400,
+          "like_count": 93215,
+          "listed_count": 151,
+          "media_count": 1989,
+          "tweet_count": 49055
+        },
+        "url": "https://t.co/OOB48aIYvF",
+        "username": "UZURAB1006",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2042611913323090062",
+    "created_at": "2026-04-10T14:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042611913323090062"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 33,
+          "tag": "CONTINUE"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "lain"
+        },
+        {
+          "end": 86,
+          "start": 79,
+          "tag": "超てんちゃん"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "岩倉玲音"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "ニディガ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "915493127024025601",
+          "start": 3,
+          "username": "CONTINUE_mag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042611913323090062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042466695957364970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CONTINUE_mag: 【絶賛制作中】5月13日発売『#CONTINUE』Vol.89の表紙を、Vol.85『#lain』特集号と並べてみました。#超てんちゃん と #岩倉玲音 の2ショット……これは、なかなかの奇跡！\n\n＃ニディガ\n\n▼Vol.89（予約受付中）▼…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1880,
+        "media_key": "3_2042465219998568448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhLS9Aa0AAKEe3.jpg",
+        "width": 1427
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2042465290030907392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhLXB5bgAAek7d.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2042611913323090062",
+        "created_at": "2026-04-10T14:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042611913323090062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "CONTINUE"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "lain"
+            },
+            {
+              "end": 86,
+              "start": 79,
+              "tag": "超てんちゃん"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "岩倉玲音"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "ニディガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "915493127024025601",
+              "start": 3,
+              "username": "CONTINUE_mag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042611913323090062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042466695957364970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CONTINUE_mag: 【絶賛制作中】5月13日発売『#CONTINUE』Vol.89の表紙を、Vol.85『#lain』特集号と並べてみました。#超てんちゃん と #岩倉玲音 の2ショット……これは、なかなかの奇跡！\n\n＃ニディガ\n\n▼Vol.89（予約受付中）▼…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042465219998568448",
+            "3_2042465290030907392"
+          ]
+        },
+        "author_id": "915493127024025601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042466695957364970",
+        "created_at": "2026-04-10T04:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042466695957364970"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "CONTINUE"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "lain"
+            },
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "超てんちゃん"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "岩倉玲音"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Amazon",
+              "display_url": "amazon.co.jp/exec/obidos/AS…",
+              "end": 145,
+              "expanded_url": "https://amazon.co.jp/exec/obidos/ASIN/4778341295/httpwwwohtaco-22/",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2040020652938383360/4c7kb9Tk?format=png&name=orig",
+                  "width": 1910
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040020652938383360/4c7kb9Tk?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 122,
+              "status": 200,
+              "title": "Amazon",
+              "unwound_url": "https://www.amazon.co.jp/exec/obidos/ASIN/4778341295/httpwwwohtaco-22/",
+              "url": "https://t.co/VQrmUWrMIv"
+            },
+            {
+              "description": "表紙（描きおろし）：安倍吉俊（キャラクターデザイン） 第一特集　serial experiments lain（全50ページ） 作品の始動から25周年を迎えた『serial experiments lain』。 世代を超えて、未だ多くの人々を魅了する理由とは？ 全50ページで大特集!!　表紙は安倍吉俊先生による描きおろし!! 対談インタビュー：上田耕行（プロデューサー・脚本家）×安倍吉俊（キャラクターデザイン） 『lainは遍在する　──サイバースペースにおけるlainの拡散と伝播』木澤佐登志 エッセイ寄稿：にゃるら、岩倉文也、布施琳太郎 「AI lain」「We...",
+              "display_url": "amazon.co.jp/CONTINUE-Vol-8…",
+              "end": 190,
+              "expanded_url": "https://www.amazon.co.jp/CONTINUE-Vol-85-%E3%82%B3%E3%83%B3%E3%83%86%E3%82%A3%E3%83%8B%E3%83%A5%E3%83%BC%E7%B7%A8%E9%9B%86%E9%83%A8-ebook/dp/B0DPZKYCM3/ref=tmm_kin_swatch_0",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2042466705478455296/EzrZZGRz?format=jpg&name=orig",
+                  "width": 1910
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042466705478455296/EzrZZGRz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 167,
+              "status": 200,
+              "title": "CONTINUE Vol.85",
+              "unwound_url": "https://www.amazon.co.jp/CONTINUE-Vol-85-%E3%82%B3%E3%83%B3%E3%83%86%E3%82%A3%E3%83%8B%E3%83%A5%E3%83%BC%E7%B7%A8%E9%9B%86%E9%83%A8-ebook/dp/B0DPZKYCM3/ref=tmm_kin_swatch_0",
+              "url": "https://t.co/yIOAU5B74K"
+            },
+            {
+              "display_url": "pic.x.com/Nbsd1wIbse",
+              "end": 214,
+              "expanded_url": "https://x.com/CONTINUE_mag/status/2042466695957364970/photo/1",
+              "media_key": "3_2042465219998568448",
+              "start": 191,
+              "url": "https://t.co/Nbsd1wIbse"
+            },
+            {
+              "display_url": "pic.x.com/Nbsd1wIbse",
+              "end": 214,
+              "expanded_url": "https://x.com/CONTINUE_mag/status/2042466695957364970/photo/1",
+              "media_key": "3_2042465290030907392",
+              "start": 191,
+              "url": "https://t.co/Nbsd1wIbse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042466695957364970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 25693,
+          "like_count": 1069,
+          "quote_count": 35,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "【絶賛制作中】5月13日発売『#CONTINUE』Vol.89の表紙を、Vol.85『#lain』特集号と並べてみました。#超てんちゃん と #岩倉玲音 の2ショット……これは、なかなかの奇跡！\n\n＃ニディガ\n\n▼Vol.89（予約受付中）▼\nhttps://t.co/VQrmUWrMIv\n\n▼Vol.85（発売中／電子版のみ）▼\nhttps://t.co/yIOAU5B74K https://t.co/Nbsd1wIbse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 133,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1540
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-04T08:25:45.000Z",
+        "description": "日本で唯一のサブカル系ゲーム雑誌です。\nWe are the only alternative videogame magazine in Japan.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ohtabooks.com/publish/contin…",
+                "end": 23,
+                "expanded_url": "https://www.ohtabooks.com/publish/continue/",
+                "start": 0,
+                "url": "https://t.co/GcxnQqrE3G"
+              }
+            ]
+          }
+        },
+        "id": "915493127024025601",
+        "location": "TOKYO",
+        "name": "CONTINUE 編集部",
+        "pinned_tweet_id": "2042438670700200350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042440238572978177/7oLcZ1-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6249,
+          "following_count": 400,
+          "like_count": 10589,
+          "listed_count": 93,
+          "media_count": 2449,
+          "tweet_count": 12750
+        },
+        "url": "https://t.co/GcxnQqrE3G",
+        "username": "CONTINUE_mag",
+        "verified": false
+      }
+    ]
+  }
+}

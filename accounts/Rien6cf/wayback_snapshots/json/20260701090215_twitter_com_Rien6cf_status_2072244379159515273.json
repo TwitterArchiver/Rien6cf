@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2072244379159515273",
+    "created_at": "2026-07-01T09:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072244379159515273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1819388790403969024",
+          "start": 3,
+          "username": "Vulpe922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072244379159515273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071970300145840282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vulpe922: やばい。一瞬どんな絵描いたら伸びるかなって考えちゃった \nよく思い出せ！！なんでお前は絵を描いてるんだ？！\nいいね貰うためか？違うだろ！ ！\n絵が好きだから描いてるんだ！！！！！\n好きな物描け！！！！！！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2072244379159515273",
+        "created_at": "2026-07-01T09:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072244379159515273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1819388790403969024",
+              "start": 3,
+              "username": "Vulpe922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072244379159515273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071970300145840282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vulpe922: やばい。一瞬どんな絵描いたら伸びるかなって考えちゃった \nよく思い出せ！！なんでお前は絵を描いてるんだ？！\nいいね貰うためか？違うだろ！ ！\n絵が好きだから描いてるんだ！！！！！\n好きな物描け！！！！！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819388790403969024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2071970300145840282",
+        "created_at": "2026-06-30T14:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071970300145840282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071970300145840282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 137890,
+          "like_count": 5168,
+          "quote_count": 42,
+          "reply_count": 13,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "やばい。一瞬どんな絵描いたら伸びるかなって考えちゃった \nよく思い出せ！！なんでお前は絵を描いてるんだ？！\nいいね貰うためか？違うだろ！ ！\n絵が好きだから描いてるんだ！！！！！\n好きな物描け！！！！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 195,
+          "like_count": 6667,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2753
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T15:05:14.000Z",
+        "description": "青大好き絵師18↓ 受験生なので浮上ぼちぼち \nサブ→→@orupe135\n絵柄コロコロ変わるかもです\nよくツイ消しします🙏\nイラストの保存・使用・自作発言・AI学習禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "orupe135"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/Vulpe922",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/Vulpe922",
+                "start": 0,
+                "url": "https://t.co/TKZlCx048b"
+              }
+            ]
+          }
+        },
+        "id": "1819388790403969024",
+        "location": "イラリク、質問⤵︎ ⤵︎",
+        "name": "ヴルペ",
+        "pinned_tweet_id": "2051618949016785089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990395899697389568/tFzf1TgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 127,
+          "like_count": 16599,
+          "listed_count": 6,
+          "media_count": 100,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/TKZlCx048b",
+        "username": "Vulpe922",
+        "verified": false
+      }
+    ]
+  }
+}

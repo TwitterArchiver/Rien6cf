@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075947095048286208"
+      ],
+      "media_source_tweet_id": [
+        "2075947126086144113"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2076197162627784825",
+    "created_at": "2026-07-12T06:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076197162627784825"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "ミゾレ"
+        },
+        {
+          "end": 43,
+          "start": 36,
+          "tag": "Mizore"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "709959385603248128",
+          "start": 3,
+          "username": "lassie99289125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uZ38rJ6Kzi",
+          "end": 67,
+          "expanded_url": "https://x.com/lassie99289125/status/2075947126086144113/video/1",
+          "media_key": "7_2075947095048286208",
+          "start": 44,
+          "url": "https://t.co/uZ38rJ6Kzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076197162627784825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075947126086144113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lassie99289125: ゼロ歳児のミゾレ\n #ミゾレ  #Mizore https://t.co/uZ38rJ6Kzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6222,
+        "height": 720,
+        "media_key": "7_2075947095048286208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075947095048286208/pu/img/cBES6HBIr0vZZKX0.jpg",
+        "public_metrics": {
+          "view_count": 1374
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075947095048286208/pu/vid/avc1/360x270/5YhaiqcE7RmaM32t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075947095048286208/pu/vid/avc1/480x360/0IZLLWwHiJKEZ3CH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075947095048286208/pu/vid/avc1/960x720/RrDkyE9yqdZkoiyB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075947095048286208/pu/pl/CdJ0iMuqnyVbQniZ.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075947095048286208"
+          ],
+          "media_source_tweet_id": [
+            "2075947126086144113"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2076197162627784825",
+        "created_at": "2026-07-12T06:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076197162627784825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "ミゾレ"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "Mizore"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "709959385603248128",
+              "start": 3,
+              "username": "lassie99289125"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZ38rJ6Kzi",
+              "end": 67,
+              "expanded_url": "https://x.com/lassie99289125/status/2075947126086144113/video/1",
+              "media_key": "7_2075947095048286208",
+              "start": 44,
+              "url": "https://t.co/uZ38rJ6Kzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076197162627784825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075947126086144113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lassie99289125: ゼロ歳児のミゾレ\n #ミゾレ  #Mizore https://t.co/uZ38rJ6Kzi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075947095048286208"
+          ]
+        },
+        "author_id": "709959385603248128",
+        "conversation_id": "2075947126086144113",
+        "created_at": "2026-07-11T14:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075947126086144113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "ミゾレ"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "Mizore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZ38rJ6Kzi",
+              "end": 47,
+              "expanded_url": "https://x.com/lassie99289125/status/2075947126086144113/video/1",
+              "media_key": "7_2075947095048286208",
+              "start": 24,
+              "url": "https://t.co/uZ38rJ6Kzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075947126086144113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 5479,
+          "like_count": 560,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "ゼロ歳児のミゾレ\n #ミゾレ  #Mizore https://t.co/uZ38rJ6Kzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7581,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2908
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-16T04:28:02.000Z",
+        "description": "ワモンアザラシが大好きで海遊館のユキちゃんの大ファンです。ユキちゃんだけのインスタグラムもやってます。音楽が好きです。楽器はギター、ドラム。好きなバンドSuchmosとOASIS。RGさんのあるあるが好きです。１９８０年生まれです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lassie_azarasi",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lassie_azarasi",
+                "start": 0,
+                "url": "https://t.co/PCnPMfeuI3"
+              }
+            ]
+          }
+        },
+        "id": "709959385603248128",
+        "name": "ラッシー lassie🦭",
+        "pinned_tweet_id": "2075570939014811770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056119296758296576/hB9lGIuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7293,
+          "following_count": 951,
+          "like_count": 590393,
+          "listed_count": 70,
+          "media_count": 5938,
+          "tweet_count": 50182
+        },
+        "url": "https://t.co/PCnPMfeuI3",
+        "username": "lassie99289125",
+        "verified": false
+      }
+    ]
+  }
+}

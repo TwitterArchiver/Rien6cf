@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2072637151888760840",
+    "created_at": "2026-07-02T11:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072637151888760840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "986478361",
+          "start": 3,
+          "username": "isubokuro"
+        }
+      ],
+      "urls": [
+        {
+          "description": "#VocaDuo2026team - 今日の日はさようなら -ᴠᴏᴄᴀʟ - sekai / いすぼくろᴍᴜꜱɪᴄ - 中瀬ミルʟʏʀɪᴄ - 中瀬ミ...",
+          "display_url": "nicovideo.jp/watch/sm465013…",
+          "end": 47,
+          "expanded_url": "https://www.nicovideo.jp/watch/sm46501349?ref=pc_video_x",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2072630429358960640/YDa-AvMh?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2072630429358960640/YDa-AvMh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "わすれていいこと",
+          "unwound_url": "https://www.nicovideo.jp/watch/sm46501349?ref=pc_video_x",
+          "url": "https://t.co/WpMW8t72MX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072637151888760840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072636367084060876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isubokuro: わすれていいこと\nhttps://t.co/WpMW8t72MX\n\nニコニコにも投稿しました。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2072637151888760840",
+        "created_at": "2026-07-02T11:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072637151888760840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "986478361",
+              "start": 3,
+              "username": "isubokuro"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#VocaDuo2026team - 今日の日はさようなら -ᴠᴏᴄᴀʟ - sekai / いすぼくろᴍᴜꜱɪᴄ - 中瀬ミルʟʏʀɪᴄ - 中瀬ミ...",
+              "display_url": "nicovideo.jp/watch/sm465013…",
+              "end": 47,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm46501349?ref=pc_video_x",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2072630429358960640/YDa-AvMh?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072630429358960640/YDa-AvMh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "わすれていいこと",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm46501349?ref=pc_video_x",
+              "url": "https://t.co/WpMW8t72MX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072637151888760840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072636367084060876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isubokuro: わすれていいこと\nhttps://t.co/WpMW8t72MX\n\nニコニコにも投稿しました。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "986478361",
+        "conversation_id": "2072636367084060876",
+        "created_at": "2026-07-02T10:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072636367084060876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "#VocaDuo2026team - 今日の日はさようなら -ᴠᴏᴄᴀʟ - sekai / いすぼくろᴍᴜꜱɪᴄ - 中瀬ミルʟʏʀɪᴄ - 中瀬ミ...",
+              "display_url": "nicovideo.jp/watch/sm465013…",
+              "end": 32,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm46501349?ref=pc_video_x",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2072630429358960640/YDa-AvMh?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072630429358960640/YDa-AvMh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "わすれていいこと",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm46501349?ref=pc_video_x",
+              "url": "https://t.co/WpMW8t72MX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072636367084060876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3009,
+          "like_count": 184,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "わすれていいこと\nhttps://t.co/WpMW8t72MX\n\nニコニコにも投稿しました。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 197,
+          "like_count": 6745,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2774
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-03T11:48:20.000Z",
+        "description": "",
+        "id": "986478361",
+        "name": "いすぼくろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982923600064851970/m7xxf3Wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84163,
+          "following_count": 182,
+          "like_count": 25433,
+          "listed_count": 852,
+          "media_count": 11,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "isubokuro",
+        "verified": false
+      }
+    ]
+  }
+}

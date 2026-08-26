@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2059913998511038766",
+    "created_at": "2026-05-28T08:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059913998511038766"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "昭島市"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1170844208",
+          "start": 3,
+          "username": "akishima_196"
+        }
+      ],
+      "urls": [
+        {
+          "description": "昭島市公式ホームページ",
+          "display_url": "city.akishima.lg.jp/kurashi/seikat…",
+          "end": 108,
+          "expanded_url": "https://www.city.akishima.lg.jp/kurashi/seikatsu/1002560/1011936.html",
+          "start": 85,
+          "status": 200,
+          "title": "大型獣に注意｜昭島市公式ホームページ",
+          "unwound_url": "https://www.city.akishima.lg.jp/kurashi/seikatsu/1002560/1011936.html",
+          "url": "https://t.co/0ighrjpVV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059913998511038766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2256
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059779225360728529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akishima_196: 【大型獣 に注意】５月24日午前６時頃に、多摩川緑地くじら運動公園に大型獣らしき動物の糞が確認されました。注意してください。＃昭島市\nhttps://t.co/0ighrjpVV7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2059913998511038766",
+        "created_at": "2026-05-28T08:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059913998511038766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "昭島市"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1170844208",
+              "start": 3,
+              "username": "akishima_196"
+            }
+          ],
+          "urls": [
+            {
+              "description": "昭島市公式ホームページ",
+              "display_url": "city.akishima.lg.jp/kurashi/seikat…",
+              "end": 108,
+              "expanded_url": "https://www.city.akishima.lg.jp/kurashi/seikatsu/1002560/1011936.html",
+              "start": 85,
+              "status": 200,
+              "title": "大型獣に注意｜昭島市公式ホームページ",
+              "unwound_url": "https://www.city.akishima.lg.jp/kurashi/seikatsu/1002560/1011936.html",
+              "url": "https://t.co/0ighrjpVV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059913998511038766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2256
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059779225360728529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akishima_196: 【大型獣 に注意】５月24日午前６時頃に、多摩川緑地くじら運動公園に大型獣らしき動物の糞が確認されました。注意してください。＃昭島市\nhttps://t.co/0ighrjpVV7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170844208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2059779225360728529",
+        "created_at": "2026-05-27T23:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059779225360728529"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "昭島市"
+            }
+          ],
+          "urls": [
+            {
+              "description": "昭島市公式ホームページ",
+              "display_url": "city.akishima.lg.jp/kurashi/seikat…",
+              "end": 90,
+              "expanded_url": "https://www.city.akishima.lg.jp/kurashi/seikatsu/1002560/1011936.html",
+              "start": 67,
+              "status": 200,
+              "title": "大型獣に注意｜昭島市公式ホームページ",
+              "unwound_url": "https://www.city.akishima.lg.jp/kurashi/seikatsu/1002560/1011936.html",
+              "url": "https://t.co/0ighrjpVV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059779225360728529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 646,
+          "impression_count": 1592144,
+          "like_count": 4081,
+          "quote_count": 645,
+          "reply_count": 75,
+          "retweet_count": 2256
+        },
+        "reply_settings": "everyone",
+        "text": "【大型獣 に注意】５月24日午前６時頃に、多摩川緑地くじら運動公園に大型獣らしき動物の糞が確認されました。注意してください。＃昭島市\nhttps://t.co/0ighrjpVV7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 175,
+          "like_count": 4632,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2260
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-12T04:05:48.000Z",
+        "description": "昭島市の公式アカウントです。イベントや事業、緊急時の災害情報などを発信してまいります。なお、本アカウントへのリプライ（返信）には原則対応いたしかねますのでご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "city.akishima.lg.jp",
+                "end": 23,
+                "expanded_url": "https://www.city.akishima.lg.jp/",
+                "start": 0,
+                "url": "https://t.co/Pkr6QwDek4"
+              }
+            ]
+          }
+        },
+        "id": "1170844208",
+        "name": "昭島市",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1025275545829892096/WmLsbxrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8914,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 144,
+          "media_count": 1721,
+          "tweet_count": 6437
+        },
+        "url": "https://t.co/Pkr6QwDek4",
+        "username": "akishima_196",
+        "verified": false
+      }
+    ]
+  }
+}

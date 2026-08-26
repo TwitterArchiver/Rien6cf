@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022921620843827203"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2022921625029722517",
+    "created_at": "2026-02-15T06:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022921625029722517"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OjAWO3wY9d",
+          "end": 37,
+          "expanded_url": "https://x.com/Rien6cf/status/2022921625029722517/photo/1",
+          "media_key": "3_2022921620843827203",
+          "start": 14,
+          "url": "https://t.co/OjAWO3wY9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022921625029722517",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#地雷系女子 #自撮り界隈 https://t.co/OjAWO3wY9d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2022921620843827203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLcfwrakAM96CD.jpg",
+        "width": 441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022921620843827203"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2022921625029722517",
+        "created_at": "2026-02-15T06:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022921625029722517"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjAWO3wY9d",
+              "end": 37,
+              "expanded_url": "https://x.com/Rien6cf/status/2022921625029722517/photo/1",
+              "media_key": "3_2022921620843827203",
+              "start": 14,
+              "url": "https://t.co/OjAWO3wY9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022921625029722517",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系女子 #自撮り界隈 https://t.co/OjAWO3wY9d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 68,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 375
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

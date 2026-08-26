@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055022655716380800",
+    "created_at": "2026-05-16T23:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055790724126532082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946736168990846976",
+          "start": 0,
+          "username": "yaesakimimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055790724126532082",
+    "in_reply_to_user_id": "1946736168990846976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055680410047426675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaesakimimu 涙が出ちゃいそう"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055022655716380800",
+        "created_at": "2026-05-16T23:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055790724126532082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946736168990846976",
+              "start": 0,
+              "username": "yaesakimimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055790724126532082",
+        "in_reply_to_user_id": "1946736168990846976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055680410047426675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaesakimimu 涙が出ちゃいそう"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946736168990846976",
+        "conversation_id": "2055022655716380800",
+        "created_at": "2026-05-16T16:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055680410047426675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055680410047426675",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055022655716380800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf どっちも可愛いけどね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 4042,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2072
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T00:57:45.000Z",
+        "description": "\"m̶͍̮̹̝̈́̔̍̈́ö̸͚͎́̔̑c̴̗̭͍̆́̽h̴͔͍͆̍͊͐ĭ̷̡̬̈̓ ̴̪̻̣̈́m̶̺̍̈́͐͘ö̶̫̣c̵̺̟͝ȟ̶̡̙͍̎͜͝í̵̥̠̆ ̷̯̻͉̈́͂́̂ ̵̳͠\"纯纯废物",
+        "id": "1946736168990846976",
+        "location": "ヘドロ",
+        "name": "Миму",
+        "pinned_tweet_id": "2050727072772071668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027410772184514561/pODMbszD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 56,
+          "like_count": 4622,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 416
+        },
+        "username": "yaesakimimu",
+        "verified": false
+      }
+    ]
+  }
+}

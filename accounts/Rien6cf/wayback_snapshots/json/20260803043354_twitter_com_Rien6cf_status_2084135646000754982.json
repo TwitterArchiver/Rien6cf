@@ -1,0 +1,621 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083983622588321792"
+      ],
+      "media_source_tweet_id": [
+        "2083983627315261894"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1404838450520465412",
+          "name": "Danganronpa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404838450520465412",
+          "name": "Danganronpa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "2084135646000754982",
+    "created_at": "2026-08-03T04:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084135646000754982"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "OMORI"
+        },
+        {
+          "end": 38,
+          "start": 26,
+          "tag": "danganronpa"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "DDLC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1452759710990417920",
+          "start": 3,
+          "username": "OMORIniizonn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DHgCHcVNfR",
+          "end": 85,
+          "expanded_url": "https://x.com/OMORIniizonn/status/2083983627315261894/photo/1",
+          "media_key": "3_2083983622588321792",
+          "start": 62,
+          "url": "https://t.co/DHgCHcVNfR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084135646000754982",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083983627315261894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OMORIniizonn: #OMORI \n#danganronpa \n#DDLC  \nテンプレお借り致しました🪢 https://t.co/DHgCHcVNfR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2083983622588321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvMEDYb0AAihF9.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083983622588321792"
+          ]
+        },
+        "author_id": "1452759710990417920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2083983627315261894",
+        "created_at": "2026-08-02T18:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083983627315261894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "OMORI"
+            },
+            {
+              "end": 20,
+              "start": 8,
+              "tag": "danganronpa"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "DDLC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DHgCHcVNfR",
+              "end": 67,
+              "expanded_url": "https://x.com/OMORIniizonn/status/2083983627315261894/photo/1",
+              "media_key": "3_2083983622588321792",
+              "start": 44,
+              "url": "https://t.co/DHgCHcVNfR"
+            },
+            {
+              "display_url": "x.com/sirasu_don417/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/sirasu_don417/status/2083100376627306967",
+              "start": 68,
+              "url": "https://t.co/0bFTZFTNdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083983627315261894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 41185,
+          "like_count": 1583,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083100376627306967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#OMORI \n#danganronpa \n#DDLC  \nテンプレお借り致しました🪢 https://t.co/DHgCHcVNfR https://t.co/0bFTZFTNdD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083983622588321792"
+          ],
+          "media_source_tweet_id": [
+            "2083983627315261894"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2084135646000754982",
+        "created_at": "2026-08-03T04:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084135646000754982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "OMORI"
+            },
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "danganronpa"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "DDLC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1452759710990417920",
+              "start": 3,
+              "username": "OMORIniizonn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DHgCHcVNfR",
+              "end": 85,
+              "expanded_url": "https://x.com/OMORIniizonn/status/2083983627315261894/photo/1",
+              "media_key": "3_2083983622588321792",
+              "start": 62,
+              "url": "https://t.co/DHgCHcVNfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084135646000754982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083983627315261894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OMORIniizonn: #OMORI \n#danganronpa \n#DDLC  \nテンプレお借り致しました🪢 https://t.co/DHgCHcVNfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 210,
+          "like_count": 9068,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3238
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T22:12:29.000Z",
+        "description": "OMＯRI🍉🔪🌻☀143／基本OMORI稀に他界隈描く／自作発言や無断転載✖、忙しくて投稿頻度が遅くなる事や気分で色んな雰囲気の絵を描きますが何卒／時々推し活載せます \nダンロン垢→ @oumaniizonn \n↓自己紹介↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "oumaniizonn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/OMORInizonlovi…",
+                "end": 23,
+                "expanded_url": "https://lit.link/OMORInizonlovi0218",
+                "start": 0,
+                "url": "https://t.co/R3MunTMYvw"
+              }
+            ]
+          }
+        },
+        "id": "1452759710990417920",
+        "location": "ヒロビロ森",
+        "name": "額縁",
+        "pinned_tweet_id": "1911309756654043576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011712715434442754/ojVhAaqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 193,
+          "like_count": 17601,
+          "listed_count": 5,
+          "media_count": 496,
+          "tweet_count": 13705
+        },
+        "url": "https://t.co/R3MunTMYvw",
+        "username": "OMORIniizonn",
+        "verified": false
+      }
+    ]
+  }
+}

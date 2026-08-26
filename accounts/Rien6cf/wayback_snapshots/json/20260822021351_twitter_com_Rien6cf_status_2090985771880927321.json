@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090985771880927321",
+    "created_at": "2026-08-22T02:13:51.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T03:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090985771880927321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2429798684",
+          "start": 3,
+          "username": "aste_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090985771880927321",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2038
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090702071582662889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aste_0w0: 가끔 하는 생각인데 지뢰계가 수영복을 입으면 기뢰계일까요? 이 또한 흥미로운 주제입니다.\n\n네 퇴근 못해서 정신줄 놨습니다. 감사합니다."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090985771880927321",
+        "created_at": "2026-08-22T02:13:51.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090985771880927321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2429798684",
+              "start": 3,
+              "username": "aste_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090985771880927321",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2038
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090702071582662889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aste_0w0: 가끔 하는 생각인데 지뢰계가 수영복을 입으면 기뢰계일까요? 이 또한 흥미로운 주제입니다.\n\n네 퇴근 못해서 정신줄 놨습니다. 감사합니다."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2429798684",
+        "conversation_id": "2090702071582662889",
+        "created_at": "2026-08-21T07:26:31.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090702071582662889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090702071582662889",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 179314,
+          "like_count": 9761,
+          "quote_count": 82,
+          "reply_count": 63,
+          "retweet_count": 2038
+        },
+        "reply_settings": "everyone",
+        "text": "가끔 하는 생각인데 지뢰계가 수영복을 입으면 기뢰계일까요? 이 또한 흥미로운 주제입니다.\n\n네 퇴근 못해서 정신줄 놨습니다. 감사합니다."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090985771880927321",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 219,
+          "like_count": 9714,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3419
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-04-06T03:18:19.000Z",
+        "description": "블아/붕스/이외 이것저것 / 보정多",
+        "id": "2429798684",
+        "is_identity_verified": false,
+        "location": "키보토스",
+        "most_recent_tweet_id": "2090984146688713197",
+        "name": "아스테",
+        "pinned_tweet_id": "2086954779591458901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2429798684/1769555995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079363019243728896/tmC43fXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 767,
+          "like_count": 48680,
+          "listed_count": 13,
+          "media_count": 735,
+          "tweet_count": 15321
+        },
+        "url": "",
+        "username": "aste_0w0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

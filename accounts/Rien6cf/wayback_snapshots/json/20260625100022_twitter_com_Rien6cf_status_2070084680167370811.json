@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069717681406656512",
+        "3_2069717315994673152"
+      ],
+      "media_source_tweet_id": [
+        "2069717834171924984",
+        "2069717834171924984"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2070084680167370811",
+    "created_at": "2026-06-25T10:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070084680167370811"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "ラッコ"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "霧多布"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341309322039492608",
+          "start": 3,
+          "username": "piichakira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IkgSSrvEaX",
+          "end": 129,
+          "expanded_url": "https://x.com/piichakira/status/2069717834171924984/photo/1",
+          "media_key": "3_2069717681406656512",
+          "start": 106,
+          "url": "https://t.co/IkgSSrvEaX"
+        },
+        {
+          "display_url": "pic.x.com/IkgSSrvEaX",
+          "end": 129,
+          "expanded_url": "https://x.com/piichakira/status/2069717834171924984/photo/1",
+          "media_key": "3_2069717315994673152",
+          "start": 106,
+          "url": "https://t.co/IkgSSrvEaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070084680167370811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069717834171924984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @piichakira: 人生初野生ラッコ！！一人でいたし多分少し歳取ったオスかな。\n野生動物のオスがこんなホヨっとしてることある？？😭\nもっちりしたほっぺもかわいすぎる😭元気でいてね\n＃ラッコ　＃霧多布 https://t.co/IkgSSrvEaX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2461,
+        "media_key": "3_2069717681406656512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkdQ_GWwAAL-1x.jpg",
+        "width": 3576
+      },
+      {
+        "height": 2401,
+        "media_key": "3_2069717315994673152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkc7t1WYAAL_qW.jpg",
+        "width": 3195
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069717681406656512",
+            "3_2069717315994673152"
+          ],
+          "media_source_tweet_id": [
+            "2069717834171924984",
+            "2069717834171924984"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2070084680167370811",
+        "created_at": "2026-06-25T10:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070084680167370811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "ラッコ"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "霧多布"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341309322039492608",
+              "start": 3,
+              "username": "piichakira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IkgSSrvEaX",
+              "end": 129,
+              "expanded_url": "https://x.com/piichakira/status/2069717834171924984/photo/1",
+              "media_key": "3_2069717681406656512",
+              "start": 106,
+              "url": "https://t.co/IkgSSrvEaX"
+            },
+            {
+              "display_url": "pic.x.com/IkgSSrvEaX",
+              "end": 129,
+              "expanded_url": "https://x.com/piichakira/status/2069717834171924984/photo/1",
+              "media_key": "3_2069717315994673152",
+              "start": 106,
+              "url": "https://t.co/IkgSSrvEaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070084680167370811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069717834171924984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @piichakira: 人生初野生ラッコ！！一人でいたし多分少し歳取ったオスかな。\n野生動物のオスがこんなホヨっとしてることある？？😭\nもっちりしたほっぺもかわいすぎる😭元気でいてね\n＃ラッコ　＃霧多布 https://t.co/IkgSSrvEaX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069717681406656512",
+            "3_2069717315994673152"
+          ]
+        },
+        "author_id": "1341309322039492608",
+        "conversation_id": "2069717834171924984",
+        "created_at": "2026-06-24T09:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069717834171924984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "ラッコ"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "霧多布"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IkgSSrvEaX",
+              "end": 113,
+              "expanded_url": "https://x.com/piichakira/status/2069717834171924984/photo/1",
+              "media_key": "3_2069717681406656512",
+              "start": 90,
+              "url": "https://t.co/IkgSSrvEaX"
+            },
+            {
+              "display_url": "pic.x.com/IkgSSrvEaX",
+              "end": 113,
+              "expanded_url": "https://x.com/piichakira/status/2069717834171924984/photo/1",
+              "media_key": "3_2069717315994673152",
+              "start": 90,
+              "url": "https://t.co/IkgSSrvEaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069717834171924984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 202577,
+          "like_count": 6069,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "人生初野生ラッコ！！一人でいたし多分少し歳取ったオスかな。\n野生動物のオスがこんなホヨっとしてることある？？😭\nもっちりしたほっぺもかわいすぎる😭元気でいてね\n＃ラッコ　＃霧多布 https://t.co/IkgSSrvEaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 190,
+          "like_count": 6228,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2693
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-22T09:07:24.000Z",
+        "description": "獣医師です/ラッコ！！/キラちゃん/メイちゃん/リロくん/水族館/動物園/ ラブラドール/猫/要注意時々溢れる猛虎魂/写真動画の無断使用はご遠慮ください",
+        "id": "1341309322039492608",
+        "name": "ぴー",
+        "pinned_tweet_id": "1978468316407877907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043368122879807488/XRBH_AZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 697,
+          "like_count": 87999,
+          "listed_count": 26,
+          "media_count": 1413,
+          "tweet_count": 20225
+        },
+        "url": "",
+        "username": "piichakira",
+        "verified": false
+      }
+    ]
+  }
+}

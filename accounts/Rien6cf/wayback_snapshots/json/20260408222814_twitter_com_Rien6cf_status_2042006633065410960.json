@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041830470888120320"
+      ],
+      "media_source_tweet_id": [
+        "2041830475296338118"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2042006633065410960",
+    "created_at": "2026-04-08T22:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T23:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042006633065410960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429379056768745475",
+          "start": 3,
+          "username": "yuiyui_jk03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sYDld6HSC",
+          "end": 80,
+          "expanded_url": "https://x.com/yuiyui_jk03/status/2041830475296338118/photo/1",
+          "media_key": "3_2041830470888120320",
+          "start": 57,
+          "url": "https://t.co/3sYDld6HSC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042006633065410960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041830475296338118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuiyui_jk03: 多様性って、\nセーラー服を無くすことじゃなくて\n着たい人が選べることだと思う。 https://t.co/3sYDld6HSC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2041830470888120320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYJ_sTa4AAK-Gc.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041830470888120320"
+          ],
+          "media_source_tweet_id": [
+            "2041830475296338118"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2042006633065410960",
+        "created_at": "2026-04-08T22:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042006633065410960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429379056768745475",
+              "start": 3,
+              "username": "yuiyui_jk03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sYDld6HSC",
+              "end": 80,
+              "expanded_url": "https://x.com/yuiyui_jk03/status/2041830475296338118/photo/1",
+              "media_key": "3_2041830470888120320",
+              "start": 57,
+              "url": "https://t.co/3sYDld6HSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042006633065410960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041830475296338118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuiyui_jk03: 多様性って、\nセーラー服を無くすことじゃなくて\n着たい人が選べることだと思う。 https://t.co/3sYDld6HSC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041830470888120320"
+          ]
+        },
+        "author_id": "1429379056768745475",
+        "conversation_id": "2041830475296338118",
+        "created_at": "2026-04-08T10:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041830475296338118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sYDld6HSC",
+              "end": 63,
+              "expanded_url": "https://x.com/yuiyui_jk03/status/2041830475296338118/photo/1",
+              "media_key": "3_2041830470888120320",
+              "start": 40,
+              "url": "https://t.co/3sYDld6HSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041830475296338118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 78362,
+          "like_count": 2982,
+          "quote_count": 30,
+          "reply_count": 41,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "多様性って、\nセーラー服を無くすことじゃなくて\n着たい人が選べることだと思う。 https://t.co/3sYDld6HSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 131,
+          "like_count": 2528,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1503
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T09:46:02.000Z",
+        "description": "セーラー服が大好き。セーラー服着るとなんか幸せになれるんです。",
+        "id": "1429379056768745475",
+        "name": "ゆい",
+        "pinned_tweet_id": "1513811996612866048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514622614274129920/E1524U8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11736,
+          "following_count": 0,
+          "like_count": 12642,
+          "listed_count": 58,
+          "media_count": 448,
+          "tweet_count": 8239
+        },
+        "username": "yuiyui_jk03",
+        "verified": false
+      }
+    ]
+  }
+}

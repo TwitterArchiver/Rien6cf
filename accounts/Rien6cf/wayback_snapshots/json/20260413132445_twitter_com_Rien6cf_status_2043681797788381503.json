@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043552336560488449"
+      ],
+      "media_source_tweet_id": [
+        "2043552341249724571"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2043681797788381503",
+    "created_at": "2026-04-13T13:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043681797788381503"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "本日の毛球"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910258304548487169",
+          "start": 3,
+          "username": "chomupomexx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2UrLiG2Ydp",
+          "end": 54,
+          "expanded_url": "https://x.com/chomupomexx/status/2043552341249724571/photo/1",
+          "media_key": "3_2043552336560488449",
+          "start": 31,
+          "url": "https://t.co/2UrLiG2Ydp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043681797788381503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043552341249724571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chomupomexx: 本日の毛球\n\n#本日の毛球 https://t.co/2UrLiG2Ydp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1465,
+        "media_key": "3_2043552336560488449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwoBdybgAE0w4r.jpg",
+        "width": 1774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043552336560488449"
+          ],
+          "media_source_tweet_id": [
+            "2043552341249724571"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2043681797788381503",
+        "created_at": "2026-04-13T13:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043681797788381503"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "本日の毛球"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910258304548487169",
+              "start": 3,
+              "username": "chomupomexx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UrLiG2Ydp",
+              "end": 54,
+              "expanded_url": "https://x.com/chomupomexx/status/2043552341249724571/photo/1",
+              "media_key": "3_2043552336560488449",
+              "start": 31,
+              "url": "https://t.co/2UrLiG2Ydp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043681797788381503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043552341249724571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chomupomexx: 本日の毛球\n\n#本日の毛球 https://t.co/2UrLiG2Ydp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043552336560488449"
+          ]
+        },
+        "author_id": "1910258304548487169",
+        "conversation_id": "2043552341249724571",
+        "created_at": "2026-04-13T04:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043552341249724571"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "本日の毛球"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UrLiG2Ydp",
+              "end": 37,
+              "expanded_url": "https://x.com/chomupomexx/status/2043552341249724571/photo/1",
+              "media_key": "3_2043552336560488449",
+              "start": 14,
+              "url": "https://t.co/2UrLiG2Ydp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043552341249724571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 43219,
+          "like_count": 4668,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "本日の毛球\n\n#本日の毛球 https://t.co/2UrLiG2Ydp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 136,
+          "like_count": 2656,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1572
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T09:09:13.000Z",
+        "description": "クリームポメのちょむ♀です🎂2025/01/01🐾ちょっとむむっ( ･ὢ･ ) としょんぼりした顔の爆毛種💭💭💭サツマイモが好き🍠#本日の毛球 ※写真の無断転載・使用はご遠慮ください。毛球グッズ→https://t.co/OkCZjywfee",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "本日の毛球"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "suzuri.jp/pomepomechomu",
+                "end": 121,
+                "expanded_url": "https://suzuri.jp/pomepomechomu",
+                "start": 98,
+                "url": "https://t.co/OkCZjywfee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/chomupomepome?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/chomupomepome?igsh=MTYxZWphbnF6MjBiag==",
+                "start": 0,
+                "url": "https://t.co/gPWm2iKzuH"
+              }
+            ]
+          }
+        },
+        "id": "1910258304548487169",
+        "name": "ポメラニアン ちょむ",
+        "pinned_tweet_id": "1932773687213822360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910278291937992704/bsxKV1gV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8058,
+          "following_count": 373,
+          "like_count": 711,
+          "listed_count": 94,
+          "media_count": 166,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/gPWm2iKzuH",
+        "username": "chomupomexx",
+        "verified": true
+      }
+    ]
+  }
+}

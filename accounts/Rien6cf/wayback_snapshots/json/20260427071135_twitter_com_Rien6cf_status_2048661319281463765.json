@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2048660844423291147",
+    "created_at": "2026-04-27T07:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048661319281463765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023729444276629505",
+          "start": 0,
+          "username": "konuno_kuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048661319281463765",
+    "in_reply_to_user_id": "2023729444276629505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048660844423291147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konuno_kuzu なんか怖い"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2231,
+        "media_key": "3_2048660841587982336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5OLmAawAATBis.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2048660844423291147",
+        "created_at": "2026-04-27T07:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048661319281463765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023729444276629505",
+              "start": 0,
+              "username": "konuno_kuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048661319281463765",
+        "in_reply_to_user_id": "2023729444276629505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048660844423291147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konuno_kuzu なんか怖い"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048660841587982336"
+          ]
+        },
+        "author_id": "2023729444276629505",
+        "conversation_id": "2048660844423291147",
+        "created_at": "2026-04-27T07:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048660844423291147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sj9bgJDFyJ",
+              "end": 29,
+              "expanded_url": "https://x.com/konuno_kuzu/status/2048660844423291147/photo/1",
+              "media_key": "3_2048660841587982336",
+              "start": 6,
+              "url": "https://t.co/Sj9bgJDFyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048660844423291147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "マジで何💦 https://t.co/Sj9bgJDFyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 149,
+          "like_count": 3080,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1759
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T12:01:56.000Z",
+        "description": "お荷物ガイジ︎ ︎ ︎ ︎🗝@konuno_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "konuno_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/qvg8kxcocpbvrf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/qvg8kxcocpbvrfo?t=7PGb0B&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/n9YIYdh4gz"
+              }
+            ]
+          }
+        },
+        "id": "2023729444276629505",
+        "name": "こぬの",
+        "pinned_tweet_id": "2043254096040444346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024031728999059456/xH_qAVoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 158,
+          "like_count": 7944,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/n9YIYdh4gz",
+        "username": "konuno_kuzu",
+        "verified": false
+      }
+    ]
+  }
+}

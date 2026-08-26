@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2020146139069116591",
+    "created_at": "2026-02-07T15:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T16:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020163920116478166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591344896757026821",
+          "start": 0,
+          "username": "xng328460971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020163920116478166",
+    "in_reply_to_user_id": "1591344896757026821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020146139069116591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xng328460971 我想！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020146103929249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkALacXoAA8-Zz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2020146139069116591",
+        "created_at": "2026-02-07T15:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020163920116478166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591344896757026821",
+              "start": 0,
+              "username": "xng328460971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020163920116478166",
+        "in_reply_to_user_id": "1591344896757026821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020146139069116591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xng328460971 我想！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020146103929249792"
+          ]
+        },
+        "author_id": "1591344896757026821",
+        "conversation_id": "2020146139069116591",
+        "created_at": "2026-02-07T14:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020146139069116591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCFnQNXXyy",
+              "end": 113,
+              "expanded_url": "https://x.com/xng328460971/status/2020146139069116591/photo/1",
+              "media_key": "3_2020146103929249792",
+              "start": 90,
+              "url": "https://t.co/pCFnQNXXyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020146139069116591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有宝宝跟我互fo…！＞ ＜关于我主页置顶有自介\n这条底下评论就ok，我会一个个回的！\n（图是一张摸鱼\n话说x的推流机制我一直搞不太懂…希望能有一点流量吧没有的话我会再发的🫠🫠 https://t.co/pCFnQNXXyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 50,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 197
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T08:19:34.000Z",
+        "description": "幸福可望不可及。",
+        "id": "1591344896757026821",
+        "name": "7XIIING",
+        "pinned_tweet_id": "2016907089247932487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014266753748996097/q2q0pA-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 43,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 93
+        },
+        "username": "xng328460971",
+        "verified": false
+      }
+    ]
+  }
+}

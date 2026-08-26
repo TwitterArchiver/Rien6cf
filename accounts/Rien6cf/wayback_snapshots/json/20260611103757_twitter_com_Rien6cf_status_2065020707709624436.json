@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065011118536609792"
+      ],
+      "media_source_tweet_id": [
+        "2065011208273682633"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065020707709624436",
+    "created_at": "2026-06-11T10:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065020707709624436"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 108,
+          "tag": "のんふぃく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1378792485728649220",
+          "start": 3,
+          "username": "Nonfic_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OL2it9ZkAR",
+          "end": 138,
+          "expanded_url": "https://x.com/Nonfic_official/status/2065011208273682633/video/1",
+          "media_key": "13_2065011118536609792",
+          "start": 115,
+          "url": "https://t.co/OL2it9ZkAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065020707709624436",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1497
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065011208273682633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nonfic_official: 【新メンバー公開】\n新メンバー2人目のティザームービー公開🤍\n\nこの後公開のアー写ポストが3000RP達成で\n集合アーティスト写真公開！\n\n6月13日新体制お披露目₊˚✧\n\n#のんふぃく https://t.co/OL2it9ZkAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57057,
+        "height": 720,
+        "media_key": "13_2065011118536609792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065011118536609792/img/HkGtDEBvFTq_dZgZ.jpg",
+        "public_metrics": {
+          "view_count": 48529
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065011118536609792/vid/avc1/480x270/n6yO2qCo8jGTf10M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065011118536609792/vid/avc1/640x360/iXj1FXZ9yt1vxUdq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065011118536609792/vid/avc1/1280x720/G-ckzXblxHv1T3le.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065011118536609792/pl/PO7ava4wCltLWnsy.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065011118536609792"
+          ],
+          "media_source_tweet_id": [
+            "2065011208273682633"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2065020707709624436",
+        "created_at": "2026-06-11T10:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065020707709624436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 108,
+              "tag": "のんふぃく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1378792485728649220",
+              "start": 3,
+              "username": "Nonfic_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OL2it9ZkAR",
+              "end": 138,
+              "expanded_url": "https://x.com/Nonfic_official/status/2065011208273682633/video/1",
+              "media_key": "13_2065011118536609792",
+              "start": 115,
+              "url": "https://t.co/OL2it9ZkAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065020707709624436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1486
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065011208273682633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nonfic_official: 【新メンバー公開】\n新メンバー2人目のティザームービー公開🤍\n\nこの後公開のアー写ポストが3000RP達成で\n集合アーティスト写真公開！\n\n6月13日新体制お披露目₊˚✧\n\n#のんふぃく https://t.co/OL2it9ZkAR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065011118536609792"
+          ]
+        },
+        "author_id": "1378792485728649220",
+        "conversation_id": "2065011208273682633",
+        "created_at": "2026-06-11T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065011208273682633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 87,
+              "tag": "のんふぃく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OL2it9ZkAR",
+              "end": 117,
+              "expanded_url": "https://x.com/Nonfic_official/status/2065011208273682633/video/1",
+              "media_key": "13_2065011118536609792",
+              "start": 94,
+              "url": "https://t.co/OL2it9ZkAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065011208273682633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 327262,
+          "like_count": 7369,
+          "quote_count": 755,
+          "reply_count": 127,
+          "retweet_count": 1486
+        },
+        "reply_settings": "everyone",
+        "text": "【新メンバー公開】\n新メンバー2人目のティザームービー公開🤍\n\nこの後公開のアー写ポストが3000RP達成で\n集合アーティスト写真公開！\n\n6月13日新体制お披露目₊˚✧\n\n#のんふぃく https://t.co/OL2it9ZkAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 186,
+          "like_count": 5519,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2551
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T19:33:46.000Z",
+        "description": "「貴方の愛した私はノンフィクションですか？」公式グッズ（https://t.co/SpQemP1AOe）出演依頼・お問い合わせ▶non-fiction@imaginate.jp / ライブ予定(https://t.co/Gp9qN2Vpe5) /HEROINES #のんふぃく #ふぃくみん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 132,
+                "tag": "のんふぃく"
+              },
+              {
+                "end": 145,
+                "start": 139,
+                "tag": "ふぃくみん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "heroines.stores.jp",
+                "end": 51,
+                "expanded_url": "http://heroines.stores.jp",
+                "start": 28,
+                "url": "https://t.co/SpQemP1AOe"
+              },
+              {
+                "display_url": "timetr.ee/pc/nonfic_offi…",
+                "end": 120,
+                "expanded_url": "https://timetr.ee/pc/nonfic_official",
+                "start": 97,
+                "url": "https://t.co/Gp9qN2Vpe5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCHESj…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCHESjSxJMTVqYnJU724pwGw",
+                "start": 0,
+                "url": "https://t.co/M8wkVhSX9J"
+              }
+            ]
+          }
+        },
+        "id": "1378792485728649220",
+        "location": "HEROINES【ヒロインズ】",
+        "name": "のんふぃく！",
+        "pinned_tweet_id": "2060315233030447575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443613332481609730/s0jNsucA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77996,
+          "following_count": 15,
+          "like_count": 25,
+          "listed_count": 462,
+          "media_count": 2600,
+          "tweet_count": 2830
+        },
+        "url": "https://t.co/M8wkVhSX9J",
+        "username": "Nonfic_official",
+        "verified": true
+      }
+    ]
+  }
+}

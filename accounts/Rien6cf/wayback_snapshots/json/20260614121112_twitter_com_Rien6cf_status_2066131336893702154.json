@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066131336893702154",
+    "created_at": "2026-06-14T12:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066131336893702154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007800241484115968",
+          "start": 3,
+          "username": "OWO_7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066131336893702154",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065993740725174595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OWO_7x: 언어를 배우면\n한국어 100 영어 100 일본어 100 \n이렇게 되는 게 맞는데\n그냥 100이 분해되는 느낌임\n한국어 60 영어 30 일본어 10"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066131336893702154",
+        "created_at": "2026-06-14T12:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066131336893702154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007800241484115968",
+              "start": 3,
+              "username": "OWO_7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066131336893702154",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065993740725174595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OWO_7x: 언어를 배우면\n한국어 100 영어 100 일본어 100 \n이렇게 되는 게 맞는데\n그냥 100이 분해되는 느낌임\n한국어 60 영어 30 일본어 10"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007800241484115968",
+        "conversation_id": "2065993740725174595",
+        "created_at": "2026-06-14T03:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065993740725174595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065993740725174595",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 186780,
+          "like_count": 5619,
+          "quote_count": 582,
+          "reply_count": 7,
+          "retweet_count": 2177
+        },
+        "reply_settings": "everyone",
+        "text": "언어를 배우면\n한국어 100 영어 100 일본어 100 \n이렇게 되는 게 맞는데\n그냥 100이 분해되는 느낌임\n한국어 60 영어 30 일본어 10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 189,
+          "like_count": 5675,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2582
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:26.000Z",
+        "description": "#롄",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "롄"
+              }
+            ]
+          }
+        },
+        "id": "2007800241484115968",
+        "name": "소베A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042861104762892288/6okWrmyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 441,
+          "like_count": 31674,
+          "listed_count": 7,
+          "media_count": 565,
+          "tweet_count": 7320
+        },
+        "username": "OWO_7x",
+        "verified": false
+      }
+    ]
+  }
+}

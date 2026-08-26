@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066077847262023680",
+        "3_2066077847253598208"
+      ],
+      "media_source_tweet_id": [
+        "2066077853750595798",
+        "2066077853750595798"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066137599077671397",
+    "created_at": "2026-06-14T12:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066137599077671397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "945314922065305600",
+          "start": 3,
+          "username": "WkfxjfrP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HtOuZk11Pa",
+          "end": 70,
+          "expanded_url": "https://x.com/WkfxjfrP/status/2066077853750595798/photo/1",
+          "media_key": "3_2066077847262023680",
+          "start": 47,
+          "url": "https://t.co/HtOuZk11Pa"
+        },
+        {
+          "display_url": "pic.x.com/HtOuZk11Pa",
+          "end": 70,
+          "expanded_url": "https://x.com/WkfxjfrP/status/2066077853750595798/photo/1",
+          "media_key": "3_2066077847253598208",
+          "start": 47,
+          "url": "https://t.co/HtOuZk11Pa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066137599077671397",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1841
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066077853750595798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @WkfxjfrP: 에도시대 화가들 강아지를 이렇게 그려놔서 어이가 없고 웃김 https://t.co/HtOuZk11Pa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2066077847262023680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwu2wRbUAA1pWO.png",
+        "width": 800
+      },
+      {
+        "height": 387,
+        "media_key": "3_2066077847253598208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwu2wPawAAsOwP.png",
+        "width": 549
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066077847262023680",
+            "3_2066077847253598208"
+          ],
+          "media_source_tweet_id": [
+            "2066077853750595798",
+            "2066077853750595798"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066137599077671397",
+        "created_at": "2026-06-14T12:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066137599077671397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "945314922065305600",
+              "start": 3,
+              "username": "WkfxjfrP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtOuZk11Pa",
+              "end": 70,
+              "expanded_url": "https://x.com/WkfxjfrP/status/2066077853750595798/photo/1",
+              "media_key": "3_2066077847262023680",
+              "start": 47,
+              "url": "https://t.co/HtOuZk11Pa"
+            },
+            {
+              "display_url": "pic.x.com/HtOuZk11Pa",
+              "end": 70,
+              "expanded_url": "https://x.com/WkfxjfrP/status/2066077853750595798/photo/1",
+              "media_key": "3_2066077847253598208",
+              "start": 47,
+              "url": "https://t.co/HtOuZk11Pa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066137599077671397",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1843
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066077853750595798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @WkfxjfrP: 에도시대 화가들 강아지를 이렇게 그려놔서 어이가 없고 웃김 https://t.co/HtOuZk11Pa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066077847262023680",
+            "3_2066077847253598208"
+          ]
+        },
+        "author_id": "945314922065305600",
+        "conversation_id": "2066077853750595798",
+        "created_at": "2026-06-14T08:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066077853750595798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtOuZk11Pa",
+              "end": 56,
+              "expanded_url": "https://x.com/WkfxjfrP/status/2066077853750595798/photo/1",
+              "media_key": "3_2066077847262023680",
+              "start": 33,
+              "url": "https://t.co/HtOuZk11Pa"
+            },
+            {
+              "display_url": "pic.x.com/HtOuZk11Pa",
+              "end": 56,
+              "expanded_url": "https://x.com/WkfxjfrP/status/2066077853750595798/photo/1",
+              "media_key": "3_2066077847253598208",
+              "start": 33,
+              "url": "https://t.co/HtOuZk11Pa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066077853750595798",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 782,
+          "impression_count": 345549,
+          "like_count": 11736,
+          "quote_count": 109,
+          "reply_count": 0,
+          "retweet_count": 1843
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "에도시대 화가들 강아지를 이렇게 그려놔서 어이가 없고 웃김 https://t.co/HtOuZk11Pa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 189,
+          "like_count": 5692,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2586
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-25T15:26:55.000Z",
+        "description": "재밌어보이는거 or 사람들이 봐줬으면하는거 저장용",
+        "id": "945314922065305600",
+        "name": "짤주워오는계정",
+        "pinned_tweet_id": "1447130110423748610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1169070430583283712/oTJrXisj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498122,
+          "following_count": 0,
+          "like_count": 74,
+          "listed_count": 396,
+          "media_count": 4828,
+          "tweet_count": 5000
+        },
+        "username": "WkfxjfrP",
+        "verified": true
+      }
+    ]
+  }
+}

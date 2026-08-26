@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068341517178356072",
+    "created_at": "2026-06-20T14:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068341517178356072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ritsuuuu0830/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ritsuuuu0830/status/2068327520727130393",
+          "start": 2,
+          "url": "https://t.co/FyI8KuIpoz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068341517178356072",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068327520727130393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "← https://t.co/FyI8KuIpoz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_2068327515672985600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQs6sLawAAUyb5.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068341517178356072",
+        "created_at": "2026-06-20T14:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068341517178356072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ritsuuuu0830/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ritsuuuu0830/status/2068327520727130393",
+              "start": 2,
+              "url": "https://t.co/FyI8KuIpoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068341517178356072",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068327520727130393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "← https://t.co/FyI8KuIpoz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068327515672985600"
+          ]
+        },
+        "author_id": "1847197240760430592",
+        "conversation_id": "2068327520727130393",
+        "created_at": "2026-06-20T13:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068327520727130393"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "おえかきSou庫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhYWlNDPyO",
+              "end": 78,
+              "expanded_url": "https://x.com/Ritsuuuu0830/status/2068327520727130393/photo/1",
+              "media_key": "3_2068327515672985600",
+              "start": 55,
+              "url": "https://t.co/bhYWlNDPyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068327520727130393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#おえかきSou庫\n\n友達とスカイツリーに行った時、推しのぬいを350mの高さのところに置いたまま忘れてた話 https://t.co/bhYWlNDPyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 191,
+          "like_count": 5905,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2625
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T08:45:26.000Z",
+        "description": "ritsu/🇨🇳/🫶🩵 無言フォロー失礼します",
+        "id": "1847197240760430592",
+        "name": "ritsuuuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972641044727767040/z8bLxWqa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 63,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "Ritsuuuu0830",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074053710112776192"
+      ],
+      "media_source_tweet_id": [
+        "2074053716018377043"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2074379734788833519",
+    "created_at": "2026-07-07T06:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074379734788833519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581593955874918402",
+          "start": 3,
+          "username": "3q7lv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ieIrIjXUfl",
+          "end": 48,
+          "expanded_url": "https://x.com/3q7lv/status/2074053716018377043/photo/1",
+          "media_key": "3_2074053710112776192",
+          "start": 25,
+          "url": "https://t.co/ieIrIjXUfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074379734788833519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24074
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074053716018377043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3q7lv: こんな感じで退職しようかな https://t.co/ieIrIjXUfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074053710112776192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiE3ExaYAAz0r2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074053710112776192"
+          ],
+          "media_source_tweet_id": [
+            "2074053716018377043"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2074379734788833519",
+        "created_at": "2026-07-07T06:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074379734788833519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581593955874918402",
+              "start": 3,
+              "username": "3q7lv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieIrIjXUfl",
+              "end": 48,
+              "expanded_url": "https://x.com/3q7lv/status/2074053716018377043/photo/1",
+              "media_key": "3_2074053710112776192",
+              "start": 25,
+              "url": "https://t.co/ieIrIjXUfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074379734788833519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24074
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074053716018377043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3q7lv: こんな感じで退職しようかな https://t.co/ieIrIjXUfl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074053710112776192"
+          ]
+        },
+        "author_id": "1581593955874918402",
+        "conversation_id": "2074053716018377043",
+        "created_at": "2026-07-06T08:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074053716018377043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieIrIjXUfl",
+              "end": 37,
+              "expanded_url": "https://x.com/3q7lv/status/2074053716018377043/photo/1",
+              "media_key": "3_2074053710112776192",
+              "start": 14,
+              "url": "https://t.co/ieIrIjXUfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074053716018377043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10378,
+          "impression_count": 6094423,
+          "like_count": 347283,
+          "quote_count": 838,
+          "reply_count": 937,
+          "retweet_count": 24074
+        },
+        "reply_settings": "everyone",
+        "text": "こんな感じで退職しようかな https://t.co/ieIrIjXUfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 195,
+          "like_count": 7202,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2842
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T10:33:05.000Z",
+        "description": "",
+        "id": "1581593955874918402",
+        "name": "佑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073603039190220800/yW3xHl3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 892,
+          "like_count": 33593,
+          "listed_count": 9,
+          "media_count": 78,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "3q7lv",
+        "verified": false
+      }
+    ]
+  }
+}

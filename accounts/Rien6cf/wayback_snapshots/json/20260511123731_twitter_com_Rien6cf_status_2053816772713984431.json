@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      }
+    ],
+    "conversation_id": "2053816772713984431",
+    "created_at": "2026-05-11T12:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053816772713984431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "121145625",
+          "start": 3,
+          "username": "wiwawiwiwowe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053816772713984431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1963
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053703954064900235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wiwawiwiwowe: 「女の子はお砂糖とスパイス（大蒜、生姜、花椒、八角、五香紛）でできている」\n「魯肉飯じゃねえか」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          }
+        ],
+        "conversation_id": "2053816772713984431",
+        "created_at": "2026-05-11T12:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053816772713984431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "121145625",
+              "start": 3,
+              "username": "wiwawiwiwowe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053816772713984431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1963
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053703954064900235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wiwawiwiwowe: 「女の子はお砂糖とスパイス（大蒜、生姜、花椒、八角、五香紛）でできている」\n「魯肉飯じゃねえか」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "121145625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          }
+        ],
+        "conversation_id": "2053703954064900235",
+        "created_at": "2026-05-11T05:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053703954064900235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053703954064900235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 110543,
+          "like_count": 5058,
+          "quote_count": 24,
+          "reply_count": 5,
+          "retweet_count": 1963
+        },
+        "reply_settings": "everyone",
+        "text": "「女の子はお砂糖とスパイス（大蒜、生姜、花椒、八角、五香紛）でできている」\n「魯肉飯じゃねえか」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3745,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1970
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-08T15:25:27.000Z",
+        "description": "君たちの冒険はここで終わる。本を閉じてゆっくり休みたまえ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/registry/wishl…",
+                "end": 23,
+                "expanded_url": "http://www.amazon.co.jp/registry/wishlist/3THX1VM7XZFU6/ref=cm_sw_r_tw_ws_ITucwb0F49KED",
+                "start": 0,
+                "url": "https://t.co/WAYczxhdVL"
+              }
+            ]
+          }
+        },
+        "id": "121145625",
+        "location": "【14】",
+        "name": "渡辺さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875996041958400000/Bbgn4cd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 121,
+          "like_count": 15328,
+          "listed_count": 25,
+          "media_count": 3771,
+          "tweet_count": 77525
+        },
+        "url": "https://t.co/WAYczxhdVL",
+        "username": "wiwawiwiwowe",
+        "verified": false
+      }
+    ]
+  }
+}

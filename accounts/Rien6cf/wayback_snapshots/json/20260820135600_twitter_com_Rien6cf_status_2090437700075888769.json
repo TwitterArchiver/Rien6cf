@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090353321089564672"
+      ],
+      "media_source_tweet_id": [
+        "2090353327683080471"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090437700075888769",
+    "created_at": "2026-08-20T13:56:00.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090437700075888769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1392904024823795721",
+          "start": 3,
+          "username": "kurehalxxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZCs8sG5Me2",
+          "end": 39,
+          "expanded_url": "https://x.com/kurehalxxx/status/2090353327683080471/photo/1",
+          "media_key": "3_2090353321089564672",
+          "start": 16,
+          "url": "https://t.co/ZCs8sG5Me2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090437700075888769",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090353321089564672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090353327683080471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurehalxxx: https://t.co/ZCs8sG5Me2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2090353321089564672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJtRTaaAAAdU4_.jpg",
+        "width": 1913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090353321089564672"
+          ],
+          "media_source_tweet_id": [
+            "2090353327683080471"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090437700075888769",
+        "created_at": "2026-08-20T13:56:00.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090437700075888769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1392904024823795721",
+              "start": 3,
+              "username": "kurehalxxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCs8sG5Me2",
+              "end": 39,
+              "expanded_url": "https://x.com/kurehalxxx/status/2090353327683080471/photo/1",
+              "media_key": "3_2090353321089564672",
+              "start": 16,
+              "url": "https://t.co/ZCs8sG5Me2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090437700075888769",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090353321089564672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090353327683080471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurehalxxx: https://t.co/ZCs8sG5Me2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090353321089564672"
+          ]
+        },
+        "author_id": "1392904024823795721",
+        "conversation_id": "2090353327683080471",
+        "created_at": "2026-08-20T08:20:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090353327683080471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCs8sG5Me2",
+              "end": 23,
+              "expanded_url": "https://x.com/kurehalxxx/status/2090353327683080471/photo/1",
+              "media_key": "3_2090353321089564672",
+              "start": 0,
+              "url": "https://t.co/ZCs8sG5Me2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090353327683080471",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090353321089564672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 16542,
+          "like_count": 2418,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZCs8sG5Me2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090437700075888769",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 217,
+          "like_count": 9599,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3407
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-13T18:06:22.000Z",
+        "description": "𝗜𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗼𝗿 / 連絡先▶︎kuremelll@gmail.com / ◾︎https://t.co/9c8DNYkXEY FA▶︎#κμrεhαrτ ⛓️🩹\n企画( @voca_relay ) ✏︎(@me_me_hp0)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 71,
+                "tag": "κμrεhαrτ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "voca_relay"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "me_me_hp0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kuremelll.wixsite.com/website/",
+                "end": 66,
+                "expanded_url": "https://kuremelll.wixsite.com/website/",
+                "start": 43,
+                "url": "https://t.co/9c8DNYkXEY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kurehalxxx.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://kurehalxxx.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/wrxekj2ZmR"
+              }
+            ]
+          }
+        },
+        "id": "1392904024823795721",
+        "is_identity_verified": false,
+        "location": "(目にハイライトのない)絵のお仕事はメールにお願いします",
+        "most_recent_tweet_id": "2090353327683080471",
+        "name": "ᴋᴜʀᴇʜᴀ",
+        "pinned_tweet_id": "2036695915973783679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392904024823795721/1644955079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557416904905461766/EGWy0HqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56195,
+          "following_count": 309,
+          "like_count": 4824,
+          "listed_count": 363,
+          "media_count": 115,
+          "tweet_count": 2810
+        },
+        "url": "https://t.co/wrxekj2ZmR",
+        "username": "kurehalxxx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

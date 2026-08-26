@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068146857520537875",
+    "created_at": "2026-06-20T01:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068146857520537875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1057087644453093377",
+          "start": 3,
+          "username": "052ysk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068146857520537875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12662
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063447100315357306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @052ysk: 俺のちんぽデカすぎてシコるときも1往復するのに約8時間かかる。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068146857520537875",
+        "created_at": "2026-06-20T01:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068146857520537875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1057087644453093377",
+              "start": 3,
+              "username": "052ysk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068146857520537875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12662
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063447100315357306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @052ysk: 俺のちんぽデカすぎてシコるときも1往復するのに約8時間かかる。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057087644453093377",
+        "conversation_id": "2063447100315357306",
+        "created_at": "2026-06-07T02:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063447100315357306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063447100315357306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6405,
+          "impression_count": 10062267,
+          "like_count": 149667,
+          "quote_count": 2414,
+          "reply_count": 1081,
+          "retweet_count": 12662
+        },
+        "reply_settings": "everyone",
+        "text": "俺のちんぽデカすぎてシコるときも1往復するのに約8時間かかる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 190,
+          "like_count": 5854,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2617
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-30T01:51:48.000Z",
+        "description": "私たち神話になるの",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@052ysk",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@052ysk",
+                "start": 0,
+                "url": "https://t.co/duO2GwJXj1"
+              }
+            ]
+          }
+        },
+        "id": "1057087644453093377",
+        "location": "愛知",
+        "name": "陽介",
+        "pinned_tweet_id": "1788881576232907043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934658534886789121/E-AE9lfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121203,
+          "following_count": 182,
+          "like_count": 58024,
+          "listed_count": 690,
+          "media_count": 1753,
+          "tweet_count": 5970
+        },
+        "url": "https://t.co/duO2GwJXj1",
+        "username": "052ysk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054856720787370493",
+    "created_at": "2026-05-14T09:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054856720787370493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/toukaidoukamot…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/toukaidoukamotu/status/2054835476406923679",
+          "start": 3,
+          "url": "https://t.co/KeaBFREYPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054856720787370493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054835476406923679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "こわ https://t.co/KeaBFREYPW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054835459990384640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQ99sCacAA39Ho.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054856720787370493",
+        "created_at": "2026-05-14T09:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054856720787370493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toukaidoukamot…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/toukaidoukamotu/status/2054835476406923679",
+              "start": 3,
+              "url": "https://t.co/KeaBFREYPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054856720787370493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054835476406923679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こわ https://t.co/KeaBFREYPW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054835459990384640"
+          ]
+        },
+        "author_id": "1531278806262026246",
+        "conversation_id": "2054835476406923679",
+        "created_at": "2026-05-14T08:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054835476406923679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuuhyswWql",
+              "end": 42,
+              "expanded_url": "https://x.com/toukaidoukamotu/status/2054835476406923679/photo/1",
+              "media_key": "3_2054835459990384640",
+              "start": 19,
+              "url": "https://t.co/NuuhyswWql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054835476406923679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 219990,
+          "like_count": 2296,
+          "quote_count": 112,
+          "reply_count": 14,
+          "retweet_count": 802
+        },
+        "reply_settings": "everyone",
+        "text": "東戸塚雹だか霰だか知らんけどやばすぎ https://t.co/NuuhyswWql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 169,
+          "like_count": 3913,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2035
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T14:18:28.000Z",
+        "description": "地元を中心にネタ（たまに日常）を撮影している人です。目撃もあげるかもしれないけどしばらくしたら消す。鉄道垢はほとんどフォロバしますが、その他の垢はブロックするかもしれません。サブ垢 @tokakamo_sabu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "tokakamo_sabu"
+              }
+            ]
+          }
+        },
+        "id": "1531278806262026246",
+        "name": "とかかも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606612519321468928/NkMXTC2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 1045,
+          "like_count": 27686,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 950
+        },
+        "username": "toukaidoukamotu",
+        "verified": false
+      }
+    ]
+  }
+}

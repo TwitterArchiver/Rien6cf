@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029543412366757889"
+      ],
+      "media_source_tweet_id": [
+        "2029543417911676981"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2029880805238132989",
+    "created_at": "2026-03-06T11:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029880805238132989"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "上野東京",
+          "probability": 0.5966,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1159798891987927041",
+          "start": 3,
+          "username": "373rapidservice"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0a49uYsNlQ",
+          "end": 56,
+          "expanded_url": "https://x.com/373rapidservice/status/2029543417911676981/photo/1",
+          "media_key": "3_2029543412366757889",
+          "start": 33,
+          "url": "https://t.co/0a49uYsNlQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029880805238132989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 410
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029543417911676981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @373rapidservice: 上野東京ライン(物理) https://t.co/0a49uYsNlQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2029543412366757889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCpi-wZa0AEC4rN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029543412366757889"
+          ],
+          "media_source_tweet_id": [
+            "2029543417911676981"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2029880805238132989",
+        "created_at": "2026-03-06T11:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029880805238132989"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "上野東京",
+              "probability": 0.5966,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1159798891987927041",
+              "start": 3,
+              "username": "373rapidservice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0a49uYsNlQ",
+              "end": 56,
+              "expanded_url": "https://x.com/373rapidservice/status/2029543417911676981/photo/1",
+              "media_key": "3_2029543412366757889",
+              "start": 33,
+              "url": "https://t.co/0a49uYsNlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029880805238132989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 410
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029543417911676981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @373rapidservice: 上野東京ライン(物理) https://t.co/0a49uYsNlQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029543412366757889"
+          ]
+        },
+        "author_id": "1159798891987927041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2029543417911676981",
+        "created_at": "2026-03-05T13:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029543417911676981"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "上野東京",
+              "probability": 0.4545,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0a49uYsNlQ",
+              "end": 35,
+              "expanded_url": "https://x.com/373rapidservice/status/2029543417911676981/photo/1",
+              "media_key": "3_2029543412366757889",
+              "start": 12,
+              "url": "https://t.co/0a49uYsNlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029543417911676981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 86950,
+          "like_count": 3836,
+          "quote_count": 11,
+          "reply_count": 9,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "上野東京ライン(物理) https://t.co/0a49uYsNlQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 101,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 803
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-09T12:09:38.000Z",
+        "description": "",
+        "id": "1159798891987927041",
+        "location": "沼津市民",
+        "name": "かいぬま",
+        "pinned_tweet_id": "1978389945820619168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978390063361961984/s7nd-qKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 4606,
+          "like_count": 1341957,
+          "listed_count": 21,
+          "media_count": 17407,
+          "tweet_count": 1032963
+        },
+        "username": "373rapidservice",
+        "verified": false
+      }
+    ]
+  }
+}

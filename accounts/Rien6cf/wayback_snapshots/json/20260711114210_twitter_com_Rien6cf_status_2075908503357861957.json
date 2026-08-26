@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      }
+    ],
+    "conversation_id": "2075908503357861957",
+    "created_at": "2026-07-11T11:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075908503357861957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asahi/status/2…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/asahi/status/2075398111305023936",
+          "start": 7,
+          "url": "https://t.co/nYRhhvvSzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075908503357861957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075398111305023936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "かなりやばい https://t.co/nYRhhvvSzs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2075908503357861957",
+        "created_at": "2026-07-11T11:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075908503357861957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asahi/status/2…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/asahi/status/2075398111305023936",
+              "start": 7,
+              "url": "https://t.co/nYRhhvvSzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075908503357861957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075398111305023936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "かなりやばい https://t.co/nYRhhvvSzs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "42816371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2075398111305023936",
+        "created_at": "2026-07-10T01:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075398111305023936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "　AI（人工知能）モデル開発やデータ活用を進めるため、個人データを収集する際の規制緩和を盛り込んだ個人情報保護法の改正案が10日、参院本会議で賛成多数で可決され、成立した。病歴や犯罪歴といった機微な個…",
+              "display_url": "asahi.com/articles/ASV79…",
+              "end": 56,
+              "expanded_url": "https://www.asahi.com/articles/ASV7945Q2V79ULFA01WM.html?ref=tw_asahi",
+              "images": [
+                {
+                  "height": 334,
+                  "url": "https://pbs.twimg.com/news_img/2075398114148786176/UErvd19p?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075398114148786176/UErvd19p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "改正個人情報保護法が成立　病歴や信条も…本人の同意なく提供可能に：朝日新聞",
+              "unwound_url": "https://www.asahi.com/articles/ASV7945Q2V79ULFA01WM.html?ref=tw_asahi",
+              "url": "https://t.co/8QMLQ7Luyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075398111305023936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1480,
+          "impression_count": 5127607,
+          "like_count": 5737,
+          "quote_count": 1870,
+          "reply_count": 368,
+          "retweet_count": 5911
+        },
+        "reply_settings": "everyone",
+        "text": "改正個人情報保護法が成立　病歴や信条も…本人の同意なく提供可能に https://t.co/8QMLQ7Luyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7518,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2899
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-27T04:37:57.000Z",
+        "description": "朝日新聞の公式ニュースアカウントです。政治、経済、社会、国際からスポーツ、文化まで、国内外の最新ニュースを24時間リアルタイムでお届けします。\n編集者のイチオシ記事はこちらhttps://t.co/1WhggqATkQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/asahicom",
+                "end": 109,
+                "expanded_url": "https://x.com/asahicom",
+                "start": 86,
+                "url": "https://t.co/1WhggqATkQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asahi.com",
+                "end": 23,
+                "expanded_url": "http://www.asahi.com",
+                "start": 0,
+                "url": "https://t.co/AnajStGSjg"
+              }
+            ]
+          }
+        },
+        "id": "42816371",
+        "location": "東京都中央区",
+        "name": "朝日新聞(asahi shimbun）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278264370623963138/r0QWCaBf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279602,
+          "following_count": 480,
+          "like_count": 502,
+          "listed_count": 41605,
+          "media_count": 7867,
+          "tweet_count": 661797
+        },
+        "url": "https://t.co/AnajStGSjg",
+        "username": "asahi",
+        "verified": true
+      }
+    ]
+  }
+}

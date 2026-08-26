@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041761482736914432"
+      ],
+      "media_source_tweet_id": [
+        "2041761488034263348"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2041934360656671010",
+    "created_at": "2026-04-08T17:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041934360656671010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669608992719654917",
+          "start": 3,
+          "username": "CryptoMaster_70"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HtmpGxpxAC",
+          "end": 56,
+          "expanded_url": "https://x.com/CryptoMaster_70/status/2041761488034263348/photo/1",
+          "media_key": "3_2041761482736914432",
+          "start": 33,
+          "url": "https://t.co/HtmpGxpxAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041934360656671010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041761488034263348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CryptoMaster_70: 大家都有過這種經驗吧？ https://t.co/HtmpGxpxAC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2041761482736914432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXLQDab0AAmRoI.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041761482736914432"
+          ],
+          "media_source_tweet_id": [
+            "2041761488034263348"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2041934360656671010",
+        "created_at": "2026-04-08T17:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041934360656671010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1669608992719654917",
+              "start": 3,
+              "username": "CryptoMaster_70"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtmpGxpxAC",
+              "end": 56,
+              "expanded_url": "https://x.com/CryptoMaster_70/status/2041761488034263348/photo/1",
+              "media_key": "3_2041761482736914432",
+              "start": 33,
+              "url": "https://t.co/HtmpGxpxAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041934360656671010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041761488034263348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CryptoMaster_70: 大家都有過這種經驗吧？ https://t.co/HtmpGxpxAC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041761482736914432"
+          ]
+        },
+        "author_id": "1669608992719654917",
+        "conversation_id": "2041761488034263348",
+        "created_at": "2026-04-08T06:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041761488034263348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtmpGxpxAC",
+              "end": 35,
+              "expanded_url": "https://x.com/CryptoMaster_70/status/2041761488034263348/photo/1",
+              "media_key": "3_2041761482736914432",
+              "start": 12,
+              "url": "https://t.co/HtmpGxpxAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041761488034263348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 70830,
+          "like_count": 2519,
+          "quote_count": 16,
+          "reply_count": 24,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "大家都有過這種經驗吧？ https://t.co/HtmpGxpxAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 130,
+          "like_count": 2517,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1498
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T07:33:40.000Z",
+        "description": "Master in MIS.\nStock, Crypto trader, ex-SW engineer. \n以前是碼農，後來是操盤手，現在是全職小丑 \n在透明的區塊鏈裡，你我都在裸奔\n\n大號沒了, 穢土轉生再出發",
+        "id": "1669608992719654917",
+        "location": "moon",
+        "name": "Master | 最強打野(穢土轉生)",
+        "pinned_tweet_id": "1774076142313668661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748982365152784384/vxAfgPmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7085,
+          "following_count": 1007,
+          "like_count": 3298,
+          "listed_count": 51,
+          "media_count": 2208,
+          "tweet_count": 8522
+        },
+        "username": "CryptoMaster_70",
+        "verified": true
+      }
+    ]
+  }
+}

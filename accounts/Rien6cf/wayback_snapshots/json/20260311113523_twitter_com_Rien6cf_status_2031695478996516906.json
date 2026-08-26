@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031370567983706116"
+      ],
+      "media_source_tweet_id": [
+        "2031370574270967952"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2031695478996516906",
+    "created_at": "2026-03-11T11:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T12:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031695478996516906"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 24,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "自撮り"
+        },
+        {
+          "end": 54,
+          "start": 42,
+          "tag": "自撮り界隈と繋がりたい"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "地雷系"
+        },
+        {
+          "end": 70,
+          "start": 60,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 88,
+          "start": 71,
+          "tag": "雰囲気嫌いじゃないよって人いいね"
+        },
+        {
+          "end": 96,
+          "start": 89,
+          "tag": "いいねでDM"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023505570473594880",
+          "start": 3,
+          "username": "shIkIx0_0x"
+        },
+        {
+          "end": 18,
+          "id": "1318181",
+          "start": 16,
+          "username": "_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6XHhsUxIL",
+          "end": 120,
+          "expanded_url": "https://x.com/shIkIx0_0x/status/2031370574270967952/photo/1",
+          "media_key": "3_2031370567983706116",
+          "start": 97,
+          "url": "https://t.co/H6XHhsUxIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031695478996516906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031370574270967952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shIkIx0_0x: @_  無加工 #病み垢さんと繋がりたい #自撮り #自撮り界隈と繋がりたい #地雷系 #地雷系と繋がりたい #雰囲気嫌いじゃないよって人いいね #いいねでDM https://t.co/H6XHhsUxIL"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2031370567983706116",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDgxNfaMAQJjSJ.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031370567983706116"
+          ],
+          "media_source_tweet_id": [
+            "2031370574270967952"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2031695478996516906",
+        "created_at": "2026-03-11T11:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031695478996516906"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "自撮り"
+            },
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "地雷系"
+            },
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 88,
+              "start": 71,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            },
+            {
+              "end": 96,
+              "start": 89,
+              "tag": "いいねでDM"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023505570473594880",
+              "start": 3,
+              "username": "shIkIx0_0x"
+            },
+            {
+              "end": 18,
+              "id": "1318181",
+              "start": 16,
+              "username": "_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6XHhsUxIL",
+              "end": 120,
+              "expanded_url": "https://x.com/shIkIx0_0x/status/2031370574270967952/photo/1",
+              "media_key": "3_2031370567983706116",
+              "start": 97,
+              "url": "https://t.co/H6XHhsUxIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031695478996516906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031370574270967952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shIkIx0_0x: @_  無加工 #病み垢さんと繋がりたい #自撮り #自撮り界隈と繋がりたい #地雷系 #地雷系と繋がりたい #雰囲気嫌いじゃないよって人いいね #いいねでDM https://t.co/H6XHhsUxIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031370567983706116"
+          ]
+        },
+        "author_id": "2023505570473594880",
+        "conversation_id": "2031370574270967952",
+        "created_at": "2026-03-10T14:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031370574270967952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 8,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "自撮り"
+            },
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "地雷系"
+            },
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 72,
+              "start": 55,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            },
+            {
+              "end": 80,
+              "start": 73,
+              "tag": "いいねでDM"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 2,
+              "id": "1318181",
+              "start": 0,
+              "username": "_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6XHhsUxIL",
+              "end": 104,
+              "expanded_url": "https://x.com/shIkIx0_0x/status/2031370574270967952/photo/1",
+              "media_key": "3_2031370567983706116",
+              "start": 81,
+              "url": "https://t.co/H6XHhsUxIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031370574270967952",
+        "in_reply_to_user_id": "1318181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 767,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "@_  無加工 #病み垢さんと繋がりたい #自撮り #自撮り界隈と繋がりたい #地雷系 #地雷系と繋がりたい #雰囲気嫌いじゃないよって人いいね #いいねでDM https://t.co/H6XHhsUxIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 105,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 947
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T21:11:53.000Z",
+        "description": "08 東海 通信 激甘微塩 片思い× 固定みて",
+        "id": "2023505570473594880",
+        "location": "すぐ信用しない",
+        "name": "死希",
+        "pinned_tweet_id": "2031370735353254218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031268577429553152/NPMb7mXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 105,
+          "like_count": 2497,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 212
+        },
+        "username": "shIkIx0_0x",
+        "verified": false
+      }
+    ]
+  }
+}

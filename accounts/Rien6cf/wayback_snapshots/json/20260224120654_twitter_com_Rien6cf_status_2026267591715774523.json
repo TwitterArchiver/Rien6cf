@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026267585579552768"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2026267591715774523",
+    "created_at": "2026-02-24T12:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026267591715774523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MEuqFVvypr",
+          "end": 32,
+          "expanded_url": "https://x.com/Rien6cf/status/2026267591715774523/photo/1",
+          "media_key": "3_2026267585579552768",
+          "start": 9,
+          "url": "https://t.co/MEuqFVvypr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026267591715774523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "罕见地画画了…😌 https://t.co/MEuqFVvypr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2026267585579552768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6_oipbkAA8nDH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026267585579552768"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2026267591715774523",
+        "created_at": "2026-02-24T12:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026267591715774523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEuqFVvypr",
+              "end": 32,
+              "expanded_url": "https://x.com/Rien6cf/status/2026267591715774523/photo/1",
+              "media_key": "3_2026267585579552768",
+              "start": 9,
+              "url": "https://t.co/MEuqFVvypr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026267591715774523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "罕见地画画了…😌 https://t.co/MEuqFVvypr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 77,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 575
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

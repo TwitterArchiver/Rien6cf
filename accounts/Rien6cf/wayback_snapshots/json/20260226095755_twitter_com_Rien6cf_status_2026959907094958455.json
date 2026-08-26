@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026959810600779776"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2026959907094958455",
+    "created_at": "2026-02-26T09:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026959907094958455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BexqQkGAix",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2026959907094958455/video/1",
+          "media_key": "13_2026959810600779776",
+          "start": 0,
+          "url": "https://t.co/BexqQkGAix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026959907094958455",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BexqQkGAix"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14933,
+        "height": 1280,
+        "media_key": "13_2026959810600779776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026959810600779776/img/C6IedS29Miat-r-Q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026959810600779776/vid/avc1/320x568/OF3BUnF2d5-cRnZ-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026959810600779776/vid/avc1/480x852/Wpk6Ia1JACMBa2-d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026959810600779776/vid/avc1/720x1280/cdUtMjC1MH9o33s-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026959810600779776/pl/PP-bwyqBaeq-kNOv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026959810600779776"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2026959907094958455",
+        "created_at": "2026-02-26T09:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026959907094958455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BexqQkGAix",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2026959907094958455/video/1",
+              "media_key": "13_2026959810600779776",
+              "start": 0,
+              "url": "https://t.co/BexqQkGAix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026959907094958455",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BexqQkGAix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 80,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 605
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058488781557440512"
+      ],
+      "media_source_tweet_id": [
+        "2058488786154373294"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058736204636647852",
+    "created_at": "2026-05-25T02:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058736204636647852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969258711865835521",
+          "start": 3,
+          "username": "mnl_nyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cbG8b9eTK9",
+          "end": 54,
+          "expanded_url": "https://x.com/mnl_nyan/status/2058488786154373294/photo/1",
+          "media_key": "3_2058488781557440512",
+          "start": 31,
+          "url": "https://t.co/cbG8b9eTK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058736204636647852",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058488786154373294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnl_nyan: この絡みだいすき😭😭😭😭😭😭😭😭 https://t.co/cbG8b9eTK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2058488781557440512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE4o_bboAAASCA.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058488781557440512"
+          ],
+          "media_source_tweet_id": [
+            "2058488786154373294"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058736204636647852",
+        "created_at": "2026-05-25T02:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058736204636647852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969258711865835521",
+              "start": 3,
+              "username": "mnl_nyan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbG8b9eTK9",
+              "end": 54,
+              "expanded_url": "https://x.com/mnl_nyan/status/2058488786154373294/photo/1",
+              "media_key": "3_2058488781557440512",
+              "start": 31,
+              "url": "https://t.co/cbG8b9eTK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058736204636647852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058488786154373294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnl_nyan: この絡みだいすき😭😭😭😭😭😭😭😭 https://t.co/cbG8b9eTK9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058488781557440512"
+          ]
+        },
+        "author_id": "1969258711865835521",
+        "conversation_id": "2058488786154373294",
+        "created_at": "2026-05-24T10:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058488786154373294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbG8b9eTK9",
+              "end": 40,
+              "expanded_url": "https://x.com/mnl_nyan/status/2058488786154373294/photo/1",
+              "media_key": "3_2058488781557440512",
+              "start": 17,
+              "url": "https://t.co/cbG8b9eTK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058488786154373294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 27727,
+          "like_count": 3949,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "この絡みだいすき😭😭😭😭😭😭😭😭 https://t.co/cbG8b9eTK9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 171,
+          "like_count": 4478,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2220
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T04:34:05.000Z",
+        "description": "@ilife_sumire のために進もうと思った*.+ﾟ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ilife_sumire"
+              }
+            ]
+          }
+        },
+        "id": "1969258711865835521",
+        "location": "5/11.24   片思い期限3日↩︎",
+        "name": "ﾐｻｷ♡",
+        "pinned_tweet_id": "2058346475692888512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056362796452073472/FH83NkCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 321,
+          "like_count": 7829,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 970
+        },
+        "username": "mnl_nyan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060082015211549030",
+    "created_at": "2026-05-28T19:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060082015211549030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1184354588213698561",
+          "start": 3,
+          "username": "Fuwa_Minato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060082015211549030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29781
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060010828439633961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuwa_Minato: 剣持、4年半ありがとう\n\n応援してくれたみんなありがとう\n\nROF-MAOは一旦おやすみさせて頂きます\n\nいつかきっと\n\n全員幸せであれ\n\n改めてもちさんありがとうだよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060082015211549030",
+        "created_at": "2026-05-28T19:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060082015211549030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1184354588213698561",
+              "start": 3,
+              "username": "Fuwa_Minato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060082015211549030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29781
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060010828439633961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuwa_Minato: 剣持、4年半ありがとう\n\n応援してくれたみんなありがとう\n\nROF-MAOは一旦おやすみさせて頂きます\n\nいつかきっと\n\n全員幸せであれ\n\n改めてもちさんありがとうだよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1184354588213698561",
+        "conversation_id": "2060010828439633961",
+        "created_at": "2026-05-28T14:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060010828439633961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060010828439633961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5255,
+          "impression_count": 947192,
+          "like_count": 110485,
+          "quote_count": 240,
+          "reply_count": 1375,
+          "retweet_count": 29781
+        },
+        "reply_settings": "everyone",
+        "text": "剣持、4年半ありがとう\n\n応援してくれたみんなありがとう\n\nROF-MAOは一旦おやすみさせて頂きます\n\nいつかきっと\n\n全員幸せであれ\n\n改めてもちさんありがとうだよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 175,
+          "like_count": 4661,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2270
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-16T06:27:35.000Z",
+        "description": "にじさんじ所属バーチャルホストの不破湊です。 サブ垢@Puwa_Minato #絵スコート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "絵スコート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Puwa_Minato"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6wvd…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/TcjYlDzb6T"
+              }
+            ]
+          }
+        },
+        "id": "1184354588213698561",
+        "location": "ｾﾞｳｽ",
+        "name": "不破湊🥂✨",
+        "pinned_tweet_id": "1862801186744897981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780798620897615872/p7GEFyPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191401,
+          "following_count": 665,
+          "like_count": 15528,
+          "listed_count": 16390,
+          "media_count": 2235,
+          "tweet_count": 12803
+        },
+        "url": "https://t.co/TcjYlDzb6T",
+        "username": "Fuwa_Minato",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057651378928091137"
+      ],
+      "media_source_tweet_id": [
+        "2057651838149971979"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2057658183854985269",
+    "created_at": "2026-05-22T03:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057658183854985269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986828541930119168",
+          "start": 3,
+          "username": "shigure07288"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3gbQpGhupO",
+          "end": 134,
+          "expanded_url": "https://x.com/shigure07288/status/2057651838149971979/photo/1",
+          "media_key": "3_2057651378928091137",
+          "start": 111,
+          "url": "https://t.co/3gbQpGhupO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057658183854985269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057651838149971979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigure07288: 实在不理解爱人人士狠猫，猫不比人类好多了，给一点吃的就围着你喵喵叫，毛绒绒的摸起来很舒服。而绝大部分人类自私又虚伪，从来不承认错误，动不动就哈气。\n\n谁会不承认认识的人越多越喜欢动物？ https://t.co/3gbQpGhupO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_2057651378928091137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4_BviaAAEv7T1.png",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057651378928091137"
+          ],
+          "media_source_tweet_id": [
+            "2057651838149971979"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2057658183854985269",
+        "created_at": "2026-05-22T03:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057658183854985269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986828541930119168",
+              "start": 3,
+              "username": "shigure07288"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gbQpGhupO",
+              "end": 134,
+              "expanded_url": "https://x.com/shigure07288/status/2057651838149971979/photo/1",
+              "media_key": "3_2057651378928091137",
+              "start": 111,
+              "url": "https://t.co/3gbQpGhupO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057658183854985269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057651838149971979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigure07288: 实在不理解爱人人士狠猫，猫不比人类好多了，给一点吃的就围着你喵喵叫，毛绒绒的摸起来很舒服。而绝大部分人类自私又虚伪，从来不承认错误，动不动就哈气。\n\n谁会不承认认识的人越多越喜欢动物？ https://t.co/3gbQpGhupO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057651378928091137"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2057651838149971979",
+        "created_at": "2026-05-22T02:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057651838149971979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gbQpGhupO",
+              "end": 116,
+              "expanded_url": "https://x.com/shigure07288/status/2057651838149971979/photo/1",
+              "media_key": "3_2057651378928091137",
+              "start": 93,
+              "url": "https://t.co/3gbQpGhupO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057651838149971979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "实在不理解爱人人士狠猫，猫不比人类好多了，给一点吃的就围着你喵喵叫，毛绒绒的摸起来很舒服。而绝大部分人类自私又虚伪，从来不承认错误，动不动就哈气。\n\n谁会不承认认识的人越多越喜欢动物？ https://t.co/3gbQpGhupO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 171,
+          "like_count": 4339,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2172
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2056211247075578047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 629,
+          "like_count": 5757,
+          "listed_count": 7,
+          "media_count": 542,
+          "tweet_count": 7094
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

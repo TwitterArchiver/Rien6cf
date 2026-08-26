@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053250642165301248"
+      ],
+      "media_source_tweet_id": [
+        "2053250701514727921"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2053405791013728619",
+    "created_at": "2026-05-10T09:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053405791013728619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "923878673454833664",
+          "start": 3,
+          "username": "pata___san"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mJra9v8pZB",
+          "end": 56,
+          "expanded_url": "https://x.com/pata___san/status/2053250701514727921/video/1",
+          "media_key": "13_2053250642165301248",
+          "start": 33,
+          "url": "https://t.co/mJra9v8pZB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053405791013728619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053250701514727921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pata___san: 美しいラッコ\n明日花ちゃんの命日 https://t.co/mJra9v8pZB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11000,
+        "height": 720,
+        "media_key": "13_2053250642165301248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053250642165301248/img/GpEIIm6lQxVUT1KZ.jpg",
+        "public_metrics": {
+          "view_count": 16581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053250642165301248/vid/avc1/480x270/bjf6bbMAqKdUkhKp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053250642165301248/vid/avc1/640x360/twtEbhcgjaiNccij.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053250642165301248/vid/avc1/1280x720/kx-vTst5n1oBcD5d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053250642165301248/pl/_7GNQIWwQR-yehkB.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053250642165301248"
+          ],
+          "media_source_tweet_id": [
+            "2053250701514727921"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2053405791013728619",
+        "created_at": "2026-05-10T09:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053405791013728619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "923878673454833664",
+              "start": 3,
+              "username": "pata___san"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJra9v8pZB",
+              "end": 56,
+              "expanded_url": "https://x.com/pata___san/status/2053250701514727921/video/1",
+              "media_key": "13_2053250642165301248",
+              "start": 33,
+              "url": "https://t.co/mJra9v8pZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053405791013728619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053250701514727921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pata___san: 美しいラッコ\n明日花ちゃんの命日 https://t.co/mJra9v8pZB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053250642165301248"
+          ]
+        },
+        "author_id": "923878673454833664",
+        "conversation_id": "2053250701514727921",
+        "created_at": "2026-05-09T23:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053250701514727921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJra9v8pZB",
+              "end": 40,
+              "expanded_url": "https://x.com/pata___san/status/2053250701514727921/video/1",
+              "media_key": "13_2053250642165301248",
+              "start": 17,
+              "url": "https://t.co/mJra9v8pZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053250701514727921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 33078,
+          "like_count": 1633,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "美しいラッコ\n明日花ちゃんの命日 https://t.co/mJra9v8pZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3638,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1945
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-27T11:46:55.000Z",
+        "description": "パタさんずっと大好き。 とにかくラッコが大好きです。 国内のラッコに会いに行くのが楽しみです。クオッカ、レッサーパンダ 、チーターも好きです。",
+        "id": "923878673454833664",
+        "name": "ララ",
+        "pinned_tweet_id": "1422523562607349761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/970550723258675200/5CbItnmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 357,
+          "like_count": 68104,
+          "listed_count": 61,
+          "media_count": 3543,
+          "tweet_count": 6717
+        },
+        "username": "pata___san",
+        "verified": false
+      }
+    ]
+  }
+}

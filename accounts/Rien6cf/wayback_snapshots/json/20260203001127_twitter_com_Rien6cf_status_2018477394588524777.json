@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1271701571722637315"
+      ],
+      "media_source_tweet_id": [
+        "1271701744733437952"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2018477394588524777",
+    "created_at": "2026-02-03T00:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018477394588524777"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "メランコリック / Junky",
+          "probability": 0.1731,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3112919876",
+          "start": 3,
+          "username": "30_voca_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NwrLZMzKFs",
+          "end": 58,
+          "expanded_url": "https://x.com/30_voca_music/status/1271701744733437952/video/1",
+          "media_key": "13_1271701571722637315",
+          "start": 35,
+          "url": "https://t.co/NwrLZMzKFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018477394588524777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018435066590822741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30_voca_music: メランコリック / Junky\nhttps://t.co/NwrLZMzKFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36000,
+        "height": 360,
+        "media_key": "13_1271701571722637315",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1271701571722637315/img/tHVtJ0hEqlaeHHbR.jpg",
+        "public_metrics": {
+          "view_count": 259256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1271701571722637315/vid/360x270/B-uw0s4DuV6lIt6m.mp4?tag=13"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1271701571722637315/vid/480x360/e4GjIf20xaQitjwu.mp4?tag=13"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1271701571722637315/pl/WEtscvhl0B5L25FZ.m3u8?tag=13&v=f07"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1271701571722637315"
+          ],
+          "media_source_tweet_id": [
+            "1271701744733437952"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2018477394588524777",
+        "created_at": "2026-02-03T00:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018477394588524777"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "メランコリック / Junky",
+              "probability": 0.1731,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3112919876",
+              "start": 3,
+              "username": "30_voca_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwrLZMzKFs",
+              "end": 58,
+              "expanded_url": "https://x.com/30_voca_music/status/1271701744733437952/video/1",
+              "media_key": "13_1271701571722637315",
+              "start": 35,
+              "url": "https://t.co/NwrLZMzKFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018477394588524777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018435066590822741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30_voca_music: メランコリック / Junky\nhttps://t.co/NwrLZMzKFs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1271701571722637315"
+          ],
+          "media_source_tweet_id": [
+            "1271701744733437952"
+          ]
+        },
+        "author_id": "3112919876",
+        "conversation_id": "2018435066590822741",
+        "created_at": "2026-02-02T21:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T22:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018435066590822741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwrLZMzKFs",
+              "end": 39,
+              "expanded_url": "https://x.com/30_voca_music/status/1271701744733437952/video/1",
+              "media_key": "13_1271701571722637315",
+              "start": 16,
+              "url": "https://t.co/NwrLZMzKFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018435066590822741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2187,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "メランコリック / Junky\nhttps://t.co/NwrLZMzKFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 经常性无言fo  前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 45,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 96
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-28T13:05:48.000Z",
+        "description": "ボーカロイド(たまにUTAU まれにCeVIO等)の楽曲を30秒くらいにして流します。",
+        "id": "3112919876",
+        "name": "30秒ボカロbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/903257944392732672/JZWhJls2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108817,
+          "following_count": 3,
+          "like_count": 290,
+          "listed_count": 408,
+          "media_count": 46454,
+          "tweet_count": 44945
+        },
+        "username": "30_voca_music",
+        "verified": false
+      }
+    ]
+  }
+}

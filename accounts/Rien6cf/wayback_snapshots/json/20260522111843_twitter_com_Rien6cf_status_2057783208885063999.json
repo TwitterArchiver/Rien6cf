@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057763372700225536"
+      ],
+      "media_source_tweet_id": [
+        "2057764656786407485"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057783208885063999",
+    "created_at": "2026-05-22T11:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057783208885063999"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 85,
+          "tag": "iLiFE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1264835935838986241",
+          "start": 3,
+          "username": "iLiFE_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsEpS0fVhX",
+          "end": 115,
+          "expanded_url": "https://x.com/iLiFE_official/status/2057764656786407485/video/1",
+          "media_key": "13_2057763372700225536",
+          "start": 92,
+          "url": "https://t.co/jsEpS0fVhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057783208885063999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3508
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057764656786407485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iLiFE_official: 【新衣装公開】\n新衣装ティザームービー公開🤍\n\nそしてこの後公開のアー写ツイート4000RP達成でNEXT MEMBER公開！\n\n#iLiFE https://t.co/jsEpS0fVhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66066,
+        "height": 1080,
+        "media_key": "13_2057763372700225536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057763372700225536/img/OpO3AXXw3pjSzIAm.jpg",
+        "public_metrics": {
+          "view_count": 124275
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057763372700225536/vid/avc1/640x360/0hBRd9FmuDf7-aRP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057763372700225536/pl/QWhnBOMForqwORye.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057763372700225536/vid/avc1/480x270/9uC-AzEpLG9ScMen.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057763372700225536/vid/avc1/1920x1080/7IdqMI8Ouu1W3XFi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057763372700225536/vid/avc1/1280x720/yBbdPefsWwWdLmpR.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057763372700225536"
+          ],
+          "media_source_tweet_id": [
+            "2057764656786407485"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057783208885063999",
+        "created_at": "2026-05-22T11:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057783208885063999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 85,
+              "tag": "iLiFE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1264835935838986241",
+              "start": 3,
+              "username": "iLiFE_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsEpS0fVhX",
+              "end": 115,
+              "expanded_url": "https://x.com/iLiFE_official/status/2057764656786407485/video/1",
+              "media_key": "13_2057763372700225536",
+              "start": 92,
+              "url": "https://t.co/jsEpS0fVhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057783208885063999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3508
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057764656786407485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iLiFE_official: 【新衣装公開】\n新衣装ティザームービー公開🤍\n\nそしてこの後公開のアー写ツイート4000RP達成でNEXT MEMBER公開！\n\n#iLiFE https://t.co/jsEpS0fVhX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057763372700225536"
+          ]
+        },
+        "author_id": "1264835935838986241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057764656786407485",
+        "created_at": "2026-05-22T10:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:00:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057763470339342432",
+          "2057764656786407485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "iLiFE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsEpS0fVhX",
+              "end": 95,
+              "expanded_url": "https://x.com/iLiFE_official/status/2057764656786407485/video/1",
+              "media_key": "13_2057763372700225536",
+              "start": 72,
+              "url": "https://t.co/jsEpS0fVhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057764656786407485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 510410,
+          "like_count": 14996,
+          "quote_count": 973,
+          "reply_count": 207,
+          "retweet_count": 3508
+        },
+        "reply_settings": "everyone",
+        "text": "【新衣装公開】\n新衣装ティザームービー公開🤍\n\nそしてこの後公開のアー写ツイート4000RP達成でNEXT MEMBER公開！\n\n#iLiFE https://t.co/jsEpS0fVhX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4358,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2184
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-25T08:29:35.000Z",
+        "description": "2026年8月26日Kアリーナ横浜。「私と貴方で作る、アイドルライフ！ 」◇スケジュール【https://t.co/4UXebbMoEq】◆ご依頼【ilife.idol@gmail.com】 ◇公式サイト【https://t.co/KZ0WsciVpN 】ファンネーム▶︎ #アイライファー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 137,
+                "tag": "アイライファー"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "timetr.ee/pc/ilife_offic…",
+                "end": 68,
+                "expanded_url": "https://timetr.ee/pc/ilife_official",
+                "start": 45,
+                "url": "https://t.co/4UXebbMoEq"
+              },
+              {
+                "display_url": "ilife-heroines.com",
+                "end": 126,
+                "expanded_url": "http://ilife-heroines.com",
+                "start": 103,
+                "url": "https://t.co/KZ0WsciVpN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChVfl…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UChVflUz2J_jaaqYjXqvpmQA",
+                "start": 0,
+                "url": "https://t.co/MXGeIi0Aub"
+              }
+            ]
+          }
+        },
+        "id": "1264835935838986241",
+        "location": "HEROINES【ヒロインズ】",
+        "name": "iLiFE!【あいらいふ】",
+        "pinned_tweet_id": "2000525633437536392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709214308612341760/tf7tDLo6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347793,
+          "following_count": 20,
+          "like_count": 87,
+          "listed_count": 1417,
+          "media_count": 3422,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/MXGeIi0Aub",
+        "username": "iLiFE_official",
+        "verified": true
+      }
+    ]
+  }
+}

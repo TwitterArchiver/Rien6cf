@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052956268328042496"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2052956274229448796",
+    "created_at": "2026-05-09T03:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052956274229448796"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b5YFZN60Yr",
+          "end": 30,
+          "expanded_url": "https://x.com/Rien6cf/status/2052956274229448796/photo/1",
+          "media_key": "3_2052956268328042496",
+          "start": 7,
+          "url": "https://t.co/b5YFZN60Yr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052956274229448796",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈 https://t.co/b5YFZN60Yr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2052956268328042496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2Q2VkawAAiLKy.jpg",
+        "width": 1419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052956268328042496"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2052956274229448796",
+        "created_at": "2026-05-09T03:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052956274229448796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5YFZN60Yr",
+              "end": 30,
+              "expanded_url": "https://x.com/Rien6cf/status/2052956274229448796/photo/1",
+              "media_key": "3_2052956268328042496",
+              "start": 7,
+              "url": "https://t.co/b5YFZN60Yr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052956274229448796",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/b5YFZN60Yr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 3512,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1917
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

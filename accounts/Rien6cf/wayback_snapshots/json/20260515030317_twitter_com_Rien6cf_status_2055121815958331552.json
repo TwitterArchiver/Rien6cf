@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055121156009816191",
+    "created_at": "2026-05-15T03:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055121815958331552"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055121815958331552",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055121156009816191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次呢，有人让我出示身分証明我就掏出来一个障害者手帐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055121156009816191",
+        "created_at": "2026-05-15T03:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055121815958331552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055121815958331552",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055121156009816191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次呢，有人让我出示身分証明我就掏出来一个障害者手帐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055121156009816191",
+        "created_at": "2026-05-15T03:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055121156009816191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055121156009816191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特么都我懵逼了你夫妻俩插队可以等我说完话插队吗？然后呢还拉着你丈夫顔確認最后又和我说中文，妈的，我在这里没有人叼我我一个人我妈也不想管我了我爸更是没管过我，我就一个傻子弱智自闭症儿童不要欺负我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 3967,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2051
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065757342080303485",
+    "created_at": "2026-06-13T11:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065757342080303485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065704523629469696",
+          "start": 3,
+          "username": "gyaon09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065757342080303485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065750392282210343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gyaon09: 陽キャ女子小学生以上に怖いもん今ない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2065757342080303485",
+        "created_at": "2026-06-13T11:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065757342080303485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065704523629469696",
+              "start": 3,
+              "username": "gyaon09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065757342080303485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065750392282210343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gyaon09: 陽キャ女子小学生以上に怖いもん今ない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065704523629469696",
+        "conversation_id": "2065750392282210343",
+        "created_at": "2026-06-13T10:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065750392282210343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065750392282210343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "陽キャ女子小学生以上に怖いもん今ない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5629,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2573
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T07:56:53.000Z",
+        "description": "転生垢\n顔面体型ドカコンプ",
+        "id": "2065704523629469696",
+        "name": "ねる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065705612647051264/ShsBJrUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 25,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "username": "gyaon09",
+        "verified": false
+      }
+    ]
+  }
+}

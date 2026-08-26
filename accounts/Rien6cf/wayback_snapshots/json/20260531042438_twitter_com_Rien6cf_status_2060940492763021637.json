@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058630214943724028",
+    "created_at": "2026-05-31T04:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060940492763021637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023729444276629505",
+          "start": 0,
+          "username": "konuno_kuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060940492763021637",
+    "in_reply_to_user_id": "2023729444276629505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058630214943724028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konuno_kuzu ナツキちゃん発見...‼️絵うますぎる🥲🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2058630211290497024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJG5RSPbgAAClOS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058630214943724028",
+        "created_at": "2026-05-31T04:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060940492763021637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023729444276629505",
+              "start": 0,
+              "username": "konuno_kuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060940492763021637",
+        "in_reply_to_user_id": "2023729444276629505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058630214943724028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konuno_kuzu ナツキちゃん発見...‼️絵うますぎる🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058630211290497024"
+          ]
+        },
+        "author_id": "2023729444276629505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2058630214943724028",
+        "created_at": "2026-05-24T19:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058630214943724028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MHo2G49cP",
+              "end": 43,
+              "expanded_url": "https://x.com/konuno_kuzu/status/2058630214943724028/photo/1",
+              "media_key": "3_2058630211290497024",
+              "start": 20,
+              "url": "https://t.co/3MHo2G49cP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058630214943724028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5597,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "もったいないけどコスメで色塗るの楽しい https://t.co/3MHo2G49cP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 180,
+          "like_count": 4784,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2298
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T12:01:56.000Z",
+        "description": "お荷物ガイジ︎ ︎ ︎ ︎🗝@konuno_sub  避難@konuno_hinan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "konuno_sub"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "konuno_hinan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/qvg8kxcocpbvrf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/qvg8kxcocpbvrfo?t=7PGb0B&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/n9YIYdh4gz"
+              }
+            ]
+          }
+        },
+        "id": "2023729444276629505",
+        "name": "こぬの",
+        "pinned_tweet_id": "2043254096040444346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024031728999059456/xH_qAVoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 154,
+          "like_count": 9980,
+          "listed_count": 4,
+          "media_count": 136,
+          "tweet_count": 2514
+        },
+        "url": "https://t.co/n9YIYdh4gz",
+        "username": "konuno_kuzu",
+        "verified": false
+      }
+    ]
+  }
+}

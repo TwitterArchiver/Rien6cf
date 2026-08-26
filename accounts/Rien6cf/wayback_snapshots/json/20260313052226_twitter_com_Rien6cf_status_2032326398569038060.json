@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032326398569038060",
+    "created_at": "2026-03-13T05:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032326398569038060"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "1106×ウェブポン",
+          "probability": 0.1685,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "716808609783386113",
+          "start": 3,
+          "username": "zennn15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032326398569038060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032292735412289576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @zennn15: 『1106×ウェブポン』が3/19(木)12:00〜発売決定！！ウェブポン限定グッズがハズレなしで必ずどれか当たる！11日間限定販売なのでお見逃しなく！複製サイン入りTシャツが当たるフォロー&amp;リポストキャンペーンも実施中！！詳細はコチラ→https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032292726679748609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQnd6VbQAER8CX.jpg",
+        "width": 1448
+      },
+      {
+        "height": 917,
+        "media_key": "3_2032292726604251145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQnd6DbQAktroa.jpg",
+        "width": 1250
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032292726591668233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQnd6AbQAkjdg1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032326398569038060",
+        "created_at": "2026-03-13T05:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032326398569038060"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "1106×ウェブポン",
+              "probability": 0.1685,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "716808609783386113",
+              "start": 3,
+              "username": "zennn15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032326398569038060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032292735412289576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @zennn15: 『1106×ウェブポン』が3/19(木)12:00〜発売決定！！ウェブポン限定グッズがハズレなしで必ずどれか当たる！11日間限定販売なのでお見逃しなく！複製サイン入りTシャツが当たるフォロー&amp;リポストキャンペーンも実施中！！詳細はコチラ→https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032292726679748609",
+            "3_2032292726604251145",
+            "3_2032292726591668233"
+          ]
+        },
+        "author_id": "716808609783386113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032292735412289576",
+        "created_at": "2026-03-13T03:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032292735412289576"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "1106×ウェブポン",
+              "probability": 0.344,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 147,
+              "tag": "1106ウェブポン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 166,
+              "id": "1142686465257644032",
+              "start": 158,
+              "username": "1106_h_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ウェブポンは完全オリジナルグッズだけのカプセルプライズ！企画・製造・販売まで手掛けているから、ここにしかないレア商品をお届け！コラボ作品も要チェック！",
+              "display_url": "webpon.net/shop/HTR/plan/…",
+              "end": 146,
+              "expanded_url": "https://webpon.net/shop/HTR/plan/HTR",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2032292786389807104/oXBWRzjx?format=jpg&name=orig",
+                  "width": 1100
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032292786389807104/oXBWRzjx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 123,
+              "status": 200,
+              "title": "1106×ウェブポン",
+              "unwound_url": "https://webpon.net/shop/HTR/plan/HTR",
+              "url": "https://t.co/jiAPPshKSb"
+            },
+            {
+              "display_url": "pic.x.com/5MwuRcNwWw",
+              "end": 190,
+              "expanded_url": "https://x.com/zennn15/status/2032292735412289576/photo/1",
+              "media_key": "3_2032292726679748609",
+              "start": 167,
+              "url": "https://t.co/5MwuRcNwWw"
+            },
+            {
+              "display_url": "pic.x.com/5MwuRcNwWw",
+              "end": 190,
+              "expanded_url": "https://x.com/zennn15/status/2032292735412289576/photo/1",
+              "media_key": "3_2032292726604251145",
+              "start": 167,
+              "url": "https://t.co/5MwuRcNwWw"
+            },
+            {
+              "display_url": "pic.x.com/5MwuRcNwWw",
+              "end": 190,
+              "expanded_url": "https://x.com/zennn15/status/2032292735412289576/photo/1",
+              "media_key": "3_2032292726591668233",
+              "start": 167,
+              "url": "https://t.co/5MwuRcNwWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032292735412289576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1586,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "『1106×ウェブポン』が3/19(木)12:00〜発売決定！！ウェブポン限定グッズがハズレなしで必ずどれか当たる！11日間限定販売なのでお見逃しなく！複製サイン入りTシャツが当たるフォロー&amp;リポストキャンペーンも実施中！！詳細はコチラ→https://t.co/jiAPPshKSb #1106ウェブポン @1106_h_ https://t.co/5MwuRcNwWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2032136717285958050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 108,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1023
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-04T02:04:25.000Z",
+        "description": "スマホ・PCから購入できるハズレなしの限定グッズ販売サイト『ウェブポン』の公式です。最新リリース情報をお見逃しなく！！ #ウェブポン ※お問合せはサイト内のお問合せフォームよりお願いします。DM、リプではお答えできません。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "ウェブポン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "webpon.net",
+                "end": 23,
+                "expanded_url": "https://webpon.net",
+                "start": 0,
+                "url": "https://t.co/B6MqjjQCqU"
+              }
+            ]
+          }
+        },
+        "id": "716808609783386113",
+        "name": "ウェブポン公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/757749967058370561/_a8QiSE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38729,
+          "following_count": 1047,
+          "like_count": 187778,
+          "listed_count": 75,
+          "media_count": 6191,
+          "tweet_count": 41215
+        },
+        "url": "https://t.co/B6MqjjQCqU",
+        "username": "zennn15",
+        "verified": true
+      }
+    ]
+  }
+}

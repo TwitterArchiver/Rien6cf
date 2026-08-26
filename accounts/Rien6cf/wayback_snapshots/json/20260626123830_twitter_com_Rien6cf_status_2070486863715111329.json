@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070324967267606528"
+      ],
+      "media_source_tweet_id": [
+        "2070326177491988564"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2070486863715111329",
+    "created_at": "2026-06-26T12:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070486863715111329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "226760966",
+          "start": 3,
+          "username": "TOWER_Kyoto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ok4Ixm1Qxs",
+          "end": 92,
+          "expanded_url": "https://x.com/TOWER_Kyoto/status/2070326177491988564/photo/1",
+          "media_key": "3_2070324967267606528",
+          "start": 69,
+          "url": "https://t.co/Ok4Ixm1Qxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070486863715111329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 599
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070326177491988564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOWER_Kyoto: おはようございます！\nタワーレコード京都店、本日もオープンいたしました。\nご来店お待ちしております☺️ https://t.co/Ok4Ixm1Qxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2070324967267606528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtFlrOboAAzQor.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070324967267606528"
+          ],
+          "media_source_tweet_id": [
+            "2070326177491988564"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2070486863715111329",
+        "created_at": "2026-06-26T12:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070486863715111329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "226760966",
+              "start": 3,
+              "username": "TOWER_Kyoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ok4Ixm1Qxs",
+              "end": 92,
+              "expanded_url": "https://x.com/TOWER_Kyoto/status/2070326177491988564/photo/1",
+              "media_key": "3_2070324967267606528",
+              "start": 69,
+              "url": "https://t.co/Ok4Ixm1Qxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070486863715111329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 599
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070326177491988564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOWER_Kyoto: おはようございます！\nタワーレコード京都店、本日もオープンいたしました。\nご来店お待ちしております☺️ https://t.co/Ok4Ixm1Qxs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070324967267606528"
+          ]
+        },
+        "author_id": "226760966",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2070326177491988564",
+        "created_at": "2026-06-26T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070326177491988564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ok4Ixm1Qxs",
+              "end": 75,
+              "expanded_url": "https://x.com/TOWER_Kyoto/status/2070326177491988564/photo/1",
+              "media_key": "3_2070324967267606528",
+              "start": 52,
+              "url": "https://t.co/Ok4Ixm1Qxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070326177491988564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 1001559,
+          "like_count": 6861,
+          "quote_count": 307,
+          "reply_count": 15,
+          "retweet_count": 603
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます！\nタワーレコード京都店、本日もオープンいたしました。\nご来店お待ちしております☺️ https://t.co/Ok4Ixm1Qxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 6306,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2705
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-15T00:44:06.000Z",
+        "description": "四条河原町交差点すぐの河原町OPA9階にあるタワーレコード京都店です。\n営業時間👉open11:00～close21:00\n最寄り駅👉阪急京都本線/京都河原町駅(HK-86)、京阪本線/祇園四条駅(KH-39)\nInstagram👉https://t.co/RKGPLEvU5x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tower_kyoto/",
+                "end": 139,
+                "expanded_url": "https://www.instagram.com/tower_kyoto/",
+                "start": 116,
+                "url": "https://t.co/RKGPLEvU5x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tower.jp/store/Kyoto",
+                "end": 23,
+                "expanded_url": "http://tower.jp/store/Kyoto",
+                "start": 0,
+                "url": "https://t.co/27xtd7OUC8"
+              }
+            ]
+          }
+        },
+        "id": "226760966",
+        "location": "京都府京都市中京区河原町通四条上る河原町OPA 9F",
+        "name": "タワーレコード京都店",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575287439572156419/B09KB7Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27321,
+          "following_count": 17320,
+          "like_count": 998,
+          "listed_count": 318,
+          "media_count": 61229,
+          "tweet_count": 89668
+        },
+        "url": "https://t.co/27xtd7OUC8",
+        "username": "TOWER_Kyoto",
+        "verified": false
+      }
+    ]
+  }
+}

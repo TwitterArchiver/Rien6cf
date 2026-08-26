@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030647132076826624"
+      ],
+      "media_source_tweet_id": [
+        "2030647135075729431"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Advertising",
+          "id": "857878521472888832",
+          "name": "Advertising"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Advertising",
+          "id": "857878521472888832",
+          "name": "Advertising"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272636957504356352",
+          "name": "Business professions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Yokohama",
+          "id": "1009174794506399744",
+          "name": "Yokohama"
+        }
+      }
+    ],
+    "conversation_id": "2031131519155400962",
+    "created_at": "2026-03-09T22:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T23:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031131519155400962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663454849281982466",
+          "start": 3,
+          "username": "KEIO_Riku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XdFnXWHObY",
+          "end": 47,
+          "expanded_url": "https://x.com/KEIO_Riku/status/2030647135075729431/photo/1",
+          "media_key": "3_2030647132076826624",
+          "start": 24,
+          "url": "https://t.co/XdFnXWHObY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031131519155400962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 366
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030647135075729431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KEIO_Riku: やっぱこれだなぁ https://t.co/XdFnXWHObY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030647132076826624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5Ozsua4AAcXpm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030647132076826624"
+          ],
+          "media_source_tweet_id": [
+            "2030647135075729431"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "2031131519155400962",
+        "created_at": "2026-03-09T22:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T23:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031131519155400962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663454849281982466",
+              "start": 3,
+              "username": "KEIO_Riku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdFnXWHObY",
+              "end": 47,
+              "expanded_url": "https://x.com/KEIO_Riku/status/2030647135075729431/photo/1",
+              "media_key": "3_2030647132076826624",
+              "start": 24,
+              "url": "https://t.co/XdFnXWHObY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031131519155400962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 366
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030647135075729431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KEIO_Riku: やっぱこれだなぁ https://t.co/XdFnXWHObY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030647132076826624"
+          ]
+        },
+        "author_id": "1663454849281982466",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "2030647135075729431",
+        "created_at": "2026-03-08T14:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030647135075729431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdFnXWHObY",
+              "end": 32,
+              "expanded_url": "https://x.com/KEIO_Riku/status/2030647135075729431/photo/1",
+              "media_key": "3_2030647132076826624",
+              "start": 9,
+              "url": "https://t.co/XdFnXWHObY"
+            },
+            {
+              "display_url": "x.com/com_train_com/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/com_train_com/status/2030448595997192658",
+              "start": 33,
+              "url": "https://t.co/8J0GRxb1Pf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030647135075729431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 371095,
+          "like_count": 2882,
+          "quote_count": 31,
+          "reply_count": 15,
+          "retweet_count": 366
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030448595997192658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "やっぱこれだなぁ https://t.co/XdFnXWHObY https://t.co/8J0GRxb1Pf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 113,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 915
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T07:58:45.000Z",
+        "description": "🎂8.24(おとめ座) \n京王電鉄一筋16年\n思いやりの精神を大切に\n鉄道模型 @KEIO_Riku_N\n写真 @KEIO_Riku_Photo\n京王ライナー(鍵) @KEIO_Riku_key",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "KEIO_Riku_N"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "KEIO_Riku_Photo"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "KEIO_Riku_key"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@keio_hashimot…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@keio_hashimoto_riku?si=om9t_aI9c9lUrDUP",
+                "start": 0,
+                "url": "https://t.co/ykJB0L496k"
+              }
+            ]
+          }
+        },
+        "id": "1663454849281982466",
+        "location": "京王沿線",
+        "name": "橋本りく@𝙆𝙀𝙄𝙊🚄",
+        "pinned_tweet_id": "1991482106577580140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018278642800033792/cmrKNamy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 7493,
+          "like_count": 149615,
+          "listed_count": 2,
+          "media_count": 1779,
+          "tweet_count": 8835
+        },
+        "url": "https://t.co/ykJB0L496k",
+        "username": "KEIO_Riku",
+        "verified": false
+      }
+    ]
+  }
+}

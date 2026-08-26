@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062916488911056896"
+      ],
+      "media_source_tweet_id": [
+        "2064824928545685559"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065044188723613763",
+    "created_at": "2026-06-11T12:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065044188723613763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1358539444362608641",
+          "start": 3,
+          "username": "mikasagrada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vge1ukCC89",
+          "end": 82,
+          "expanded_url": "https://x.com/mikasagrada/status/2064824928545685559/photo/1",
+          "media_key": "3_2062916488911056896",
+          "start": 59,
+          "url": "https://t.co/vge1ukCC89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065044188723613763",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4007
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064824928545685559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikasagrada: “qualquer coisa me liga”          \n\n  eu: https://t.co/vge1ukCC89"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2062916488911056896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDznerW8AAvqC1.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062916488911056896"
+          ],
+          "media_source_tweet_id": [
+            "2064824928545685559"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065044188723613763",
+        "created_at": "2026-06-11T12:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065044188723613763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1358539444362608641",
+              "start": 3,
+              "username": "mikasagrada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vge1ukCC89",
+              "end": 82,
+              "expanded_url": "https://x.com/mikasagrada/status/2064824928545685559/photo/1",
+              "media_key": "3_2062916488911056896",
+              "start": 59,
+              "url": "https://t.co/vge1ukCC89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065044188723613763",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4007
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064824928545685559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikasagrada: “qualquer coisa me liga”          \n\n  eu: https://t.co/vge1ukCC89"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062916488911056896"
+          ]
+        },
+        "author_id": "1358539444362608641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064824928545685559",
+        "created_at": "2026-06-10T21:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T22:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064824928545685559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vge1ukCC89",
+              "end": 65,
+              "expanded_url": "https://x.com/mikasagrada/status/2064824928545685559/photo/1",
+              "media_key": "3_2062916488911056896",
+              "start": 42,
+              "url": "https://t.co/vge1ukCC89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064824928545685559",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 125823,
+          "like_count": 13308,
+          "quote_count": 66,
+          "reply_count": 16,
+          "retweet_count": 4007
+        },
+        "reply_settings": "everyone",
+        "text": "“qualquer coisa me liga”          \n\n  eu: https://t.co/vge1ukCC89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 186,
+          "like_count": 5525,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2553
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-07T22:13:49.000Z",
+        "description": "Tenho uma legião de divas | segue ae divas | contato dm 📩",
+        "id": "1358539444362608641",
+        "location": "Beverly Hills, CA",
+        "name": "mika",
+        "pinned_tweet_id": "2062147284964401351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034098419405574144/zB7RtS9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75883,
+          "following_count": 6,
+          "like_count": 41835,
+          "listed_count": 38,
+          "media_count": 1011,
+          "tweet_count": 3143
+        },
+        "username": "mikasagrada",
+        "verified": false
+      }
+    ]
+  }
+}

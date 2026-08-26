@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055636031341543424"
+      ],
+      "media_source_tweet_id": [
+        "2055636039482654726"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055805563439927468",
+    "created_at": "2026-05-17T00:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055805563439927468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1046501992091144192",
+          "start": 3,
+          "username": "110yc3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DojWvlSJti",
+          "end": 42,
+          "expanded_url": "https://x.com/110yc3/status/2055636039482654726/photo/1",
+          "media_key": "3_2055636031341543424",
+          "start": 19,
+          "url": "https://t.co/DojWvlSJti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055805563439927468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055636039482654726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @110yc3: がんばるキラ https://t.co/DojWvlSJti"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055636031341543424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcWFEubQAAg-BH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055636031341543424"
+          ],
+          "media_source_tweet_id": [
+            "2055636039482654726"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055805563439927468",
+        "created_at": "2026-05-17T00:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055805563439927468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1046501992091144192",
+              "start": 3,
+              "username": "110yc3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DojWvlSJti",
+              "end": 42,
+              "expanded_url": "https://x.com/110yc3/status/2055636039482654726/photo/1",
+              "media_key": "3_2055636031341543424",
+              "start": 19,
+              "url": "https://t.co/DojWvlSJti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055805563439927468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055636039482654726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @110yc3: がんばるキラ https://t.co/DojWvlSJti"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055636031341543424"
+          ]
+        },
+        "author_id": "1046501992091144192",
+        "conversation_id": "2055636039482654726",
+        "created_at": "2026-05-16T13:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055636039482654726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DojWvlSJti",
+              "end": 30,
+              "expanded_url": "https://x.com/110yc3/status/2055636039482654726/photo/1",
+              "media_key": "3_2055636031341543424",
+              "start": 7,
+              "url": "https://t.co/DojWvlSJti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055636039482654726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3699,
+          "like_count": 446,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "other",
+        "text": "がんばるキラ https://t.co/DojWvlSJti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 4052,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2076
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-30T20:48:12.000Z",
+        "description": "🌲音ゲー垢になりそうなラッコ垢。弐寺:九段/DJMAX:6B/Instagram→adeliae_pyg/icon:@firunsith",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "firunsith"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/adeliae_pyg/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/adeliae_pyg/",
+                "start": 0,
+                "url": "https://t.co/8jx1mb4wNx"
+              }
+            ]
+          }
+        },
+        "id": "1046501992091144192",
+        "name": "𝕃𝕃𝕆𝕐ℂ𝔼",
+        "pinned_tweet_id": "1807406712238063988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899713562966216705/5BM_sOjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 518,
+          "like_count": 4543,
+          "listed_count": 36,
+          "media_count": 11378,
+          "tweet_count": 49802
+        },
+        "url": "https://t.co/8jx1mb4wNx",
+        "username": "110yc3",
+        "verified": true
+      }
+    ]
+  }
+}

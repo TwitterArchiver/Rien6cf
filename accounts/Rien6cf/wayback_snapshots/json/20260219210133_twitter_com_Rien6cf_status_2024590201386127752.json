@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024590195052716032"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2024590201386127752",
+    "created_at": "2026-02-19T21:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T22:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024590201386127752"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6kwvSq0rj",
+          "end": 45,
+          "expanded_url": "https://x.com/Rien6cf/status/2024590201386127752/photo/1",
+          "media_key": "3_2024590195052716032",
+          "start": 22,
+          "url": "https://t.co/F6kwvSq0rj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024590201386127752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ずっとずっといい子にしてるよ\n#自撮り界隈 https://t.co/F6kwvSq0rj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2024590195052716032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBjKDj_bIAAd8yk.jpg",
+        "width": 1318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024590195052716032"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2024590201386127752",
+        "created_at": "2026-02-19T21:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T22:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024590201386127752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6kwvSq0rj",
+              "end": 45,
+              "expanded_url": "https://x.com/Rien6cf/status/2024590201386127752/photo/1",
+              "media_key": "3_2024590195052716032",
+              "start": 22,
+              "url": "https://t.co/F6kwvSq0rj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024590201386127752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ずっとずっといい子にしてるよ\n#自撮り界隈 https://t.co/F6kwvSq0rj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 70,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 503
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071210254097092611"
+      ],
+      "media_source_tweet_id": [
+        "2071210324943106102"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2071416190946406621",
+    "created_at": "2026-06-29T02:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071416190946406621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "81653929",
+          "start": 3,
+          "username": "nekokamasu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m8YgXjuQIs",
+          "end": 60,
+          "expanded_url": "https://x.com/nekokamasu/status/2071210324943106102/video/1",
+          "media_key": "13_2071210254097092611",
+          "start": 37,
+          "url": "https://t.co/m8YgXjuQIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071416190946406621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071210324943106102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekokamasu: 野良猫歴10年、家猫転職翌日のからあげ猫 https://t.co/m8YgXjuQIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19643,
+        "height": 720,
+        "media_key": "13_2071210254097092611",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071210254097092611/img/ReDz3DEJ5XHF5x96.jpg",
+        "public_metrics": {
+          "view_count": 529581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071210254097092611/vid/avc1/480x270/a-fYR2uwU6WV18a8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071210254097092611/vid/avc1/640x360/v_3LILbSBbgc13Re.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071210254097092611/vid/avc1/1280x720/463PNoebB-iCMOiM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071210254097092611/pl/8vSGFlGzFoM-J_-H.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071210254097092611"
+          ],
+          "media_source_tweet_id": [
+            "2071210324943106102"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2071416190946406621",
+        "created_at": "2026-06-29T02:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071416190946406621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "81653929",
+              "start": 3,
+              "username": "nekokamasu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8YgXjuQIs",
+              "end": 60,
+              "expanded_url": "https://x.com/nekokamasu/status/2071210324943106102/video/1",
+              "media_key": "13_2071210254097092611",
+              "start": 37,
+              "url": "https://t.co/m8YgXjuQIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071416190946406621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071210324943106102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekokamasu: 野良猫歴10年、家猫転職翌日のからあげ猫 https://t.co/m8YgXjuQIs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071210254097092611"
+          ]
+        },
+        "author_id": "81653929",
+        "conversation_id": "2071210324943106102",
+        "created_at": "2026-06-28T12:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071210324943106102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8YgXjuQIs",
+              "end": 44,
+              "expanded_url": "https://x.com/nekokamasu/status/2071210324943106102/video/1",
+              "media_key": "13_2071210254097092611",
+              "start": 21,
+              "url": "https://t.co/m8YgXjuQIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071210324943106102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1995,
+          "impression_count": 1670252,
+          "like_count": 34518,
+          "quote_count": 106,
+          "reply_count": 62,
+          "retweet_count": 2320
+        },
+        "reply_settings": "everyone",
+        "text": "野良猫歴10年、家猫転職翌日のからあげ猫 https://t.co/m8YgXjuQIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 6499,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2722
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-11T18:26:46.000Z",
+        "description": "翡文、琥麦、紗崙、陸珸という保護猫たちと暮らしたり、一時保護預かりや里親募集等をしてます（ご相談はDMかメール迄）。リプ返せずすいません。無断転載はご遠慮下さい。【猫用ほしいものリスト】(お贈り後DMで品目をご連絡下さい。御礼動画進呈します)→ https://t.co/vsqEqnmZb6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/g6Jcj6u",
+                "end": 146,
+                "expanded_url": "http://amzn.asia/g6Jcj6u",
+                "start": 123,
+                "url": "https://t.co/vsqEqnmZb6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekokamasu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekokamasu",
+                "start": 0,
+                "url": "https://t.co/KWpLtTpLZO"
+              }
+            ]
+          }
+        },
+        "id": "81653929",
+        "location": "チキュー",
+        "name": "ねこかます",
+        "pinned_tweet_id": "2071203227467677758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642181402061070339/EP9rMZ8a_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76871,
+          "following_count": 45,
+          "like_count": 70642,
+          "listed_count": 1450,
+          "media_count": 29992,
+          "tweet_count": 67386
+        },
+        "url": "https://t.co/KWpLtTpLZO",
+        "username": "nekokamasu",
+        "verified": true
+      }
+    ]
+  }
+}

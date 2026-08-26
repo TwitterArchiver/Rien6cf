@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030525036030013440",
+        "3_2030525036046741504"
+      ],
+      "media_source_tweet_id": [
+        "2030539015493935525",
+        "2030539015493935525"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030648516427821533",
+    "created_at": "2026-03-08T14:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030648516427821533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028398012733734912",
+          "start": 3,
+          "username": "s0c0wX8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uPtwVanwbU",
+          "end": 51,
+          "expanded_url": "https://x.com/s0c0wX8/status/2030539015493935525/photo/1",
+          "media_key": "3_2030525036030013440",
+          "start": 28,
+          "url": "https://t.co/uPtwVanwbU"
+        },
+        {
+          "display_url": "pic.x.com/uPtwVanwbU",
+          "end": 51,
+          "expanded_url": "https://x.com/s0c0wX8/status/2030539015493935525/photo/1",
+          "media_key": "3_2030525036046741504",
+          "start": 28,
+          "url": "https://t.co/uPtwVanwbU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030648516427821533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030539015493935525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s0c0wX8: 500匹って頼む人いるのかな https://t.co/uPtwVanwbU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2030525036030013440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3fwxgbMAAIbRN.jpg",
+        "width": 750
+      },
+      {
+        "height": 985,
+        "media_key": "3_2030525036046741504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3fwxkacAAdWye.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030525036030013440",
+            "3_2030525036046741504"
+          ],
+          "media_source_tweet_id": [
+            "2030539015493935525",
+            "2030539015493935525"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030648516427821533",
+        "created_at": "2026-03-08T14:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030648516427821533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028398012733734912",
+              "start": 3,
+              "username": "s0c0wX8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPtwVanwbU",
+              "end": 51,
+              "expanded_url": "https://x.com/s0c0wX8/status/2030539015493935525/photo/1",
+              "media_key": "3_2030525036030013440",
+              "start": 28,
+              "url": "https://t.co/uPtwVanwbU"
+            },
+            {
+              "display_url": "pic.x.com/uPtwVanwbU",
+              "end": 51,
+              "expanded_url": "https://x.com/s0c0wX8/status/2030539015493935525/photo/1",
+              "media_key": "3_2030525036046741504",
+              "start": 28,
+              "url": "https://t.co/uPtwVanwbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030648516427821533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030539015493935525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s0c0wX8: 500匹って頼む人いるのかな https://t.co/uPtwVanwbU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030525036030013440",
+            "3_2030525036046741504"
+          ]
+        },
+        "author_id": "2028398012733734912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030539015493935525",
+        "created_at": "2026-03-08T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030539015493935525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPtwVanwbU",
+              "end": 38,
+              "expanded_url": "https://x.com/s0c0wX8/status/2030539015493935525/photo/1",
+              "media_key": "3_2030525036030013440",
+              "start": 15,
+              "url": "https://t.co/uPtwVanwbU"
+            },
+            {
+              "display_url": "pic.x.com/uPtwVanwbU",
+              "end": 38,
+              "expanded_url": "https://x.com/s0c0wX8/status/2030539015493935525/photo/1",
+              "media_key": "3_2030525036046741504",
+              "start": 15,
+              "url": "https://t.co/uPtwVanwbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030539015493935525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 954,
+          "impression_count": 2201848,
+          "like_count": 29711,
+          "quote_count": 288,
+          "reply_count": 116,
+          "retweet_count": 1176
+        },
+        "reply_settings": "everyone",
+        "text": "500匹って頼む人いるのかな https://t.co/uPtwVanwbU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 102,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 849
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T09:12:35.000Z",
+        "description": "",
+        "id": "2028398012733734912",
+        "name": "話題の爆笑動画",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 23
+        },
+        "username": "s0c0wX8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063265043912032256"
+      ],
+      "media_source_tweet_id": [
+        "2063265054397804565"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063596820174180677",
+    "created_at": "2026-06-07T12:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063596820174180677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "807822757534658560",
+          "start": 3,
+          "username": "0u7m0i8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vSLRls1BfB",
+          "end": 44,
+          "expanded_url": "https://x.com/0u7m0i8/status/2063265054397804565/photo/1",
+          "media_key": "3_2063265043912032256",
+          "start": 21,
+          "url": "https://t.co/vSLRls1BfB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063596820174180677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063265054397804565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0u7m0i8: 幸せでいて…… https://t.co/vSLRls1BfB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063265043912032256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIwoDPbgAAqj3b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063265043912032256"
+          ],
+          "media_source_tweet_id": [
+            "2063265054397804565"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063596820174180677",
+        "created_at": "2026-06-07T12:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063596820174180677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "807822757534658560",
+              "start": 3,
+              "username": "0u7m0i8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSLRls1BfB",
+              "end": 44,
+              "expanded_url": "https://x.com/0u7m0i8/status/2063265054397804565/photo/1",
+              "media_key": "3_2063265043912032256",
+              "start": 21,
+              "url": "https://t.co/vSLRls1BfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063596820174180677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063265054397804565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0u7m0i8: 幸せでいて…… https://t.co/vSLRls1BfB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063265043912032256"
+          ]
+        },
+        "author_id": "807822757534658560",
+        "conversation_id": "2063265054397804565",
+        "created_at": "2026-06-06T14:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063265054397804565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSLRls1BfB",
+              "end": 31,
+              "expanded_url": "https://x.com/0u7m0i8/status/2063265054397804565/photo/1",
+              "media_key": "3_2063265043912032256",
+              "start": 8,
+              "url": "https://t.co/vSLRls1BfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063265054397804565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3894,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "幸せでいて…… https://t.co/vSLRls1BfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 185,
+          "like_count": 5204,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2455
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-11T05:42:08.000Z",
+        "description": "好きなものが好き。ヨルシカを推している🍋。たまにアニメとゲーム🙂後書きZENSEⅣ",
+        "id": "807822757534658560",
+        "name": "うみ",
+        "pinned_tweet_id": "1939781964460126248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450484648807653382/z7uMDMkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 22,
+          "like_count": 2578,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 2806
+        },
+        "username": "0u7m0i8",
+        "verified": false
+      }
+    ]
+  }
+}

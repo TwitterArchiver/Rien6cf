@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064308422292721749",
+    "created_at": "2026-06-09T11:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064308422292721749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1434340288152047618",
+          "start": 3,
+          "username": "eatslayl0ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064308422292721749",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064186470097883608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @eatslayl0ve: 사실 엄청 고민햇는데 \n이번 6월 말에 유학가기로 해가지고.. \n접속 좀 뜸할수도 있을 것 같아요 \n응원해주시면 ㄱㅅ하겟습니다 \n유명한 나라라 다들 잘 아실 것 같은데 하늘나라에요"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064308422292721749",
+        "created_at": "2026-06-09T11:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064308422292721749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1434340288152047618",
+              "start": 3,
+              "username": "eatslayl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064308422292721749",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064186470097883608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @eatslayl0ve: 사실 엄청 고민햇는데 \n이번 6월 말에 유학가기로 해가지고.. \n접속 좀 뜸할수도 있을 것 같아요 \n응원해주시면 ㄱㅅ하겟습니다 \n유명한 나라라 다들 잘 아실 것 같은데 하늘나라에요"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434340288152047618",
+        "conversation_id": "2064186470097883608",
+        "created_at": "2026-06-09T03:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064186470097883608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064186470097883608",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 493,
+          "impression_count": 414655,
+          "like_count": 7573,
+          "quote_count": 109,
+          "reply_count": 6,
+          "retweet_count": 4361
+        },
+        "reply_settings": "following",
+        "text": "사실 엄청 고민햇는데 \n이번 6월 말에 유학가기로 해가지고.. \n접속 좀 뜸할수도 있을 것 같아요 \n응원해주시면 ㄱㅅ하겟습니다 \n유명한 나라라 다들 잘 아실 것 같은데 하늘나라에요"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 185,
+          "like_count": 5352,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2497
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T02:19:17.000Z",
+        "description": "인생을 너무 심각하게 받아들이지 마세요 어차피 아무도 살아서 못 나갑니다",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Youdieh",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/Youdieh",
+                "start": 0,
+                "url": "https://t.co/HXMuEFBlZk"
+              }
+            ]
+          }
+        },
+        "id": "1434340288152047618",
+        "location": "대학생일상공부?계",
+        "name": "유다희",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015217342473793536/sq21PY5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 75,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/HXMuEFBlZk",
+        "username": "eatslayl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

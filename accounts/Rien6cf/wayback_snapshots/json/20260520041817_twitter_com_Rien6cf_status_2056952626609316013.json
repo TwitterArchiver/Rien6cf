@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056952626609316013",
+    "created_at": "2026-05-20T04:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056952626609316013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyton630/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hyton630/status/2056619871899910224",
+          "start": 8,
+          "url": "https://t.co/a085Hi27cN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056952626609316013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056619871899910224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好难受上课憋笑 https://t.co/a085Hi27cN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056952626609316013",
+        "created_at": "2026-05-20T04:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056952626609316013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyton630/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hyton630/status/2056619871899910224",
+              "start": 8,
+              "url": "https://t.co/a085Hi27cN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056952626609316013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056619871899910224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难受上课憋笑 https://t.co/a085Hi27cN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726108750350880768",
+        "conversation_id": "2056619871899910224",
+        "created_at": "2026-05-19T06:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056619871899910224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056619871899910224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 57880,
+          "like_count": 690,
+          "quote_count": 7,
+          "reply_count": 129,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次听到我朋友说他要考坤算坤二坤的时候我笑的在床上滚了二十圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 170,
+          "like_count": 4293,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2154
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T05:23:03.000Z",
+        "description": "普通人一个",
+        "id": "1726108750350880768",
+        "location": "南京",
+        "name": "Hyton",
+        "pinned_tweet_id": "2053021418766688592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053024277268733952/loOyu9Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3560,
+          "following_count": 987,
+          "like_count": 2200,
+          "listed_count": 6,
+          "media_count": 95,
+          "tweet_count": 1662
+        },
+        "username": "Hyton630",
+        "verified": false
+      }
+    ]
+  }
+}

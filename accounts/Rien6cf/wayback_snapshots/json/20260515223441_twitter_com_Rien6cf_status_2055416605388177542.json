@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055201871984533504"
+      ],
+      "media_source_tweet_id": [
+        "2055201884307439956"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055416605388177542",
+    "created_at": "2026-05-15T22:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T23:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055416605388177542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1940713756184752128",
+          "start": 3,
+          "username": "Yuinimakasete"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4TGwsL94L1",
+          "end": 68,
+          "expanded_url": "https://x.com/Yuinimakasete/status/2055201884307439956/photo/1",
+          "media_key": "3_2055201871984533504",
+          "start": 45,
+          "url": "https://t.co/4TGwsL94L1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055416605388177542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055201884307439956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuinimakasete: 平成ギャルJKと言えば・・・・そう！腕まくり！！！ https://t.co/4TGwsL94L1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2055201871984533504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWLNrFbIAAS1FI.jpg",
+        "width": 2274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055201871984533504"
+          ],
+          "media_source_tweet_id": [
+            "2055201884307439956"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055416605388177542",
+        "created_at": "2026-05-15T22:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055416605388177542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1940713756184752128",
+              "start": 3,
+              "username": "Yuinimakasete"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TGwsL94L1",
+              "end": 68,
+              "expanded_url": "https://x.com/Yuinimakasete/status/2055201884307439956/photo/1",
+              "media_key": "3_2055201871984533504",
+              "start": 45,
+              "url": "https://t.co/4TGwsL94L1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055416605388177542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055201884307439956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuinimakasete: 平成ギャルJKと言えば・・・・そう！腕まくり！！！ https://t.co/4TGwsL94L1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055201871984533504"
+          ]
+        },
+        "author_id": "1940713756184752128",
+        "conversation_id": "2055201884307439956",
+        "created_at": "2026-05-15T08:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055201884307439956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TGwsL94L1",
+              "end": 49,
+              "expanded_url": "https://x.com/Yuinimakasete/status/2055201884307439956/photo/1",
+              "media_key": "3_2055201871984533504",
+              "start": 26,
+              "url": "https://t.co/4TGwsL94L1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055201884307439956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 96644,
+          "like_count": 3101,
+          "quote_count": 46,
+          "reply_count": 6,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "平成ギャルJKと言えば・・・・そう！腕まくり！！！ https://t.co/4TGwsL94L1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 3975,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2058
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T10:06:44.000Z",
+        "description": "すべては今日、始まる。そう思って生きてみない？ 新しい日の空気を胸いっぱいに吸い込んで。 一歩でいい。完璧じゃなくていい。 小さな前進が景色を変える。 動き出した瞬間、世界はちゃんとあなたに応えてくれる。 MAISONDARC.とEXTENSION CLOTHINGのママです🔗 @Yuinodeban",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "Yuinodeban"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "extension.booth.pm",
+                "end": 23,
+                "expanded_url": "https://extension.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/lCFxf2MHWV"
+              }
+            ]
+          }
+        },
+        "id": "1940713756184752128",
+        "name": "† アルティメットゆい †🪽👼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940715378885132288/Lb5vdkcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13908,
+          "following_count": 468,
+          "like_count": 2670,
+          "listed_count": 43,
+          "media_count": 215,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/lCFxf2MHWV",
+        "username": "Yuinimakasete",
+        "verified": true
+      }
+    ]
+  }
+}

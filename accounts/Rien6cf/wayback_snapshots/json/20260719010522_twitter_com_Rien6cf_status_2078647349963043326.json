@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078485124858163201"
+      ],
+      "media_source_tweet_id": [
+        "2078485129316721106"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2078647349963043326",
+    "created_at": "2026-07-19T01:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078647349963043326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793093397043163136",
+          "start": 3,
+          "username": "YU_TAI2414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbujmQt1II",
+          "end": 45,
+          "expanded_url": "https://x.com/YU_TAI2414/status/2078485129316721106/photo/1",
+          "media_key": "3_2078485124858163201",
+          "start": 22,
+          "url": "https://t.co/LbujmQt1II"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078647349963043326",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078485129316721106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YU_TAI2414: 理想と現実 https://t.co/LbujmQt1II"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078485124858163201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhDNXIasAEleIJ.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078485124858163201"
+          ]
+        },
+        "author_id": "1793093397043163136",
+        "conversation_id": "2078485129316721106",
+        "created_at": "2026-07-18T14:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078485129316721106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbujmQt1II",
+              "end": 29,
+              "expanded_url": "https://x.com/YU_TAI2414/status/2078485129316721106/photo/1",
+              "media_key": "3_2078485124858163201",
+              "start": 6,
+              "url": "https://t.co/LbujmQt1II"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078485129316721106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 27481,
+          "like_count": 2382,
+          "quote_count": 20,
+          "reply_count": 34,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "理想と現実 https://t.co/LbujmQt1II"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078485124858163201"
+          ],
+          "media_source_tweet_id": [
+            "2078485129316721106"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2078647349963043326",
+        "created_at": "2026-07-19T01:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078647349963043326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793093397043163136",
+              "start": 3,
+              "username": "YU_TAI2414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbujmQt1II",
+              "end": 45,
+              "expanded_url": "https://x.com/YU_TAI2414/status/2078485129316721106/photo/1",
+              "media_key": "3_2078485124858163201",
+              "start": 22,
+              "url": "https://t.co/LbujmQt1II"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078647349963043326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078485129316721106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YU_TAI2414: 理想と現実 https://t.co/LbujmQt1II"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 198,
+          "like_count": 8090,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2971
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T01:36:47.000Z",
+        "description": "いろいろ使ってAIイラスト作ってます。一コマで何気ない日常のイラストを作るのが好きです♪イラストの無断使用はお控えくださいませ。",
+        "id": "1793093397043163136",
+        "name": "ゆたい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956947767697547264/YAbBVBhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82095,
+          "following_count": 517,
+          "like_count": 23621,
+          "listed_count": 443,
+          "media_count": 1870,
+          "tweet_count": 23855
+        },
+        "url": "",
+        "username": "YU_TAI2414",
+        "verified": true
+      }
+    ]
+  }
+}

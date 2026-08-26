@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2039175504608305538",
+    "created_at": "2026-04-01T02:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039175504608305538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rien6cf/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rien6cf/status/2038966799803555872",
+          "start": 11,
+          "url": "https://t.co/1nAx4OnfRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039175504608305538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038966799803555872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "操，躁郁症别折磨我了 https://t.co/1nAx4OnfRM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2039175504608305538",
+        "created_at": "2026-04-01T02:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039175504608305538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rien6cf/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rien6cf/status/2038966799803555872",
+              "start": 11,
+              "url": "https://t.co/1nAx4OnfRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039175504608305538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038966799803555872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操，躁郁症别折磨我了 https://t.co/1nAx4OnfRM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2038966799803555872",
+        "created_at": "2026-03-31T13:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038966799803555872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038966799803555872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想开了好多事我感觉我以后会好起来的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしい\nCN/JP/EN\n顺女//LGBTQ友好//互fo请戳//直fo是喜欢你\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 125,
+          "like_count": 2126,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1363
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

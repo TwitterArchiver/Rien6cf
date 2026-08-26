@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2046881935000236070",
+    "created_at": "2026-04-22T23:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047097500017017161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566837825345298432",
+          "start": 0,
+          "username": "SSJGoebbels2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047097500017017161",
+    "in_reply_to_user_id": "1566837825345298432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046881935000236070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SSJGoebbels2023 中央林間行き、十両編成で参ります。黄色点字ブロックまでお下がりください(かなw)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50825,
+        "height": 720,
+        "media_key": "13_2046881774287122432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046881774287122432/img/zjAkDJ50x0bRq7Mp.jpg",
+        "public_metrics": {
+          "view_count": 40920
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046881774287122432/vid/avc1/480x270/PHkzYKKz6oCSJaV_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046881774287122432/vid/avc1/640x360/2eRiRE9gaVnJkzTc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046881774287122432/vid/avc1/1280x720/VLP0VSdc6cDLgK4D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046881774287122432/pl/Rri8TvKCQUhA-pQK.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2046881935000236070",
+        "created_at": "2026-04-22T23:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047097500017017161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566837825345298432",
+              "start": 0,
+              "username": "SSJGoebbels2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047097500017017161",
+        "in_reply_to_user_id": "1566837825345298432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046881935000236070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SSJGoebbels2023 中央林間行き、十両編成で参ります。黄色点字ブロックまでお下がりください(かなw)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046881774287122432"
+          ]
+        },
+        "author_id": "1566837825345298432",
+        "conversation_id": "2046881935000236070",
+        "created_at": "2026-04-22T09:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046881935000236070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSDIiFV4Rq",
+              "end": 137,
+              "expanded_url": "https://x.com/SSJGoebbels2023/status/2046881935000236070/video/1",
+              "media_key": "13_2046881774287122432",
+              "start": 114,
+              "url": "https://t.co/sSDIiFV4Rq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046881935000236070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 538,
+          "impression_count": 127921,
+          "like_count": 1823,
+          "quote_count": 78,
+          "reply_count": 10,
+          "retweet_count": 360
+        },
+        "reply_settings": "everyone",
+        "text": "東武伊勢崎線 北千住駅の音割れ放送\n近鉄ラッピング車撮影の副産物です…\n\n「間゛も゛な゛く゛　4゛番゛線゛に゛\n地゛下゛鉄゛半゛蔵゛門゛線゛     東゛ 急゛田゛園゛都゛市゛線゛(以後解読不能)…」\n\n誰が聞き取れるんだよ… https://t.co/sSDIiFV4Rq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 143,
+          "like_count": 2949,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1711
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T17:17:43.000Z",
+        "description": "無言フォロー失礼します。思想の反復横跳びを繰り返す京成･東武民の24歳学生です。 就活しながら #鉄道 (撮り･乗り･音)の他 #デュエマ ･ #まどマギ ･ #まどドラ ･ #東方Project など色々やります。(撮影等は法令やマナーを遵守しております。)挨拶DM不要。サブ垢 → @SSJG_sub1 天安門事件。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 48,
+                "tag": "鉄道"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "デュエマ"
+              },
+              {
+                "end": 77,
+                "start": 72,
+                "tag": "まどマギ"
+              },
+              {
+                "end": 85,
+                "start": 80,
+                "tag": "まどドラ"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "tag": "東方Project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 153,
+                "start": 143,
+                "username": "SSJG_sub1"
+              }
+            ]
+          }
+        },
+        "id": "1566837825345298432",
+        "location": "おとめ座銀河団局所銀河群天の川銀河太陽系第3惑星地球日本国",
+        "name": "J.Goebbels",
+        "pinned_tweet_id": "2037634091118694476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045771675233611776/7MleuNlK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 1378,
+          "like_count": 42950,
+          "listed_count": 1,
+          "media_count": 4293,
+          "tweet_count": 27206
+        },
+        "username": "SSJGoebbels2023",
+        "verified": false
+      }
+    ]
+  }
+}

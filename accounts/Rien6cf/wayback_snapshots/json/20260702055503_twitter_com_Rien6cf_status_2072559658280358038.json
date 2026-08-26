@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072158388272918528"
+      ],
+      "media_source_tweet_id": [
+        "2072158392106524705"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2072559658280358038",
+    "created_at": "2026-07-02T05:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072559658280358038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1784808244608679936",
+          "start": 3,
+          "username": "AngieBarke61961"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/41od9B5TUo",
+          "end": 60,
+          "expanded_url": "https://x.com/AngieBarke61961/status/2072158392106524705/photo/1",
+          "media_key": "3_2072158388272918528",
+          "start": 37,
+          "url": "https://t.co/41od9B5TUo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072559658280358038",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072158392106524705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngieBarke61961: 友人の結婚式で撮れた奇跡の1枚 https://t.co/41od9B5TUo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2072158388272918528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHJE0tacAAI2D0.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072158388272918528"
+          ],
+          "media_source_tweet_id": [
+            "2072158392106524705"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2072559658280358038",
+        "created_at": "2026-07-02T05:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072559658280358038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1784808244608679936",
+              "start": 3,
+              "username": "AngieBarke61961"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/41od9B5TUo",
+              "end": 60,
+              "expanded_url": "https://x.com/AngieBarke61961/status/2072158392106524705/photo/1",
+              "media_key": "3_2072158388272918528",
+              "start": 37,
+              "url": "https://t.co/41od9B5TUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072559658280358038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072158392106524705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngieBarke61961: 友人の結婚式で撮れた奇跡の1枚 https://t.co/41od9B5TUo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072158388272918528"
+          ]
+        },
+        "author_id": "1784808244608679936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2072158392106524705",
+        "created_at": "2026-07-01T03:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072158392106524705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41od9B5TUo",
+              "end": 39,
+              "expanded_url": "https://x.com/AngieBarke61961/status/2072158392106524705/photo/1",
+              "media_key": "3_2072158388272918528",
+              "start": 16,
+              "url": "https://t.co/41od9B5TUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072158392106524705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1133,
+          "impression_count": 882058,
+          "like_count": 67707,
+          "quote_count": 151,
+          "reply_count": 130,
+          "retweet_count": 3107
+        },
+        "reply_settings": "everyone",
+        "text": "友人の結婚式で撮れた奇跡の1枚 https://t.co/41od9B5TUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 196,
+          "like_count": 6734,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2769
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T04:53:47.000Z",
+        "description": "近々鍵垢にしますね",
+        "id": "1784808244608679936",
+        "name": "さぶ",
+        "pinned_tweet_id": "2030753983950999980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032495422305095680/zvfWz6W3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12247,
+          "following_count": 3718,
+          "like_count": 3177,
+          "listed_count": 47,
+          "media_count": 72,
+          "tweet_count": 5814
+        },
+        "url": "",
+        "username": "AngieBarke61961",
+        "verified": true
+      }
+    ]
+  }
+}

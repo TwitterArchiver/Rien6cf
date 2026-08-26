@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407405800281104386",
+          "name": "Ferret"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2054561136159436978",
+    "created_at": "2026-05-13T13:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054561136159436978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1344873341333639169",
+          "start": 3,
+          "username": "63_romi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054561136159436978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054485826642530521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @63_romi3: 勝手に譲渡されてからの約1年間、この人の元には妹さんから撮りためたフェレットの写真が毎日送られてきてて、譲渡されてるなんて全く知らなかったらしい。えぐすぎる。私なら絶縁ものだな…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407405800281104386",
+              "name": "Ferret"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2054561136159436978",
+        "created_at": "2026-05-13T13:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054561136159436978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1344873341333639169",
+              "start": 3,
+              "username": "63_romi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054561136159436978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054485826642530521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @63_romi3: 勝手に譲渡されてからの約1年間、この人の元には妹さんから撮りためたフェレットの写真が毎日送られてきてて、譲渡されてるなんて全く知らなかったらしい。えぐすぎる。私なら絶縁ものだな…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344873341333639169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407405800281104386",
+              "name": "Ferret"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2054485826642530521",
+        "created_at": "2026-05-13T08:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054485826642530521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/findaferret/st…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/findaferret/status/2054443196084859120",
+              "start": 90,
+              "url": "https://t.co/SsHA5fLHBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054485826642530521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2577,
+          "impression_count": 5907812,
+          "like_count": 34451,
+          "quote_count": 239,
+          "reply_count": 7,
+          "retweet_count": 4333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054443196084859120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "勝手に譲渡されてからの約1年間、この人の元には妹さんから撮りためたフェレットの写真が毎日送られてきてて、譲渡されてるなんて全く知らなかったらしい。えぐすぎる。私なら絶縁ものだな… https://t.co/SsHA5fLHBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 170,
+          "like_count": 3881,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2024
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-01T05:09:32.000Z",
+        "description": "ルレとぬいすと景丹。スタレはエンドコンテンツも全部やる派。たまに絵を描くオタク。スタレ最推し景元と丹恒(飲月)。景元と飲月両完凸済。考察と称したリークを許すな。動物は好きだけど愛誤は大嫌い。レスバしたがりジジイはブロックします",
+        "id": "1344873341333639169",
+        "name": "🌻63📕",
+        "pinned_tweet_id": "1639731432540217345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668651875044929543/fokJHQvL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 9,
+          "like_count": 133,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 2949
+        },
+        "username": "63_romi3",
+        "verified": false
+      }
+    ]
+  }
+}

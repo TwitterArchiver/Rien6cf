@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2073787168074653696"
+      ],
+      "media_source_tweet_id": [
+        "2073787206356062569"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073888189274808748",
+    "created_at": "2026-07-05T21:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073888189274808748"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 38,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 56,
+          "start": 48,
+          "tag": "ワモンアザラシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "148219108",
+          "start": 3,
+          "username": "sammy3339"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QsVBXy6lXg",
+          "end": 80,
+          "expanded_url": "https://x.com/sammy3339/status/2073787206356062569/video/1",
+          "media_key": "7_2073787168074653696",
+          "start": 57,
+          "url": "https://t.co/QsVBXy6lXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073888189274808748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073787206356062569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sammy3339: 月ちゃんは自分が可愛いことを知っています😆\n\n#とっかりセンター\n#ワモンアザラシ https://t.co/QsVBXy6lXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15510,
+        "height": 720,
+        "media_key": "7_2073787168074653696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073787168074653696/pu/img/Vvw6LxToFFq8jMbi.jpg",
+        "public_metrics": {
+          "view_count": 878
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073787168074653696/pu/vid/avc1/480x270/fNWtOkaMR9aCjt68.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073787168074653696/pu/vid/avc1/640x360/ZcN5FlH8LEU3rnFA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073787168074653696/pu/vid/avc1/1280x720/gNoSRj5lO5Am5vrr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073787168074653696/pu/pl/CAMuuOodHgmpvdFk.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073787168074653696"
+          ],
+          "media_source_tweet_id": [
+            "2073787206356062569"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073888189274808748",
+        "created_at": "2026-07-05T21:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073888189274808748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "148219108",
+              "start": 3,
+              "username": "sammy3339"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsVBXy6lXg",
+              "end": 80,
+              "expanded_url": "https://x.com/sammy3339/status/2073787206356062569/video/1",
+              "media_key": "7_2073787168074653696",
+              "start": 57,
+              "url": "https://t.co/QsVBXy6lXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073888189274808748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073787206356062569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sammy3339: 月ちゃんは自分が可愛いことを知っています😆\n\n#とっかりセンター\n#ワモンアザラシ https://t.co/QsVBXy6lXg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073787168074653696"
+          ]
+        },
+        "author_id": "148219108",
+        "conversation_id": "2073787206356062569",
+        "created_at": "2026-07-05T15:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073787206356062569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsVBXy6lXg",
+              "end": 65,
+              "expanded_url": "https://x.com/sammy3339/status/2073787206356062569/video/1",
+              "media_key": "7_2073787168074653696",
+              "start": 42,
+              "url": "https://t.co/QsVBXy6lXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073787206356062569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3082,
+          "like_count": 281,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "月ちゃんは自分が可愛いことを知っています😆\n\n#とっかりセンター\n#ワモンアザラシ https://t.co/QsVBXy6lXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 195,
+          "like_count": 7080,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2815
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-26T04:14:46.000Z",
+        "description": "シロフクロウ、マイクロブタ、アザラシ(海遊館出身、おたる水族館のミゾレくん推し)、ガチャピン、旅行が大好きです。最近はほぼ一日中シロフクロウとミゾレくんで頭がいっぱいです(〃∇〃)たまにフクロウ、アザラシ中心でつぶやくと思います。気軽にフォローしてください。よろしくお願いします。\nブヒブヒ🦉🐖🐸🗿🦭💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC23TY…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC23TYCIAqp-PPgqcE-IqbPA",
+                "start": 0,
+                "url": "https://t.co/ajtfsOSy3U"
+              }
+            ]
+          }
+        },
+        "id": "148219108",
+        "name": "グリーン",
+        "pinned_tweet_id": "2039293233453490486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/949966399614599169/sbQ1d4w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 626,
+          "like_count": 116741,
+          "listed_count": 6,
+          "media_count": 1319,
+          "tweet_count": 8574
+        },
+        "url": "https://t.co/ajtfsOSy3U",
+        "username": "sammy3339",
+        "verified": false
+      }
+    ]
+  }
+}

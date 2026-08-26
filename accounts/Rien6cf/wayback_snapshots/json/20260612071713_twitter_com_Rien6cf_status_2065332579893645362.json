@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065305093306789888",
+        "3_2065305093290020865"
+      ],
+      "media_source_tweet_id": [
+        "2065305097941500093",
+        "2065305097941500093"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065332579893645362",
+    "created_at": "2026-06-12T07:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065332579893645362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1868150971618164736",
+          "start": 3,
+          "username": "Photogenic_ono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJtdV55t56",
+          "end": 43,
+          "expanded_url": "https://x.com/Photogenic_ono/status/2065305097941500093/photo/1",
+          "media_key": "3_2065305093306789888",
+          "start": 20,
+          "url": "https://t.co/tJtdV55t56"
+        },
+        {
+          "display_url": "pic.x.com/tJtdV55t56",
+          "end": 43,
+          "expanded_url": "https://x.com/Photogenic_ono/status/2065305097941500093/photo/1",
+          "media_key": "3_2065305093290020865",
+          "start": 20,
+          "url": "https://t.co/tJtdV55t56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065332579893645362",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065305097941500093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Photogenic_ono: https://t.co/tJtdV55t56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065305093306789888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlwCjdbMAAy80B.jpg",
+        "width": 1152
+      },
+      {
+        "height": 480,
+        "media_key": "3_2065305093290020865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlwCjZbUAEo1aD.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065305093306789888",
+            "3_2065305093290020865"
+          ],
+          "media_source_tweet_id": [
+            "2065305097941500093",
+            "2065305097941500093"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065332579893645362",
+        "created_at": "2026-06-12T07:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065332579893645362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1868150971618164736",
+              "start": 3,
+              "username": "Photogenic_ono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJtdV55t56",
+              "end": 43,
+              "expanded_url": "https://x.com/Photogenic_ono/status/2065305097941500093/photo/1",
+              "media_key": "3_2065305093306789888",
+              "start": 20,
+              "url": "https://t.co/tJtdV55t56"
+            },
+            {
+              "display_url": "pic.x.com/tJtdV55t56",
+              "end": 43,
+              "expanded_url": "https://x.com/Photogenic_ono/status/2065305097941500093/photo/1",
+              "media_key": "3_2065305093290020865",
+              "start": 20,
+              "url": "https://t.co/tJtdV55t56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065332579893645362",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065305097941500093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Photogenic_ono: https://t.co/tJtdV55t56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065305093306789888",
+            "3_2065305093290020865"
+          ]
+        },
+        "author_id": "1868150971618164736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065305097941500093",
+        "created_at": "2026-06-12T05:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065305097941500093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJtdV55t56",
+              "end": 23,
+              "expanded_url": "https://x.com/Photogenic_ono/status/2065305097941500093/photo/1",
+              "media_key": "3_2065305093306789888",
+              "start": 0,
+              "url": "https://t.co/tJtdV55t56"
+            },
+            {
+              "display_url": "pic.x.com/tJtdV55t56",
+              "end": 23,
+              "expanded_url": "https://x.com/Photogenic_ono/status/2065305097941500093/photo/1",
+              "media_key": "3_2065305093290020865",
+              "start": 0,
+              "url": "https://t.co/tJtdV55t56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065305097941500093",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1369,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tJtdV55t56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5561,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2560
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T04:28:05.000Z",
+        "description": "多趣味な出来たてホヤホヤアザラー兼ペンギスト🔰🐧🦭  ︎︎ ︎︎ ‌　‌　‌　‌　‌　‌ ︎︎無断転載・使用、AI学習はいかなる場合も禁止です。⚠️Unauthorized use, reproduction, and AI learning are prohibited.",
+        "id": "1868150971618164736",
+        "location": "超雑多垢",
+        "name": "フォトジェニック小野",
+        "pinned_tweet_id": "1925507804577898656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005370159775789057/4ZClRnXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 1238,
+          "like_count": 164841,
+          "listed_count": 14,
+          "media_count": 4507,
+          "tweet_count": 58340
+        },
+        "username": "Photogenic_ono",
+        "verified": false
+      }
+    ]
+  }
+}

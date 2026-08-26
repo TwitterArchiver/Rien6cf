@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074818627845648384"
+      ],
+      "media_source_tweet_id": [
+        "2074818941445341290"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074827964676788430",
+    "created_at": "2026-07-08T12:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074827964676788430"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "よるあみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370305320103211018",
+          "start": 3,
+          "username": "Yoruamiofficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SPbhRx8bC1",
+          "end": 114,
+          "expanded_url": "https://x.com/Yoruamiofficial/status/2074818941445341290/video/1",
+          "media_key": "13_2074818627845648384",
+          "start": 91,
+          "url": "https://t.co/SPbhRx8bC1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074827964676788430",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 525
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074818941445341290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yoruamiofficial: 【 新メンバー公開 】\n\n遂に新メンバー公開💚\nこの後公開のアー写が\n2500RP達成で... NEXT MEMBER発表❕\n\n#よるあみ https://t.co/SPbhRx8bC1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65065,
+        "height": 1080,
+        "media_key": "13_2074818627845648384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074818627845648384/img/T8EP2CPiufcKy5-p.jpg",
+        "public_metrics": {
+          "view_count": 19264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074818627845648384/vid/avc1/1280x720/FXZDh6GBL8oTxJvg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074818627845648384/vid/avc1/640x360/Nb3a4OKTkYyyV5Kc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074818627845648384/pl/amlJaND_82raFRTJ.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074818627845648384/vid/avc1/480x270/x2rvmiIP3CtSEkov.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074818627845648384/vid/avc1/1920x1080/MlGWby0Eic_D4HhV.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074818627845648384"
+          ],
+          "media_source_tweet_id": [
+            "2074818941445341290"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074827964676788430",
+        "created_at": "2026-07-08T12:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074827964676788430"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "よるあみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370305320103211018",
+              "start": 3,
+              "username": "Yoruamiofficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPbhRx8bC1",
+              "end": 114,
+              "expanded_url": "https://x.com/Yoruamiofficial/status/2074818941445341290/video/1",
+              "media_key": "13_2074818627845648384",
+              "start": 91,
+              "url": "https://t.co/SPbhRx8bC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074827964676788430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 525
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074818941445341290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yoruamiofficial: 【 新メンバー公開 】\n\n遂に新メンバー公開💚\nこの後公開のアー写が\n2500RP達成で... NEXT MEMBER発表❕\n\n#よるあみ https://t.co/SPbhRx8bC1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074818627845648384"
+          ]
+        },
+        "author_id": "1370305320103211018",
+        "conversation_id": "2074818941445341290",
+        "created_at": "2026-07-08T11:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074818941445341290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "よるあみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPbhRx8bC1",
+              "end": 93,
+              "expanded_url": "https://x.com/Yoruamiofficial/status/2074818941445341290/video/1",
+              "media_key": "13_2074818627845648384",
+              "start": 70,
+              "url": "https://t.co/SPbhRx8bC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074818941445341290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 222253,
+          "like_count": 1809,
+          "quote_count": 418,
+          "reply_count": 8,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "【 新メンバー公開 】\n\n遂に新メンバー公開💚\nこの後公開のアー写が\n2500RP達成で... NEXT MEMBER発表❕\n\n#よるあみ https://t.co/SPbhRx8bC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 194,
+          "like_count": 7353,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2863
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T09:27:15.000Z",
+        "description": "「 眠れぬアナタをご招待 」夜に煌めくテーマパーク /【ライブ】https://t.co/f71jzrZH60 /【サブスク】https://t.co/H8zVsdXi8n【問い合わせ】 yoruami@imaginate.jp / #よるあみ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 117,
+                "tag": "よるあみ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "timetr.ee/pc/yoruami",
+                "end": 55,
+                "expanded_url": "http://timetr.ee/pc/yoruami",
+                "start": 32,
+                "url": "https://t.co/f71jzrZH60"
+              },
+              {
+                "display_url": "zula.lnk.to/pwjKXIZL/",
+                "end": 86,
+                "expanded_url": "https://zula.lnk.to/pwjKXIZL/",
+                "start": 63,
+                "url": "https://t.co/H8zVsdXi8n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/yoruami",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/yoruami",
+                "start": 0,
+                "url": "https://t.co/HmbRIYhOKB"
+              }
+            ]
+          }
+        },
+        "id": "1370305320103211018",
+        "location": "HEROINES【ヒロインズ】",
+        "name": "夜光性アミューズ【よるあみ】",
+        "pinned_tweet_id": "1977714385201029573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1372989147149836291/FqRnEwW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65366,
+          "following_count": 8,
+          "like_count": 75,
+          "listed_count": 482,
+          "media_count": 2677,
+          "tweet_count": 2941
+        },
+        "url": "https://t.co/HmbRIYhOKB",
+        "username": "Yoruamiofficial",
+        "verified": true
+      }
+    ]
+  }
+}

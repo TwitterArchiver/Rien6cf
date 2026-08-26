@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051213558739075072",
+        "3_2051213850045997056",
+        "3_2051213898167308288",
+        "3_2051213963355181056"
+      ],
+      "media_source_tweet_id": [
+        "2051214040400376060",
+        "2051214040400376060",
+        "2051214040400376060",
+        "2051214040400376060"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2051277321806754055",
+    "created_at": "2026-05-04T12:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051277321806754055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "627480867",
+          "start": 3,
+          "username": "makotokawazu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yK9IwpgkAB",
+          "end": 84,
+          "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+          "media_key": "3_2051213558739075072",
+          "start": 61,
+          "url": "https://t.co/yK9IwpgkAB"
+        },
+        {
+          "display_url": "pic.x.com/yK9IwpgkAB",
+          "end": 84,
+          "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+          "media_key": "3_2051213850045997056",
+          "start": 61,
+          "url": "https://t.co/yK9IwpgkAB"
+        },
+        {
+          "display_url": "pic.x.com/yK9IwpgkAB",
+          "end": 84,
+          "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+          "media_key": "3_2051213898167308288",
+          "start": 61,
+          "url": "https://t.co/yK9IwpgkAB"
+        },
+        {
+          "display_url": "pic.x.com/yK9IwpgkAB",
+          "end": 84,
+          "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+          "media_key": "3_2051213963355181056",
+          "start": 61,
+          "url": "https://t.co/yK9IwpgkAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051277321806754055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051214040400376060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @makotokawazu: 北海道：積雪・吹雪\n\n東京：真夏日\n\n沖縄：梅雨入り\n\nこれらはすべて今日のことです https://t.co/yK9IwpgkAB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2051213558739075072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdf3ScbgAAVK1Z.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2051213850045997056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdgIPpaYAAdbHu.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2051213898167308288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdgLC6bUAATeS4.png",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2051213963355181056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdgO1wbUAA09z-.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051213558739075072",
+            "3_2051213850045997056",
+            "3_2051213898167308288",
+            "3_2051213963355181056"
+          ],
+          "media_source_tweet_id": [
+            "2051214040400376060",
+            "2051214040400376060",
+            "2051214040400376060",
+            "2051214040400376060"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2051277321806754055",
+        "created_at": "2026-05-04T12:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051277321806754055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "627480867",
+              "start": 3,
+              "username": "makotokawazu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yK9IwpgkAB",
+              "end": 84,
+              "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+              "media_key": "3_2051213558739075072",
+              "start": 61,
+              "url": "https://t.co/yK9IwpgkAB"
+            },
+            {
+              "display_url": "pic.x.com/yK9IwpgkAB",
+              "end": 84,
+              "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+              "media_key": "3_2051213850045997056",
+              "start": 61,
+              "url": "https://t.co/yK9IwpgkAB"
+            },
+            {
+              "display_url": "pic.x.com/yK9IwpgkAB",
+              "end": 84,
+              "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+              "media_key": "3_2051213898167308288",
+              "start": 61,
+              "url": "https://t.co/yK9IwpgkAB"
+            },
+            {
+              "display_url": "pic.x.com/yK9IwpgkAB",
+              "end": 84,
+              "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+              "media_key": "3_2051213963355181056",
+              "start": 61,
+              "url": "https://t.co/yK9IwpgkAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051277321806754055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051214040400376060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @makotokawazu: 北海道：積雪・吹雪\n\n東京：真夏日\n\n沖縄：梅雨入り\n\nこれらはすべて今日のことです https://t.co/yK9IwpgkAB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051213558739075072",
+            "3_2051213850045997056",
+            "3_2051213898167308288",
+            "3_2051213963355181056"
+          ]
+        },
+        "author_id": "627480867",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2051214040400376060",
+        "created_at": "2026-05-04T08:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051214040400376060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yK9IwpgkAB",
+              "end": 66,
+              "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+              "media_key": "3_2051213558739075072",
+              "start": 43,
+              "url": "https://t.co/yK9IwpgkAB"
+            },
+            {
+              "display_url": "pic.x.com/yK9IwpgkAB",
+              "end": 66,
+              "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+              "media_key": "3_2051213850045997056",
+              "start": 43,
+              "url": "https://t.co/yK9IwpgkAB"
+            },
+            {
+              "display_url": "pic.x.com/yK9IwpgkAB",
+              "end": 66,
+              "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+              "media_key": "3_2051213898167308288",
+              "start": 43,
+              "url": "https://t.co/yK9IwpgkAB"
+            },
+            {
+              "display_url": "pic.x.com/yK9IwpgkAB",
+              "end": 66,
+              "expanded_url": "https://x.com/makotokawazu/status/2051214040400376060/photo/1",
+              "media_key": "3_2051213963355181056",
+              "start": 43,
+              "url": "https://t.co/yK9IwpgkAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051214040400376060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 563,
+          "impression_count": 608526,
+          "like_count": 13320,
+          "quote_count": 339,
+          "reply_count": 49,
+          "retweet_count": 6153
+        },
+        "reply_settings": "everyone",
+        "text": "北海道：積雪・吹雪\n\n東京：真夏日\n\n沖縄：梅雨入り\n\nこれらはすべて今日のことです https://t.co/yK9IwpgkAB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 162,
+          "like_count": 3321,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1845
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-05T13:50:15.000Z",
+        "description": "アバンギャルド（前衛的）な天気とコンビを組んでいる芸人系気象予報士。ツッコミ担当。TV出演歴はTBS「Nスタ」、「あさチャン！」、テレ東、静岡第一等。趣味は懸垂、サウナ、読書。ユーモアを交えつつ本音でくわしい気象情報を知りたい方はフォローおすすめです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weathermap.co.jp/caster/kawazu-…",
+                "end": 23,
+                "expanded_url": "https://www.weathermap.co.jp/caster/kawazu-makoto/",
+                "start": 0,
+                "url": "https://t.co/Gl5zGIAwJf"
+              }
+            ]
+          }
+        },
+        "id": "627480867",
+        "location": "赤坂と千葉県を往復",
+        "name": "アバンギャルド河津",
+        "pinned_tweet_id": "1973948323032953075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825833591751979012/lXXMapxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92440,
+          "following_count": 546,
+          "like_count": 46911,
+          "listed_count": 1327,
+          "media_count": 15272,
+          "tweet_count": 29146
+        },
+        "url": "https://t.co/Gl5zGIAwJf",
+        "username": "makotokawazu",
+        "verified": true
+      }
+    ]
+  }
+}

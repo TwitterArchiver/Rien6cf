@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Yokohama",
+          "id": "1009174794506399744",
+          "name": "Yokohama"
+        }
+      }
+    ],
+    "conversation_id": "2048730777345720706",
+    "created_at": "2026-04-27T11:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048730777345720706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809768548006522880",
+          "start": 3,
+          "username": "KABYEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048730777345720706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048719247552200925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KABYEO: 新宿 西新宿 西新宿五丁目\n\n横浜 新横浜 北新横浜\n\n古河 小金井 武蔵小金井\n\n西府 (京成)西船 西船橋\n\n駅　名　三　段　活　用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "2048730777345720706",
+        "created_at": "2026-04-27T11:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048730777345720706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809768548006522880",
+              "start": 3,
+              "username": "KABYEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048730777345720706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048719247552200925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KABYEO: 新宿 西新宿 西新宿五丁目\n\n横浜 新横浜 北新横浜\n\n古河 小金井 武蔵小金井\n\n西府 (京成)西船 西船橋\n\n駅　名　三　段　活　用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809768548006522880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "2048719247552200925",
+        "created_at": "2026-04-27T11:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048719247552200925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048719247552200925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2212,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "新宿 西新宿 西新宿五丁目\n\n横浜 新横浜 北新横浜\n\n古河 小金井 武蔵小金井\n\n西府 (京成)西船 西船橋\n\n駅　名　三　段　活　用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 149,
+          "like_count": 3086,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1763
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T01:57:10.000Z",
+        "description": "音鉄(鉄道雑多垢) / 発車メロディ、205系、津田英治さんの放送が好きです / 千夏先輩は特に推しじゃないです",
+        "id": "1809768548006522880",
+        "name": "ABY",
+        "pinned_tweet_id": "2039297576915423425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005536348053393408/OtS3ddpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 1185,
+          "like_count": 59671,
+          "listed_count": 1,
+          "media_count": 769,
+          "tweet_count": 8531
+        },
+        "username": "KABYEO",
+        "verified": false
+      }
+    ]
+  }
+}

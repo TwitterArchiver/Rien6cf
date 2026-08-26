@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061581667085803520"
+      ],
+      "media_source_tweet_id": [
+        "2061581671879889257"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2061804781799395808",
+    "created_at": "2026-06-02T13:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061804781799395808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987478655275315200",
+          "start": 3,
+          "username": "K_Min_C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VvOkqZvikT",
+          "end": 54,
+          "expanded_url": "https://x.com/K_Min_C/status/2061581671879889257/photo/1",
+          "media_key": "3_2061581667085803520",
+          "start": 31,
+          "url": "https://t.co/VvOkqZvikT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061804781799395808",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 862
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061581671879889257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K_Min_C: 아 진짜 졸라졸라 학교가기 싫음 https://t.co/VvOkqZvikT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2061581667085803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJw1mn4bYAAYkBT.jpg",
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061581667085803520"
+          ],
+          "media_source_tweet_id": [
+            "2061581671879889257"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2061804781799395808",
+        "created_at": "2026-06-02T13:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061804781799395808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987478655275315200",
+              "start": 3,
+              "username": "K_Min_C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvOkqZvikT",
+              "end": 54,
+              "expanded_url": "https://x.com/K_Min_C/status/2061581671879889257/photo/1",
+              "media_key": "3_2061581667085803520",
+              "start": 31,
+              "url": "https://t.co/VvOkqZvikT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061804781799395808",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 862
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061581671879889257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K_Min_C: 아 진짜 졸라졸라 학교가기 싫음 https://t.co/VvOkqZvikT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061581667085803520"
+          ]
+        },
+        "author_id": "1987478655275315200",
+        "conversation_id": "2061581671879889257",
+        "created_at": "2026-06-01T22:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061581671879889257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvOkqZvikT",
+              "end": 41,
+              "expanded_url": "https://x.com/K_Min_C/status/2061581671879889257/photo/1",
+              "media_key": "3_2061581667085803520",
+              "start": 18,
+              "url": "https://t.co/VvOkqZvikT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061581671879889257",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 46260,
+          "like_count": 3962,
+          "quote_count": 24,
+          "reply_count": 10,
+          "retweet_count": 862
+        },
+        "reply_settings": "everyone",
+        "text": "아 진짜 졸라졸라 학교가기 싫음 https://t.co/VvOkqZvikT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 184,
+          "like_count": 4964,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2366
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T11:13:39.000Z",
+        "description": "싸우지마셈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/user84794",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/user84794",
+                "start": 0,
+                "url": "https://t.co/BcQvLtvvpd"
+              }
+            ]
+          }
+        },
+        "id": "1987478655275315200",
+        "location": "Daegu, Republic of Korea",
+        "name": "강민철",
+        "pinned_tweet_id": "2010708389245092061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041406551093854208/DgxnxTDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 209,
+          "like_count": 17465,
+          "listed_count": 1,
+          "media_count": 1151,
+          "tweet_count": 7462
+        },
+        "url": "https://t.co/BcQvLtvvpd",
+        "username": "K_Min_C",
+        "verified": false
+      }
+    ]
+  }
+}

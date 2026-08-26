@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051495467549409280"
+      ],
+      "media_source_tweet_id": [
+        "2051495469671764268"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2052046271695999235",
+    "created_at": "2026-05-06T15:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052046271695999235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050565438493315072",
+          "start": 3,
+          "username": "zinriki_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y8X7rSjdTJ",
+          "end": 101,
+          "expanded_url": "https://x.com/zinriki_bot/status/2051495469671764268/photo/1",
+          "media_key": "3_2051495467549409280",
+          "start": 78,
+          "url": "https://t.co/Y8X7rSjdTJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052046271695999235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1537
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051495469671764268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zinriki_bot: いいですか。落ち着いて聞いてください\n\n明日の振替休日が終わったら次の祝日休みは　文　化　の　日　（　11　月　）　です https://t.co/Y8X7rSjdTJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2051495467549409280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhgQimbQAA9HhT.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051495467549409280"
+          ],
+          "media_source_tweet_id": [
+            "2051495469671764268"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2052046271695999235",
+        "created_at": "2026-05-06T15:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052046271695999235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050565438493315072",
+              "start": 3,
+              "username": "zinriki_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8X7rSjdTJ",
+              "end": 101,
+              "expanded_url": "https://x.com/zinriki_bot/status/2051495469671764268/photo/1",
+              "media_key": "3_2051495467549409280",
+              "start": 78,
+              "url": "https://t.co/Y8X7rSjdTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052046271695999235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1537
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051495469671764268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zinriki_bot: いいですか。落ち着いて聞いてください\n\n明日の振替休日が終わったら次の祝日休みは　文　化　の　日　（　11　月　）　です https://t.co/Y8X7rSjdTJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051495467549409280"
+          ]
+        },
+        "author_id": "2050565438493315072",
+        "conversation_id": "2051495469671764268",
+        "created_at": "2026-05-05T02:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051495469671764268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8X7rSjdTJ",
+              "end": 84,
+              "expanded_url": "https://x.com/zinriki_bot/status/2051495469671764268/photo/1",
+              "media_key": "3_2051495467549409280",
+              "start": 61,
+              "url": "https://t.co/Y8X7rSjdTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051495469671764268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1481,
+          "impression_count": 15548570,
+          "like_count": 56066,
+          "quote_count": 606,
+          "reply_count": 692,
+          "retweet_count": 1537
+        },
+        "reply_settings": "everyone",
+        "text": "いいですか。落ち着いて聞いてください\n\n明日の振替休日が終わったら次の祝日休みは　文　化　の　日　（　11　月　）　です https://t.co/Y8X7rSjdTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 164,
+          "like_count": 3435,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1887
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T13:18:17.000Z",
+        "description": "@vsgsianqaの避難垢/@risazyuSS_JK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "vsgsianqa"
+              },
+              {
+                "end": 28,
+                "start": 15,
+                "username": "risazyuSS_JK"
+              }
+            ]
+          }
+        },
+        "id": "2050565438493315072",
+        "name": "ジェラートカラメルJK",
+        "pinned_tweet_id": "2051940622257504571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051176466126344192/iqprxATe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 87,
+          "like_count": 385,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 490
+        },
+        "username": "zinriki_bot",
+        "verified": false
+      }
+    ]
+  }
+}

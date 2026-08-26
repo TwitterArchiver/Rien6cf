@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029219158429405231",
+    "created_at": "2026-03-04T15:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029219158429405231"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "南京大学",
+          "probability": 0.3458,
+          "start": 21,
+          "type": "Place"
+        },
+        {
+          "end": 31,
+          "normalized_text": "258年創立",
+          "probability": 0.3742,
+          "start": 26,
+          "type": "Place"
+        },
+        {
+          "end": 36,
+          "normalized_text": "呉国太学",
+          "probability": 0.2614,
+          "start": 33,
+          "type": "Place"
+        },
+        {
+          "end": 57,
+          "normalized_text": "岳麓書院",
+          "probability": 0.2841,
+          "start": 54,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1601217336178249728",
+          "start": 3,
+          "username": "Sui_TangDaisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029219158429405231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029093510675349595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_TangDaisuki: 南京大学（258年創立の呉国太学が起点）や湖南大学（976年創立の岳麓書院が起点）レベル"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029219158429405231",
+        "created_at": "2026-03-04T15:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029219158429405231"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "南京大学",
+              "probability": 0.3458,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "258年創立",
+              "probability": 0.3742,
+              "start": 26,
+              "type": "Place"
+            },
+            {
+              "end": 36,
+              "normalized_text": "呉国太学",
+              "probability": 0.2614,
+              "start": 33,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "岳麓書院",
+              "probability": 0.2841,
+              "start": 54,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1601217336178249728",
+              "start": 3,
+              "username": "Sui_TangDaisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029219158429405231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029093510675349595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_TangDaisuki: 南京大学（258年創立の呉国太学が起点）や湖南大学（976年創立の岳麓書院が起点）レベル"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601217336178249728",
+        "conversation_id": "2029093510675349595",
+        "created_at": "2026-03-04T07:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029093510675349595"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "南京大学",
+              "probability": 0.284,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 10,
+              "normalized_text": "258年創立",
+              "probability": 0.3207,
+              "start": 5,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qandori/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/qandori/status/2029013964676288568",
+              "start": 45,
+              "url": "https://t.co/gnpR95gDnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029093510675349595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 65618,
+          "like_count": 262,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029013964676288568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "南京大学（258年創立の呉国太学が起点）や湖南大学（976年創立の岳麓書院が起点）レベル https://t.co/gnpR95gDnE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 100,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 758
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T14:09:02.000Z",
+        "description": "略称→書生 日本で諡号研究して中国で陵墓ばかり行ってる大学三年生。东海大学三年文社ア 諡号、廟号、諡法、陵墓、魏晋南北朝等あとラブライブ（サ、虹）。諡法会。偶に絵を吐きだします。信濃→相模 🇨🇳×6🇨🇦×1",
+        "id": "1601217336178249728",
+        "location": "大唐帝国関内道西京/長安城 私立虹ヶ咲学園東洋史専攻",
+        "name": "中国史好きの一般諡法書生 C107 12/31西地区 “き”ブロック－41a諡法会",
+        "pinned_tweet_id": "2005613275544015120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004430435066200065/0lkBuKAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3647,
+          "following_count": 705,
+          "like_count": 39710,
+          "listed_count": 22,
+          "media_count": 5068,
+          "tweet_count": 20878
+        },
+        "username": "Sui_TangDaisuki",
+        "verified": true
+      }
+    ]
+  }
+}

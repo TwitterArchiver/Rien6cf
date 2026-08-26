@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059926017658277888"
+      ],
+      "media_source_tweet_id": [
+        "2059926024461390004"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060314048475083015",
+    "created_at": "2026-05-29T10:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060314048475083015"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "襟裳岬"
+        },
+        {
+          "end": 54,
+          "start": 43,
+          "tag": "コンブボートクルーズ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "854362191675379716",
+          "start": 3,
+          "username": "GacchiRika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/08nLGLjLJV",
+          "end": 78,
+          "expanded_url": "https://x.com/GacchiRika/status/2059926024461390004/photo/1",
+          "media_key": "3_2059926017658277888",
+          "start": 55,
+          "url": "https://t.co/08nLGLjLJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060314048475083015",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059926024461390004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GacchiRika: コンブのベッドに包まれる赤ちゃんアザラシ\n\n#襟裳岬\n#コンブボートクルーズ https://t.co/08nLGLjLJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059926017658277888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZTzJIbUAAQxVL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059926017658277888"
+          ],
+          "media_source_tweet_id": [
+            "2059926024461390004"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060314048475083015",
+        "created_at": "2026-05-29T10:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060314048475083015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "襟裳岬"
+            },
+            {
+              "end": 54,
+              "start": 43,
+              "tag": "コンブボートクルーズ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "854362191675379716",
+              "start": 3,
+              "username": "GacchiRika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/08nLGLjLJV",
+              "end": 78,
+              "expanded_url": "https://x.com/GacchiRika/status/2059926024461390004/photo/1",
+              "media_key": "3_2059926017658277888",
+              "start": 55,
+              "url": "https://t.co/08nLGLjLJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060314048475083015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059926024461390004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GacchiRika: コンブのベッドに包まれる赤ちゃんアザラシ\n\n#襟裳岬\n#コンブボートクルーズ https://t.co/08nLGLjLJV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059926017658277888"
+          ]
+        },
+        "author_id": "854362191675379716",
+        "conversation_id": "2059926024461390004",
+        "created_at": "2026-05-28T09:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059926024461390004"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "襟裳岬"
+            },
+            {
+              "end": 38,
+              "start": 27,
+              "tag": "コンブボートクルーズ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/08nLGLjLJV",
+              "end": 62,
+              "expanded_url": "https://x.com/GacchiRika/status/2059926024461390004/photo/1",
+              "media_key": "3_2059926017658277888",
+              "start": 39,
+              "url": "https://t.co/08nLGLjLJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059926024461390004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 21600,
+          "like_count": 1580,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "コンブのベッドに包まれる赤ちゃんアザラシ\n\n#襟裳岬\n#コンブボートクルーズ https://t.co/08nLGLjLJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 178,
+          "like_count": 4701,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2281
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T15:53:14.000Z",
+        "description": "アザラシを求めて全国行脚する関西人🦭  キャラはゴマちゃん、しろたん推し。時々、お絵描き。ヘッダーのアザラシフォントは自作(*´ω｀*っ)3 オリジナルあざらしグッズはリンクのwebサイトから購入できます♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zazzle.co.jp/store/gacchiri…",
+                "end": 23,
+                "expanded_url": "https://www.zazzle.co.jp/store/gacchirika?rf=238098761061813127",
+                "start": 0,
+                "url": "https://t.co/Kz1itMXL7M"
+              }
+            ]
+          }
+        },
+        "id": "854362191675379716",
+        "location": "アザラシックパーク アザラシティ in 関西",
+        "name": "ガッチリカ",
+        "pinned_tweet_id": "1401511957048352768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873333546917756928/7nk3MNPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11428,
+          "following_count": 1062,
+          "like_count": 325689,
+          "listed_count": 144,
+          "media_count": 8521,
+          "tweet_count": 37672
+        },
+        "url": "https://t.co/Kz1itMXL7M",
+        "username": "GacchiRika",
+        "verified": false
+      }
+    ]
+  }
+}

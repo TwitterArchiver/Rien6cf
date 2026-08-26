@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066243111958003712"
+      ],
+      "media_source_tweet_id": [
+        "2066243172246995241"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066391139620647027",
+    "created_at": "2026-06-15T05:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066391139620647027"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "ワモンアザラシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1098088869533110272",
+          "start": 3,
+          "username": "youjimalizi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7acIoyOt26",
+          "end": 82,
+          "expanded_url": "https://x.com/youjimalizi/status/2066243172246995241/video/1",
+          "media_key": "7_2066243111958003712",
+          "start": 59,
+          "url": "https://t.co/7acIoyOt26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066391139620647027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066243172246995241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youjimalizi: ようちゃんの超省エネジャンプと超低空飛行機🥹\n#とっかりセンター #ワモンアザラシ https://t.co/7acIoyOt26"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49094,
+        "height": 720,
+        "media_key": "7_2066243111958003712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066243111958003712/pu/img/fv9fy4yayf4R87BS.jpg",
+        "public_metrics": {
+          "view_count": 5638
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066243111958003712/pu/vid/avc1/422x270/Wt8YvkO2nXRLWJH9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066243111958003712/pu/vid/avc1/562x360/o0KHsAufjBttBYy-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066243111958003712/pu/vid/avc1/1126x720/pRVowApzX12tx9ty.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066243111958003712/pu/pl/kVo4_wbNrsl5AgK8.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066243111958003712"
+          ],
+          "media_source_tweet_id": [
+            "2066243172246995241"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066391139620647027",
+        "created_at": "2026-06-15T05:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066391139620647027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1098088869533110272",
+              "start": 3,
+              "username": "youjimalizi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7acIoyOt26",
+              "end": 82,
+              "expanded_url": "https://x.com/youjimalizi/status/2066243172246995241/video/1",
+              "media_key": "7_2066243111958003712",
+              "start": 59,
+              "url": "https://t.co/7acIoyOt26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066391139620647027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066243172246995241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youjimalizi: ようちゃんの超省エネジャンプと超低空飛行機🥹\n#とっかりセンター #ワモンアザラシ https://t.co/7acIoyOt26"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066243111958003712"
+          ]
+        },
+        "author_id": "1098088869533110272",
+        "conversation_id": "2066243172246995241",
+        "created_at": "2026-06-14T19:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066243172246995241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7acIoyOt26",
+              "end": 65,
+              "expanded_url": "https://x.com/youjimalizi/status/2066243172246995241/video/1",
+              "media_key": "7_2066243111958003712",
+              "start": 42,
+              "url": "https://t.co/7acIoyOt26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066243172246995241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 18033,
+          "like_count": 1501,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "ようちゃんの超省エネジャンプと超低空飛行機🥹\n#とっかりセンター #ワモンアザラシ https://t.co/7acIoyOt26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 5769,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2602
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-20T05:16:02.000Z",
+        "description": "ワモンアザラシのミゾレくんの大ファンです！",
+        "id": "1098088869533110272",
+        "name": "mariko41250",
+        "pinned_tweet_id": "2005287459094245537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1310781271291781120/K_z65BSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 307,
+          "like_count": 141738,
+          "listed_count": 20,
+          "media_count": 2104,
+          "tweet_count": 11207
+        },
+        "username": "youjimalizi",
+        "verified": false
+      }
+    ]
+  }
+}

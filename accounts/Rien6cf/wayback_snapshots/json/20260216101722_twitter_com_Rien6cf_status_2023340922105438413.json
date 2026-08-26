@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023199442904784896"
+      ],
+      "media_source_tweet_id": [
+        "2023199447765971213"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2023340922105438413",
+    "created_at": "2026-02-16T10:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023340922105438413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "889246380165877762",
+          "start": 3,
+          "username": "AmiriLover"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TsjXdd4ci5",
+          "end": 51,
+          "expanded_url": "https://x.com/AmiriLover/status/2023199447765971213/photo/1",
+          "media_key": "3_2023199442904784896",
+          "start": 28,
+          "url": "https://t.co/TsjXdd4ci5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023340922105438413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 715
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023199447765971213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmiriLover: コンビニはどれが好き？ https://t.co/TsjXdd4ci5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_2023199442904784896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPZLIgboAAKCpz.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023199442904784896"
+          ],
+          "media_source_tweet_id": [
+            "2023199447765971213"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2023340922105438413",
+        "created_at": "2026-02-16T10:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023340922105438413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "889246380165877762",
+              "start": 3,
+              "username": "AmiriLover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsjXdd4ci5",
+              "end": 51,
+              "expanded_url": "https://x.com/AmiriLover/status/2023199447765971213/photo/1",
+              "media_key": "3_2023199442904784896",
+              "start": 28,
+              "url": "https://t.co/TsjXdd4ci5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023340922105438413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 715
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023199447765971213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmiriLover: コンビニはどれが好き？ https://t.co/TsjXdd4ci5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023199442904784896"
+          ]
+        },
+        "author_id": "889246380165877762",
+        "conversation_id": "2023199447765971213",
+        "created_at": "2026-02-16T00:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023199447765971213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsjXdd4ci5",
+              "end": 35,
+              "expanded_url": "https://x.com/AmiriLover/status/2023199447765971213/photo/1",
+              "media_key": "3_2023199442904784896",
+              "start": 12,
+              "url": "https://t.co/TsjXdd4ci5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023199447765971213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 847,
+          "impression_count": 939291,
+          "like_count": 2871,
+          "quote_count": 57,
+          "reply_count": 90,
+          "retweet_count": 715
+        },
+        "reply_settings": "everyone",
+        "text": "コンビニはどれが好き？ https://t.co/TsjXdd4ci5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 424
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-23T22:10:33.000Z",
+        "description": "無所属完全個人Vtuber/日常垢→@687081 避難用→@AmiriLoves 相方？→@ZERO_GTR_0 /お父様→@hassy_animation /案件はDMへ/FA→#Ami_Art #あみあーと ファンネーム→ #あみとも その他→#あみりんぐ #あみりみてみて ※投稿内容は他画像引用してます",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 91,
+                "tag": "Ami_Art"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "tag": "あみあーと"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "あみとも"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "あみりんぐ"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "tag": "あみりみてみて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "687081"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "AmiriLoves"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "ZERO_GTR_0"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "hassy_animation"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AmiriLover",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@AmiriLover",
+                "start": 0,
+                "url": "https://t.co/HdLqYIauDY"
+              }
+            ]
+          }
+        },
+        "id": "889246380165877762",
+        "location": "インターネットの中 ↓優しい人チャンネル登録お願い！",
+        "name": "あみりちゃん@Vtuberになりました🦋ෆ˚*",
+        "pinned_tweet_id": "1863757558756036862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353282959764144134/Pq6To4d5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97624,
+          "following_count": 6521,
+          "like_count": 125616,
+          "listed_count": 46,
+          "media_count": 9016,
+          "tweet_count": 37778
+        },
+        "url": "https://t.co/HdLqYIauDY",
+        "username": "AmiriLover",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032151879657144450",
+    "created_at": "2026-03-12T17:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032151879657144450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minastear030/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/minastear030/status/2032144394045047100",
+          "start": 3,
+          "url": "https://t.co/V43q1GcBr8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032151879657144450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032144394045047100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小烟 https://t.co/V43q1GcBr8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032151879657144450",
+        "created_at": "2026-03-12T17:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032151879657144450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minastear030/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/minastear030/status/2032144394045047100",
+              "start": 3,
+              "url": "https://t.co/V43q1GcBr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032151879657144450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032144394045047100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小烟 https://t.co/V43q1GcBr8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031954172732719112",
+        "conversation_id": "2032144394045047100",
+        "created_at": "2026-03-12T17:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032144394045047100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032144394045047100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前的号被不知道什么人举报冻结了😿申诉之后直接给特么我封了我也要疯了。那个号还是我纯良时期搞luxiem的号谁能还我小咪。。。。。\n然后我现在如闪电般归来了😾谁想转转助我早日找回互关，，，，，。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2032136717285958050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 107,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1010
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T04:43:39.000Z",
+        "description": "前世@minastear1︱艰难找回互关中︱18↑︱非健全︱oder︱友跨顺女泛性恋︱之前这里有一段个性签名但是我忘了是什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "minastear1"
+              }
+            ]
+          }
+        },
+        "id": "2031954172732719112",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2032141633345712556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032141006750302211/tUre2IlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Minastear030",
+        "verified": false
+      }
+    ]
+  }
+}

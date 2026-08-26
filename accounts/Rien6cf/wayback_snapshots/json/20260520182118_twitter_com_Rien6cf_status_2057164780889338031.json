@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2057164780889338031",
+    "created_at": "2026-05-20T18:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057164780889338031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "415200410",
+          "start": 3,
+          "username": "odate_city"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057164780889338031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10473
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057018635764535334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odate_city: 博物館に珍しいお客さんが来ました。\n天然記念物のヤマネです。\nヤマネは、日本固有種のげっ歯類で、背中に黒い線が1本入っています。\nお客さんとして来てもらったついでに身体測定をしました。尻尾を含めて10cmと、とても小さいですね。\n\n【歴史文化課】…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2057018458433560576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv_Y69aoAAa0si.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2057018458429362176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv_Y68akAA1sbO.jpg",
+        "width": 4032
+      },
+      {
+        "duration_ms": 4958,
+        "height": 1080,
+        "media_key": "13_2057018458437730304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057018458437730304/img/CAPAw_qn0RFUnwDK.jpg",
+        "public_metrics": {
+          "view_count": 323086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057018458437730304/vid/avc1/480x270/DTY7GBNPH3-YufMD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057018458437730304/vid/avc1/640x360/FHyaefwoqN6r7Y4L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057018458437730304/vid/avc1/1280x720/E4ybJofHBxBKzjCb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057018458437730304/pl/_rWdZUJu_YzFHcIZ.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2057164780889338031",
+        "created_at": "2026-05-20T18:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057164780889338031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "415200410",
+              "start": 3,
+              "username": "odate_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057164780889338031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10473
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057018635764535334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odate_city: 博物館に珍しいお客さんが来ました。\n天然記念物のヤマネです。\nヤマネは、日本固有種のげっ歯類で、背中に黒い線が1本入っています。\nお客さんとして来てもらったついでに身体測定をしました。尻尾を含めて10cmと、とても小さいですね。\n\n【歴史文化課】…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057018458433560576",
+            "3_2057018458429362176",
+            "13_2057018458437730304"
+          ]
+        },
+        "author_id": "415200410",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1295834272062795776",
+              "name": "Hokkaido & Tohoku region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1295846690356776960",
+              "name": "Akita Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1295846690356776960",
+              "name": "Akita Prefecture"
+            }
+          }
+        ],
+        "conversation_id": "2057018635764535334",
+        "created_at": "2026-05-20T08:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057018635764535334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "大館市"
+            },
+            {
+              "end": 136,
+              "start": 128,
+              "tag": "大館郷土博物館"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "ヤマネ"
+            },
+            {
+              "end": 148,
+              "start": 142,
+              "tag": "天然記念物"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpDKfq4eXr",
+              "end": 172,
+              "expanded_url": "https://x.com/odate_city/status/2057018635764535334/video/1",
+              "media_key": "3_2057018458433560576",
+              "start": 149,
+              "url": "https://t.co/cpDKfq4eXr"
+            },
+            {
+              "display_url": "pic.x.com/cpDKfq4eXr",
+              "end": 172,
+              "expanded_url": "https://x.com/odate_city/status/2057018635764535334/video/1",
+              "media_key": "3_2057018458429362176",
+              "start": 149,
+              "url": "https://t.co/cpDKfq4eXr"
+            },
+            {
+              "display_url": "pic.x.com/cpDKfq4eXr",
+              "end": 172,
+              "expanded_url": "https://x.com/odate_city/status/2057018635764535334/video/1",
+              "media_key": "13_2057018458437730304",
+              "start": 149,
+              "url": "https://t.co/cpDKfq4eXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057018635764535334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3722,
+          "impression_count": 1149529,
+          "like_count": 48085,
+          "quote_count": 368,
+          "reply_count": 109,
+          "retweet_count": 10473
+        },
+        "reply_settings": "everyone",
+        "text": "博物館に珍しいお客さんが来ました。\n天然記念物のヤマネです。\nヤマネは、日本固有種のげっ歯類で、背中に黒い線が1本入っています。\nお客さんとして来てもらったついでに身体測定をしました。尻尾を含めて10cmと、とても小さいですね。\n\n【歴史文化課】#大館市 #大館郷土博物館 #ヤマネ #天然記念物 https://t.co/cpDKfq4eXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 169,
+          "like_count": 4309,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2160
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-18T01:22:28.000Z",
+        "description": "大館市の公式アカウントです。行政や観光、防災などの大館市に関する情報を発信します。大館市からのフォローや返信は行いません。ご意見等は担当課へ直接お問い合わせください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "city.odate.lg.jp",
+                "end": 23,
+                "expanded_url": "https://www.city.odate.lg.jp/",
+                "start": 0,
+                "url": "https://t.co/vMWtPwXSdt"
+              }
+            ]
+          }
+        },
+        "id": "415200410",
+        "location": "秋田県大館市字中城20",
+        "name": "秋田県大館市",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1088705924695392256/GKtyuwLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7051,
+          "following_count": 3,
+          "like_count": 20,
+          "listed_count": 153,
+          "media_count": 1427,
+          "tweet_count": 5842
+        },
+        "url": "https://t.co/vMWtPwXSdt",
+        "username": "odate_city",
+        "verified": false
+      }
+    ]
+  }
+}

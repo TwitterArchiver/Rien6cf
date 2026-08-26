@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056443912110354688",
+    "created_at": "2026-05-18T18:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056443912110354688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4887715857",
+          "start": 3,
+          "username": "forte0204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056443912110354688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056251377505161697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @forte0204: VY1とVY2でヒット曲を出すことがどれだけ偉大か"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056443912110354688",
+        "created_at": "2026-05-18T18:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056443912110354688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4887715857",
+              "start": 3,
+              "username": "forte0204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056443912110354688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056251377505161697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @forte0204: VY1とVY2でヒット曲を出すことがどれだけ偉大か"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4887715857",
+        "conversation_id": "2056251377505161697",
+        "created_at": "2026-05-18T05:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056251377505161697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056251377505161697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18335,
+          "like_count": 1160,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "VY1とVY2でヒット曲を出すことがどれだけ偉大か"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 169,
+          "like_count": 4185,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2133
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-08T10:57:15.000Z",
+        "description": "VOCALOIDが好き/20↑/ピアプロキャラクターズ（特にMEIKO）/好きな年代は2010-2013/プロセカ/100選（ https://t.co/NnUO8SO6L7 ）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kiite.jp/playlist/xDIyP…",
+                "end": 87,
+                "expanded_url": "https://kiite.jp/playlist/xDIyP7oqK3",
+                "start": 64,
+                "url": "https://t.co/NnUO8SO6L7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.mu/forte1105",
+                "end": 23,
+                "expanded_url": "https://note.mu/forte1105",
+                "start": 0,
+                "url": "https://t.co/eb6ogGJhEI"
+              }
+            ]
+          }
+        },
+        "id": "4887715857",
+        "name": "フォルテ",
+        "pinned_tweet_id": "2029401763401605561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777734965016596480/IGcJ7uu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 634,
+          "like_count": 54708,
+          "listed_count": 25,
+          "media_count": 2227,
+          "tweet_count": 35407
+        },
+        "url": "https://t.co/eb6ogGJhEI",
+        "username": "forte0204",
+        "verified": false
+      }
+    ]
+  }
+}

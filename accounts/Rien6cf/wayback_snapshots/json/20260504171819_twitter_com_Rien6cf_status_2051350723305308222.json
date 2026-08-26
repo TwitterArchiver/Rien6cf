@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051292731641917440"
+      ],
+      "media_source_tweet_id": [
+        "2051292742446387612"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2051350723305308222",
+    "created_at": "2026-05-04T17:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051350723305308222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1119461599725514752",
+          "start": 3,
+          "username": "32ki_May"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8VoSefyv0s",
+          "end": 79,
+          "expanded_url": "https://x.com/32ki_May/status/2051292742446387612/photo/1",
+          "media_key": "3_2051292731641917440",
+          "start": 56,
+          "url": "https://t.co/8VoSefyv0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051350723305308222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051292742446387612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @32ki_May: 10949585829910年振りにカラオケ来たらなんかおれの曲が沢山あってワロタ https://t.co/8VoSefyv0s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2051292731641917440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHen3wfbcAAPMz9.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051292731641917440"
+          ],
+          "media_source_tweet_id": [
+            "2051292742446387612"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2051350723305308222",
+        "created_at": "2026-05-04T17:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051350723305308222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1119461599725514752",
+              "start": 3,
+              "username": "32ki_May"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VoSefyv0s",
+              "end": 79,
+              "expanded_url": "https://x.com/32ki_May/status/2051292742446387612/photo/1",
+              "media_key": "3_2051292731641917440",
+              "start": 56,
+              "url": "https://t.co/8VoSefyv0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051350723305308222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051292742446387612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @32ki_May: 10949585829910年振りにカラオケ来たらなんかおれの曲が沢山あってワロタ https://t.co/8VoSefyv0s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051292731641917440"
+          ]
+        },
+        "author_id": "1119461599725514752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2051292742446387612",
+        "created_at": "2026-05-04T13:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051292742446387612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VoSefyv0s",
+              "end": 65,
+              "expanded_url": "https://x.com/32ki_May/status/2051292742446387612/photo/1",
+              "media_key": "3_2051292731641917440",
+              "start": 42,
+              "url": "https://t.co/8VoSefyv0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051292742446387612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 31014,
+          "like_count": 1438,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "10949585829910年振りにカラオケ来たらなんかおれの曲が沢山あってワロタ https://t.co/8VoSefyv0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 163,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1856
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T04:43:38.000Z",
+        "description": "VOCALOIDと音楽｜FA：#32killust\nniconico：https://t.co/47ZNtFTdSc\nYouTube：https://t.co/eBFnSqvJsn",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 15,
+                "tag": "32killust"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/88956260",
+                "end": 58,
+                "expanded_url": "https://www.nicovideo.jp/user/88956260",
+                "start": 35,
+                "url": "https://t.co/47ZNtFTdSc"
+              },
+              {
+                "display_url": "youtube.com/@32ki_may",
+                "end": 90,
+                "expanded_url": "https://youtube.com/@32ki_may",
+                "start": 67,
+                "url": "https://t.co/eBFnSqvJsn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/32kimay",
+                "end": 23,
+                "expanded_url": "http://lit.link/32kimay",
+                "start": 0,
+                "url": "https://t.co/oWQauqMMCx"
+              }
+            ]
+          }
+        },
+        "id": "1119461599725514752",
+        "location": "✉️ 32ki.nico@gmail.com",
+        "name": "サツキ",
+        "pinned_tweet_id": "2039274324830609802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039349268440662016/4yVg2bu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67978,
+          "following_count": 313,
+          "like_count": 1126,
+          "listed_count": 146,
+          "media_count": 539,
+          "tweet_count": 2310
+        },
+        "url": "https://t.co/oWQauqMMCx",
+        "username": "32ki_May",
+        "verified": true
+      }
+    ]
+  }
+}

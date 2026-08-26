@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028813021116833792"
+      ],
+      "media_source_tweet_id": [
+        "2028813029094334503"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      }
+    ],
+    "conversation_id": "2028876599794520459",
+    "created_at": "2026-03-03T16:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028876599794520459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1238448831869550592",
+          "start": 3,
+          "username": "pikapika_kiraaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rrT178kG2M",
+          "end": 72,
+          "expanded_url": "https://x.com/pikapika_kiraaa/status/2028813029094334503/photo/1",
+          "media_key": "3_2028813021116833792",
+          "start": 49,
+          "url": "https://t.co/rrT178kG2M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028876599794520459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 337
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028813029094334503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pikapika_kiraaa: 歌い手懐古老人会開きたい、こちら当方の発狂セトリです。 https://t.co/rrT178kG2M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028813021116833792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfKsY9bIAAkIyl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028813021116833792"
+          ],
+          "media_source_tweet_id": [
+            "2028813029094334503"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          }
+        ],
+        "conversation_id": "2028876599794520459",
+        "created_at": "2026-03-03T16:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028876599794520459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1238448831869550592",
+              "start": 3,
+              "username": "pikapika_kiraaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrT178kG2M",
+              "end": 72,
+              "expanded_url": "https://x.com/pikapika_kiraaa/status/2028813029094334503/photo/1",
+              "media_key": "3_2028813021116833792",
+              "start": 49,
+              "url": "https://t.co/rrT178kG2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028876599794520459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 337
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028813029094334503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pikapika_kiraaa: 歌い手懐古老人会開きたい、こちら当方の発狂セトリです。 https://t.co/rrT178kG2M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028813021116833792"
+          ]
+        },
+        "author_id": "1238448831869550592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          }
+        ],
+        "conversation_id": "2028813029094334503",
+        "created_at": "2026-03-03T12:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028813029094334503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrT178kG2M",
+              "end": 51,
+              "expanded_url": "https://x.com/pikapika_kiraaa/status/2028813029094334503/photo/1",
+              "media_key": "3_2028813021116833792",
+              "start": 28,
+              "url": "https://t.co/rrT178kG2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028813029094334503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 99171,
+          "like_count": 3005,
+          "quote_count": 628,
+          "reply_count": 8,
+          "retweet_count": 337
+        },
+        "reply_settings": "everyone",
+        "text": "歌い手懐古老人会開きたい、こちら当方の発狂セトリです。 https://t.co/rrT178kG2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 96,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 715
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T12:56:36.000Z",
+        "description": "20↑ /︎︎ ♀/♡→歌い手☔️🤍 🚢❤️ ヨルシカ とーらぶ(つる こりゅ にゃん) 𝙉 𝙚 𝙭 𝙩 ︎ ⇝ 🚢春ツ秋田岩手水戸東京両日 ヨルシカ仙台 めいフェス AtR仙台",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kiraaaaakrg",
+                "end": 23,
+                "expanded_url": "https://lit.link/kiraaaaakrg",
+                "start": 0,
+                "url": "https://t.co/h7eHVweJWq"
+              }
+            ]
+          }
+        },
+        "id": "1238448831869550592",
+        "location": "2019",
+        "name": "るんるんくらげ𓂃 𓈒𓏸 𓋜 . *",
+        "pinned_tweet_id": "2026637121566683599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845391089588633603/kLBiLQrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 132,
+          "like_count": 3157,
+          "listed_count": 10,
+          "media_count": 623,
+          "tweet_count": 4113
+        },
+        "url": "https://t.co/h7eHVweJWq",
+        "username": "pikapika_kiraaa",
+        "verified": false
+      }
+    ]
+  }
+}

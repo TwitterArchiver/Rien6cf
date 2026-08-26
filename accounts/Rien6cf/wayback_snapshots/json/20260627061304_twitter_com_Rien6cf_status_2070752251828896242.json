@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1417571577583992835",
+          "name": "Guinea pig"
+        }
+      }
+    ],
+    "conversation_id": "2070752251828896242",
+    "created_at": "2026-06-27T06:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070752251828896242"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 56,
+          "tag": "モルモット"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1156741970",
+          "start": 3,
+          "username": "InokashiraZoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070752251828896242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 559
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070704867178643614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @InokashiraZoo: 本日6/27は台風の接近にともない、臨時休園となりました。\n\n6/24に #モルモット の赤ちゃんが3頭生まれました。\n1頭は奥にかくれています。\n\nこの後も雨風が心配な状況が続きます。警戒を怠らず、どうぞご安全にお過ごしください。\n\n#文…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23923,
+        "height": 720,
+        "media_key": "13_2070704827328512000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070704827328512000/img/L8K_2M6cwcmBQxaN.jpg",
+        "public_metrics": {
+          "view_count": 29811
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070704827328512000/vid/avc1/480x270/B2ylt7UB_iJ7sTZx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070704827328512000/vid/avc1/640x360/uRn-VlsAe7VZgjKb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070704827328512000/vid/avc1/1280x720/oId8_ZvgAvN1EWFj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070704827328512000/pl/H6MVUZsYXiXSd741.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1417571577583992835",
+              "name": "Guinea pig"
+            }
+          }
+        ],
+        "conversation_id": "2070752251828896242",
+        "created_at": "2026-06-27T06:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070752251828896242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "モルモット"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1156741970",
+              "start": 3,
+              "username": "InokashiraZoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070752251828896242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 559
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070704867178643614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @InokashiraZoo: 本日6/27は台風の接近にともない、臨時休園となりました。\n\n6/24に #モルモット の赤ちゃんが3頭生まれました。\n1頭は奥にかくれています。\n\nこの後も雨風が心配な状況が続きます。警戒を怠らず、どうぞご安全にお過ごしください。\n\n#文…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070704827328512000"
+          ]
+        },
+        "author_id": "1156741970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          }
+        ],
+        "conversation_id": "2070704867178643614",
+        "created_at": "2026-06-27T03:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070704867178643614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "モルモット"
+            },
+            {
+              "end": 127,
+              "start": 118,
+              "tag": "文化園の動物たち"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/elcIeMmjjw",
+              "end": 151,
+              "expanded_url": "https://x.com/InokashiraZoo/status/2070704867178643614/video/1",
+              "media_key": "13_2070704827328512000",
+              "start": 128,
+              "url": "https://t.co/elcIeMmjjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070704867178643614",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 96176,
+          "like_count": 4181,
+          "quote_count": 19,
+          "reply_count": 1,
+          "retweet_count": 559
+        },
+        "reply_settings": "everyone",
+        "text": "本日6/27は台風の接近にともない、臨時休園となりました。\n\n6/24に #モルモット の赤ちゃんが3頭生まれました。\n1頭は奥にかくれています。\n\nこの後も雨風が心配な状況が続きます。警戒を怠らず、どうぞご安全にお過ごしください。\n\n#文化園の動物たち https://t.co/elcIeMmjjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 192,
+          "like_count": 6392,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2712
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-07T10:31:51.000Z",
+        "description": "井の頭自然文化園の公式アカウント。動物ニュースやイベント、園内の話題など、最新情報をお届けします。リプライ等には原則的にご対応しておりません。ご了承ください。お問い合わせは☎0422-46-1100まで。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tokyo-zoo.net/zoo/ino/",
+                "end": 23,
+                "expanded_url": "http://www.tokyo-zoo.net/zoo/ino/",
+                "start": 0,
+                "url": "https://t.co/rVlizgVMIk"
+              }
+            ]
+          }
+        },
+        "id": "1156741970",
+        "location": "東京都武蔵野市",
+        "name": "井の頭自然文化園［公式］",
+        "pinned_tweet_id": "2070432557905347005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400650363561074689/mtyiu0q5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154630,
+          "following_count": 14,
+          "like_count": 155,
+          "listed_count": 3392,
+          "media_count": 8990,
+          "tweet_count": 9591
+        },
+        "url": "https://t.co/rVlizgVMIk",
+        "username": "InokashiraZoo",
+        "verified": false
+      }
+    ]
+  }
+}

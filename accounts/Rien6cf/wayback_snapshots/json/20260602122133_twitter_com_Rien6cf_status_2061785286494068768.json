@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2061785286494068768",
+    "created_at": "2026-06-02T12:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061785286494068768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464881036127793152",
+          "start": 3,
+          "username": "Rury_VRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061785286494068768",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 507
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061653350534479910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rury_VRC: 내가 셋다 해봤는데 투신은 그냥 여기저기 다 골절되고 병원비만 깨졌고 목매기는 목에 자국이 생기고 발성기관을 다쳤으며 약물은 내 일상의 3일정도가 갑자기 스킵되고 나 뭐하고있었더라 한 다음 간만 개박살나고 끝남"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2061785286494068768",
+        "created_at": "2026-06-02T12:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061785286494068768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464881036127793152",
+              "start": 3,
+              "username": "Rury_VRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061785286494068768",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061653350534479910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rury_VRC: 내가 셋다 해봤는데 투신은 그냥 여기저기 다 골절되고 병원비만 깨졌고 목매기는 목에 자국이 생기고 발성기관을 다쳤으며 약물은 내 일상의 3일정도가 갑자기 스킵되고 나 뭐하고있었더라 한 다음 간만 개박살나고 끝남"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464881036127793152",
+        "conversation_id": "2061653350534479910",
+        "created_at": "2026-06-02T03:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061653350534479910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fuyulockaccoun…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/fuyulockaccount/status/2061117680187593041",
+              "start": 118,
+              "url": "https://t.co/AfZgA84EgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061653350534479910",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 602,
+          "impression_count": 511771,
+          "like_count": 3975,
+          "quote_count": 308,
+          "reply_count": 14,
+          "retweet_count": 507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061117680187593041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "내가 셋다 해봤는데 투신은 그냥 여기저기 다 골절되고 병원비만 깨졌고 목매기는 목에 자국이 생기고 발성기관을 다쳤으며 약물은 내 일상의 3일정도가 갑자기 스킵되고 나 뭐하고있었더라 한 다음 간만 개박살나고 끝남 https://t.co/AfZgA84EgI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 184,
+          "like_count": 4953,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2358
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T08:57:14.000Z",
+        "description": "Otherkin\n\n일상계 / 말랑말랑쇼트케이크한일상 |",
+        "id": "1464881036127793152",
+        "location": "💕 사랑스러운 약혼자씨랑 러브러브중 💕",
+        "name": "루리",
+        "pinned_tweet_id": "1906788403829784994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944825553858478080/cIRi03C2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 649,
+          "like_count": 25587,
+          "listed_count": 5,
+          "media_count": 1413,
+          "tweet_count": 22133
+        },
+        "username": "Rury_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

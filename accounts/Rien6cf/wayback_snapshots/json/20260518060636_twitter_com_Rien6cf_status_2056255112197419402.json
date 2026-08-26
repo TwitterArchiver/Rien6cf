@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056006538956083200"
+      ],
+      "media_source_tweet_id": [
+        "2056006606350176351"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056255112197419402",
+    "created_at": "2026-05-18T06:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056255112197419402"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "海遊館"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "ワモンアザラシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809157246716395520",
+          "start": 3,
+          "username": "onpudesuyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XEhRZLLV2a",
+          "end": 82,
+          "expanded_url": "https://x.com/onpudesuyo/status/2056006606350176351/video/1",
+          "media_key": "13_2056006538956083200",
+          "start": 59,
+          "url": "https://t.co/XEhRZLLV2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056255112197419402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 367
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056006606350176351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onpudesuyo: トレーニングを頑張るユキちゃん🐟\n\n2026/05/17\n#海遊館\n#ワモンアザラシ https://t.co/XEhRZLLV2a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10255,
+        "height": 1280,
+        "media_key": "13_2056006538956083200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056006538956083200/img/2CUhksL_GNDmZljx.jpg",
+        "public_metrics": {
+          "view_count": 9400
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056006538956083200/vid/avc1/320x568/G-lkwMDsSdlT-PZC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056006538956083200/vid/avc1/480x852/7AND81Cwo6oF32d0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056006538956083200/vid/avc1/720x1280/WOmetbAl5Vs0yCvH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056006538956083200/pl/cNxDOOcGorxwtiiE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056006538956083200"
+          ],
+          "media_source_tweet_id": [
+            "2056006606350176351"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056255112197419402",
+        "created_at": "2026-05-18T06:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056255112197419402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "海遊館"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809157246716395520",
+              "start": 3,
+              "username": "onpudesuyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEhRZLLV2a",
+              "end": 82,
+              "expanded_url": "https://x.com/onpudesuyo/status/2056006606350176351/video/1",
+              "media_key": "13_2056006538956083200",
+              "start": 59,
+              "url": "https://t.co/XEhRZLLV2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056255112197419402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 367
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056006606350176351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onpudesuyo: トレーニングを頑張るユキちゃん🐟\n\n2026/05/17\n#海遊館\n#ワモンアザラシ https://t.co/XEhRZLLV2a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056006538956083200"
+          ]
+        },
+        "author_id": "1809157246716395520",
+        "conversation_id": "2056006606350176351",
+        "created_at": "2026-05-17T13:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056006606350176351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "海遊館"
+            },
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEhRZLLV2a",
+              "end": 66,
+              "expanded_url": "https://x.com/onpudesuyo/status/2056006606350176351/video/1",
+              "media_key": "13_2056006538956083200",
+              "start": 43,
+              "url": "https://t.co/XEhRZLLV2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056006606350176351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 40354,
+          "like_count": 2494,
+          "quote_count": 18,
+          "reply_count": 1,
+          "retweet_count": 367
+        },
+        "reply_settings": "everyone",
+        "text": "トレーニングを頑張るユキちゃん🐟\n\n2026/05/17\n#海遊館\n#ワモンアザラシ https://t.co/XEhRZLLV2a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 167,
+          "like_count": 4147,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2102
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T09:28:37.000Z",
+        "description": "海獣鰭脚類LOVE🦭🦦🦑 | ポケGO図鑑集め | 📸コンデジ欲しい🩶8/1,11/7,11/29,2/20 🦭6月うみたまご、8月紋別",
+        "id": "1809157246716395520",
+        "location": "4-10月大阪→静岡県U(出張/ライブ遠征/アザ活)",
+        "name": "Lilly🦭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884266453802835971/eMTDgIH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 340,
+          "like_count": 86484,
+          "listed_count": 1,
+          "media_count": 570,
+          "tweet_count": 3908
+        },
+        "username": "onpudesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

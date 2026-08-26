@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048231908958707712"
+      ],
+      "media_source_tweet_id": [
+        "2048231913576677744"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2048314641932316684",
+    "created_at": "2026-04-26T08:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048314641932316684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040018517718929408",
+          "start": 3,
+          "username": "mee_1241"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HbQBOey1zx",
+          "end": 49,
+          "expanded_url": "https://x.com/mee_1241/status/2048231913576677744/photo/1",
+          "media_key": "3_2048231908958707712",
+          "start": 26,
+          "url": "https://t.co/HbQBOey1zx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048314641932316684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 490
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048231913576677744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mee_1241: ｺﾘ何が済なの❓去勢❓ https://t.co/HbQBOey1zx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2048231908958707712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzIEbcaoAAOPNi.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048231908958707712"
+          ],
+          "media_source_tweet_id": [
+            "2048231913576677744"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2048314641932316684",
+        "created_at": "2026-04-26T08:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048314641932316684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040018517718929408",
+              "start": 3,
+              "username": "mee_1241"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbQBOey1zx",
+              "end": 49,
+              "expanded_url": "https://x.com/mee_1241/status/2048231913576677744/photo/1",
+              "media_key": "3_2048231908958707712",
+              "start": 26,
+              "url": "https://t.co/HbQBOey1zx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048314641932316684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 490
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048231913576677744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mee_1241: ｺﾘ何が済なの❓去勢❓ https://t.co/HbQBOey1zx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048231908958707712"
+          ]
+        },
+        "author_id": "2040018517718929408",
+        "conversation_id": "2048231913576677744",
+        "created_at": "2026-04-26T02:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048231913576677744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbQBOey1zx",
+              "end": 35,
+              "expanded_url": "https://x.com/mee_1241/status/2048231913576677744/photo/1",
+              "media_key": "3_2048231908958707712",
+              "start": 12,
+              "url": "https://t.co/HbQBOey1zx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048231913576677744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 774,
+          "impression_count": 2275089,
+          "like_count": 25519,
+          "quote_count": 126,
+          "reply_count": 123,
+          "retweet_count": 490
+        },
+        "reply_settings": "everyone",
+        "text": "ｺﾘ何が済なの❓去勢❓ https://t.co/HbQBOey1zx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 147,
+          "like_count": 3053,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1743
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T10:54:05.000Z",
+        "description": "ljc/顔面コンプ/👊🩸\n初手タメ大歓迎💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/xg4zucwepxhac7s",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/xg4zucwepxhac7s",
+                "start": 0,
+                "url": "https://t.co/e90mhxco2l"
+              }
+            ]
+          }
+        },
+        "id": "2040018517718929408",
+        "location": "無言フォロー失礼します",
+        "name": "他責ちゃん",
+        "pinned_tweet_id": "2040793069096948061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040020463582330880/mmNYNnll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 107,
+          "like_count": 3224,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/e90mhxco2l",
+        "username": "mee_1241",
+        "verified": false
+      }
+    ]
+  }
+}

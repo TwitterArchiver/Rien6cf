@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058317430418751488"
+      ],
+      "media_source_tweet_id": [
+        "2058317434797666530"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058399670242783496",
+    "created_at": "2026-05-24T04:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058399670242783496"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 12,
+          "tag": "1日写真1メイ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1046501992091144192",
+          "start": 3,
+          "username": "110yc3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1JaKX3BuZ",
+          "end": 44,
+          "expanded_url": "https://x.com/110yc3/status/2058317434797666530/photo/1",
+          "media_key": "3_2058317430418751488",
+          "start": 21,
+          "url": "https://t.co/y1JaKX3BuZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058399670242783496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058317434797666530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @110yc3: #1日写真1メイ https://t.co/y1JaKX3BuZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2058317430418751488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJCczCsawAAP-kI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058317430418751488"
+          ],
+          "media_source_tweet_id": [
+            "2058317434797666530"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058399670242783496",
+        "created_at": "2026-05-24T04:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058399670242783496"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "1日写真1メイ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1046501992091144192",
+              "start": 3,
+              "username": "110yc3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1JaKX3BuZ",
+              "end": 44,
+              "expanded_url": "https://x.com/110yc3/status/2058317434797666530/photo/1",
+              "media_key": "3_2058317430418751488",
+              "start": 21,
+              "url": "https://t.co/y1JaKX3BuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058399670242783496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058317434797666530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @110yc3: #1日写真1メイ https://t.co/y1JaKX3BuZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058317430418751488"
+          ]
+        },
+        "author_id": "1046501992091144192",
+        "conversation_id": "2058317434797666530",
+        "created_at": "2026-05-23T22:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058317434797666530"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "1日写真1メイ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1JaKX3BuZ",
+              "end": 32,
+              "expanded_url": "https://x.com/110yc3/status/2058317434797666530/photo/1",
+              "media_key": "3_2058317430418751488",
+              "start": 9,
+              "url": "https://t.co/y1JaKX3BuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058317434797666530",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2078,
+          "like_count": 372,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "other",
+        "text": "#1日写真1メイ https://t.co/y1JaKX3BuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4412,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2201
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-30T20:48:12.000Z",
+        "description": "🌲音ゲー垢になりそうなラッコ垢。弐寺:九段/DJMAX:6B/Instagram→adeliae_pyg/icon:@firunsith",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "firunsith"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/adeliae_pyg/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/adeliae_pyg/",
+                "start": 0,
+                "url": "https://t.co/8jx1mb4wNx"
+              }
+            ]
+          }
+        },
+        "id": "1046501992091144192",
+        "name": "𝕃𝕃𝕆𝕐ℂ𝔼",
+        "pinned_tweet_id": "1807406712238063988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899713562966216705/5BM_sOjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 520,
+          "like_count": 4547,
+          "listed_count": 37,
+          "media_count": 11426,
+          "tweet_count": 50126
+        },
+        "url": "https://t.co/8jx1mb4wNx",
+        "username": "110yc3",
+        "verified": true
+      }
+    ]
+  }
+}

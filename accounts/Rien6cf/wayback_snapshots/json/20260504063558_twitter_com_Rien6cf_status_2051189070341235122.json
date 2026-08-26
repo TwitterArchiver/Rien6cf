@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050897181650100224",
+        "3_2050897181654323200",
+        "3_2050897181658480640",
+        "3_2050897181654335488"
+      ],
+      "media_source_tweet_id": [
+        "2050897186423214168",
+        "2050897186423214168",
+        "2050897186423214168",
+        "2050897186423214168"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2051189070341235122",
+    "created_at": "2026-05-04T06:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051189070341235122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754476798539427840",
+          "start": 3,
+          "username": "nynluvy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Yssnq7O7Q",
+          "end": 58,
+          "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+          "media_key": "3_2050897181650100224",
+          "start": 35,
+          "url": "https://t.co/6Yssnq7O7Q"
+        },
+        {
+          "display_url": "pic.x.com/6Yssnq7O7Q",
+          "end": 58,
+          "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+          "media_key": "3_2050897181654323200",
+          "start": 35,
+          "url": "https://t.co/6Yssnq7O7Q"
+        },
+        {
+          "display_url": "pic.x.com/6Yssnq7O7Q",
+          "end": 58,
+          "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+          "media_key": "3_2050897181658480640",
+          "start": 35,
+          "url": "https://t.co/6Yssnq7O7Q"
+        },
+        {
+          "display_url": "pic.x.com/6Yssnq7O7Q",
+          "end": 58,
+          "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+          "media_key": "3_2050897181654335488",
+          "start": 35,
+          "url": "https://t.co/6Yssnq7O7Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051189070341235122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050897186423214168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nynluvy: 遺伝子勝ち組って若葉のあのための言葉すぎて https://t.co/6Yssnq7O7Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1101,
+        "media_key": "3_2050897181650100224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZAHt8aoAAnBpZ.jpg",
+        "width": 968
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2050897181654323200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZAHt9bEAA38JF.jpg",
+        "width": 1885
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2050897181658480640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZAHt-agAAAqh_.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1165,
+        "media_key": "3_2050897181654335488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZAHt9bQAAxhyJ.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050897181650100224",
+            "3_2050897181654323200",
+            "3_2050897181658480640",
+            "3_2050897181654335488"
+          ],
+          "media_source_tweet_id": [
+            "2050897186423214168",
+            "2050897186423214168",
+            "2050897186423214168",
+            "2050897186423214168"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2051189070341235122",
+        "created_at": "2026-05-04T06:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051189070341235122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754476798539427840",
+              "start": 3,
+              "username": "nynluvy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Yssnq7O7Q",
+              "end": 58,
+              "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+              "media_key": "3_2050897181650100224",
+              "start": 35,
+              "url": "https://t.co/6Yssnq7O7Q"
+            },
+            {
+              "display_url": "pic.x.com/6Yssnq7O7Q",
+              "end": 58,
+              "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+              "media_key": "3_2050897181654323200",
+              "start": 35,
+              "url": "https://t.co/6Yssnq7O7Q"
+            },
+            {
+              "display_url": "pic.x.com/6Yssnq7O7Q",
+              "end": 58,
+              "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+              "media_key": "3_2050897181658480640",
+              "start": 35,
+              "url": "https://t.co/6Yssnq7O7Q"
+            },
+            {
+              "display_url": "pic.x.com/6Yssnq7O7Q",
+              "end": 58,
+              "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+              "media_key": "3_2050897181654335488",
+              "start": 35,
+              "url": "https://t.co/6Yssnq7O7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051189070341235122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050897186423214168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nynluvy: 遺伝子勝ち組って若葉のあのための言葉すぎて https://t.co/6Yssnq7O7Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050897181650100224",
+            "3_2050897181654323200",
+            "3_2050897181658480640",
+            "3_2050897181654335488"
+          ]
+        },
+        "author_id": "1754476798539427840",
+        "conversation_id": "2050897186423214168",
+        "created_at": "2026-05-03T11:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050897186423214168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Yssnq7O7Q",
+              "end": 45,
+              "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+              "media_key": "3_2050897181650100224",
+              "start": 22,
+              "url": "https://t.co/6Yssnq7O7Q"
+            },
+            {
+              "display_url": "pic.x.com/6Yssnq7O7Q",
+              "end": 45,
+              "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+              "media_key": "3_2050897181654323200",
+              "start": 22,
+              "url": "https://t.co/6Yssnq7O7Q"
+            },
+            {
+              "display_url": "pic.x.com/6Yssnq7O7Q",
+              "end": 45,
+              "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+              "media_key": "3_2050897181658480640",
+              "start": 22,
+              "url": "https://t.co/6Yssnq7O7Q"
+            },
+            {
+              "display_url": "pic.x.com/6Yssnq7O7Q",
+              "end": 45,
+              "expanded_url": "https://x.com/nynluvy/status/2050897186423214168/photo/1",
+              "media_key": "3_2050897181654335488",
+              "start": 22,
+              "url": "https://t.co/6Yssnq7O7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050897186423214168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 457,
+          "impression_count": 467659,
+          "like_count": 12743,
+          "quote_count": 143,
+          "reply_count": 14,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "遺伝子勝ち組って若葉のあのための言葉すぎて https://t.co/6Yssnq7O7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 162,
+          "like_count": 3302,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1833
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T12:07:30.000Z",
+        "description": "世界でいちばん†=ﾞ⇂ι Ⳣ ₹な子👉🏻@ILIFE_WAKABA♥︎⁡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "ILIFE_WAKABA"
+              }
+            ]
+          }
+        },
+        "id": "1754476798539427840",
+        "location": "無言フォロー失礼します(ᐡ⩌⩊⩌ᐡ)💤🩷",
+        "name": "みゅ♡",
+        "pinned_tweet_id": "2041023916647579828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983521827629752320/g6fQVoQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 410,
+          "like_count": 16068,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 5160
+        },
+        "username": "nynluvy",
+        "verified": false
+      }
+    ]
+  }
+}

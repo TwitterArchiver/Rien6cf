@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075184277143117824",
+        "3_2075184277155680256",
+        "3_2075184277172498432"
+      ],
+      "media_source_tweet_id": [
+        "2075184286940995901",
+        "2075184286940995901",
+        "2075184286940995901"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2075460797971738719",
+    "created_at": "2026-07-10T06:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075460797971738719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1709504323594465280",
+          "start": 3,
+          "username": "underhalf_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vuhr3zjBib",
+          "end": 54,
+          "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+          "media_key": "3_2075184277143117824",
+          "start": 31,
+          "url": "https://t.co/vuhr3zjBib"
+        },
+        {
+          "display_url": "pic.x.com/vuhr3zjBib",
+          "end": 54,
+          "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+          "media_key": "3_2075184277155680256",
+          "start": 31,
+          "url": "https://t.co/vuhr3zjBib"
+        },
+        {
+          "display_url": "pic.x.com/vuhr3zjBib",
+          "end": 54,
+          "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+          "media_key": "3_2075184277172498432",
+          "start": 31,
+          "url": "https://t.co/vuhr3zjBib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075460797971738719",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075184286940995901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @underhalf_: Smoker trio t2 https://t.co/vuhr3zjBib"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2075184277143117824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyJGvKXYAAJmGP.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2075184277155680256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyJGvNXEAAiOLj.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2075184277172498432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyJGvRXsAAOAhi.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075184277143117824",
+            "3_2075184277155680256",
+            "3_2075184277172498432"
+          ],
+          "media_source_tweet_id": [
+            "2075184286940995901",
+            "2075184286940995901",
+            "2075184286940995901"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2075460797971738719",
+        "created_at": "2026-07-10T06:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075460797971738719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1709504323594465280",
+              "start": 3,
+              "username": "underhalf_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuhr3zjBib",
+              "end": 54,
+              "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+              "media_key": "3_2075184277143117824",
+              "start": 31,
+              "url": "https://t.co/vuhr3zjBib"
+            },
+            {
+              "display_url": "pic.x.com/vuhr3zjBib",
+              "end": 54,
+              "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+              "media_key": "3_2075184277155680256",
+              "start": 31,
+              "url": "https://t.co/vuhr3zjBib"
+            },
+            {
+              "display_url": "pic.x.com/vuhr3zjBib",
+              "end": 54,
+              "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+              "media_key": "3_2075184277172498432",
+              "start": 31,
+              "url": "https://t.co/vuhr3zjBib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075460797971738719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075184286940995901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @underhalf_: Smoker trio t2 https://t.co/vuhr3zjBib"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075184277143117824",
+            "3_2075184277155680256",
+            "3_2075184277172498432"
+          ]
+        },
+        "author_id": "1709504323594465280",
+        "conversation_id": "2075184286940995901",
+        "created_at": "2026-07-09T11:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075184286940995901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuhr3zjBib",
+              "end": 38,
+              "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+              "media_key": "3_2075184277143117824",
+              "start": 15,
+              "url": "https://t.co/vuhr3zjBib"
+            },
+            {
+              "display_url": "pic.x.com/vuhr3zjBib",
+              "end": 38,
+              "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+              "media_key": "3_2075184277155680256",
+              "start": 15,
+              "url": "https://t.co/vuhr3zjBib"
+            },
+            {
+              "display_url": "pic.x.com/vuhr3zjBib",
+              "end": 38,
+              "expanded_url": "https://x.com/underhalf_/status/2075184286940995901/photo/1",
+              "media_key": "3_2075184277172498432",
+              "start": 15,
+              "url": "https://t.co/vuhr3zjBib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075184286940995901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 35171,
+          "like_count": 1586,
+          "quote_count": 35,
+          "reply_count": 6,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "Smoker trio t2 https://t.co/vuhr3zjBib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 195,
+          "like_count": 7436,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2882
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T09:42:59.000Z",
+        "description": "i think therefore i es",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "underhalf.straw.page",
+                "end": 23,
+                "expanded_url": "https://underhalf.straw.page",
+                "start": 0,
+                "url": "https://t.co/ah1hRvRQ8S"
+              }
+            ]
+          }
+        },
+        "id": "1709504323594465280",
+        "location": "0507 land",
+        "name": "75.40",
+        "pinned_tweet_id": "2067553362669609204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072308713172426752/BaP8NOOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 363,
+          "like_count": 13277,
+          "listed_count": 6,
+          "media_count": 1093,
+          "tweet_count": 4300
+        },
+        "url": "https://t.co/ah1hRvRQ8S",
+        "username": "underhalf_",
+        "verified": false
+      }
+    ]
+  }
+}

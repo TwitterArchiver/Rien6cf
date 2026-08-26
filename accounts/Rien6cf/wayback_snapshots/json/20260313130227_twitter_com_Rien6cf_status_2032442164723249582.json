@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032442164723249582",
+    "created_at": "2026-03-13T13:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032442164723249582"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "MIMI",
+          "probability": 0.4886,
+          "start": 48,
+          "type": "Organization"
+        },
+        {
+          "end": 121,
+          "normalized_text": "MIMI 10th Anniversary album",
+          "probability": 0.8067,
+          "start": 95,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4885603273",
+          "start": 3,
+          "username": "mimi_3mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032442164723249582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 954
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032384066608373860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimi_3mi: 今年で活動10周年になります。\nこんなに長く曲作りができているのも、MIMIの音楽を聞いてくれる皆さんのお陰です、いつも本当にありがとう✨️☺️\n\n今回、記念に『MIMI 10th Anniversary album』と10周年グッズをリリースする事…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2032384061004771328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDR6iRNa8AA-eRp.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032442164723249582",
+        "created_at": "2026-03-13T13:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032442164723249582"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "MIMI",
+              "probability": 0.4886,
+              "start": 48,
+              "type": "Organization"
+            },
+            {
+              "end": 121,
+              "normalized_text": "MIMI 10th Anniversary album",
+              "probability": 0.8067,
+              "start": 95,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4885603273",
+              "start": 3,
+              "username": "mimi_3mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032442164723249582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 954
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032384066608373860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimi_3mi: 今年で活動10周年になります。\nこんなに長く曲作りができているのも、MIMIの音楽を聞いてくれる皆さんのお陰です、いつも本当にありがとう✨️☺️\n\n今回、記念に『MIMI 10th Anniversary album』と10周年グッズをリリースする事…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032384061004771328"
+          ]
+        },
+        "author_id": "4885603273",
+        "conversation_id": "2032384066608373860",
+        "created_at": "2026-03-13T09:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032384066608373860"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "MIMI",
+              "probability": 0.4674,
+              "start": 34,
+              "type": "Organization"
+            },
+            {
+              "end": 107,
+              "normalized_text": "MIMI 10th Anniversary album",
+              "probability": 0.8118,
+              "start": 81,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bs2XMYshSN",
+              "end": 177,
+              "expanded_url": "https://x.com/mimi_3mi/status/2032384066608373860/photo/1",
+              "media_key": "3_2032384061004771328",
+              "start": 154,
+              "url": "https://t.co/bs2XMYshSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032384066608373860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "今年で活動10周年になります。\nこんなに長く曲作りができているのも、MIMIの音楽を聞いてくれる皆さんのお陰です、いつも本当にありがとう✨️☺️\n\n今回、記念に『MIMI 10th Anniversary album』と10周年グッズをリリースする事にしました！\n(今までの軌跡と新曲含む全22曲入りです)\n\nこれからもMIMIの音楽が日常に寄り添えたら嬉しいです🍀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 99172,
+          "like_count": 4750,
+          "quote_count": 50,
+          "reply_count": 64,
+          "retweet_count": 954
+        },
+        "reply_settings": "everyone",
+        "text": "今年で活動10周年になります。\nこんなに長く曲作りができているのも、MIMIの音楽を聞いてくれる皆さんのお陰です、いつも本当にありがとう✨️☺️\n\n今回、記念に『MIMI 10th Anniversary album』と10周年グッズをリリースする事にしました！\n(今までの軌跡と新曲含む全22曲入りです) https://t.co/bs2XMYshSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 108,
+          "like_count": 1447,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1028
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-10T01:01:56.000Z",
+        "description": "曲を作ったりしています。YouTube https://t.co/AHuwPw9hpS ファンアート→#MI民美術部",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "MI民美術部"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/A9EuqV",
+                "end": 43,
+                "expanded_url": "https://goo.gl/A9EuqV",
+                "start": 20,
+                "url": "https://t.co/AHuwPw9hpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/55458052",
+                "end": 23,
+                "expanded_url": "http://nicovideo.jp/mylist/55458052",
+                "start": 0,
+                "url": "https://t.co/psIwCswRXQ"
+              }
+            ]
+          }
+        },
+        "id": "4885603273",
+        "location": "何かありましたらmimi_3mi@yahoo.co.jp ",
+        "name": "MIMI",
+        "pinned_tweet_id": "2007033541117530494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983717712783360000/kfISRDZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125772,
+          "following_count": 415,
+          "like_count": 10548,
+          "listed_count": 468,
+          "media_count": 588,
+          "tweet_count": 3177
+        },
+        "url": "https://t.co/psIwCswRXQ",
+        "username": "mimi_3mi",
+        "verified": true
+      }
+    ]
+  }
+}

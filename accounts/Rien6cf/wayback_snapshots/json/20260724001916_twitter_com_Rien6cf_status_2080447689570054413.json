@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080137637533458432"
+      ],
+      "media_source_tweet_id": [
+        "2080137645292994989"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2080447689570054413",
+    "created_at": "2026-07-24T00:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080447689570054413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1808290075123539968",
+          "start": 3,
+          "username": "LondonPala48112"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S0xjIRaFxE",
+          "end": 50,
+          "expanded_url": "https://x.com/LondonPala48112/status/2080137645292994989/photo/1",
+          "media_key": "3_2080137637533458432",
+          "start": 27,
+          "url": "https://t.co/S0xjIRaFxE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080447689570054413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080137645292994989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LondonPala48112: そうっすね https://t.co/S0xjIRaFxE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1569,
+        "media_key": "3_2080137637533458432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4iKQkaIAAzKhI.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080137637533458432"
+          ]
+        },
+        "author_id": "1808290075123539968",
+        "conversation_id": "2080137645292994989",
+        "created_at": "2026-07-23T03:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080137645292994989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0xjIRaFxE",
+              "end": 29,
+              "expanded_url": "https://x.com/LondonPala48112/status/2080137645292994989/photo/1",
+              "media_key": "3_2080137637533458432",
+              "start": 6,
+              "url": "https://t.co/S0xjIRaFxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080137645292994989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 141276,
+          "like_count": 5726,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "そうっすね https://t.co/S0xjIRaFxE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080137637533458432"
+          ],
+          "media_source_tweet_id": [
+            "2080137645292994989"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2080447689570054413",
+        "created_at": "2026-07-24T00:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080447689570054413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1808290075123539968",
+              "start": 3,
+              "username": "LondonPala48112"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0xjIRaFxE",
+              "end": 50,
+              "expanded_url": "https://x.com/LondonPala48112/status/2080137645292994989/photo/1",
+              "media_key": "3_2080137637533458432",
+              "start": 27,
+              "url": "https://t.co/S0xjIRaFxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080447689570054413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080137645292994989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LondonPala48112: そうっすね https://t.co/S0xjIRaFxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 201,
+          "like_count": 8518,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3071
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T00:02:17.000Z",
+        "description": "話題のツイートを投稿してます♩",
+        "id": "1808290075123539968",
+        "name": "ﾕ ﾐ ☁️",
+        "pinned_tweet_id": "2070896479934554541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032373863234129920/k-evYnyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15934,
+          "following_count": 3807,
+          "like_count": 7872,
+          "listed_count": 32,
+          "media_count": 77,
+          "tweet_count": 9628
+        },
+        "url": "",
+        "username": "LondonPala48112",
+        "verified": true
+      }
+    ]
+  }
+}

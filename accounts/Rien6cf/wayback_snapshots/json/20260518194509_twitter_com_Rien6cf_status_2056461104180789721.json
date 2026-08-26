@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056302430158209024"
+      ],
+      "media_source_tweet_id": [
+        "2056302433547301187"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056461104180789721",
+    "created_at": "2026-05-18T19:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056461104180789721"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 42,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 62,
+          "start": 54,
+          "tag": "アザラシランド"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1578209375860461568",
+          "start": 3,
+          "username": "pikapikagomafu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nP5wOFNYjC",
+          "end": 86,
+          "expanded_url": "https://x.com/pikapikagomafu/status/2056302433547301187/photo/1",
+          "media_key": "3_2056302430158209024",
+          "start": 63,
+          "url": "https://t.co/nP5wOFNYjC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056461104180789721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056302433547301187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pikapikagomafu: 換毛追い込み中のよう様✨\n2026.5.\n #とっかりセンター \n #アザラシランド https://t.co/nP5wOFNYjC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056302430158209024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIl0KlxaQAAb0DJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056302430158209024"
+          ],
+          "media_source_tweet_id": [
+            "2056302433547301187"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056461104180789721",
+        "created_at": "2026-05-18T19:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056461104180789721"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "アザラシランド"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1578209375860461568",
+              "start": 3,
+              "username": "pikapikagomafu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nP5wOFNYjC",
+              "end": 86,
+              "expanded_url": "https://x.com/pikapikagomafu/status/2056302433547301187/photo/1",
+              "media_key": "3_2056302430158209024",
+              "start": 63,
+              "url": "https://t.co/nP5wOFNYjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056461104180789721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056302433547301187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pikapikagomafu: 換毛追い込み中のよう様✨\n2026.5.\n #とっかりセンター \n #アザラシランド https://t.co/nP5wOFNYjC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056302430158209024"
+          ]
+        },
+        "author_id": "1578209375860461568",
+        "conversation_id": "2056302433547301187",
+        "created_at": "2026-05-18T09:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056302433547301187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "アザラシランド"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nP5wOFNYjC",
+              "end": 66,
+              "expanded_url": "https://x.com/pikapikagomafu/status/2056302433547301187/photo/1",
+              "media_key": "3_2056302430158209024",
+              "start": 43,
+              "url": "https://t.co/nP5wOFNYjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056302433547301187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 4900,
+          "like_count": 577,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "換毛追い込み中のよう様✨\n2026.5.\n #とっかりセンター \n #アザラシランド https://t.co/nP5wOFNYjC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 169,
+          "like_count": 4213,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2135
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T02:24:15.000Z",
+        "description": "2020年の緊急事態宣言中、SNSで出会った鳥羽水で生まれたニコちゃんがきっかけで沼に落ちました🥰少しずつですが全国のアザラ施設を訪問中です。",
+        "id": "1578209375860461568",
+        "location": "神奈川県",
+        "name": "yu-ka🦭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580697089801326593/kOugfqCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 212,
+          "like_count": 5507,
+          "listed_count": 11,
+          "media_count": 995,
+          "tweet_count": 2105
+        },
+        "username": "pikapikagomafu",
+        "verified": false
+      }
+    ]
+  }
+}

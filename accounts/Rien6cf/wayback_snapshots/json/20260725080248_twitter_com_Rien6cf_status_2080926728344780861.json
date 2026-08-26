@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2080926728344780861",
+    "created_at": "2026-07-25T08:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080926728344780861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2062201592427008000",
+          "start": 3,
+          "username": "9wrp6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080926728344780861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080671122908209180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9wrp6: 正直将来子供産みたくないし作る相手とかも全くいないから全然生理なくしていいよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2080926728344780861",
+        "created_at": "2026-07-25T08:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080926728344780861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2062201592427008000",
+              "start": 3,
+              "username": "9wrp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080926728344780861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080671122908209180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9wrp6: 正直将来子供産みたくないし作る相手とかも全くいないから全然生理なくしていいよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062201592427008000",
+        "conversation_id": "2080671122908209180",
+        "created_at": "2026-07-24T15:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080671122908209180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080671122908209180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 33961,
+          "like_count": 1888,
+          "quote_count": 17,
+          "reply_count": 5,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "正直将来子供産みたくないし作る相手とかも全くいないから全然生理なくしていいよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2080735603323523206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 202,
+          "like_count": 8667,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T15:56:24.000Z",
+        "description": "ljc｜自分の全てがコンプ🎶🗝️@navyl_o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "navyl_o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ue4xprr56voyj5…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ue4xprr56voyj52?t=PkWpNW&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/voEB7ic0jN"
+              }
+            ]
+          }
+        },
+        "id": "2062201592427008000",
+        "name": "うに",
+        "pinned_tweet_id": "2070471192872710639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073428143432712192/YOC84b9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 330,
+          "like_count": 1347,
+          "listed_count": 7,
+          "media_count": 18,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/voEB7ic0jN",
+        "username": "9wrp6",
+        "verified": false
+      }
+    ]
+  }
+}

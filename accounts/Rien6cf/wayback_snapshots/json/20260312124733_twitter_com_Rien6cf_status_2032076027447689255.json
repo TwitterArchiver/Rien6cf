@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032054020265951232"
+      ],
+      "media_source_tweet_id": [
+        "2032054028125999219"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032076027447689255",
+    "created_at": "2026-03-12T12:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032076027447689255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1589251848154025984",
+          "start": 3,
+          "username": "hikaryukirinuki"
+        },
+        {
+          "end": 37,
+          "id": "1161925320234024960",
+          "start": 21,
+          "username": "smile_channel25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4vfEPG1brF",
+          "end": 85,
+          "expanded_url": "https://x.com/hikaryukirinuki/status/2032054028125999219/photo/1",
+          "media_key": "3_2032054020265951232",
+          "start": 62,
+          "url": "https://t.co/4vfEPG1brF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032076027447689255",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032054028125999219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikaryukirinuki: @smile_channel25 みんな今日は俺のライブに来てくれてありがとう！ https://t.co/4vfEPG1brF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2032054020265951232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNOXXpbQAA-ADe.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032054020265951232"
+          ],
+          "media_source_tweet_id": [
+            "2032054028125999219"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032076027447689255",
+        "created_at": "2026-03-12T12:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032076027447689255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1589251848154025984",
+              "start": 3,
+              "username": "hikaryukirinuki"
+            },
+            {
+              "end": 37,
+              "id": "1161925320234024960",
+              "start": 21,
+              "username": "smile_channel25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vfEPG1brF",
+              "end": 85,
+              "expanded_url": "https://x.com/hikaryukirinuki/status/2032054028125999219/photo/1",
+              "media_key": "3_2032054020265951232",
+              "start": 62,
+              "url": "https://t.co/4vfEPG1brF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032076027447689255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032054028125999219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikaryukirinuki: @smile_channel25 みんな今日は俺のライブに来てくれてありがとう！ https://t.co/4vfEPG1brF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032054020265951232"
+          ]
+        },
+        "author_id": "1589251848154025984",
+        "conversation_id": "2032032606641168735",
+        "created_at": "2026-03-12T11:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032054028125999219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1161925320234024960",
+              "start": 0,
+              "username": "smile_channel25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vfEPG1brF",
+              "end": 64,
+              "expanded_url": "https://x.com/hikaryukirinuki/status/2032054028125999219/photo/1",
+              "media_key": "3_2032054020265951232",
+              "start": 41,
+              "url": "https://t.co/4vfEPG1brF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032054028125999219",
+        "in_reply_to_user_id": "1161925320234024960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13025,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032032606641168735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smile_channel25 みんな今日は俺のライブに来てくれてありがとう！ https://t.co/4vfEPG1brF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 105,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 993
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T13:42:46.000Z",
+        "description": "クソリプ禁止。思ったことポストする。\nヒカリュウ【桑田龍征切り抜き】運営",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hikaryu_kirin…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hikaryu_kirinuki?si=dLcgSLe0LgXa-nSC",
+                "start": 0,
+                "url": "https://t.co/6v7V1VV1i8"
+              }
+            ]
+          }
+        },
+        "id": "1589251848154025984",
+        "name": "ヒカリュウ【玲音-れお-】",
+        "pinned_tweet_id": "2032015051943710787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030960498934710273/XCaO3znr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 786,
+          "like_count": 31523,
+          "listed_count": 19,
+          "media_count": 1572,
+          "tweet_count": 7572
+        },
+        "url": "https://t.co/6v7V1VV1i8",
+        "username": "hikaryukirinuki",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-15T08:59:18.000Z",
+        "description": "毎日12時、19時に大喜利お題を投稿中！\n他にもおもしろ画像やネタツイしてます！\n削除依頼はURL付きでDM下さい。\n宣伝などの拡散依頼受付中！\n\n流石にここに書いてるのはバレないよね\n\n河野太郎さん見てるーーー？",
+        "id": "1161925320234024960",
+        "name": "スマイルくん",
+        "pinned_tweet_id": "2031943521079562664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910566435258347520/abSYwHCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224351,
+          "following_count": 2283,
+          "like_count": 117435,
+          "listed_count": 738,
+          "media_count": 12411,
+          "tweet_count": 28113
+        },
+        "username": "smile_channel25",
+        "verified": true
+      }
+    ]
+  }
+}

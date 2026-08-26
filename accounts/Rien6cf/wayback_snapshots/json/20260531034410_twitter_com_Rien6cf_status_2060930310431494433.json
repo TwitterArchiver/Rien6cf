@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060930310431494433",
+    "created_at": "2026-05-31T03:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T04:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060930310431494433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "614015935",
+          "start": 3,
+          "username": "hachioji_koho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060930310431494433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060921140298789344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hachioji_koho: 5月31日午前5時10分頃に、元八王子町3丁目の八王子城跡内・御主殿の滝付近において、野生動物の鳴き声を聞いたという情報が寄せられました。5月30日正午頃に同地点で入山者によるクマの目撃情報があったことから、注意喚起を呼びかけています。引き…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060930310431494433",
+        "created_at": "2026-05-31T03:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060930310431494433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "614015935",
+              "start": 3,
+              "username": "hachioji_koho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060930310431494433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060921140298789344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hachioji_koho: 5月31日午前5時10分頃に、元八王子町3丁目の八王子城跡内・御主殿の滝付近において、野生動物の鳴き声を聞いたという情報が寄せられました。5月30日正午頃に同地点で入山者によるクマの目撃情報があったことから、注意喚起を呼びかけています。引き…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "614015935",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1295937299117555712",
+              "name": "Kanto region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296116615101026304",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1296116615101026304",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2060921140298789344",
+        "created_at": "2026-05-31T03:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060921140298789344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "クマ出没に係る啓発について",
+              "display_url": "city.hachioji.tokyo.jp/kurashi/sangyo…",
+              "end": 156,
+              "expanded_url": "https://www.city.hachioji.tokyo.jp/kurashi/sangyo/004/jyugai/p037505.html",
+              "start": 133,
+              "status": 200,
+              "title": "八王子城跡におけるツキノワグマの目撃情報について｜八王子市公式ホームページ",
+              "unwound_url": "https://www.city.hachioji.tokyo.jp/kurashi/sangyo/004/jyugai/p037505.html",
+              "url": "https://t.co/EyuCmUw90z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060921140298789344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1296,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "5月31日午前5時10分頃に、元八王子町3丁目の八王子城跡内・御主殿の滝付近において、野生動物の鳴き声を聞いたという情報が寄せられました。5月30日正午頃に同地点で入山者によるクマの目撃情報があったことから、注意喚起を呼びかけています。引き続き警戒をお願いします。\nhttps://t.co/EyuCmUw90z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 180,
+          "like_count": 4776,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2297
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-21T04:19:33.000Z",
+        "description": "東京都八王子市広報の公式アカウントです。施策やイベントの周知、フォトニュース、防災情報などさまざまな市政情報を発信しています。リプライやフォローには対応しませんのでご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "city.hachioji.tokyo.jp/index.html",
+                "end": 23,
+                "expanded_url": "http://www.city.hachioji.tokyo.jp/index.html",
+                "start": 0,
+                "url": "https://t.co/eVAC3P23eR"
+              }
+            ]
+          }
+        },
+        "id": "614015935",
+        "location": "東京都八王子市",
+        "name": "八王子市広報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/925334433745342465/JrA_YBwg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19562,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 321,
+          "media_count": 3761,
+          "tweet_count": 5612
+        },
+        "url": "https://t.co/eVAC3P23eR",
+        "username": "hachioji_koho",
+        "verified": false
+      }
+    ]
+  }
+}

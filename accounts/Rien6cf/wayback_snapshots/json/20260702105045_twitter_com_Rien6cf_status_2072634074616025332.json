@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      }
+    ],
+    "conversation_id": "2072634074616025332",
+    "created_at": "2026-07-02T10:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072634074616025332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1000701099819450368",
+          "start": 3,
+          "username": "TKM_BNBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072634074616025332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029559684047491181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @TKM_BNBN: Adoさんがへずまりゅうをブロックしているとか、米津玄師さんが大喜利坊主をブロックしているとか、そういう皆が笑顔になれるようなニュースがもっと増えてほしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          }
+        ],
+        "conversation_id": "2072634074616025332",
+        "created_at": "2026-07-02T10:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072634074616025332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1000701099819450368",
+              "start": 3,
+              "username": "TKM_BNBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072634074616025332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029559684047491181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @TKM_BNBN: Adoさんがへずまりゅうをブロックしているとか、米津玄師さんが大喜利坊主をブロックしているとか、そういう皆が笑顔になれるようなニュースがもっと増えてほしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000701099819450368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          }
+        ],
+        "conversation_id": "2029559684047491181",
+        "created_at": "2026-03-05T14:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029559684047491181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029559684047491181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2492,
+          "impression_count": 6118204,
+          "like_count": 66162,
+          "quote_count": 188,
+          "reply_count": 169,
+          "retweet_count": 4226
+        },
+        "reply_settings": "following",
+        "text": "Adoさんがへずまりゅうをブロックしているとか、米津玄師さんが大喜利坊主をブロックしているとか、そういう皆が笑顔になれるようなニュースがもっと増えてほしい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 197,
+          "like_count": 6744,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2773
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T11:31:49.000Z",
+        "description": "岐阜県民です。元G+ユーザー。🍉　ブログ→https://t.co/HLxWgiSsyf note→https://t.co/AlZJBSyLnA\n 喜捨リスト→https://t.co/YZWxrAtmpP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "getemono.blog.jp",
+                "end": 44,
+                "expanded_url": "http://getemono.blog.jp/",
+                "start": 21,
+                "url": "https://t.co/HLxWgiSsyf"
+              },
+              {
+                "display_url": "note.com/onishi_3273",
+                "end": 73,
+                "expanded_url": "https://note.com/onishi_3273",
+                "start": 50,
+                "url": "https://t.co/AlZJBSyLnA"
+              },
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 104,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/WWD9C1OX0LTM?ref_=wl_share",
+                "start": 81,
+                "url": "https://t.co/YZWxrAtmpP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gifu-iju.com",
+                "end": 23,
+                "expanded_url": "https://www.gifu-iju.com/",
+                "start": 0,
+                "url": "https://t.co/CqfD257A4v"
+              }
+            ]
+          }
+        },
+        "id": "1000701099819450368",
+        "location": "美濃地方可茂地区",
+        "name": "へぼ飯+",
+        "pinned_tweet_id": "1132594492337401856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341332953280856064/dNcaACAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 2084,
+          "like_count": 55413,
+          "listed_count": 51,
+          "media_count": 4174,
+          "tweet_count": 55938
+        },
+        "url": "https://t.co/CqfD257A4v",
+        "username": "TKM_BNBN",
+        "verified": false
+      }
+    ]
+  }
+}

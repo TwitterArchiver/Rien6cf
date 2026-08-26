@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070905882305871872"
+      ],
+      "media_source_tweet_id": [
+        "2070905889553633472"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071227340370436420",
+    "created_at": "2026-06-28T13:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071227340370436420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1163033869265727490",
+          "start": 3,
+          "username": "ianncccc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b9lmcyDdlt",
+          "end": 52,
+          "expanded_url": "https://x.com/ianncccc/status/2070905889553633472/photo/1",
+          "media_key": "3_2070905882305871872",
+          "start": 29,
+          "url": "https://t.co/b9lmcyDdlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071227340370436420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2294
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070905889553633472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ianncccc: 友達からこれ来てクソ笑ってる https://t.co/b9lmcyDdlt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2070905882305871872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1V7YYbwAAXE6N.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070905882305871872"
+          ],
+          "media_source_tweet_id": [
+            "2070905889553633472"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071227340370436420",
+        "created_at": "2026-06-28T13:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071227340370436420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1163033869265727490",
+              "start": 3,
+              "username": "ianncccc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9lmcyDdlt",
+              "end": 52,
+              "expanded_url": "https://x.com/ianncccc/status/2070905889553633472/photo/1",
+              "media_key": "3_2070905882305871872",
+              "start": 29,
+              "url": "https://t.co/b9lmcyDdlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071227340370436420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2294
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070905889553633472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ianncccc: 友達からこれ来てクソ笑ってる https://t.co/b9lmcyDdlt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070905882305871872"
+          ]
+        },
+        "author_id": "1163033869265727490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070905889553633472",
+        "created_at": "2026-06-27T16:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070905889553633472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9lmcyDdlt",
+              "end": 38,
+              "expanded_url": "https://x.com/ianncccc/status/2070905889553633472/photo/1",
+              "media_key": "3_2070905882305871872",
+              "start": 15,
+              "url": "https://t.co/b9lmcyDdlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070905889553633472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1339,
+          "impression_count": 1132275,
+          "like_count": 74883,
+          "quote_count": 74,
+          "reply_count": 15,
+          "retweet_count": 2295
+        },
+        "reply_settings": "everyone",
+        "text": "友達からこれ来てクソ笑ってる https://t.co/b9lmcyDdlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 192,
+          "like_count": 6472,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2719
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T10:24:29.000Z",
+        "description": "有権者",
+        "id": "1163033869265727490",
+        "name": "いあん",
+        "pinned_tweet_id": "1891949133209989333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824475890316943360/RoO-IhRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 533,
+          "like_count": 71340,
+          "listed_count": 10,
+          "media_count": 139,
+          "tweet_count": 19208
+        },
+        "url": "",
+        "username": "ianncccc",
+        "verified": false
+      }
+    ]
+  }
+}

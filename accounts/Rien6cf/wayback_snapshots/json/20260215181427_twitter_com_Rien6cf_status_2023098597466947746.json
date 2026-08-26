@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1244790787956592640"
+      ],
+      "media_source_tweet_id": [
+        "1244791132455747584"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2023098597466947746",
+    "created_at": "2026-02-15T18:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T19:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023098597466947746"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "椎名",
+          "probability": 0.6002,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3112919876",
+          "start": 3,
+          "username": "30_voca_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RfBDc3n1fL",
+          "end": 57,
+          "expanded_url": "https://x.com/30_voca_music/status/1244791132455747584/video/1",
+          "media_key": "13_1244790787956592640",
+          "start": 34,
+          "url": "https://t.co/RfBDc3n1fL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023098597466947746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023056765567250449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30_voca_music: アストロノーツ / 椎名もた\nhttps://t.co/RfBDc3n1fL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29800,
+        "height": 360,
+        "media_key": "13_1244790787956592640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1244790787956592640/img/leOm7EfrXaw6Dwuu.jpg",
+        "public_metrics": {
+          "view_count": 178795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1244790787956592640/vid/360x270/xEgj_0WjCYufkLLV.mp4?tag=13"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1244790787956592640/vid/480x360/kQ8DwdWfOk1r1pEp.mp4?tag=13"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1244790787956592640/pl/bsk2y6NMUHVRlTBB.m3u8?tag=13&v=487"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1244790787956592640"
+          ],
+          "media_source_tweet_id": [
+            "1244791132455747584"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2023098597466947746",
+        "created_at": "2026-02-15T18:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023098597466947746"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "椎名",
+              "probability": 0.6002,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3112919876",
+              "start": 3,
+              "username": "30_voca_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfBDc3n1fL",
+              "end": 57,
+              "expanded_url": "https://x.com/30_voca_music/status/1244791132455747584/video/1",
+              "media_key": "13_1244790787956592640",
+              "start": 34,
+              "url": "https://t.co/RfBDc3n1fL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023098597466947746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023056765567250449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30_voca_music: アストロノーツ / 椎名もた\nhttps://t.co/RfBDc3n1fL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1244790787956592640"
+          ],
+          "media_source_tweet_id": [
+            "1244791132455747584"
+          ]
+        },
+        "author_id": "3112919876",
+        "conversation_id": "2023056765567250449",
+        "created_at": "2026-02-15T15:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023056765567250449"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "椎名",
+              "probability": 0.4899,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfBDc3n1fL",
+              "end": 38,
+              "expanded_url": "https://x.com/30_voca_music/status/1244791132455747584/video/1",
+              "media_key": "13_1244790787956592640",
+              "start": 15,
+              "url": "https://t.co/RfBDc3n1fL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023056765567250449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6261,
+          "like_count": 145,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "アストロノーツ / 椎名もた\nhttps://t.co/RfBDc3n1fL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 65,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 403
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-28T13:05:48.000Z",
+        "description": "ボーカロイド(たまにUTAU まれにCeVIO等)の楽曲を30秒くらいにして流します。",
+        "id": "3112919876",
+        "name": "30秒ボカロbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/903257944392732672/JZWhJls2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109788,
+          "following_count": 3,
+          "like_count": 290,
+          "listed_count": 408,
+          "media_count": 46661,
+          "tweet_count": 45152
+        },
+        "username": "30_voca_music",
+        "verified": false
+      }
+    ]
+  }
+}

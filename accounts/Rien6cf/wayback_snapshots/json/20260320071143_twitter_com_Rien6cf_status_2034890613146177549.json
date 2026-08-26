@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1696837161444872193"
+      ],
+      "media_source_tweet_id": [
+        "1696840188939665879"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2034890613146177549",
+    "created_at": "2026-03-20T07:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T08:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034890613146177549"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 66,
+          "normalized_text": "WONDERFUL★OPPORTUNITY! Covered by",
+          "probability": 0.268,
+          "start": 34,
+          "type": "Other"
+        },
+        {
+          "end": 72,
+          "normalized_text": "いゔどっと",
+          "probability": 0.5236,
+          "start": 68,
+          "type": "Person"
+        },
+        {
+          "end": 81,
+          "normalized_text": "Sou×あげいん",
+          "probability": 0.719,
+          "start": 74,
+          "type": "Person"
+        },
+        {
+          "end": 84,
+          "normalized_text": "橘優",
+          "probability": 0.9573,
+          "start": 83,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1536126191526354944",
+          "start": 3,
+          "username": "30_cover_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kUdG4EJT3j",
+          "end": 109,
+          "expanded_url": "https://x.com/Nico_nico_Sou/status/1696840188939665879/video/1",
+          "media_key": "13_1696837161444872193",
+          "start": 86,
+          "url": "https://t.co/kUdG4EJT3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034890613146177549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034829373535080717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30_cover_music: にっこり^^調査隊のテーマ／WONDERFUL★OPPORTUNITY!\nCovered by いゔどっと×Sou×あげいん×橘優\nhttps://t.co/kUdG4EJT3j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29900,
+        "height": 720,
+        "media_key": "13_1696837161444872193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1696837161444872193/img/A2PQdhTVSI1_o-z8.jpg",
+        "public_metrics": {
+          "view_count": 100159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1696837161444872193/vid/480x270/nQbZMH5lisGuQdr-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1696837161444872193/vid/640x360/DjI075kEAFWO6Lj-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1696837161444872193/vid/1280x720/GQrq42LUNy0sMlpY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1696837161444872193/pl/ppylcsEtZcn9PQFJ.m3u8?tag=14&v=add"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1696837161444872193"
+          ],
+          "media_source_tweet_id": [
+            "1696840188939665879"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2034890613146177549",
+        "created_at": "2026-03-20T07:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034890613146177549"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "WONDERFUL★OPPORTUNITY! Covered by",
+              "probability": 0.268,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "いゔどっと",
+              "probability": 0.5236,
+              "start": 68,
+              "type": "Person"
+            },
+            {
+              "end": 81,
+              "normalized_text": "Sou×あげいん",
+              "probability": 0.719,
+              "start": 74,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "橘優",
+              "probability": 0.9573,
+              "start": 83,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1536126191526354944",
+              "start": 3,
+              "username": "30_cover_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUdG4EJT3j",
+              "end": 109,
+              "expanded_url": "https://x.com/Nico_nico_Sou/status/1696840188939665879/video/1",
+              "media_key": "13_1696837161444872193",
+              "start": 86,
+              "url": "https://t.co/kUdG4EJT3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034890613146177549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034829373535080717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30_cover_music: にっこり^^調査隊のテーマ／WONDERFUL★OPPORTUNITY!\nCovered by いゔどっと×Sou×あげいん×橘優\nhttps://t.co/kUdG4EJT3j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1696837161444872193"
+          ],
+          "media_source_tweet_id": [
+            "1696840188939665879"
+          ]
+        },
+        "author_id": "1536126191526354944",
+        "conversation_id": "2034829373535080717",
+        "created_at": "2026-03-20T03:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034829373535080717"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "WONDERFUL★OPPORTUNITY! Covered by",
+              "probability": 0.3196,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "いゔどっと",
+              "probability": 0.5059,
+              "start": 48,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Sou×あげいん",
+              "probability": 0.7301,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 64,
+              "normalized_text": "橘優",
+              "probability": 0.9589,
+              "start": 63,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUdG4EJT3j",
+              "end": 89,
+              "expanded_url": "https://x.com/Nico_nico_Sou/status/1696840188939665879/video/1",
+              "media_key": "13_1696837161444872193",
+              "start": 66,
+              "url": "https://t.co/kUdG4EJT3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034829373535080717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2736,
+          "like_count": 74,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "にっこり^^調査隊のテーマ／WONDERFUL★OPPORTUNITY!\nCovered by いゔどっと×Sou×あげいん×橘優\nhttps://t.co/kUdG4EJT3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2034827283526295875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 114,
+          "like_count": 1859,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1175
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T23:20:07.000Z",
+        "description": "主に歌ってみた関連の動画を引用してポストしています。 動画下の投稿者を押すと元ポストに飛びます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/30cover",
+                "end": 23,
+                "expanded_url": "https://lit.link/30cover",
+                "start": 0,
+                "url": "https://t.co/oozjxgbdN0"
+              }
+            ]
+          }
+        },
+        "id": "1536126191526354944",
+        "location": "3時間に1回、自動でポストします",
+        "name": "30秒歌い手bot",
+        "pinned_tweet_id": "1919259178918642027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536130823371759616/edNQ1RAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24079,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 45,
+          "media_count": 26846,
+          "tweet_count": 26833
+        },
+        "url": "https://t.co/oozjxgbdN0",
+        "username": "30_cover_music",
+        "verified": false
+      }
+    ]
+  }
+}

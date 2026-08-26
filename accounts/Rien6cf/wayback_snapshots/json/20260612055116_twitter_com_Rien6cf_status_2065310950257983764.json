@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065306079664410887",
+    "created_at": "2026-06-12T05:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065310950257983764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2002072845892157441",
+          "start": 0,
+          "username": "5exxdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065310950257983764",
+    "in_reply_to_user_id": "2002072845892157441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065306079664410887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5exxdx 三色豆是要干啥！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065306073448476673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlw7mxacAESili.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2065306079664410887",
+        "created_at": "2026-06-12T05:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065310950257983764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2002072845892157441",
+              "start": 0,
+              "username": "5exxdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065310950257983764",
+        "in_reply_to_user_id": "2002072845892157441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065306079664410887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5exxdx 三色豆是要干啥！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065306073448476673"
+          ]
+        },
+        "author_id": "2002072845892157441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065306079664410887",
+        "created_at": "2026-06-12T05:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065306079664410887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAql22c4Go",
+              "end": 26,
+              "expanded_url": "https://x.com/5exxdx/status/2065306079664410887/photo/1",
+              "media_key": "3_2065306073448476673",
+              "start": 3,
+              "url": "https://t.co/KAql22c4Go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065306079664410887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "詭異 https://t.co/KAql22c4Go"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5558,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2558
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T17:45:47.000Z",
+        "description": "別視姦我。。",
+        "id": "2002072845892157441",
+        "location": "你要不看看你背後呢^^",
+        "name": "我真求你了好吧",
+        "pinned_tweet_id": "2062648241641160753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038911638942928896/XZpfiOgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 83,
+          "like_count": 1478,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 610
+        },
+        "username": "5exxdx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064975581100597363",
+    "created_at": "2026-06-11T07:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064975581100597363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063877211938336768",
+          "start": 3,
+          "username": "KEHGIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064975581100597363",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064869621577232707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KEHGIV: 처음 정신병원에 갔다 왔던 날\n엄마는 눈물을 흘리며 울었다\n\n나는 그 눈물이\n나를 걱정해서 흘리는 눈물이라고 생각했다\n\n하지만 그 눈물의 의미는\n\n나를 걱정해서 흘린 눈물이 아니라\n정신병에 걸린 자식에 대한 현실을 부정하는 분노…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064975581100597363",
+        "created_at": "2026-06-11T07:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064975581100597363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063877211938336768",
+              "start": 3,
+              "username": "KEHGIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064975581100597363",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064869621577232707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KEHGIV: 처음 정신병원에 갔다 왔던 날\n엄마는 눈물을 흘리며 울었다\n\n나는 그 눈물이\n나를 걱정해서 흘리는 눈물이라고 생각했다\n\n하지만 그 눈물의 의미는\n\n나를 걱정해서 흘린 눈물이 아니라\n정신병에 걸린 자식에 대한 현실을 부정하는 분노…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063877211938336768",
+        "conversation_id": "2064869621577232707",
+        "created_at": "2026-06-11T00:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064869621577232707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064869621577232707",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1237,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "처음 정신병원에 갔다 왔던 날\n엄마는 눈물을 흘리며 울었다\n\n나는 그 눈물이\n나를 걱정해서 흘리는 눈물이라고 생각했다\n\n하지만 그 눈물의 의미는\n\n나를 걱정해서 흘린 눈물이 아니라\n정신병에 걸린 자식에 대한 현실을 부정하는 분노의 눈물이었다\n\n그 이후 나는 정신병을 숨기기로 마음 먹었다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 186,
+          "like_count": 5499,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2548
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T06:59:31.000Z",
+        "description": "스미레입니다",
+        "id": "2063877211938336768",
+        "location": "DM X",
+        "name": "菫",
+        "pinned_tweet_id": "2063883110316638454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063880302699913216/Z9DTwpkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 87,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "KEHGIV",
+        "verified": false
+      }
+    ]
+  }
+}

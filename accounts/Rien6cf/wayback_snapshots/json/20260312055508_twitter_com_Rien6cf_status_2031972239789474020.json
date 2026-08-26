@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031972232986312706"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2031972239789474020",
+    "created_at": "2026-03-12T05:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031972239789474020"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "自撮り"
+        },
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r8RHvIsyR0",
+          "end": 35,
+          "expanded_url": "https://x.com/Rien6cf/status/2031972239789474020/photo/1",
+          "media_key": "3_2031972232986312706",
+          "start": 12,
+          "url": "https://t.co/r8RHvIsyR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031972239789474020",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り #自撮り界隈 https://t.co/r8RHvIsyR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2031972232986312706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMD-uSbQAI8RBL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031972232986312706"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2031972239789474020",
+        "created_at": "2026-03-12T05:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031972239789474020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "自撮り"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8RHvIsyR0",
+              "end": 35,
+              "expanded_url": "https://x.com/Rien6cf/status/2031972239789474020/photo/1",
+              "media_key": "3_2031972232986312706",
+              "start": 12,
+              "url": "https://t.co/r8RHvIsyR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031972239789474020",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り #自撮り界隈 https://t.co/r8RHvIsyR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 104,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 980
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

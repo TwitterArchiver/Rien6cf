@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065899099342168064"
+      ],
+      "media_source_tweet_id": [
+        "2065899111052640716"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2065957582729359814",
+    "created_at": "2026-06-14T00:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065957582729359814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "101479485",
+          "start": 3,
+          "username": "plushy_cat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JFqVN9ep0x",
+          "end": 61,
+          "expanded_url": "https://x.com/plushy_cat/status/2065899111052640716/video/1",
+          "media_key": "13_2065899099342168064",
+          "start": 38,
+          "url": "https://t.co/JFqVN9ep0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065957582729359814",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065899111052640716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plushy_cat: Matcha is going wild. https://t.co/JFqVN9ep0x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2595,
+        "height": 720,
+        "media_key": "13_2065899099342168064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065899099342168064/img/4vhtBMYM1P8r6fdH.jpg",
+        "public_metrics": {
+          "view_count": 1654
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065899099342168064/vid/avc1/360x270/wNtUb6rWM7gQhrnt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065899099342168064/vid/avc1/480x360/SI-Eu9Uc_J9vg_Ay.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065899099342168064/vid/avc1/960x720/S1hABChbyKJPn9pG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065899099342168064/pl/ykbNDUT9PbUK-xJH.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065899099342168064"
+          ],
+          "media_source_tweet_id": [
+            "2065899111052640716"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2065957582729359814",
+        "created_at": "2026-06-14T00:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065957582729359814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "101479485",
+              "start": 3,
+              "username": "plushy_cat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFqVN9ep0x",
+              "end": 61,
+              "expanded_url": "https://x.com/plushy_cat/status/2065899111052640716/video/1",
+              "media_key": "13_2065899099342168064",
+              "start": 38,
+              "url": "https://t.co/JFqVN9ep0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065957582729359814",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065899111052640716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plushy_cat: Matcha is going wild. https://t.co/JFqVN9ep0x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065899099342168064"
+          ]
+        },
+        "author_id": "101479485",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2065899111052640716",
+        "created_at": "2026-06-13T20:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065899111052640716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFqVN9ep0x",
+              "end": 45,
+              "expanded_url": "https://x.com/plushy_cat/status/2065899111052640716/video/1",
+              "media_key": "13_2065899099342168064",
+              "start": 22,
+              "url": "https://t.co/JFqVN9ep0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065899111052640716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 4933,
+          "like_count": 619,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "Matcha is going wild. https://t.co/JFqVN9ep0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 5646,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2578
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-03T13:39:24.000Z",
+        "description": "Katzen und Robben Content. Auch Hunde, Reisen und Essen kommen vor, eben aus dem Leben gegriffen. 🐈 🦭",
+        "id": "101479485",
+        "name": "Zauberkatze",
+        "pinned_tweet_id": "911268079170211840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046713569555701760/cAE9YtKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 517,
+          "like_count": 418054,
+          "listed_count": 31,
+          "media_count": 17255,
+          "tweet_count": 115502
+        },
+        "username": "plushy_cat",
+        "verified": false
+      }
+    ]
+  }
+}

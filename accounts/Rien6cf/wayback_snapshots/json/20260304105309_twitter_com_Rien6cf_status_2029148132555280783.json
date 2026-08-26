@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029148132555280783",
+    "created_at": "2026-03-04T10:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T11:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029148132555280783"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "馬喰町　馬喰横山　本蓮沼　御徒町　石神井",
+          "probability": 0.3128,
+          "start": 0,
+          "type": "Place"
+        },
+        {
+          "end": 43,
+          "normalized_text": "浮間舟渡　白金高輪　茗荷谷　内幸町",
+          "probability": 0.506,
+          "start": 27,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/boketezizou/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/boketezizou/status/2029094056807285019",
+          "start": 51,
+          "url": "https://t.co/QSOPv63MnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029148132555280783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029094056807285019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "馬喰町　馬喰横山　本蓮沼　御徒町　石神井を含める全部　浮間舟渡　白金高輪　茗荷谷　内幸町と御成門。。 https://t.co/QSOPv63MnM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2029094053506347008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjKSoMacAA9FWg.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029148132555280783",
+        "created_at": "2026-03-04T10:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029148132555280783"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "馬喰町　馬喰横山　本蓮沼　御徒町　石神井",
+              "probability": 0.3128,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 43,
+              "normalized_text": "浮間舟渡　白金高輪　茗荷谷　内幸町",
+              "probability": 0.506,
+              "start": 27,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/boketezizou/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/boketezizou/status/2029094056807285019",
+              "start": 51,
+              "url": "https://t.co/QSOPv63MnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029148132555280783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029094056807285019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "馬喰町　馬喰横山　本蓮沼　御徒町　石神井を含める全部　浮間舟渡　白金高輪　茗荷谷　内幸町と御成門。。 https://t.co/QSOPv63MnM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029094053506347008"
+          ]
+        },
+        "author_id": "1157529123431911424",
+        "conversation_id": "2029094056807285019",
+        "created_at": "2026-03-04T07:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029094056807285019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xTyTaGRBb",
+              "end": 53,
+              "expanded_url": "https://x.com/boketezizou/status/2029094056807285019/photo/1",
+              "media_key": "3_2029094053506347008",
+              "start": 30,
+              "url": "https://t.co/1xTyTaGRBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029094056807285019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 108267,
+          "like_count": 569,
+          "quote_count": 322,
+          "reply_count": 838,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "【問題】\n\n初見では読めないと思う『駅名』を教えてください https://t.co/1xTyTaGRBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 100,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 737
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-03T05:50:23.000Z",
+        "description": "◾︎毎日お題投稿 ! ◾︎結果発表垢@zizousankekka0 ♦お題提供,ご依頼,ご相談等はDMにて #大喜利 #ボケて #予測変換大喜利",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "大喜利"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "ボケて"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "tag": "予測変換大喜利"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "zizousankekka0"
+              }
+            ]
+          }
+        },
+        "id": "1157529123431911424",
+        "location": "???",
+        "name": "地蔵",
+        "pinned_tweet_id": "2028671790898434145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668423969865875457/vRh_Wl9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44990,
+          "following_count": 24175,
+          "like_count": 23590,
+          "listed_count": 369,
+          "media_count": 3740,
+          "tweet_count": 8403
+        },
+        "username": "boketezizou",
+        "verified": true
+      }
+    ]
+  }
+}

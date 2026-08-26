@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2023434406430642328",
+    "created_at": "2026-02-17T05:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T06:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023634527562985941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846893587675459584",
+          "start": 0,
+          "username": "mai996778"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023634527562985941",
+    "in_reply_to_user_id": "1846893587675459584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023434406430642328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mai996778 @grok 我想喝😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2023434406430642328",
+        "created_at": "2026-02-17T05:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023634527562985941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846893587675459584",
+              "start": 0,
+              "username": "mai996778"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023634527562985941",
+        "in_reply_to_user_id": "1846893587675459584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023434406430642328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mai996778 @grok 我想喝😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846893587675459584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023434406430642328",
+        "created_at": "2026-02-16T16:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023434406430642328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1720665183188922368",
+              "start": 60,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023434406430642328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5852,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "新年快乐宝宝们！！\n祝你们所愿皆可得！\n万事顺意平安喜乐❤️\n此条抽三个宝宝喝奶茶～\n老规矩，关注+点赞+评论即可参与\n@grok 宝宝明晚20：00帮我抽取三位幸运宝宝啦～～爱你么么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 69,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 429
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T12:38:50.000Z",
+        "description": "新人女喘感谢喜欢❤️/Switch/接投稿/定制过🚪67折/未更新音声：修女1/2，匿名，寸止榨精，av共赏（带视频画面），母子/闲谈小号：https://t.co/vcPbLDQLvc\n匿名📭：https://t.co/5ImAu43KdQ  饭盒：https://t.co/LpsBg8ZV2N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/maii779669",
+                "end": 93,
+                "expanded_url": "https://x.com/maii779669",
+                "start": 70,
+                "url": "https://t.co/vcPbLDQLvc"
+              },
+              {
+                "display_url": "ngl.link/maii83795/",
+                "end": 121,
+                "expanded_url": "https://ngl.link/maii83795/",
+                "start": 98,
+                "url": "https://t.co/5ImAu43KdQ"
+              },
+              {
+                "display_url": "maii.fanbox.cc",
+                "end": 149,
+                "expanded_url": "https://maii.fanbox.cc/",
+                "start": 126,
+                "url": "https://t.co/LpsBg8ZV2N"
+              }
+            ]
+          }
+        },
+        "id": "1846893587675459584",
+        "location": "快乐岛",
+        "name": "Mai",
+        "pinned_tweet_id": "1995871427359277281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004056691881721856/zVmrJiiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10424,
+          "following_count": 40,
+          "like_count": 2944,
+          "listed_count": 54,
+          "media_count": 243,
+          "tweet_count": 1212
+        },
+        "username": "mai996778",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7956841,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6117,
+          "media_count": 8289539,
+          "tweet_count": 104402470
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

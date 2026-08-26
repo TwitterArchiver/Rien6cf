@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064957476852887552"
+      ],
+      "media_source_tweet_id": [
+        "2064960230497325294"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065311456070181311",
+    "created_at": "2026-06-12T05:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065311456070181311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547131032293756933",
+          "start": 3,
+          "username": "narapu_pr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHUPoYfYEx",
+          "end": 128,
+          "expanded_url": "https://x.com/narapu_pr/status/2064960230497325294/video/1",
+          "media_key": "13_2064957476852887552",
+          "start": 105,
+          "url": "https://t.co/SHUPoYfYEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065311456070181311",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5629
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064960230497325294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @narapu_pr: 【速報】キャンパスで仔鹿が誕生しました。🦌✨\n入試：免除\n面接：なし\n特技：かわいい\n審査結果：合格\n学長「入学を許可します」\n本学最年少の新入生をあたたかく見守ってください。🌱 https://t.co/SHUPoYfYEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28666,
+        "height": 1920,
+        "media_key": "13_2064957476852887552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064957476852887552/img/vY7XVFpIc3OM6tYQ.jpg",
+        "public_metrics": {
+          "view_count": 280939
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064957476852887552/vid/avc1/320x568/F2OIs4tkWGqnuL3U.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064957476852887552/vid/avc1/480x852/E6hjn-uWeLOQF7nv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064957476852887552/vid/avc1/720x1280/BkwPLmb7T1GEpZo6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064957476852887552/pl/Rze1qwAIzOk9uoBP.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064957476852887552"
+          ],
+          "media_source_tweet_id": [
+            "2064960230497325294"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2065311456070181311",
+        "created_at": "2026-06-12T05:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065311456070181311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547131032293756933",
+              "start": 3,
+              "username": "narapu_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHUPoYfYEx",
+              "end": 128,
+              "expanded_url": "https://x.com/narapu_pr/status/2064960230497325294/video/1",
+              "media_key": "13_2064957476852887552",
+              "start": 105,
+              "url": "https://t.co/SHUPoYfYEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065311456070181311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5626
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064960230497325294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @narapu_pr: 【速報】キャンパスで仔鹿が誕生しました。🦌✨\n入試：免除\n面接：なし\n特技：かわいい\n審査結果：合格\n学長「入学を許可します」\n本学最年少の新入生をあたたかく見守ってください。🌱 https://t.co/SHUPoYfYEx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064957476852887552"
+          ]
+        },
+        "author_id": "1547131032293756933",
+        "conversation_id": "2064960230497325294",
+        "created_at": "2026-06-11T06:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064960230497325294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHUPoYfYEx",
+              "end": 113,
+              "expanded_url": "https://x.com/narapu_pr/status/2064960230497325294/video/1",
+              "media_key": "13_2064957476852887552",
+              "start": 90,
+              "url": "https://t.co/SHUPoYfYEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064960230497325294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1639,
+          "impression_count": 917091,
+          "like_count": 33434,
+          "quote_count": 322,
+          "reply_count": 114,
+          "retweet_count": 5626
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】キャンパスで仔鹿が誕生しました。🦌✨\n入試：免除\n面接：なし\n特技：かわいい\n審査結果：合格\n学長「入学を許可します」\n本学最年少の新入生をあたたかく見守ってください。🌱 https://t.co/SHUPoYfYEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5559,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2559
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T08:09:37.000Z",
+        "description": "奈良県立大学の公式アカウントです。大学関連のニュース、オープンキャンパスやコモンズ講座などのイベント情報を発信してゆきます。\n#奈良県立大学 #地域創造学部",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "奈良県立大学"
+              },
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "地域創造学部"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "narapu.ac.jp",
+                "end": 23,
+                "expanded_url": "https://www.narapu.ac.jp/",
+                "start": 0,
+                "url": "https://t.co/fhLvzTe3r1"
+              }
+            ]
+          }
+        },
+        "id": "1547131032293756933",
+        "location": " ",
+        "name": "奈良県立大学公式アカウント",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560493852858822656/M0WbIMp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 75,
+          "like_count": 367,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/fhLvzTe3r1",
+        "username": "narapu_pr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059808281309446144",
+        "3_2059808281309405184"
+      ],
+      "media_source_tweet_id": [
+        "2059808288985026709",
+        "2059808288985026709"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060314262195871952",
+    "created_at": "2026-05-29T10:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060314262195871952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1877678347125424128",
+          "start": 3,
+          "username": "x_usagi_san_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lyDq8JcQJN",
+          "end": 53,
+          "expanded_url": "https://x.com/x_usagi_san_x/status/2059808288985026709/photo/1",
+          "media_key": "3_2059808281309446144",
+          "start": 30,
+          "url": "https://t.co/lyDq8JcQJN"
+        },
+        {
+          "display_url": "pic.x.com/lyDq8JcQJN",
+          "end": 53,
+          "expanded_url": "https://x.com/x_usagi_san_x/status/2059808288985026709/photo/1",
+          "media_key": "3_2059808281309405184",
+          "start": 30,
+          "url": "https://t.co/lyDq8JcQJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060314262195871952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1278
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059808288985026709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_usagi_san_x: 双極性障害ってこわい https://t.co/lyDq8JcQJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1928,
+        "media_key": "3_2059808281309446144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXot_DbgAA0kaB.jpg",
+        "width": 1167
+      },
+      {
+        "height": 1871,
+        "media_key": "3_2059808281309405184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXot_Da4AA1H1K.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059808281309446144",
+            "3_2059808281309405184"
+          ],
+          "media_source_tweet_id": [
+            "2059808288985026709",
+            "2059808288985026709"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060314262195871952",
+        "created_at": "2026-05-29T10:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060314262195871952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1877678347125424128",
+              "start": 3,
+              "username": "x_usagi_san_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyDq8JcQJN",
+              "end": 53,
+              "expanded_url": "https://x.com/x_usagi_san_x/status/2059808288985026709/photo/1",
+              "media_key": "3_2059808281309446144",
+              "start": 30,
+              "url": "https://t.co/lyDq8JcQJN"
+            },
+            {
+              "display_url": "pic.x.com/lyDq8JcQJN",
+              "end": 53,
+              "expanded_url": "https://x.com/x_usagi_san_x/status/2059808288985026709/photo/1",
+              "media_key": "3_2059808281309405184",
+              "start": 30,
+              "url": "https://t.co/lyDq8JcQJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060314262195871952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1278
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059808288985026709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_usagi_san_x: 双極性障害ってこわい https://t.co/lyDq8JcQJN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059808281309446144",
+            "3_2059808281309405184"
+          ]
+        },
+        "author_id": "1877678347125424128",
+        "conversation_id": "2059808288985026709",
+        "created_at": "2026-05-28T01:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059808288985026709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyDq8JcQJN",
+              "end": 34,
+              "expanded_url": "https://x.com/x_usagi_san_x/status/2059808288985026709/photo/1",
+              "media_key": "3_2059808281309446144",
+              "start": 11,
+              "url": "https://t.co/lyDq8JcQJN"
+            },
+            {
+              "display_url": "pic.x.com/lyDq8JcQJN",
+              "end": 34,
+              "expanded_url": "https://x.com/x_usagi_san_x/status/2059808288985026709/photo/1",
+              "media_key": "3_2059808281309405184",
+              "start": 11,
+              "url": "https://t.co/lyDq8JcQJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059808288985026709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5677,
+          "impression_count": 10135617,
+          "like_count": 62862,
+          "quote_count": 733,
+          "reply_count": 468,
+          "retweet_count": 1278
+        },
+        "reply_settings": "everyone",
+        "text": "双極性障害ってこわい https://t.co/lyDq8JcQJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 178,
+          "like_count": 4708,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2282
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T11:26:28.000Z",
+        "description": "幼女",
+        "id": "1877678347125424128",
+        "name": "︎︎☁うさたん︎︎☁",
+        "pinned_tweet_id": "2049173226048069700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021664212934877184/dscpwjTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 1224,
+          "like_count": 26455,
+          "listed_count": 6,
+          "media_count": 947,
+          "tweet_count": 6639
+        },
+        "username": "x_usagi_san_x",
+        "verified": false
+      }
+    ]
+  }
+}

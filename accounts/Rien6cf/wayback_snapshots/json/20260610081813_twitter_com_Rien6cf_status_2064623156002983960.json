@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064145430183849984"
+      ],
+      "media_source_tweet_id": [
+        "2064145519124041912"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064623156002983960",
+    "created_at": "2026-06-10T08:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064623156002983960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1308602340220395520",
+          "start": 3,
+          "username": "BJUKMOTww01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JCx1tjFpTa",
+          "end": 62,
+          "expanded_url": "https://x.com/BJUKMOTww01/status/2064145519124041912/photo/1",
+          "media_key": "3_2064145430183849984",
+          "start": 39,
+          "url": "https://t.co/JCx1tjFpTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064623156002983960",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3542
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064145519124041912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BJUKMOTww01: 생리할때 재채기 많이하면 빨리 끝나려나 https://t.co/JCx1tjFpTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1667,
+        "media_key": "3_2064145430183849984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVRVRrasAANztI.jpg",
+        "width": 1745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064145430183849984"
+          ],
+          "media_source_tweet_id": [
+            "2064145519124041912"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064623156002983960",
+        "created_at": "2026-06-10T08:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064623156002983960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1308602340220395520",
+              "start": 3,
+              "username": "BJUKMOTww01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCx1tjFpTa",
+              "end": 62,
+              "expanded_url": "https://x.com/BJUKMOTww01/status/2064145519124041912/photo/1",
+              "media_key": "3_2064145430183849984",
+              "start": 39,
+              "url": "https://t.co/JCx1tjFpTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064623156002983960",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3542
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064145519124041912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BJUKMOTww01: 생리할때 재채기 많이하면 빨리 끝나려나 https://t.co/JCx1tjFpTa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064145430183849984"
+          ]
+        },
+        "author_id": "1308602340220395520",
+        "conversation_id": "2064145519124041912",
+        "created_at": "2026-06-09T00:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064145519124041912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCx1tjFpTa",
+              "end": 45,
+              "expanded_url": "https://x.com/BJUKMOTww01/status/2064145519124041912/photo/1",
+              "media_key": "3_2064145430183849984",
+              "start": 22,
+              "url": "https://t.co/JCx1tjFpTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064145519124041912",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 570,
+          "impression_count": 539232,
+          "like_count": 20673,
+          "quote_count": 382,
+          "reply_count": 12,
+          "retweet_count": 3542
+        },
+        "reply_settings": "everyone",
+        "text": "생리할때 재채기 많이하면 빨리 끝나려나 https://t.co/JCx1tjFpTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5409,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2523
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-23T03:01:53.000Z",
+        "description": "배주언 100% 수동봇\n♥배타쿠 전용 디엘사이트 쿠폰 페이지:https://t.co/VZnqZucKv5 (디엘사이트 제휴 파트너입니다.)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3JLHM5e",
+                "end": 57,
+                "expanded_url": "https://bit.ly/3JLHM5e",
+                "start": 34,
+                "url": "https://t.co/VZnqZucKv5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/1159124634?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/1159124634?c=3",
+                "start": 0,
+                "url": "https://t.co/wl26ajq7sM"
+              }
+            ]
+          }
+        },
+        "id": "1308602340220395520",
+        "location": "📧qhdejr55@naver.com",
+        "name": "배타쿠",
+        "pinned_tweet_id": "1857250929088881003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501625913095917568/c56x4tyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35567,
+          "following_count": 79,
+          "like_count": 1049,
+          "listed_count": 50,
+          "media_count": 555,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/wl26ajq7sM",
+        "username": "BJUKMOTww01",
+        "verified": false
+      }
+    ]
+  }
+}

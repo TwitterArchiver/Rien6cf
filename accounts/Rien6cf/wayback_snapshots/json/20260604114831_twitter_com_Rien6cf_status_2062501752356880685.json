@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062501752356880685",
+    "created_at": "2026-06-04T11:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062501752356880685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/elenadesaa1999…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/elenadesaa1999/status/2062262449487696089",
+          "start": 50,
+          "url": "https://t.co/uhmDP9IHDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062501752356880685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062262449487696089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国語／英語/日本語を話せます。\nランキングはこういう感じ:\nCN=JP、英語はあんまり使わない草 https://t.co/uhmDP9IHDJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062501752356880685",
+        "created_at": "2026-06-04T11:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062501752356880685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elenadesaa1999…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/elenadesaa1999/status/2062262449487696089",
+              "start": 50,
+              "url": "https://t.co/uhmDP9IHDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062501752356880685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062262449487696089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国語／英語/日本語を話せます。\nランキングはこういう感じ:\nCN=JP、英語はあんまり使わない草 https://t.co/uhmDP9IHDJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3437112521",
+        "conversation_id": "2062262449487696089",
+        "created_at": "2026-06-03T19:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062262449487696089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062262449487696089",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 50512,
+          "like_count": 527,
+          "quote_count": 118,
+          "reply_count": 214,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "A las personas que hablan varios idiomas, ¿en qué idioma son sus pensamientos?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 183,
+          "like_count": 5058,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2402
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-23T19:36:58.000Z",
+        "description": "Autora de El disparo de la discordia. 📚 “Una habitación sin libros es un cuerpo sin alma” – Cicerón. Corazón afinado a Sanz y Veintiuno. 🎶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/elenadesaa?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/elenadesaa?igsh=d2FhbnBzbzNqNzM4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8TiRL2OX9w"
+              }
+            ]
+          }
+        },
+        "id": "3437112521",
+        "location": "Poesia",
+        "name": "Ele 🌻",
+        "pinned_tweet_id": "1198522849683812354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055746988142891008/Qs8DFc7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23215,
+          "following_count": 1262,
+          "like_count": 94015,
+          "listed_count": 35,
+          "media_count": 12592,
+          "tweet_count": 103349
+        },
+        "url": "https://t.co/8TiRL2OX9w",
+        "username": "elenadesaa1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2027626083512950856",
+    "created_at": "2026-02-28T06:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027626083512950856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5380p/status/2…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/5380p/status/2027538962844418446",
+          "start": 8,
+          "url": "https://t.co/RM6Dil94W1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027626083512950856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027538962844418446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操这个最好笑 https://t.co/RM6Dil94W1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2027538957211430912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCND8HDacAAfnOM.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2027626083512950856",
+        "created_at": "2026-02-28T06:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027626083512950856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5380p/status/2…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/5380p/status/2027538962844418446",
+              "start": 8,
+              "url": "https://t.co/RM6Dil94W1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027626083512950856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027538962844418446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操这个最好笑 https://t.co/RM6Dil94W1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027538957211430912"
+          ]
+        },
+        "author_id": "1687371425865441280",
+        "conversation_id": "2027277918800601498",
+        "created_at": "2026-02-28T00:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027538962844418446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2923658012",
+              "start": 0,
+              "username": "JMA_kishou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sowDq6Et1k",
+              "end": 35,
+              "expanded_url": "https://x.com/5380P/status/2027538962844418446/photo/1",
+              "media_key": "3_2027538957211430912",
+              "start": 12,
+              "url": "https://t.co/sowDq6Et1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027538962844418446",
+        "in_reply_to_user_id": "2923658012",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 826,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027277918800601498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JMA_kishou https://t.co/sowDq6Et1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 85,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 633
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T07:54:39.000Z",
+        "description": "",
+        "id": "1687371425865441280",
+        "location": "奈良公園",
+        "name": "ごさんぱ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868205761958150144/pqDfubr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 35,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 21
+        },
+        "username": "5380P",
+        "verified": false
+      }
+    ]
+  }
+}

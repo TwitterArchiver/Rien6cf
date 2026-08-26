@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2075908503357861957",
+    "created_at": "2026-07-13T02:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076496081307975964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946736168990846976",
+          "start": 0,
+          "username": "yaesakimimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076496081307975964",
+    "in_reply_to_user_id": "1946736168990846976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076495493652463840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaesakimimu 統合失調症と診断されたことがあったらもう人生終了確定やん"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2075908503357861957",
+        "created_at": "2026-07-13T02:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076496081307975964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946736168990846976",
+              "start": 0,
+              "username": "yaesakimimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076496081307975964",
+        "in_reply_to_user_id": "1946736168990846976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076495493652463840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaesakimimu 統合失調症と診断されたことがあったらもう人生終了確定やん"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946736168990846976",
+        "conversation_id": "2075908503357861957",
+        "created_at": "2026-07-13T02:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076495493652463840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076495493652463840",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075908503357861957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf ほんと最悪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7697,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2926
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T00:57:45.000Z",
+        "description": "みむです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nyuvxh193z9s7t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nyuvxh193z9s7tl?t=3Tu4Eo&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/fZDu56Ff8q"
+              }
+            ]
+          }
+        },
+        "id": "1946736168990846976",
+        "location": "ヘドロ",
+        "name": "Миму",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073549735886303232/lRutUnpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 56,
+          "like_count": 5553,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/fZDu56Ff8q",
+        "username": "yaesakimimu",
+        "verified": false
+      }
+    ]
+  }
+}

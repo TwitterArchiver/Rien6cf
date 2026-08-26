@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072477772417789952"
+      ],
+      "media_source_tweet_id": [
+        "2072477781179637876"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2072583965031239746",
+    "created_at": "2026-07-02T07:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072583965031239746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1559906722588000256",
+          "start": 3,
+          "username": "ShiomiSuzuori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CuteHUJKu0",
+          "end": 42,
+          "expanded_url": "https://x.com/ShiomiSuzuori/status/2072477781179637876/photo/1",
+          "media_key": "3_2072477772417789952",
+          "start": 19,
+          "url": "https://t.co/CuteHUJKu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072583965031239746",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072477781179637876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShiomiSuzuori: https://t.co/CuteHUJKu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2072477772417789952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLrjbXa8AAUqAk.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072477772417789952"
+          ],
+          "media_source_tweet_id": [
+            "2072477781179637876"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2072583965031239746",
+        "created_at": "2026-07-02T07:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072583965031239746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1559906722588000256",
+              "start": 3,
+              "username": "ShiomiSuzuori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuteHUJKu0",
+              "end": 42,
+              "expanded_url": "https://x.com/ShiomiSuzuori/status/2072477781179637876/photo/1",
+              "media_key": "3_2072477772417789952",
+              "start": 19,
+              "url": "https://t.co/CuteHUJKu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072583965031239746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072477781179637876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShiomiSuzuori: https://t.co/CuteHUJKu0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072477772417789952"
+          ]
+        },
+        "author_id": "1559906722588000256",
+        "conversation_id": "2072477781179637876",
+        "created_at": "2026-07-02T00:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072477781179637876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuteHUJKu0",
+              "end": 23,
+              "expanded_url": "https://x.com/ShiomiSuzuori/status/2072477781179637876/photo/1",
+              "media_key": "3_2072477772417789952",
+              "start": 0,
+              "url": "https://t.co/CuteHUJKu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072477781179637876",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2153,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CuteHUJKu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 196,
+          "like_count": 6738,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2771
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "",
+        "id": "1559906722588000256",
+        "location": "舞萌国",
+        "name": "汐见铃织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069953612965724160/ubxuDWDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 561,
+          "like_count": 5115,
+          "listed_count": 9,
+          "media_count": 429,
+          "tweet_count": 4041
+        },
+        "url": "",
+        "username": "ShiomiSuzuori",
+        "verified": true
+      }
+    ]
+  }
+}

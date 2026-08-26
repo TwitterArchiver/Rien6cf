@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075023021220446208"
+      ],
+      "media_source_tweet_id": [
+        "2075023027537146332"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2075454201422098446",
+    "created_at": "2026-07-10T05:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075454201422098446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977597250890252288",
+          "start": 3,
+          "username": "suga_pkmn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fmMkRTQf5i",
+          "end": 41,
+          "expanded_url": "https://x.com/suga_pkmn/status/2075023027537146332/photo/1",
+          "media_key": "3_2075023021220446208",
+          "start": 18,
+          "url": "https://t.co/fmMkRTQf5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075454201422098446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075023027537146332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suga_pkmn: お薬 https://t.co/fmMkRTQf5i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075023021220446208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv2caCaQAAwHMb.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075023021220446208"
+          ],
+          "media_source_tweet_id": [
+            "2075023027537146332"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2075454201422098446",
+        "created_at": "2026-07-10T05:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075454201422098446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977597250890252288",
+              "start": 3,
+              "username": "suga_pkmn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmMkRTQf5i",
+              "end": 41,
+              "expanded_url": "https://x.com/suga_pkmn/status/2075023027537146332/photo/1",
+              "media_key": "3_2075023021220446208",
+              "start": 18,
+              "url": "https://t.co/fmMkRTQf5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075454201422098446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075023027537146332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suga_pkmn: お薬 https://t.co/fmMkRTQf5i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075023021220446208"
+          ]
+        },
+        "author_id": "1977597250890252288",
+        "conversation_id": "2075023027537146332",
+        "created_at": "2026-07-09T01:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075023027537146332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmMkRTQf5i",
+              "end": 26,
+              "expanded_url": "https://x.com/suga_pkmn/status/2075023027537146332/photo/1",
+              "media_key": "3_2075023021220446208",
+              "start": 3,
+              "url": "https://t.co/fmMkRTQf5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075023027537146332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1534,
+          "impression_count": 1685866,
+          "like_count": 76867,
+          "quote_count": 1462,
+          "reply_count": 94,
+          "retweet_count": 7317
+        },
+        "reply_settings": "everyone",
+        "text": "お薬 https://t.co/fmMkRTQf5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 195,
+          "like_count": 7430,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2880
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T04:49:12.000Z",
+        "description": "成人済/pkmn/絵を描く/ 主にkrsbさんと進化前(ベイビー)たち/AI学習・無断転載禁止",
+        "id": "1977597250890252288",
+        "name": "スガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058533029409337344/eCQU5cqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6357,
+          "following_count": 132,
+          "like_count": 3283,
+          "listed_count": 28,
+          "media_count": 211,
+          "tweet_count": 3361
+        },
+        "url": "",
+        "username": "suga_pkmn",
+        "verified": false
+      }
+    ]
+  }
+}

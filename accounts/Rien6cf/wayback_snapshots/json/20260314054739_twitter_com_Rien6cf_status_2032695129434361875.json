@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032695129434361875",
+    "created_at": "2026-03-14T05:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032695129434361875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shupra004/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/shupra004/status/2032598497359442071",
+          "start": 8,
+          "url": "https://t.co/hXAL1hOfk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032695129434361875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032598497359442071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "なんでもやばい https://t.co/hXAL1hOfk2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032695129434361875",
+        "created_at": "2026-03-14T05:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032695129434361875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shupra004/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/shupra004/status/2032598497359442071",
+              "start": 8,
+              "url": "https://t.co/hXAL1hOfk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032695129434361875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032598497359442071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "なんでもやばい https://t.co/hXAL1hOfk2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229707931639136256",
+        "conversation_id": "2032598497359442071",
+        "created_at": "2026-03-13T23:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T00:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032598497359442071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032598497359442071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 20042,
+          "like_count": 536,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "【中国語→現代日本語訳】\n\n糟了（zāo le）＝（まずい）＝ヤバい\n完了（wán le）＝（終わった）＝ヤバい\n厉害（lìhai）＝（すごい）＝ヤバい\n牛啊（niú a）＝（すげえ）＝ヤバい\n绝了（jué le）＝（えぐい／最高）＝ヤバい\n离谱（lípǔ）＝（ありえない）＝ヤバい\n\n結論：ヤバいの汎用性、ヤバい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 108,
+          "like_count": 1488,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1052
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T10:03:22.000Z",
+        "description": "中国語大喜利アカウント。FF外通知は基本的に切っています。基本フォロバしてますが、割と見落としがちなので鍵垢の方含めフォロバ無かったらリプかDMください。",
+        "id": "1229707931639136256",
+        "location": "日本",
+        "name": "しゅぷら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439410017963163649/SEBLvwfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7717,
+          "following_count": 6195,
+          "like_count": 711474,
+          "listed_count": 38,
+          "media_count": 1780,
+          "tweet_count": 8809
+        },
+        "username": "shupra004",
+        "verified": false
+      }
+    ]
+  }
+}

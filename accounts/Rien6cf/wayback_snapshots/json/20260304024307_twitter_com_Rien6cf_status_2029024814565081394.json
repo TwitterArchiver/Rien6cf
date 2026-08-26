@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2028951640833966505",
+    "created_at": "2026-03-04T02:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T03:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029024814565081394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757439932271087616",
+          "start": 0,
+          "username": "ATerOL_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029024814565081394",
+    "in_reply_to_user_id": "1757439932271087616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029024561921179684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATerOL_000 我笑死了诶呀，他家都飞起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2028951640833966505",
+        "created_at": "2026-03-04T02:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029024814565081394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757439932271087616",
+              "start": 0,
+              "username": "ATerOL_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029024814565081394",
+        "in_reply_to_user_id": "1757439932271087616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029024561921179684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATerOL_000 我笑死了诶呀，他家都飞起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757439932271087616",
+        "conversation_id": "2028951640833966505",
+        "created_at": "2026-03-04T02:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029024561921179684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029024561921179684",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029024438738665956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf 再加两百个印度人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 96,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 727
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T16:21:54.000Z",
+        "description": "舟｜术｜音游｜什么都说，od/歌手，重抑重焦bpd，习惯性改主页，无言直关抱歉，互fo请私｜全世界最可爱🤍@shiyuann_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shiyuann_"
+              }
+            ]
+          }
+        },
+        "id": "1757439932271087616",
+        "location": "痛苦",
+        "name": "介于平行中的你与我之缘",
+        "pinned_tweet_id": "2002568601250001101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029024162455629824/UbTFWdOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 641,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 841
+        },
+        "username": "ATerOL_000",
+        "verified": false
+      }
+    ]
+  }
+}

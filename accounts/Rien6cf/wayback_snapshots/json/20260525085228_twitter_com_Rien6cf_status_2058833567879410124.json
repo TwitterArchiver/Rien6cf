@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058802266954776576",
+        "3_2058802269286809600"
+      ],
+      "media_source_tweet_id": [
+        "2058802271102927255",
+        "2058802271102927255"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058833567879410124",
+    "created_at": "2026-05-25T08:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058833567879410124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "33808769",
+          "start": 3,
+          "username": "impress_watch"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ハンズは、2026年11月でハンズ渋谷店の営業を終了する。最終営業日は決まり次第案内される。",
+          "display_url": "watch.impress.co.jp/docs/news/2111…",
+          "end": 61,
+          "expanded_url": "https://www.watch.impress.co.jp/docs/news/2111367.html",
+          "start": 38,
+          "status": 200,
+          "title": "ハンズ渋谷が閉店へ　48年の歴史に幕",
+          "unwound_url": "https://www.watch.impress.co.jp/docs/news/2111367.html",
+          "url": "https://t.co/BEyPBdV8yS"
+        },
+        {
+          "display_url": "pic.x.com/ixVSIb2ssw",
+          "end": 85,
+          "expanded_url": "https://x.com/impress_watch/status/2058802271102927255/photo/1",
+          "media_key": "3_2058802266954776576",
+          "start": 62,
+          "url": "https://t.co/ixVSIb2ssw"
+        },
+        {
+          "display_url": "pic.x.com/ixVSIb2ssw",
+          "end": 85,
+          "expanded_url": "https://x.com/impress_watch/status/2058802271102927255/photo/1",
+          "media_key": "3_2058802269286809600",
+          "start": 62,
+          "url": "https://t.co/ixVSIb2ssw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058833567879410124",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9661
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058802271102927255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @impress_watch: ハンズ渋谷が閉店へ　48年の歴史に幕 https://t.co/BEyPBdV8yS https://t.co/ixVSIb2ssw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2058802266954776576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJVwPibwAAjuls.jpg",
+        "width": 1200
+      },
+      {
+        "height": 907,
+        "media_key": "3_2058802269286809600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJVwYObwAAkCR_.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058802266954776576",
+            "3_2058802269286809600"
+          ],
+          "media_source_tweet_id": [
+            "2058802271102927255",
+            "2058802271102927255"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058833567879410124",
+        "created_at": "2026-05-25T08:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058833567879410124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "33808769",
+              "start": 3,
+              "username": "impress_watch"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ハンズは、2026年11月でハンズ渋谷店の営業を終了する。最終営業日は決まり次第案内される。",
+              "display_url": "watch.impress.co.jp/docs/news/2111…",
+              "end": 61,
+              "expanded_url": "https://www.watch.impress.co.jp/docs/news/2111367.html",
+              "start": 38,
+              "status": 200,
+              "title": "ハンズ渋谷が閉店へ　48年の歴史に幕",
+              "unwound_url": "https://www.watch.impress.co.jp/docs/news/2111367.html",
+              "url": "https://t.co/BEyPBdV8yS"
+            },
+            {
+              "display_url": "pic.x.com/ixVSIb2ssw",
+              "end": 85,
+              "expanded_url": "https://x.com/impress_watch/status/2058802271102927255/photo/1",
+              "media_key": "3_2058802266954776576",
+              "start": 62,
+              "url": "https://t.co/ixVSIb2ssw"
+            },
+            {
+              "display_url": "pic.x.com/ixVSIb2ssw",
+              "end": 85,
+              "expanded_url": "https://x.com/impress_watch/status/2058802271102927255/photo/1",
+              "media_key": "3_2058802269286809600",
+              "start": 62,
+              "url": "https://t.co/ixVSIb2ssw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058833567879410124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9661
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058802271102927255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @impress_watch: ハンズ渋谷が閉店へ　48年の歴史に幕 https://t.co/BEyPBdV8yS https://t.co/ixVSIb2ssw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058802266954776576",
+            "3_2058802269286809600"
+          ]
+        },
+        "author_id": "33808769",
+        "conversation_id": "2058802271102927255",
+        "created_at": "2026-05-25T06:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058802271102927255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ハンズは、2026年11月でハンズ渋谷店の営業を終了する。最終営業日は決まり次第案内される。",
+              "display_url": "watch.impress.co.jp/docs/news/2111…",
+              "end": 42,
+              "expanded_url": "https://www.watch.impress.co.jp/docs/news/2111367.html",
+              "start": 19,
+              "status": 200,
+              "title": "ハンズ渋谷が閉店へ　48年の歴史に幕",
+              "unwound_url": "https://www.watch.impress.co.jp/docs/news/2111367.html",
+              "url": "https://t.co/BEyPBdV8yS"
+            },
+            {
+              "display_url": "pic.x.com/ixVSIb2ssw",
+              "end": 66,
+              "expanded_url": "https://x.com/impress_watch/status/2058802271102927255/photo/1",
+              "media_key": "3_2058802266954776576",
+              "start": 43,
+              "url": "https://t.co/ixVSIb2ssw"
+            },
+            {
+              "display_url": "pic.x.com/ixVSIb2ssw",
+              "end": 66,
+              "expanded_url": "https://x.com/impress_watch/status/2058802271102927255/photo/1",
+              "media_key": "3_2058802269286809600",
+              "start": 43,
+              "url": "https://t.co/ixVSIb2ssw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058802271102927255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1321,
+          "impression_count": 1093241,
+          "like_count": 14158,
+          "quote_count": 2668,
+          "reply_count": 210,
+          "retweet_count": 9661
+        },
+        "reply_settings": "everyone",
+        "text": "ハンズ渋谷が閉店へ　48年の歴史に幕 https://t.co/BEyPBdV8yS https://t.co/ixVSIb2ssw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 172,
+          "like_count": 4533,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2232
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-21T04:17:45.000Z",
+        "description": "Impress Watchの公式Xアカウントです。ネットサービスやIT、ガジェット、マネーなど「くらしを変えるテクノロジー」や「新しいライフスタイル」を紹介してきます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "watch.impress.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.watch.impress.co.jp/",
+                "start": 0,
+                "url": "https://t.co/nZEpBhOLgG"
+              }
+            ]
+          }
+        },
+        "id": "33808769",
+        "location": "東京都千代田区",
+        "name": "Impress Watch",
+        "pinned_tweet_id": "2058689540962087366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1042611424369864704/Vdq78CFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79049,
+          "following_count": 42,
+          "like_count": 69,
+          "listed_count": 4239,
+          "media_count": 42800,
+          "tweet_count": 89541
+        },
+        "url": "https://t.co/nZEpBhOLgG",
+        "username": "impress_watch",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079318602734620672"
+      ],
+      "media_source_tweet_id": [
+        "2079318607033774366"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2079444031302779387",
+    "created_at": "2026-07-21T05:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079444031302779387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1372133355945299981",
+          "start": 3,
+          "username": "narukami_numari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zI8mIozbbi",
+          "end": 64,
+          "expanded_url": "https://x.com/narukami_numari/status/2079318607033774366/photo/1",
+          "media_key": "3_2079318602734620672",
+          "start": 41,
+          "url": "https://t.co/zI8mIozbbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079444031302779387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079318607033774366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @narukami_numari: 初絵ッチャ。花ちゃんをペットにしよう。 https://t.co/zI8mIozbbi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2079318602734620672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNs5QKLb0AAod5E.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079318602734620672"
+          ]
+        },
+        "author_id": "1372133355945299981",
+        "conversation_id": "2079318607033774366",
+        "created_at": "2026-07-20T21:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T22:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079318607033774366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zI8mIozbbi",
+              "end": 43,
+              "expanded_url": "https://x.com/narukami_numari/status/2079318607033774366/photo/1",
+              "media_key": "3_2079318602734620672",
+              "start": 20,
+              "url": "https://t.co/zI8mIozbbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079318607033774366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 5806,
+          "like_count": 662,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "初絵ッチャ。花ちゃんをペットにしよう。 https://t.co/zI8mIozbbi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079318602734620672"
+          ],
+          "media_source_tweet_id": [
+            "2079318607033774366"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2079444031302779387",
+        "created_at": "2026-07-21T05:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079444031302779387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1372133355945299981",
+              "start": 3,
+              "username": "narukami_numari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zI8mIozbbi",
+              "end": 64,
+              "expanded_url": "https://x.com/narukami_numari/status/2079318607033774366/photo/1",
+              "media_key": "3_2079318602734620672",
+              "start": 41,
+              "url": "https://t.co/zI8mIozbbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079444031302779387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079318607033774366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @narukami_numari: 初絵ッチャ。花ちゃんをペットにしよう。 https://t.co/zI8mIozbbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 200,
+          "like_count": 8303,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 3005
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T10:31:14.000Z",
+        "description": "描きたいものを描いています。合成音声が好き。\nSkeb https://t.co/iT3gPTDpyn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@narukami_numa…",
+                "end": 51,
+                "expanded_url": "https://skeb.jp/@narukami_numari",
+                "start": 28,
+                "url": "https://t.co/iT3gPTDpyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/numari",
+                "end": 23,
+                "expanded_url": "https://lit.link/numari",
+                "start": 0,
+                "url": "https://t.co/kTsZa4U8fI"
+              }
+            ]
+          }
+        },
+        "id": "1372133355945299981",
+        "location": "花、ヰ、春組、V.I.P観測者",
+        "name": "鳴上ぬまり",
+        "pinned_tweet_id": "2059111176286642293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053848494738407424/0MFUrATr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28256,
+          "following_count": 1149,
+          "like_count": 59071,
+          "listed_count": 143,
+          "media_count": 432,
+          "tweet_count": 17481
+        },
+        "url": "https://t.co/kTsZa4U8fI",
+        "username": "narukami_numari",
+        "verified": false
+      }
+    ]
+  }
+}

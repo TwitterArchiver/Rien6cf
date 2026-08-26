@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2024105510312739202",
+    "created_at": "2026-02-18T12:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024105821735674361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024105821735674361",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024105510312739202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么大半夜又在说这些是因为罕见地和我妈打电话了我很不擅长应对亲情这种关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2024105510312739202",
+        "created_at": "2026-02-18T12:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024105821735674361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024105821735674361",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024105510312739202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么大半夜又在说这些是因为罕见地和我妈打电话了我很不擅长应对亲情这种关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024105510312739202",
+        "created_at": "2026-02-18T12:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024105510312739202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linovo33/statu…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/linovo33/status/2024044389677363322",
+              "start": 122,
+              "url": "https://t.co/amYgzt9Y7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024105510312739202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024044389677363322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈迄今为止都不知道我在她不知道的地方悄悄地自杀了我也不知道几次，，我不知道我说出来的话会获得什么反应、失望吗暴怒吗还是别的？她的感情总是很复杂的我也读不明白的，如果某一天我真的死了的话她应该会看到的吧，对不起我没能成为快乐的健康的人或者天才 https://t.co/amYgzt9Y7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 72,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 457
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

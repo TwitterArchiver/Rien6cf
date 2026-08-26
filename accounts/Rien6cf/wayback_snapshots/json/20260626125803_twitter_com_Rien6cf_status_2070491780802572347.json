@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070477186876964864"
+      ],
+      "media_source_tweet_id": [
+        "2070477284772061500"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070491780802572347",
+    "created_at": "2026-06-26T12:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070491780802572347"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 106,
+          "tag": "ラストシーン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1948399284086616064",
+          "start": 3,
+          "username": "LASTSCENE_idol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iOYEfxRA86",
+          "end": 137,
+          "expanded_url": "https://x.com/LASTSCENE_idol/status/2070477284772061500/video/1",
+          "media_key": "13_2070477186876964864",
+          "start": 114,
+          "url": "https://t.co/iOYEfxRA86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070491780802572347",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070477284772061500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LASTSCENE_idol: 【新メンバー公開】\n\nツアーファイナルでお披露目のラストシーン新メンバー公開🩵\n\nそしてこの後公開のアー写ポスト\n1500RP達成でNEXT NEW MEMBER公開！\n\n#ラストシーン https://t.co/iOYEfxRA86"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60060,
+        "height": 1080,
+        "media_key": "13_2070477186876964864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070477186876964864/img/AWtcon-icy1TxQcO.jpg",
+        "public_metrics": {
+          "view_count": 11464
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070477186876964864/vid/avc1/480x270/EBezCgWBgI1VRr8j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070477186876964864/pl/a7Cw6PqhvDVzcXdg.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070477186876964864/vid/avc1/640x360/V3PFFdhy6b1XAuMi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070477186876964864/vid/avc1/1920x1080/NaAgNVXYV3qk0rRE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070477186876964864/vid/avc1/1280x720/ngGTstg1ZYDP2wIO.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070477186876964864"
+          ],
+          "media_source_tweet_id": [
+            "2070477284772061500"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070491780802572347",
+        "created_at": "2026-06-26T12:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070491780802572347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 106,
+              "tag": "ラストシーン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1948399284086616064",
+              "start": 3,
+              "username": "LASTSCENE_idol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOYEfxRA86",
+              "end": 137,
+              "expanded_url": "https://x.com/LASTSCENE_idol/status/2070477284772061500/video/1",
+              "media_key": "13_2070477186876964864",
+              "start": 114,
+              "url": "https://t.co/iOYEfxRA86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070491780802572347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070477284772061500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LASTSCENE_idol: 【新メンバー公開】\n\nツアーファイナルでお披露目のラストシーン新メンバー公開🩵\n\nそしてこの後公開のアー写ポスト\n1500RP達成でNEXT NEW MEMBER公開！\n\n#ラストシーン https://t.co/iOYEfxRA86"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070477186876964864"
+          ]
+        },
+        "author_id": "1948399284086616064",
+        "conversation_id": "2070477284772061500",
+        "created_at": "2026-06-26T12:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070477284772061500"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 86,
+              "tag": "ラストシーン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOYEfxRA86",
+              "end": 117,
+              "expanded_url": "https://x.com/LASTSCENE_idol/status/2070477284772061500/video/1",
+              "media_key": "13_2070477186876964864",
+              "start": 94,
+              "url": "https://t.co/iOYEfxRA86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070477284772061500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 92849,
+          "like_count": 1233,
+          "quote_count": 220,
+          "reply_count": 7,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "【新メンバー公開】\n\nツアーファイナルでお披露目のラストシーン新メンバー公開🩵\n\nそしてこの後公開のアー写ポスト\n1500RP達成でNEXT NEW MEMBER公開！\n\n#ラストシーン https://t.co/iOYEfxRA86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 6326,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2706
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T15:06:43.000Z",
+        "description": "2025.12.24 @ Kanadevia Hall にてお披露目🎞️❤︎ スケジュール🗓️〈https://t.co/ZoAnsyYNVa〉出演・ご依頼〈lastscene.official@gmail.com〉#ラストシーン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 108,
+                "tag": "ラストシーン"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "timetr.ee/p/lastscene_of…",
+                "end": 71,
+                "expanded_url": "https://timetr.ee/p/lastscene_official",
+                "start": 48,
+                "url": "https://t.co/ZoAnsyYNVa"
+              }
+            ]
+          }
+        },
+        "id": "1948399284086616064",
+        "location": "HEROINES【ヒロインズ】",
+        "name": "ラストシーン【HEROINES】",
+        "pinned_tweet_id": "2040021540620915152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001596791456976896/s0koKSi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24856,
+          "following_count": 8,
+          "like_count": 23,
+          "listed_count": 69,
+          "media_count": 311,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "LASTSCENE_idol",
+        "verified": true
+      }
+    ]
+  }
+}

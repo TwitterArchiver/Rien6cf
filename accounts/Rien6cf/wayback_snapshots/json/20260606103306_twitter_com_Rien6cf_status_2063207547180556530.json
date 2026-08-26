@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2063207547180556530",
+    "created_at": "2026-06-06T10:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063207547180556530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hachihame/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hachihame/status/2062875356722569655",
+          "start": 19,
+          "url": "https://t.co/JzjbSXaxOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063207547180556530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062875356722569655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "飯食いディルドwwwwwwwwwww https://t.co/JzjbSXaxOy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2063207547180556530",
+        "created_at": "2026-06-06T10:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063207547180556530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hachihame/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hachihame/status/2062875356722569655",
+              "start": 19,
+              "url": "https://t.co/JzjbSXaxOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063207547180556530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062875356722569655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "飯食いディルドwwwwwwwwwww https://t.co/JzjbSXaxOy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895296974192328704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2062875356722569655",
+        "created_at": "2026-06-05T12:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062875356722569655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062875356722569655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1593,
+          "impression_count": 2334906,
+          "like_count": 41268,
+          "quote_count": 284,
+          "reply_count": 82,
+          "retweet_count": 975
+        },
+        "reply_settings": "everyone",
+        "text": "結婚したら、好きぴ⁉️のことなんて呼ぶのが正解なんだろう⁉️\n夫⁉️旦那さん⁉️配偶者⁉️飯食いディルド⁉️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 183,
+          "like_count": 5112,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2426
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T02:16:35.000Z",
+        "description": "Twitterやめろ",
+        "id": "1895296974192328704",
+        "name": ".",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29749,
+          "following_count": 182,
+          "like_count": 13242,
+          "listed_count": 50,
+          "media_count": 241,
+          "tweet_count": 2520
+        },
+        "username": "hachihame",
+        "verified": false
+      }
+    ]
+  }
+}

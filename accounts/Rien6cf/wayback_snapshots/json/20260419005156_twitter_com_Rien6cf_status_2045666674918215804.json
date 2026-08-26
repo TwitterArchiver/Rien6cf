@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045502777993179136",
+        "3_2045502778806792192",
+        "3_2045502779742121984",
+        "3_2045502781667336192"
+      ],
+      "media_source_tweet_id": [
+        "2045502783567343921",
+        "2045502783567343921",
+        "2045502783567343921",
+        "2045502783567343921"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2045666674918215804",
+    "created_at": "2026-04-19T00:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T01:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045666674918215804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2023761474037190656",
+          "start": 3,
+          "username": "BJeiLBnwLCSOUDG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w4NM7zQFJd",
+          "end": 69,
+          "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+          "media_key": "3_2045502777993179136",
+          "start": 46,
+          "url": "https://t.co/w4NM7zQFJd"
+        },
+        {
+          "display_url": "pic.x.com/w4NM7zQFJd",
+          "end": 69,
+          "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+          "media_key": "3_2045502778806792192",
+          "start": 46,
+          "url": "https://t.co/w4NM7zQFJd"
+        },
+        {
+          "display_url": "pic.x.com/w4NM7zQFJd",
+          "end": 69,
+          "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+          "media_key": "3_2045502779742121984",
+          "start": 46,
+          "url": "https://t.co/w4NM7zQFJd"
+        },
+        {
+          "display_url": "pic.x.com/w4NM7zQFJd",
+          "end": 69,
+          "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+          "media_key": "3_2045502781667336192",
+          "start": 46,
+          "url": "https://t.co/w4NM7zQFJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045666674918215804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045502783567343921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BJeiLBnwLCSOUDG: 【朗報】僕の好きな曲には全て共通点がある事が判明 https://t.co/w4NM7zQFJd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2045502777993179136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMV8GVbsAAhanb.jpg",
+        "width": 500
+      },
+      {
+        "height": 360,
+        "media_key": "3_2045502778806792192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMV8JXacAA5oGi.jpg",
+        "width": 480
+      },
+      {
+        "height": 480,
+        "media_key": "3_2045502779742121984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMV8M2acAA5Y7I.jpg",
+        "width": 640
+      },
+      {
+        "height": 720,
+        "media_key": "3_2045502781667336192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMV8UBa4AAMCvi.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045502777993179136",
+            "3_2045502778806792192",
+            "3_2045502779742121984",
+            "3_2045502781667336192"
+          ],
+          "media_source_tweet_id": [
+            "2045502783567343921",
+            "2045502783567343921",
+            "2045502783567343921",
+            "2045502783567343921"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2045666674918215804",
+        "created_at": "2026-04-19T00:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045666674918215804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2023761474037190656",
+              "start": 3,
+              "username": "BJeiLBnwLCSOUDG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4NM7zQFJd",
+              "end": 69,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+              "media_key": "3_2045502777993179136",
+              "start": 46,
+              "url": "https://t.co/w4NM7zQFJd"
+            },
+            {
+              "display_url": "pic.x.com/w4NM7zQFJd",
+              "end": 69,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+              "media_key": "3_2045502778806792192",
+              "start": 46,
+              "url": "https://t.co/w4NM7zQFJd"
+            },
+            {
+              "display_url": "pic.x.com/w4NM7zQFJd",
+              "end": 69,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+              "media_key": "3_2045502779742121984",
+              "start": 46,
+              "url": "https://t.co/w4NM7zQFJd"
+            },
+            {
+              "display_url": "pic.x.com/w4NM7zQFJd",
+              "end": 69,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+              "media_key": "3_2045502781667336192",
+              "start": 46,
+              "url": "https://t.co/w4NM7zQFJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045666674918215804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045502783567343921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BJeiLBnwLCSOUDG: 【朗報】僕の好きな曲には全て共通点がある事が判明 https://t.co/w4NM7zQFJd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045502777993179136",
+            "3_2045502778806792192",
+            "3_2045502779742121984",
+            "3_2045502781667336192"
+          ]
+        },
+        "author_id": "2023761474037190656",
+        "conversation_id": "2045502783567343921",
+        "created_at": "2026-04-18T14:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045502783567343921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4NM7zQFJd",
+              "end": 48,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+              "media_key": "3_2045502777993179136",
+              "start": 25,
+              "url": "https://t.co/w4NM7zQFJd"
+            },
+            {
+              "display_url": "pic.x.com/w4NM7zQFJd",
+              "end": 48,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+              "media_key": "3_2045502778806792192",
+              "start": 25,
+              "url": "https://t.co/w4NM7zQFJd"
+            },
+            {
+              "display_url": "pic.x.com/w4NM7zQFJd",
+              "end": 48,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+              "media_key": "3_2045502779742121984",
+              "start": 25,
+              "url": "https://t.co/w4NM7zQFJd"
+            },
+            {
+              "display_url": "pic.x.com/w4NM7zQFJd",
+              "end": 48,
+              "expanded_url": "https://x.com/BJeiLBnwLCSOUDG/status/2045502783567343921/photo/1",
+              "media_key": "3_2045502781667336192",
+              "start": 25,
+              "url": "https://t.co/w4NM7zQFJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045502783567343921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 645,
+          "impression_count": 205784,
+          "like_count": 9940,
+          "quote_count": 40,
+          "reply_count": 21,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "【朗報】僕の好きな曲には全て共通点がある事が判明 https://t.co/w4NM7zQFJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 142,
+          "like_count": 2830,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1668
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:08:43.000Z",
+        "description": "Xと絵両方初心者です　いよわさん好き\nネタ絵やボカロネタが多いたまに真面目な一枚を絵描くことがある！\nちなみに一番好きなボカロ曲は\n「IMAWANOKIWA」です\n憧れはいつだっていよわさん！",
+        "id": "2023761474037190656",
+        "location": "結露越しの街",
+        "name": "ただのゴーレムさん",
+        "pinned_tweet_id": "2042744024604504370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041428695508979712/dJlTb_JA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 290,
+          "like_count": 2974,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 2627
+        },
+        "username": "BJeiLBnwLCSOUDG",
+        "verified": false
+      }
+    ]
+  }
+}

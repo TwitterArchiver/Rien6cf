@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083517465112506369"
+      ],
+      "media_source_tweet_id": [
+        "2083538237893865560"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2083776761607659918",
+    "created_at": "2026-08-02T04:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083776761607659918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1848682203993280514",
+          "start": 3,
+          "username": "tukaerune"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/58zMwT5m5W",
+          "end": 38,
+          "expanded_url": "https://x.com/tukaerune/status/2083538237893865560/photo/1",
+          "media_key": "3_2083517465112506369",
+          "start": 15,
+          "url": "https://t.co/58zMwT5m5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083776761607659918",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 430
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083538237893865560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tukaerune: https://t.co/58zMwT5m5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2083517465112506369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOokGHdacAEtJn6.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083517465112506369"
+          ]
+        },
+        "author_id": "1848682203993280514",
+        "conversation_id": "2083538237893865560",
+        "created_at": "2026-08-01T13:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083538237893865560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/58zMwT5m5W",
+              "end": 23,
+              "expanded_url": "https://x.com/tukaerune/status/2083538237893865560/photo/1",
+              "media_key": "3_2083517465112506369",
+              "start": 0,
+              "url": "https://t.co/58zMwT5m5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083538237893865560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 131443,
+          "like_count": 9668,
+          "quote_count": 67,
+          "reply_count": 3,
+          "retweet_count": 430
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/58zMwT5m5W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083517465112506369"
+          ],
+          "media_source_tweet_id": [
+            "2083538237893865560"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2083776761607659918",
+        "created_at": "2026-08-02T04:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083776761607659918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1848682203993280514",
+              "start": 3,
+              "username": "tukaerune"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/58zMwT5m5W",
+              "end": 38,
+              "expanded_url": "https://x.com/tukaerune/status/2083538237893865560/photo/1",
+              "media_key": "3_2083517465112506369",
+              "start": 15,
+              "url": "https://t.co/58zMwT5m5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083776761607659918",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 430
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538237893865560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tukaerune: https://t.co/58zMwT5m5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 209,
+          "like_count": 9001,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3225
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T11:06:43.000Z",
+        "description": "使えるネタ画像を収集するためのアカウントです。DMで募集しています🙇‍♂️",
+        "id": "1848682203993280514",
+        "name": "使えるネタ画像収集用",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867120535525871616/ForKovam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283298,
+          "following_count": 0,
+          "like_count": 4756,
+          "listed_count": 362,
+          "media_count": 5669,
+          "tweet_count": 5673
+        },
+        "url": "",
+        "username": "tukaerune",
+        "verified": false
+      }
+    ]
+  }
+}

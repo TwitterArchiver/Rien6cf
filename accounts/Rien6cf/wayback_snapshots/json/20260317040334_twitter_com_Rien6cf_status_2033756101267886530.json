@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033756095303585795"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2033756101267886530",
+    "created_at": "2026-03-17T04:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T05:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033756101267886530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NMfCIK1BO6",
+          "end": 39,
+          "expanded_url": "https://x.com/Rien6cf/status/2033756101267886530/photo/1",
+          "media_key": "3_2033756095303585795",
+          "start": 16,
+          "url": "https://t.co/NMfCIK1BO6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033756101267886530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有的时候会怀疑自己是不是骷髅 https://t.co/NMfCIK1BO6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033756101267886530].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033756101267886530",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033756101267886530"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033756095303585795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlaZLRbEAMygja.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 112,
+          "like_count": 1782,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1138
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

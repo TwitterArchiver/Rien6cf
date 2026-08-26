@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2076441289382572440",
+    "created_at": "2026-07-12T22:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T23:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076441289382572440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miso_lover_/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/miso_lover_/status/2076262525432451236",
+          "start": 8,
+          "url": "https://t.co/o533Og93ci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076441289382572440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076262525432451236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "まじでそれ？！ https://t.co/o533Og93ci"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2076441289382572440",
+        "created_at": "2026-07-12T22:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076441289382572440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miso_lover_/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/miso_lover_/status/2076262525432451236",
+              "start": 8,
+              "url": "https://t.co/o533Og93ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076441289382572440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076262525432451236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まじでそれ？！ https://t.co/o533Og93ci"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572234064442322946",
+        "conversation_id": "2076262525432451236",
+        "created_at": "2026-07-12T11:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076262525432451236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hakucho_no_kai…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/hakucho_no_kai/status/2076157481492107691",
+              "start": 125,
+              "url": "https://t.co/fskR3IQ0CY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076262525432451236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 160011,
+          "like_count": 2217,
+          "quote_count": 17,
+          "reply_count": 5,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076157481492107691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "なんで名称にこだわるんだろ？\nうちの中学の支援級は｢5組｣だったけど、それが差別ワード化して｢お前5組いけw｣みたいないじりもあった\nひまわり組だろうと5組だろうと、何も変わらないよ\nどんな名称でも、自分は周りと違うんだってことに気づく子は気づくよ https://t.co/fskR3IQ0CY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7672,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2922
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T14:39:58.000Z",
+        "description": "元風俗嬢が社会復帰を目指す🫠双極症･PTSD 闘病5年選手🍀全肯定旦那と新婚生活💍収益化してません",
+        "id": "1572234064442322946",
+        "name": "躁鬱みそ嬢",
+        "pinned_tweet_id": "2071945542964548037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072189960841793536/szt3DBa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4633,
+          "following_count": 589,
+          "like_count": 129178,
+          "listed_count": 20,
+          "media_count": 582,
+          "tweet_count": 13576
+        },
+        "url": "",
+        "username": "miso_lover_",
+        "verified": true
+      }
+    ]
+  }
+}

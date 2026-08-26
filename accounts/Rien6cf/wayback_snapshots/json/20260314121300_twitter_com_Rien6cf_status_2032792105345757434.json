@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2032792105345757434",
+    "created_at": "2026-03-14T12:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032792105345757434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888422729835216896",
+          "start": 3,
+          "username": "munou0613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032792105345757434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032735613783617665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @munou0613: 最近のガキませてんな鬱だな程度の致命傷で済んだのに、まさかのうちと同じEveファンはもう、うちがこの世に存在していい理由なくなって死ぬしかない。\n金無いからオタ活なんかできなくて、タブレットでEveのイラスト模写して満足してた中3の頃の自分はなんだ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2032792105345757434",
+        "created_at": "2026-03-14T12:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032792105345757434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888422729835216896",
+              "start": 3,
+              "username": "munou0613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032792105345757434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032735613783617665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @munou0613: 最近のガキませてんな鬱だな程度の致命傷で済んだのに、まさかのうちと同じEveファンはもう、うちがこの世に存在していい理由なくなって死ぬしかない。\n金無いからオタ活なんかできなくて、タブレットでEveのイラスト模写して満足してた中3の頃の自分はなんだ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888422729835216896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2032735613783617665",
+        "created_at": "2026-03-14T08:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032735613783617665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_hqrpc/status/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/_hqrpc/status/2032426080624349435",
+              "start": 132,
+              "url": "https://t.co/5lvxocWwlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032735613783617665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 18829,
+          "like_count": 512,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032426080624349435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近のガキませてんな鬱だな程度の致命傷で済んだのに、まさかのうちと同じEveファンはもう、うちがこの世に存在していい理由なくなって死ぬしかない。\n金無いからオタ活なんかできなくて、タブレットでEveのイラスト模写して満足してた中3の頃の自分はなんだったんですか。 https://t.co/5lvxocWwlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 108,
+          "like_count": 1527,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1063
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:00:53.000Z",
+        "description": "sjk 気狂い 顔面コンプ 負けハーフ 同界隈フォロバ  @muno_0613元",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "muno_0613"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/u1klnqmz30h913…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/u1klnqmz30h913n?t=lhbv6Q&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/AlzFBXNSUH"
+              }
+            ]
+          }
+        },
+        "id": "1888422729835216896",
+        "name": "アニサキス",
+        "pinned_tweet_id": "2004029250312323540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020528322380525568/ESc_qjpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 446,
+          "like_count": 24194,
+          "listed_count": 16,
+          "media_count": 141,
+          "tweet_count": 4821
+        },
+        "url": "https://t.co/AlzFBXNSUH",
+        "username": "munou0613",
+        "verified": false
+      }
+    ]
+  }
+}

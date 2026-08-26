@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073259000100270303",
+    "created_at": "2026-07-04T04:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073262482018521129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735501744510263297",
+          "start": 0,
+          "username": "Yaesaki_Mimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073262482018521129",
+    "in_reply_to_user_id": "1735501744510263297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073262051880038400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yaesaki_Mimu じゃ買わなきゃww\n←(辛いものが苦手なやつ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073259000100270303",
+        "created_at": "2026-07-04T04:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073262482018521129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735501744510263297",
+              "start": 0,
+              "username": "Yaesaki_Mimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073262482018521129",
+        "in_reply_to_user_id": "1735501744510263297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073262051880038400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yaesaki_Mimu じゃ買わなきゃww\n←(辛いものが苦手なやつ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735501744510263297",
+        "conversation_id": "2073259000100270303",
+        "created_at": "2026-07-04T04:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073262051880038400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073262051880038400",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073261495761481759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf ちょい普通のやつよりは辛いのが最高\nまあ四川火鍋に比べたらまあまあって感じだけど"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 195,
+          "like_count": 6843,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 2794
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T03:27:31.000Z",
+        "description": "3Dモデルとかいろいろ\nアイコン@yon4g1_VRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "yon4g1_VRC"
+              }
+            ]
+          }
+        },
+        "id": "1735501744510263297",
+        "location": "くらいとこ",
+        "name": "みむ🐟️🦴【MIMU】",
+        "pinned_tweet_id": "2054550978276606448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069823667098238976/8j1UazLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 1083,
+          "like_count": 127070,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 9522
+        },
+        "url": "",
+        "username": "Yaesaki_Mimu",
+        "verified": false
+      }
+    ]
+  }
+}

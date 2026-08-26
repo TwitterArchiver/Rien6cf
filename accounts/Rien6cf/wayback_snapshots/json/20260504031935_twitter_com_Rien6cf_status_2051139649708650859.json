@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2051139649708650859",
+    "created_at": "2026-05-04T03:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051139649708650859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "窪園チヨコは絶対ミスらない’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1DxLd…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1DxLdvAoAEQxm",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2051139650929274880/GTb-V9Vu?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2051139650929274880/GTb-V9Vu?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 正在化妆！",
+          "unwound_url": "https://twitter.com/i/spaces/1DxLdvAoAEQxm/peek",
+          "url": "https://t.co/QpaZkE2Tul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051139649708650859",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/QpaZkE2Tul"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2051139649708650859",
+        "created_at": "2026-05-04T03:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051139649708650859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "窪園チヨコは絶対ミスらない’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1DxLd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1DxLdvAoAEQxm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2051139650929274880/GTb-V9Vu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051139650929274880/GTb-V9Vu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 正在化妆！",
+              "unwound_url": "https://twitter.com/i/spaces/1DxLdvAoAEQxm/peek",
+              "url": "https://t.co/QpaZkE2Tul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051139649708650859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QpaZkE2Tul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 161,
+          "like_count": 3296,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1828
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

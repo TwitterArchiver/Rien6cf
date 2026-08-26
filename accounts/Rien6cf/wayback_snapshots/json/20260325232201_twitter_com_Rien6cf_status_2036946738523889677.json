@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034658032739823616"
+      ],
+      "media_source_tweet_id": [
+        "2036786929191247921"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2036946738523889677",
+    "created_at": "2026-03-25T23:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036946738523889677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2797768538",
+          "start": 3,
+          "username": "arinaariri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uElbiLRVrB",
+          "end": 47,
+          "expanded_url": "https://x.com/arinaariri/status/2036786929191247921/photo/1",
+          "media_key": "3_2034658032739823616",
+          "start": 24,
+          "url": "https://t.co/uElbiLRVrB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036946738523889677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036786929191247921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arinaariri: そうだったのか https://t.co/uElbiLRVrB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2034658032739823616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyOs2DaMAAr9hX.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034658032739823616"
+          ],
+          "media_source_tweet_id": [
+            "2036786929191247921"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2036946738523889677",
+        "created_at": "2026-03-25T23:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036946738523889677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2797768538",
+              "start": 3,
+              "username": "arinaariri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uElbiLRVrB",
+              "end": 47,
+              "expanded_url": "https://x.com/arinaariri/status/2036786929191247921/photo/1",
+              "media_key": "3_2034658032739823616",
+              "start": 24,
+              "url": "https://t.co/uElbiLRVrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036946738523889677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036786929191247921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arinaariri: そうだったのか https://t.co/uElbiLRVrB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034658032739823616"
+          ]
+        },
+        "author_id": "2797768538",
+        "conversation_id": "2036786929191247921",
+        "created_at": "2026-03-25T12:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036786929191247921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uElbiLRVrB",
+              "end": 31,
+              "expanded_url": "https://x.com/arinaariri/status/2036786929191247921/photo/1",
+              "media_key": "3_2034658032739823616",
+              "start": 8,
+              "url": "https://t.co/uElbiLRVrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036786929191247921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 38080,
+          "like_count": 1219,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "そうだったのか https://t.co/uElbiLRVrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2035372064241303646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 118,
+          "like_count": 1940,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1275
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-08T11:50:28.000Z",
+        "description": "まだ忘れたくない過去の内容を引用にてポストします。",
+        "id": "2797768538",
+        "location": "ネタは随時DMまで募集しています",
+        "name": "ずっと忘れたくない",
+        "pinned_tweet_id": "1936681308543238499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727020754775248896/V6ve0rF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283431,
+          "following_count": 67279,
+          "like_count": 78996,
+          "listed_count": 466,
+          "media_count": 95,
+          "tweet_count": 143
+        },
+        "username": "arinaariri",
+        "verified": false
+      }
+    ]
+  }
+}

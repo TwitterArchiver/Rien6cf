@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058904296037789698"
+      ],
+      "media_source_tweet_id": [
+        "2058904552628539755"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2059395124669640738",
+    "created_at": "2026-05-26T22:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T23:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059395124669640738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "436445472",
+          "start": 3,
+          "username": "IbukiMayu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZepOY4FA2Q",
+          "end": 49,
+          "expanded_url": "https://x.com/IbukiMayu/status/2058904552628539755/video/1",
+          "media_key": "13_2058904296037789698",
+          "start": 26,
+          "url": "https://t.co/ZepOY4FA2Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059395124669640738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058904552628539755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IbukiMayu: 最後、最高のメロメラ https://t.co/ZepOY4FA2Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15255,
+        "height": 2160,
+        "media_key": "13_2058904296037789698",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058904296037789698/img/5InD8JSzvF6fLAWH.jpg",
+        "public_metrics": {
+          "view_count": 45282
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058904296037789698/vid/avc1/1920x1080/GIszAuZ3NVyAMStG.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058904296037789698/vid/avc1/480x270/A2WAJBNLTkq-iNJa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058904296037789698/pl/Oa4y7wTeP__P3n6_.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058904296037789698/vid/avc1/1280x720/_OBQoF7BV4idKVjs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058904296037789698/vid/avc1/640x360/oefIki4A2ejMswaR.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058904296037789698/vid/avc1/3840x2160/kY62TxBei9I5wRL4.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058904296037789698"
+          ],
+          "media_source_tweet_id": [
+            "2058904552628539755"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2059395124669640738",
+        "created_at": "2026-05-26T22:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059395124669640738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "436445472",
+              "start": 3,
+              "username": "IbukiMayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZepOY4FA2Q",
+              "end": 49,
+              "expanded_url": "https://x.com/IbukiMayu/status/2058904552628539755/video/1",
+              "media_key": "13_2058904296037789698",
+              "start": 26,
+              "url": "https://t.co/ZepOY4FA2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059395124669640738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058904552628539755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IbukiMayu: 最後、最高のメロメラ https://t.co/ZepOY4FA2Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058904296037789698"
+          ]
+        },
+        "author_id": "436445472",
+        "conversation_id": "2058904552628539755",
+        "created_at": "2026-05-25T13:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058904552628539755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZepOY4FA2Q",
+              "end": 34,
+              "expanded_url": "https://x.com/IbukiMayu/status/2058904552628539755/video/1",
+              "media_key": "13_2058904296037789698",
+              "start": 11,
+              "url": "https://t.co/ZepOY4FA2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058904552628539755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 100961,
+          "like_count": 3717,
+          "quote_count": 23,
+          "reply_count": 4,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "最後、最高のメロメラ https://t.co/ZepOY4FA2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 174,
+          "like_count": 4573,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2244
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-14T05:47:07.000Z",
+        "description": "本気単推し",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohongshu.com/user/profile/6…",
+                "end": 23,
+                "expanded_url": "https://www.xiaohongshu.com/user/profile/64b0e458000000001c02a5d3",
+                "start": 0,
+                "url": "https://t.co/m2XwIlaQhW"
+              }
+            ]
+          }
+        },
+        "id": "436445472",
+        "location": "Beijing",
+        "name": "伊吹",
+        "pinned_tweet_id": "2016856103599165831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029802545678589952/9oV_80Pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4566,
+          "following_count": 3137,
+          "like_count": 62625,
+          "listed_count": 4,
+          "media_count": 1391,
+          "tweet_count": 6954
+        },
+        "url": "https://t.co/m2XwIlaQhW",
+        "username": "IbukiMayu",
+        "verified": true
+      }
+    ]
+  }
+}

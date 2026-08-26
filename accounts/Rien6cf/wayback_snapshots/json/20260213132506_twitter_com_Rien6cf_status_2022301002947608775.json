@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2022301002947608775",
+    "created_at": "2026-02-13T13:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022301002947608775"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "Orangestarさん",
+          "probability": 0.8562,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 89,
+          "normalized_text": "真夏ちゃん",
+          "probability": 0.7297,
+          "start": 85,
+          "type": "Person"
+        },
+        {
+          "end": 141,
+          "normalized_text": "Alice in 冷凍庫ちゃん",
+          "probability": 0.2212,
+          "start": 127,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1302978226478694400",
+          "start": 3,
+          "username": "ycs7vKl3zb5bPwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022301002947608775",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022264499332653338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ycs7vKl3zb5bPwk: 👦🏻「お名前はなんて言うんですか？」\n\n👧🏻「私の名前〜？Orangestarさんの曲から取った名前だよ」\n\n👦🏻（真夏ちゃんか…可愛い名前だな///）\n\n👧🏻「あ、ママー！」\n\n👩🏻「あら、Alice in 冷凍庫ちゃん、早く帰るわよ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2022301002947608775",
+        "created_at": "2026-02-13T13:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022301002947608775"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Orangestarさん",
+              "probability": 0.8562,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 89,
+              "normalized_text": "真夏ちゃん",
+              "probability": 0.7297,
+              "start": 85,
+              "type": "Person"
+            },
+            {
+              "end": 141,
+              "normalized_text": "Alice in 冷凍庫ちゃん",
+              "probability": 0.2212,
+              "start": 127,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1302978226478694400",
+              "start": 3,
+              "username": "ycs7vKl3zb5bPwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022301002947608775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022264499332653338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ycs7vKl3zb5bPwk: 👦🏻「お名前はなんて言うんですか？」\n\n👧🏻「私の名前〜？Orangestarさんの曲から取った名前だよ」\n\n👦🏻（真夏ちゃんか…可愛い名前だな///）\n\n👧🏻「あ、ママー！」\n\n👩🏻「あら、Alice in 冷凍庫ちゃん、早く帰るわよ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302978226478694400",
+        "conversation_id": "2022264499332653338",
+        "created_at": "2026-02-13T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022264499332653338"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Orangestarさん",
+              "probability": 0.849,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "真夏ちゃん",
+              "probability": 0.7349,
+              "start": 64,
+              "type": "Person"
+            },
+            {
+              "end": 120,
+              "normalized_text": "冷凍庫ちゃん",
+              "probability": 0.4214,
+              "start": 115,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022264499332653338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4892,
+          "like_count": 283,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "👦🏻「お名前はなんて言うんですか？」\n\n👧🏻「私の名前〜？Orangestarさんの曲から取った名前だよ」\n\n👦🏻（真夏ちゃんか…可愛い名前だな///）\n\n👧🏻「あ、ママー！」\n\n👩🏻「あら、Alice in 冷凍庫ちゃん、早く帰るわよ〜」\n\n👦🏻「Aliceでいいだろ普通に」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 330
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-07T14:33:36.000Z",
+        "description": "＼ﾋﾟﾖﾋﾟﾖ／【アイコン：@yo_draw】【過去ツイ：https://t.co/RHUBShC5fy】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "yo_draw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "min.togetter.com/DJbIo6F",
+                "end": 52,
+                "expanded_url": "http://min.togetter.com/DJbIo6F",
+                "start": 29,
+                "url": "https://t.co/RHUBShC5fy"
+              }
+            ]
+          }
+        },
+        "id": "1302978226478694400",
+        "location": "13秒先",
+        "name": "🍊奏✨",
+        "pinned_tweet_id": "2019189147668447661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1302979000067735552/t9wlVlsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 818,
+          "like_count": 110671,
+          "listed_count": 19,
+          "media_count": 1894,
+          "tweet_count": 21812
+        },
+        "username": "ycs7vKl3zb5bPwk",
+        "verified": false
+      }
+    ]
+  }
+}

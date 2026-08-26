@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025833150191165440"
+      ],
+      "media_source_tweet_id": [
+        "2025833152472924376"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2025978910295675093",
+    "created_at": "2026-02-23T16:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025978910295675093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2014951399843598336",
+          "start": 3,
+          "username": "0rliq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a5h2CqgbtV",
+          "end": 48,
+          "expanded_url": "https://x.com/0rliq/status/2025833152472924376/photo/1",
+          "media_key": "3_2025833150191165440",
+          "start": 25,
+          "url": "https://t.co/a5h2CqgbtV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025978910295675093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025833152472924376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0rliq: 来世はこの目でお願いします https://t.co/a5h2CqgbtV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2025833150191165440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB00hEta4AAxB-j.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025833150191165440"
+          ],
+          "media_source_tweet_id": [
+            "2025833152472924376"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2025978910295675093",
+        "created_at": "2026-02-23T16:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025978910295675093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2014951399843598336",
+              "start": 3,
+              "username": "0rliq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5h2CqgbtV",
+              "end": 48,
+              "expanded_url": "https://x.com/0rliq/status/2025833152472924376/photo/1",
+              "media_key": "3_2025833150191165440",
+              "start": 25,
+              "url": "https://t.co/a5h2CqgbtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025978910295675093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025833152472924376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0rliq: 来世はこの目でお願いします https://t.co/a5h2CqgbtV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025833150191165440"
+          ]
+        },
+        "author_id": "2014951399843598336",
+        "conversation_id": "2025833152472924376",
+        "created_at": "2026-02-23T07:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025833152472924376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5h2CqgbtV",
+              "end": 37,
+              "expanded_url": "https://x.com/0rliq/status/2025833152472924376/photo/1",
+              "media_key": "3_2025833150191165440",
+              "start": 14,
+              "url": "https://t.co/a5h2CqgbtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025833152472924376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 83594,
+          "like_count": 11229,
+          "quote_count": 12,
+          "reply_count": 4,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "来世はこの目でお願いします https://t.co/a5h2CqgbtV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 73,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 570
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T06:40:58.000Z",
+        "description": "うーあーりん/👊🩸/12/ゆめんちゅ🎶/🅱️解でお別れ/自衛推奨/制限よく来まつ😩😩😩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/qcwio8ii21msvk…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/qcwio8ii21msvkr?t=cn0SeO&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/H8BKSexWKe"
+              }
+            ]
+          }
+        },
+        "id": "2014951399843598336",
+        "location": "ﾀｰﾆｬの後ろとｸｧ様の腕の中とﾘｭｼﾞﾆの前",
+        "name": "520",
+        "pinned_tweet_id": "2025840727385887030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025163852506431489/4_pb6ZoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 75,
+          "like_count": 5118,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/H8BKSexWKe",
+        "username": "0rliq",
+        "verified": false
+      }
+    ]
+  }
+}

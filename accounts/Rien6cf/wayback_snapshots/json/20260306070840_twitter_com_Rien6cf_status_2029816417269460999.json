@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027519625186185218"
+      ],
+      "media_source_tweet_id": [
+        "2029512496390836288"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029816417269460999",
+    "created_at": "2026-03-06T07:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029816417269460999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2797768538",
+          "start": 3,
+          "username": "arinaariri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eps6OYZTcM",
+          "end": 61,
+          "expanded_url": "https://x.com/arinaariri/status/2029512496390836288/photo/1",
+          "media_key": "3_2027519625186185218",
+          "start": 38,
+          "url": "https://t.co/Eps6OYZTcM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029816417269460999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2007
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029512496390836288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arinaariri: 薔　薇　で　で　き　た　百　合　の　造　花 https://t.co/Eps6OYZTcM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2027519625186185218",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCMyW1pbEAIvGFM.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027519625186185218"
+          ],
+          "media_source_tweet_id": [
+            "2029512496390836288"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029816417269460999",
+        "created_at": "2026-03-06T07:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029816417269460999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2797768538",
+              "start": 3,
+              "username": "arinaariri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eps6OYZTcM",
+              "end": 61,
+              "expanded_url": "https://x.com/arinaariri/status/2029512496390836288/photo/1",
+              "media_key": "3_2027519625186185218",
+              "start": 38,
+              "url": "https://t.co/Eps6OYZTcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029816417269460999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2007
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029512496390836288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arinaariri: 薔　薇　で　で　き　た　百　合　の　造　花 https://t.co/Eps6OYZTcM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027519625186185218"
+          ]
+        },
+        "author_id": "2797768538",
+        "conversation_id": "2029512496390836288",
+        "created_at": "2026-03-05T11:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029512496390836288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eps6OYZTcM",
+              "end": 45,
+              "expanded_url": "https://x.com/arinaariri/status/2029512496390836288/photo/1",
+              "media_key": "3_2027519625186185218",
+              "start": 22,
+              "url": "https://t.co/Eps6OYZTcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029512496390836288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1639,
+          "impression_count": 647638,
+          "like_count": 31729,
+          "quote_count": 241,
+          "reply_count": 59,
+          "retweet_count": 2007
+        },
+        "reply_settings": "everyone",
+        "text": "薔　薇　で　で　き　た　百　合　の　造　花 https://t.co/Eps6OYZTcM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 101,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 796
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-08T11:50:28.000Z",
+        "description": "まだ忘れたくない過去の内容を引用にてポストします。",
+        "id": "2797768538",
+        "location": "ネタは随時DMまで募集しています",
+        "name": "ずっと忘れたくない",
+        "pinned_tweet_id": "1936681308543238499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727020754775248896/V6ve0rF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284535,
+          "following_count": 67440,
+          "like_count": 79079,
+          "listed_count": 470,
+          "media_count": 206,
+          "tweet_count": 235
+        },
+        "username": "arinaariri",
+        "verified": false
+      }
+    ]
+  }
+}

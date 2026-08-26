@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073295315030151577",
+    "created_at": "2026-07-05T02:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073588467272171786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946736168990846976",
+          "start": 0,
+          "username": "yaesakimimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073588467272171786",
+    "in_reply_to_user_id": "1946736168990846976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073586517709410537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaesakimimu めちゃくちゃおいしかったーー！今日もう一回食べるw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073295315030151577",
+        "created_at": "2026-07-05T02:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073588467272171786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946736168990846976",
+              "start": 0,
+              "username": "yaesakimimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073588467272171786",
+        "in_reply_to_user_id": "1946736168990846976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073586517709410537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaesakimimu めちゃくちゃおいしかったーー！今日もう一回食べるw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946736168990846976",
+        "conversation_id": "2073295315030151577",
+        "created_at": "2026-07-05T01:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073586517709410537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073586517709410537",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073586356270551419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf やったー！美味しそ〜！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 194,
+          "like_count": 6882,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2805
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T00:57:45.000Z",
+        "description": "みむです",
+        "id": "1946736168990846976",
+        "location": "ヘドロ",
+        "name": "Миму",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073549735886303232/lRutUnpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 55,
+          "like_count": 5440,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "yaesakimimu",
+        "verified": false
+      }
+    ]
+  }
+}

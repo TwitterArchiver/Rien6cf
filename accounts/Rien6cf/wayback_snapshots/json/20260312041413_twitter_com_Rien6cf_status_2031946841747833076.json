@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031946828732907523",
+        "3_2031946828716130313",
+        "3_2031946828720304128",
+        "3_2031946828711936004"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2031946841747833076",
+    "created_at": "2026-03-12T04:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T05:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031946841747833076"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "写真"
+        },
+        {
+          "end": 24,
+          "start": 12,
+          "tag": "Photography"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJ1dLZ8FYV",
+          "end": 48,
+          "expanded_url": "https://x.com/Rien6cf/status/2031946841747833076/photo/1",
+          "media_key": "3_2031946828732907523",
+          "start": 25,
+          "url": "https://t.co/jJ1dLZ8FYV"
+        },
+        {
+          "display_url": "pic.x.com/jJ1dLZ8FYV",
+          "end": 48,
+          "expanded_url": "https://x.com/Rien6cf/status/2031946841747833076/photo/1",
+          "media_key": "3_2031946828716130313",
+          "start": 25,
+          "url": "https://t.co/jJ1dLZ8FYV"
+        },
+        {
+          "display_url": "pic.x.com/jJ1dLZ8FYV",
+          "end": 48,
+          "expanded_url": "https://x.com/Rien6cf/status/2031946841747833076/photo/1",
+          "media_key": "3_2031946828720304128",
+          "start": 25,
+          "url": "https://t.co/jJ1dLZ8FYV"
+        },
+        {
+          "display_url": "pic.x.com/jJ1dLZ8FYV",
+          "end": 48,
+          "expanded_url": "https://x.com/Rien6cf/status/2031946841747833076/photo/1",
+          "media_key": "3_2031946828711936004",
+          "start": 25,
+          "url": "https://t.co/jJ1dLZ8FYV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031946841747833076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "お一人様ですか\n#写真 #Photography https://t.co/jJ1dLZ8FYV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031946828732907523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLs4AEbQAMuRG0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031946828716130313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLs4AAbQAk9_l4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031946828720304128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLs4ABa8AA1CEg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031946828711936004",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLs3__bQAQ1TPc.jpg",
+        "width": 1894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031946828732907523",
+            "3_2031946828716130313",
+            "3_2031946828720304128",
+            "3_2031946828711936004"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2031946841747833076",
+        "created_at": "2026-03-12T04:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031946841747833076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "写真"
+            },
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "Photography"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJ1dLZ8FYV",
+              "end": 48,
+              "expanded_url": "https://x.com/Rien6cf/status/2031946841747833076/photo/1",
+              "media_key": "3_2031946828732907523",
+              "start": 25,
+              "url": "https://t.co/jJ1dLZ8FYV"
+            },
+            {
+              "display_url": "pic.x.com/jJ1dLZ8FYV",
+              "end": 48,
+              "expanded_url": "https://x.com/Rien6cf/status/2031946841747833076/photo/1",
+              "media_key": "3_2031946828716130313",
+              "start": 25,
+              "url": "https://t.co/jJ1dLZ8FYV"
+            },
+            {
+              "display_url": "pic.x.com/jJ1dLZ8FYV",
+              "end": 48,
+              "expanded_url": "https://x.com/Rien6cf/status/2031946841747833076/photo/1",
+              "media_key": "3_2031946828720304128",
+              "start": 25,
+              "url": "https://t.co/jJ1dLZ8FYV"
+            },
+            {
+              "display_url": "pic.x.com/jJ1dLZ8FYV",
+              "end": 48,
+              "expanded_url": "https://x.com/Rien6cf/status/2031946841747833076/photo/1",
+              "media_key": "3_2031946828711936004",
+              "start": 25,
+              "url": "https://t.co/jJ1dLZ8FYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031946841747833076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "お一人様ですか\n#写真 #Photography https://t.co/jJ1dLZ8FYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 106,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 970
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

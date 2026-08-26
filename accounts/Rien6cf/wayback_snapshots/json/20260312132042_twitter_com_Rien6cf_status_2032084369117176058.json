@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1304673196881276928"
+      ],
+      "media_source_tweet_id": [
+        "1304673397754851328"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032084369117176058",
+    "created_at": "2026-03-12T13:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032084369117176058"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "椎名",
+          "probability": 0.5992,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3112919876",
+          "start": 3,
+          "username": "30_voca_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ixu7d0GnV2",
+          "end": 51,
+          "expanded_url": "https://x.com/30_voca_music/status/1304673397754851328/video/1",
+          "media_key": "13_1304673196881276928",
+          "start": 28,
+          "url": "https://t.co/Ixu7d0GnV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032084369117176058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031936523596115971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30_voca_music: Q / 椎名もた\nhttps://t.co/Ixu7d0GnV2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31933,
+        "height": 480,
+        "media_key": "13_1304673196881276928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1304673196881276928/img/9_Vx8jMDiqetWF2-.jpg",
+        "public_metrics": {
+          "view_count": 306342
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1304673196881276928/vid/478x270/g4n4EeSBciIhzJPi.mp4?tag=13"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1304673196881276928/vid/638x360/fz6GSQGKhnV323aS.mp4?tag=13"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1304673196881276928/vid/852x480/VIorXFfmDg7kOoRa.mp4?tag=13"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1304673196881276928/pl/jm5Y1z6Xbl398wfe.m3u8?tag=13&v=591"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1304673196881276928"
+          ],
+          "media_source_tweet_id": [
+            "1304673397754851328"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032084369117176058",
+        "created_at": "2026-03-12T13:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032084369117176058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "椎名",
+              "probability": 0.5992,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3112919876",
+              "start": 3,
+              "username": "30_voca_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ixu7d0GnV2",
+              "end": 51,
+              "expanded_url": "https://x.com/30_voca_music/status/1304673397754851328/video/1",
+              "media_key": "13_1304673196881276928",
+              "start": 28,
+              "url": "https://t.co/Ixu7d0GnV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032084369117176058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031936523596115971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30_voca_music: Q / 椎名もた\nhttps://t.co/Ixu7d0GnV2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1304673196881276928"
+          ],
+          "media_source_tweet_id": [
+            "1304673397754851328"
+          ]
+        },
+        "author_id": "3112919876",
+        "conversation_id": "2031936523596115971",
+        "created_at": "2026-03-12T03:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031936523596115971"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "椎名",
+              "probability": 0.6073,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ixu7d0GnV2",
+              "end": 32,
+              "expanded_url": "https://x.com/30_voca_music/status/1304673397754851328/video/1",
+              "media_key": "13_1304673196881276928",
+              "start": 9,
+              "url": "https://t.co/Ixu7d0GnV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031936523596115971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 15024,
+          "like_count": 498,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "Q / 椎名もた\nhttps://t.co/Ixu7d0GnV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 105,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 994
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-28T13:05:48.000Z",
+        "description": "ボーカロイド(たまにUTAU まれにCeVIO等)の楽曲を30秒くらいにして流します。",
+        "id": "3112919876",
+        "name": "30秒ボカロbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/903257944392732672/JZWhJls2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110346,
+          "following_count": 3,
+          "like_count": 290,
+          "listed_count": 403,
+          "media_count": 47148,
+          "tweet_count": 45639
+        },
+        "username": "30_voca_music",
+        "verified": false
+      }
+    ]
+  }
+}

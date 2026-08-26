@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2029542435253264598",
+    "created_at": "2026-03-05T12:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T13:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029542435253264598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860672606124601344",
+          "start": 3,
+          "username": "syuntiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029542435253264598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029397832915136923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syuntiki: 【地下アイドルオタクが嫌いな言葉】\n\n・解散\n・脱退\n・繋がり\n・お時間です\n・ジャンプ禁止\n・特典会別会場\n・重大な契約違反\n・チェキ券値上げ\n・チェキ券3000円\n・ドリンク代700円\n・再入場時ドリンク代700円\n\n他にありますか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2029542435253264598",
+        "created_at": "2026-03-05T12:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029542435253264598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860672606124601344",
+              "start": 3,
+              "username": "syuntiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029542435253264598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029397832915136923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syuntiki: 【地下アイドルオタクが嫌いな言葉】\n\n・解散\n・脱退\n・繋がり\n・お時間です\n・ジャンプ禁止\n・特典会別会場\n・重大な契約違反\n・チェキ券値上げ\n・チェキ券3000円\n・ドリンク代700円\n・再入場時ドリンク代700円\n\n他にありますか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860672606124601344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2029397832915136923",
+        "created_at": "2026-03-05T03:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029397832915136923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029397832915136923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 172198,
+          "like_count": 2316,
+          "quote_count": 84,
+          "reply_count": 83,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "【地下アイドルオタクが嫌いな言葉】\n\n・解散\n・脱退\n・繋がり\n・お時間です\n・ジャンプ禁止\n・特典会別会場\n・重大な契約違反\n・チェキ券値上げ\n・チェキ券3000円\n・ドリンク代700円\n・再入場時ドリンク代700円\n\n他にありますか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 101,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 777
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T13:11:42.000Z",
+        "description": "しゅんちきです！しゅんきちではありません🙁にっこりーノ/競馬/カメラCANON EOS R10📸/凛としたすずらんでアイドルが好きになりました！最推しは朝霧紗倉ちゃん🥺🩷朝霧紗倉ちゃんオタク25.5.31〜💛さくぽん専属カメラマン/佐藤ゆかちゃん🩷/#すぽふぁみ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "すぽふぁみ"
+              }
+            ]
+          }
+        },
+        "id": "1860672606124601344",
+        "location": "主現場→朝霧紗倉ちゃん(さくぽん) 8ANGEL",
+        "name": "🌸🥣しゅんちき🌸🥣📸🌸🍖",
+        "pinned_tweet_id": "1997988714405138841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017955851227844608/F3ao0vxY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3056,
+          "following_count": 6788,
+          "like_count": 7845,
+          "listed_count": 9,
+          "media_count": 474,
+          "tweet_count": 5075
+        },
+        "username": "syuntiki",
+        "verified": true
+      }
+    ]
+  }
+}

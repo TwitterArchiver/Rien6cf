@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2037184189385367742",
+    "created_at": "2026-03-26T15:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037185045665038592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002072845892157441",
+          "start": 0,
+          "username": "kill_me_sakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037185045665038592",
+    "in_reply_to_user_id": "2002072845892157441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037184189385367742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_me_sakura 好漂亮呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2037184175779045382",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWINuNbYAYTnrA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2037184175791628291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWINuQbYAMcj7_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2037184189385367742",
+        "created_at": "2026-03-26T15:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037185045665038592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002072845892157441",
+              "start": 0,
+              "username": "kill_me_sakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037185045665038592",
+        "in_reply_to_user_id": "2002072845892157441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037184189385367742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_me_sakura 好漂亮呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037184175779045382",
+            "3_2037184175791628291"
+          ]
+        },
+        "author_id": "2002072845892157441",
+        "conversation_id": "2037184189385367742",
+        "created_at": "2026-03-26T15:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037184189385367742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7z7MCwLCG7",
+              "end": 34,
+              "expanded_url": "https://x.com/kill_me_sakura/status/2037184189385367742/photo/1",
+              "media_key": "3_2037184175779045382",
+              "start": 11,
+              "url": "https://t.co/7z7MCwLCG7"
+            },
+            {
+              "display_url": "pic.x.com/7z7MCwLCG7",
+              "end": 34,
+              "expanded_url": "https://x.com/kill_me_sakura/status/2037184189385367742/photo/1",
+              "media_key": "3_2037184175791628291",
+              "start": 11,
+              "url": "https://t.co/7z7MCwLCG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037184189385367742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我戒割戒菸失敗了嘻嘻 https://t.co/7z7MCwLCG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです//\nCN/JP/EN\n顺女//LGBTQ友好//互fo请戳//直fo是喜欢你",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2037089526167019548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 123,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1304
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T17:45:47.000Z",
+        "description": "友跨 戒o中 戒割戒菸已失敗\n成分複雜  fo你表示我喜歡你呀！òωó",
+        "id": "2002072845892157441",
+        "name": "都是你的錯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025648197411258368/LvOOcd6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 30,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 342
+        },
+        "username": "kill_me_sakura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2061980373769408722",
+    "created_at": "2026-06-03T01:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T02:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061980373769408722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekochanmachin…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nekochanmachine/status/2061757217297305876",
+          "start": 6,
+          "url": "https://t.co/5EBb7m8LgE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061980373769408722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061757217297305876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "おおおおお https://t.co/5EBb7m8LgE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2061651901905813504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJx1e0-awAAN_6N.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2061980373769408722",
+        "created_at": "2026-06-03T01:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061980373769408722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekochanmachin…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nekochanmachine/status/2061757217297305876",
+              "start": 6,
+              "url": "https://t.co/5EBb7m8LgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061980373769408722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061757217297305876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "おおおおお https://t.co/5EBb7m8LgE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061651901905813504"
+          ]
+        },
+        "author_id": "1536344866224893954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2061757217297305876",
+        "created_at": "2026-06-02T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061757217297305876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ユリイ・カノン様の「だれかの心臓になれたなら」を歌わせていただきました。Original：https://youtu.be/hZF...",
+              "display_url": "youtu.be/IINwBPRT0hM",
+              "end": 42,
+              "expanded_url": "https://youtu.be/IINwBPRT0hM",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2061757264135118848/lDToBPQq?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061757264135118848/lDToBPQq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "だれかの心臓になれたなら -Cover- / ニャンヤオチュー",
+              "unwound_url": "https://www.youtube.com/watch?v=IINwBPRT0hM&feature=youtu.be",
+              "url": "https://t.co/UjFCDzTlGK"
+            },
+            {
+              "display_url": "pic.x.com/70DUzGPWLL",
+              "end": 66,
+              "expanded_url": "https://x.com/NekochanMachine/status/2061757217297305876/photo/1",
+              "media_key": "3_2061651901905813504",
+              "start": 43,
+              "url": "https://t.co/70DUzGPWLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061757217297305876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 39752,
+          "like_count": 1916,
+          "quote_count": 102,
+          "reply_count": 69,
+          "retweet_count": 481
+        },
+        "reply_settings": "everyone",
+        "text": "明日の20時に歌ってみたを投稿します\nhttps://t.co/UjFCDzTlGK https://t.co/70DUzGPWLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 184,
+          "like_count": 4988,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2371
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T13:49:05.000Z",
+        "description": "高音殺戮機械猫 成人男性三人組@SeijinDansei3 nyanyaochu@gmail.com FAタグ🐈#ニャンヤオチューの設計図 Youtube https://t.co/hS7zDNsUvk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 56,
+                "tag": "ニャンヤオチューの設計図"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "SeijinDansei3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC2lVH…",
+                "end": 101,
+                "expanded_url": "https://youtube.com/channel/UC2lVHvoycjQZork33yImt0A",
+                "start": 78,
+                "url": "https://t.co/hS7zDNsUvk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyanyaochu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyanyaochu",
+                "start": 0,
+                "url": "https://t.co/sEWg83HASD"
+              }
+            ]
+          }
+        },
+        "id": "1536344866224893954",
+        "name": "ニャンヤオチュー",
+        "pinned_tweet_id": "2025541085158875247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870418024358174720/2YcD9tzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25634,
+          "following_count": 401,
+          "like_count": 148241,
+          "listed_count": 106,
+          "media_count": 416,
+          "tweet_count": 4039
+        },
+        "url": "https://t.co/sEWg83HASD",
+        "username": "NekochanMachine",
+        "verified": true
+      }
+    ]
+  }
+}

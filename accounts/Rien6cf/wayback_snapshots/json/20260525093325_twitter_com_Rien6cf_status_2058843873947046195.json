@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058758720746835969"
+      ],
+      "media_source_tweet_id": [
+        "2058758731199107482"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058843873947046195",
+    "created_at": "2026-05-25T09:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058843873947046195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "939396202751172609",
+          "start": 3,
+          "username": "higashiyama5555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pV3DiFPn0S",
+          "end": 78,
+          "expanded_url": "https://x.com/higashiyama5555/status/2058758731199107482/photo/1",
+          "media_key": "3_2058758720746835969",
+          "start": 55,
+          "url": "https://t.co/pV3DiFPn0S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058843873947046195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 306
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058758731199107482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @higashiyama5555: 沢山の赤ちゃんがいたプレーリードッグ✨✨\n\n📷2024\n上野動物園 https://t.co/pV3DiFPn0S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2058758720746835969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIuJhRaUAE2xMu.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058758720746835969"
+          ],
+          "media_source_tweet_id": [
+            "2058758731199107482"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058843873947046195",
+        "created_at": "2026-05-25T09:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058843873947046195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "939396202751172609",
+              "start": 3,
+              "username": "higashiyama5555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pV3DiFPn0S",
+              "end": 78,
+              "expanded_url": "https://x.com/higashiyama5555/status/2058758731199107482/photo/1",
+              "media_key": "3_2058758720746835969",
+              "start": 55,
+              "url": "https://t.co/pV3DiFPn0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058843873947046195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058758731199107482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higashiyama5555: 沢山の赤ちゃんがいたプレーリードッグ✨✨\n\n📷2024\n上野動物園 https://t.co/pV3DiFPn0S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058758720746835969"
+          ]
+        },
+        "author_id": "939396202751172609",
+        "conversation_id": "2058758731199107482",
+        "created_at": "2026-05-25T03:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058758731199107482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pV3DiFPn0S",
+              "end": 57,
+              "expanded_url": "https://x.com/higashiyama5555/status/2058758731199107482/photo/1",
+              "media_key": "3_2058758720746835969",
+              "start": 34,
+              "url": "https://t.co/pV3DiFPn0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058758731199107482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 27741,
+          "like_count": 2265,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "沢山の赤ちゃんがいたプレーリードッグ✨✨\n\n📷2024\n上野動物園 https://t.co/pV3DiFPn0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 172,
+          "like_count": 4541,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2235
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-09T07:28:02.000Z",
+        "description": "動物園は嬉しい出会いと悲しい別れの繰り返し。　\n\nインスタグラム\nhttps://t.co/quobx13EtV　動物園は土日だけ行ってます。　あいみょん。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yama_kozi/",
+                "end": 56,
+                "expanded_url": "http://instagram.com/yama_kozi/",
+                "start": 33,
+                "url": "https://t.co/quobx13EtV"
+              }
+            ]
+          }
+        },
+        "id": "939396202751172609",
+        "location": "愛知 名古屋市",
+        "name": "やまこじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858705147238772738/hQfcr0mT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34427,
+          "following_count": 701,
+          "like_count": 447082,
+          "listed_count": 455,
+          "media_count": 62518,
+          "tweet_count": 82453
+        },
+        "username": "higashiyama5555",
+        "verified": true
+      }
+    ]
+  }
+}

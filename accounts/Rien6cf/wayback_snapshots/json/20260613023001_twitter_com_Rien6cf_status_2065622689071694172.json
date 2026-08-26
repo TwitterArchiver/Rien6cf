@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      }
+    ],
+    "conversation_id": "2065622689071694172",
+    "created_at": "2026-06-13T02:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065622689071694172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1048409523864592385",
+          "start": 3,
+          "username": "ifyou______"
+        },
+        {
+          "end": 33,
+          "id": "1287101080728289280",
+          "start": 17,
+          "username": "Qto6BshdBJYXdch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065622689071694172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065365964733247977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ifyou______: @Qto6BshdBJYXdch 娘がどんな格好しててもニコニコお出かけしてくれるママがいて羨ましい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          }
+        ],
+        "conversation_id": "2065622689071694172",
+        "created_at": "2026-06-13T02:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065622689071694172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1048409523864592385",
+              "start": 3,
+              "username": "ifyou______"
+            },
+            {
+              "end": 33,
+              "id": "1287101080728289280",
+              "start": 17,
+              "username": "Qto6BshdBJYXdch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065622689071694172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065365964733247977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ifyou______: @Qto6BshdBJYXdch 娘がどんな格好しててもニコニコお出かけしてくれるママがいて羨ましい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048409523864592385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          }
+        ],
+        "conversation_id": "2065321302093910264",
+        "created_at": "2026-06-12T09:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065365964733247977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1287101080728289280",
+              "start": 0,
+              "username": "Qto6BshdBJYXdch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065365964733247977",
+        "in_reply_to_user_id": "1287101080728289280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 190977,
+          "like_count": 1379,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065321302093910264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qto6BshdBJYXdch 娘がどんな格好しててもニコニコお出かけしてくれるママがいて羨ましい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5565,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2566
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-06T03:08:03.000Z",
+        "description": "君のイマジナリーフレンズ♡トランス高齢者なので年金受給したいです♡",
+        "id": "1048409523864592385",
+        "name": "くろま",
+        "pinned_tweet_id": "1821831944046571630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762620615633301504/MQghZ049_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 219,
+          "like_count": 3012,
+          "listed_count": 24,
+          "media_count": 248,
+          "tweet_count": 17426
+        },
+        "username": "ifyou______",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T19:03:13.000Z",
+        "description": "女の子と猫と珈琲が好きで、後は大体嫌いです\n誰の役にも立たないものを作って生計を立てています\nいずれ死ぬので御用の方はお早めに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/S1x7hFl00rG1rl",
+                "end": 23,
+                "expanded_url": "https://lit.link/S1x7hFl00rG1rl",
+                "start": 0,
+                "url": "https://t.co/kvebMs7cIy"
+              }
+            ]
+          }
+        },
+        "id": "1287101080728289280",
+        "name": "没�ｭ怜ﾖ脳�研",
+        "pinned_tweet_id": "1995419678156742954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059971623437189120/n_nIZ3D5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5153,
+          "following_count": 1054,
+          "like_count": 481539,
+          "listed_count": 18,
+          "media_count": 7206,
+          "tweet_count": 126166
+        },
+        "url": "https://t.co/kvebMs7cIy",
+        "username": "Qto6BshdBJYXdch",
+        "verified": true
+      }
+    ]
+  }
+}

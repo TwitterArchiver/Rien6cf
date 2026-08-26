@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054935363878338560"
+      ],
+      "media_source_tweet_id": [
+        "2054935374804508749"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055451587087323440",
+    "created_at": "2026-05-16T00:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055451587087323440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YuC2pveKvU",
+          "end": 48,
+          "expanded_url": "https://x.com/nanaj00_/status/2054935374804508749/photo/1",
+          "media_key": "3_2054935363878338560",
+          "start": 25,
+          "url": "https://t.co/YuC2pveKvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055451587087323440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054935374804508749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: きゅうくらりん パロ https://t.co/YuC2pveKvU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3003,
+        "media_key": "3_2054935363878338560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISY03BbQAAzeG9.jpg",
+        "width": 3343
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054935363878338560"
+          ],
+          "media_source_tweet_id": [
+            "2054935374804508749"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055451587087323440",
+        "created_at": "2026-05-16T00:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055451587087323440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuC2pveKvU",
+              "end": 48,
+              "expanded_url": "https://x.com/nanaj00_/status/2054935374804508749/photo/1",
+              "media_key": "3_2054935363878338560",
+              "start": 25,
+              "url": "https://t.co/YuC2pveKvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055451587087323440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054935374804508749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: きゅうくらりん パロ https://t.co/YuC2pveKvU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054935363878338560"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "conversation_id": "2054935374804508749",
+        "created_at": "2026-05-14T14:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054935374804508749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuC2pveKvU",
+              "end": 34,
+              "expanded_url": "https://x.com/nanaj00_/status/2054935374804508749/photo/1",
+              "media_key": "3_2054935363878338560",
+              "start": 11,
+              "url": "https://t.co/YuC2pveKvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054935374804508749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2119,
+          "impression_count": 223403,
+          "like_count": 29600,
+          "quote_count": 29,
+          "reply_count": 7,
+          "retweet_count": 3176
+        },
+        "reply_settings": "everyone",
+        "text": "きゅうくらりん パロ https://t.co/YuC2pveKvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 4005,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2065
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "✧illustration\n✦ニディガ | Dreamcore パロ\n✦絵・絵柄勉強中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nanas70",
+                "end": 23,
+                "expanded_url": "https://lit.link/nanas70",
+                "start": 0,
+                "url": "https://t.co/CsyqLwBTOx"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "location": "AI学習・トレス・無断転載・参考×",
+        "name": "七時",
+        "pinned_tweet_id": "2055301492417122734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196658423091200/SFMW9JXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7570,
+          "following_count": 36,
+          "like_count": 31540,
+          "listed_count": 21,
+          "media_count": 50,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/CsyqLwBTOx",
+        "username": "nanaj00_",
+        "verified": false
+      }
+    ]
+  }
+}

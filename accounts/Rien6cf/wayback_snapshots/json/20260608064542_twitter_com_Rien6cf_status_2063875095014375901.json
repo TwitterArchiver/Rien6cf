@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1670714550130446336"
+      ],
+      "media_source_tweet_id": [
+        "1670714870776627202"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063875095014375901",
+    "created_at": "2026-06-08T06:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063875095014375901"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "ワモンアザラシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "154381364",
+          "start": 3,
+          "username": "Osaka_Kaiyukan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQMhtKrdOn",
+          "end": 106,
+          "expanded_url": "https://x.com/Osaka_Kaiyukan/status/1670714870776627202/video/1",
+          "media_key": "7_1670714550130446336",
+          "start": 83,
+          "url": "https://t.co/NQMhtKrdOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063875095014375901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1670714870776627202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Osaka_Kaiyukan: 機嫌よく遊んでくれてたミゾレに調子のってカメラ近づけたらしばかれました…\n\n距離感って大事(´・ω・`)\n\n#ワモンアザラシ https://t.co/NQMhtKrdOn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8275,
+        "height": 720,
+        "media_key": "7_1670714550130446336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1670714550130446336/pu/img/AaffJlJTC9S1zksX.jpg",
+        "public_metrics": {
+          "view_count": 83399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1670714550130446336/pu/vid/480x270/1VQs6Hqq_Ks1L4KY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1670714550130446336/pu/vid/640x360/S4spRW7jSxtI7V7B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1670714550130446336/pu/vid/1280x720/Rw98cT8HKWD3YrDj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1670714550130446336/pu/pl/WwFjelh22t9l9-Xx.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1670714550130446336"
+          ],
+          "media_source_tweet_id": [
+            "1670714870776627202"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063875095014375901",
+        "created_at": "2026-06-08T06:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063875095014375901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "154381364",
+              "start": 3,
+              "username": "Osaka_Kaiyukan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQMhtKrdOn",
+              "end": 106,
+              "expanded_url": "https://x.com/Osaka_Kaiyukan/status/1670714870776627202/video/1",
+              "media_key": "7_1670714550130446336",
+              "start": 83,
+              "url": "https://t.co/NQMhtKrdOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063875095014375901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1670714870776627202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Osaka_Kaiyukan: 機嫌よく遊んでくれてたミゾレに調子のってカメラ近づけたらしばかれました…\n\n距離感って大事(´・ω・`)\n\n#ワモンアザラシ https://t.co/NQMhtKrdOn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1670714550130446336"
+          ]
+        },
+        "author_id": "154381364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298975554125705216",
+              "name": "Kinki region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299138554128289793",
+              "name": "Osaka Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299142711623073793",
+              "name": "Osaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1299142711623073793",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1670714870776627202",
+        "created_at": "2023-06-19T08:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-19T09:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1670714870776627202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQMhtKrdOn",
+              "end": 86,
+              "expanded_url": "https://x.com/Osaka_Kaiyukan/status/1670714870776627202/video/1",
+              "media_key": "7_1670714550130446336",
+              "start": 63,
+              "url": "https://t.co/NQMhtKrdOn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0c73b7318c91672a"
+        },
+        "id": "1670714870776627202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 344714,
+          "like_count": 5975,
+          "quote_count": 32,
+          "reply_count": 9,
+          "retweet_count": 1120
+        },
+        "reply_settings": "everyone",
+        "text": "機嫌よく遊んでくれてたミゾレに調子のってカメラ近づけたらしばかれました…\n\n距離感って大事(´・ω・`)\n\n#ワモンアザラシ https://t.co/NQMhtKrdOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5264,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2471
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-11T02:52:06.000Z",
+        "description": "世界最大級の水族館・海遊館の公式アカウントです。 タイムラインでのお問い合わせは基本的にお答えできませんので、海遊館インフォメーションまでお電話（06-6576-5501）くださいませ。 Osaka Aquarium Kaiyukan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaiyukan.com",
+                "end": 23,
+                "expanded_url": "https://www.kaiyukan.com/",
+                "start": 0,
+                "url": "https://t.co/Pz9opU3Z7j"
+              }
+            ]
+          }
+        },
+        "id": "154381364",
+        "location": "大阪市港区",
+        "name": "大阪・海遊館",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/877077005346287617/4aXX0pWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414411,
+          "following_count": 2,
+          "like_count": 691,
+          "listed_count": 4050,
+          "media_count": 3436,
+          "tweet_count": 4197
+        },
+        "url": "https://t.co/Pz9opU3Z7j",
+        "username": "Osaka_Kaiyukan",
+        "verified": true
+      }
+    ]
+  }
+}

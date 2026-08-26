@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090037815451230242",
+    "created_at": "2026-08-19T11:27:00.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090037815451230242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592084850986872834",
+          "start": 3,
+          "username": "_mn2364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090037815451230242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089417775345447316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @_mn2364: 人を頼れば｢構ってちゃん｣、人前で泣けば｢構ってちゃん｣、自殺未遂すれば｢構ってちゃん｣、自殺完遂したら｢なんで言ってくれなかったの？｣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090037815451230242",
+        "created_at": "2026-08-19T11:27:00.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090037815451230242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592084850986872834",
+              "start": 3,
+              "username": "_mn2364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090037815451230242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089417775345447316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @_mn2364: 人を頼れば｢構ってちゃん｣、人前で泣けば｢構ってちゃん｣、自殺未遂すれば｢構ってちゃん｣、自殺完遂したら｢なんで言ってくれなかったの？｣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592084850986872834",
+        "conversation_id": "2089417775345447316",
+        "created_at": "2026-08-17T18:23:11.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089417775345447316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089417775345447316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 677,
+          "impression_count": 325724,
+          "like_count": 17328,
+          "quote_count": 119,
+          "reply_count": 8,
+          "retweet_count": 1316
+        },
+        "reply_settings": "following",
+        "text": "人を頼れば｢構ってちゃん｣、人前で泣けば｢構ってちゃん｣、自殺未遂すれば｢構ってちゃん｣、自殺完遂したら｢なんで言ってくれなかったの？｣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090037815451230242",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 213,
+          "like_count": 9487,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3377
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T09:20:00.000Z",
+        "description": "いつか大丈夫になりたい。 ￤JK￤♂△￤🌟DMは縮小の人だけ￤日常(誰でも)@_mn2362 縮小@_mn2363￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "_mn2362"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "_mn2363"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/d36n077qrzwtau…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/d36n077qrzwtaum?t=4Xi3Tn&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/LnODR9SwWU"
+              }
+            ]
+          }
+        },
+        "id": "1592084850986872834",
+        "is_identity_verified": false,
+        "location": "もうすぐ",
+        "most_recent_tweet_id": "2090035757562101783",
+        "name": "桃乃",
+        "pinned_tweet_id": "2089575305879109969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592084850986872834/1786177721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936742974383165440/_ES1Iez7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 172,
+          "like_count": 11302,
+          "listed_count": 9,
+          "media_count": 19,
+          "tweet_count": 1272
+        },
+        "url": "https://t.co/LnODR9SwWU",
+        "username": "_mn2364",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2022973050157998087",
+    "created_at": "2026-02-15T09:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022973050157998087"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "初音ミク",
+          "probability": 0.4866,
+          "start": 22,
+          "type": "Person"
+        },
+        {
+          "end": 37,
+          "normalized_text": "初音ミク",
+          "probability": 0.3272,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 49,
+          "normalized_text": "初音ミク",
+          "probability": 0.3376,
+          "start": 46,
+          "type": "Person"
+        },
+        {
+          "end": 65,
+          "normalized_text": "初音ミク",
+          "probability": 0.5621,
+          "start": 62,
+          "type": "Person"
+        },
+        {
+          "end": 76,
+          "normalized_text": "初音ミク",
+          "probability": 0.5683,
+          "start": 73,
+          "type": "Person"
+        },
+        {
+          "end": 93,
+          "normalized_text": "初音ミク",
+          "probability": 0.6119,
+          "start": 90,
+          "type": "Person"
+        },
+        {
+          "end": 122,
+          "normalized_text": "初音ミクかくあるべし 正論",
+          "probability": 0.1418,
+          "start": 110,
+          "type": "Other"
+        },
+        {
+          "end": 127,
+          "normalized_text": "初音ミク",
+          "probability": 0.7914,
+          "start": 124,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "975896756830453760",
+          "start": 3,
+          "username": "Halcyon039_sc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022973050157998087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022897664002773404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Halcyon039_sc: 宗教:初音ミクを崇めよ\n哲学:初音ミクとは何か\n科学:初音ミクはこうできている\n芸術:初音ミクと創る\n歴史:初音ミクはこう活躍してきた\n文学:初音ミクってよくてぇ......\n美学:初音ミクかくあるべし\n正論:初音ミクは歌うソフトウェア\n医…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2022973050157998087",
+        "created_at": "2026-02-15T09:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022973050157998087"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "初音ミク",
+              "probability": 0.4866,
+              "start": 22,
+              "type": "Person"
+            },
+            {
+              "end": 37,
+              "normalized_text": "初音ミク",
+              "probability": 0.3272,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "初音ミク",
+              "probability": 0.3376,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "初音ミク",
+              "probability": 0.5621,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "初音ミク",
+              "probability": 0.5683,
+              "start": 73,
+              "type": "Person"
+            },
+            {
+              "end": 93,
+              "normalized_text": "初音ミク",
+              "probability": 0.6119,
+              "start": 90,
+              "type": "Person"
+            },
+            {
+              "end": 122,
+              "normalized_text": "初音ミクかくあるべし 正論",
+              "probability": 0.1418,
+              "start": 110,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "初音ミク",
+              "probability": 0.7914,
+              "start": 124,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "975896756830453760",
+              "start": 3,
+              "username": "Halcyon039_sc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022973050157998087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022897664002773404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Halcyon039_sc: 宗教:初音ミクを崇めよ\n哲学:初音ミクとは何か\n科学:初音ミクはこうできている\n芸術:初音ミクと創る\n歴史:初音ミクはこう活躍してきた\n文学:初音ミクってよくてぇ......\n美学:初音ミクかくあるべし\n正論:初音ミクは歌うソフトウェア\n医…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "975896756830453760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2022897664002773404",
+        "created_at": "2026-02-15T04:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022897664002773404"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "初音ミク",
+              "probability": 0.5097,
+              "start": 3,
+              "type": "Person"
+            },
+            {
+              "end": 18,
+              "normalized_text": "初音ミク",
+              "probability": 0.3721,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "初音ミク",
+              "probability": 0.3192,
+              "start": 27,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "初音ミク",
+              "probability": 0.5401,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 57,
+              "normalized_text": "初音ミク",
+              "probability": 0.5194,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "初音ミク",
+              "probability": 0.5142,
+              "start": 71,
+              "type": "Person"
+            },
+            {
+              "end": 103,
+              "normalized_text": "初音ミクかくあるべし 正論",
+              "probability": 0.1642,
+              "start": 91,
+              "type": "Other"
+            },
+            {
+              "end": 108,
+              "normalized_text": "初音ミク",
+              "probability": 0.6739,
+              "start": 105,
+              "type": "Person"
+            },
+            {
+              "end": 125,
+              "normalized_text": "初音ミク",
+              "probability": 0.6283,
+              "start": 122,
+              "type": "Person"
+            },
+            {
+              "end": 134,
+              "normalized_text": "万病に効く 役所",
+              "probability": 0.4235,
+              "start": 127,
+              "type": "Other"
+            },
+            {
+              "end": 139,
+              "normalized_text": "初音ミク",
+              "probability": 0.6394,
+              "start": 136,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022897664002773404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 18347,
+          "like_count": 1328,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "宗教:初音ミクを崇めよ\n哲学:初音ミクとは何か\n科学:初音ミクはこうできている\n芸術:初音ミクと創る\n歴史:初音ミクはこう活躍してきた\n文学:初音ミクってよくてぇ......\n美学:初音ミクかくあるべし\n正論:初音ミクは歌うソフトウェア\n医療:初音ミクは万病に効く\n役所:初音ミクとコラボ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 68,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 381
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-20T00:48:12.000Z",
+        "description": "25y/o JPN/ENG OK 自分の好きなものにはしゃぐオタク\n【守備範囲】\n・ボカロ(マジミラ2015から継続参戦)\n・ふわぬいマスター(圧の強いどでかホルン他)\n・ブルアカ(臨戦アリス&ケイ感謝)\n・モータースポーツ(SGT他/GSR個人スポンサー #fightgsr)\n・カメラ(愛機はニコンD500)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 129,
+                "tag": "fightgsr"
+              }
+            ]
+          }
+        },
+        "id": "975896756830453760",
+        "location": "1/17-18ローミク→2/14デコミク→3/22ポケミク",
+        "name": "はるしおん",
+        "pinned_tweet_id": "2022686512094290152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965182596268351488/nc2p55-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 736,
+          "like_count": 23169,
+          "listed_count": 8,
+          "media_count": 3762,
+          "tweet_count": 35640
+        },
+        "username": "Halcyon039_sc",
+        "verified": false
+      }
+    ]
+  }
+}

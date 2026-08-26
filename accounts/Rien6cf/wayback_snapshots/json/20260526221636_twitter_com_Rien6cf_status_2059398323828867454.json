@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058892602175627264",
+        "3_2058892602125271040"
+      ],
+      "media_source_tweet_id": [
+        "2058921026252156952",
+        "2058921026252156952"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2059398323828867454",
+    "created_at": "2026-05-26T22:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T23:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059398323828867454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "14463502",
+          "start": 3,
+          "username": "cdoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QQqhWtmUOY",
+          "end": 83,
+          "expanded_url": "https://x.com/cdoll/status/2058921026252156952/photo/1",
+          "media_key": "3_2058892602175627264",
+          "start": 60,
+          "url": "https://t.co/QQqhWtmUOY"
+        },
+        {
+          "display_url": "pic.x.com/QQqhWtmUOY",
+          "end": 83,
+          "expanded_url": "https://x.com/cdoll/status/2058921026252156952/photo/1",
+          "media_key": "3_2058892602125271040",
+          "start": 60,
+          "url": "https://t.co/QQqhWtmUOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059398323828867454",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9855
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058921026252156952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cdoll: Plan A                                    Plan B https://t.co/QQqhWtmUOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_2058892602175627264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKn6cdboAAklAd.jpg",
+        "width": 626
+      },
+      {
+        "height": 736,
+        "media_key": "3_2058892602125271040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKn6cRbQAAcAzw.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058892602175627264",
+            "3_2058892602125271040"
+          ],
+          "media_source_tweet_id": [
+            "2058921026252156952",
+            "2058921026252156952"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2059398323828867454",
+        "created_at": "2026-05-26T22:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059398323828867454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "14463502",
+              "start": 3,
+              "username": "cdoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQqhWtmUOY",
+              "end": 83,
+              "expanded_url": "https://x.com/cdoll/status/2058921026252156952/photo/1",
+              "media_key": "3_2058892602175627264",
+              "start": 60,
+              "url": "https://t.co/QQqhWtmUOY"
+            },
+            {
+              "display_url": "pic.x.com/QQqhWtmUOY",
+              "end": 83,
+              "expanded_url": "https://x.com/cdoll/status/2058921026252156952/photo/1",
+              "media_key": "3_2058892602125271040",
+              "start": 60,
+              "url": "https://t.co/QQqhWtmUOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059398323828867454",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9855
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058921026252156952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cdoll: Plan A                                    Plan B https://t.co/QQqhWtmUOY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058892602175627264",
+            "3_2058892602125271040"
+          ]
+        },
+        "author_id": "14463502",
+        "conversation_id": "2058921026252156952",
+        "created_at": "2026-05-25T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058921026252156952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQqhWtmUOY",
+              "end": 72,
+              "expanded_url": "https://x.com/cdoll/status/2058921026252156952/photo/1",
+              "media_key": "3_2058892602175627264",
+              "start": 49,
+              "url": "https://t.co/QQqhWtmUOY"
+            },
+            {
+              "display_url": "pic.x.com/QQqhWtmUOY",
+              "end": 72,
+              "expanded_url": "https://x.com/cdoll/status/2058921026252156952/photo/1",
+              "media_key": "3_2058892602125271040",
+              "start": 49,
+              "url": "https://t.co/QQqhWtmUOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058921026252156952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1132,
+          "impression_count": 656650,
+          "like_count": 43383,
+          "quote_count": 456,
+          "reply_count": 64,
+          "retweet_count": 9855
+        },
+        "reply_settings": "everyone",
+        "text": "Plan A                                    Plan B https://t.co/QQqhWtmUOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 174,
+          "like_count": 4585,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2246
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-21T16:06:27.000Z",
+        "description": "",
+        "id": "14463502",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268502665621505/XFJCOb4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62342,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 131,
+          "media_count": 4507,
+          "tweet_count": 4587
+        },
+        "username": "cdoll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029595387682816411",
+    "created_at": "2026-03-05T16:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029595387682816411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1941500711675854848",
+          "start": 3,
+          "username": "xirichaoxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029595387682816411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029419830747775388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xirichaoxi: 物化生太吃配置了，历政地太占内存了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029595387682816411",
+        "created_at": "2026-03-05T16:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029595387682816411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941500711675854848",
+              "start": 3,
+              "username": "xirichaoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029595387682816411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029419830747775388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xirichaoxi: 物化生太吃配置了，历政地太占内存了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941500711675854848",
+        "conversation_id": "2029419830747775388",
+        "created_at": "2026-03-05T04:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T05:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029419830747775388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029419830747775388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7610,
+          "like_count": 125,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "物化生太吃配置了，历政地太占内存了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 101,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 787
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T14:14:09.000Z",
+        "description": "一只胖胖的熊(破碎女高)\n🚪38，可以提供陪聊服务✧٩(ˊωˋ*)و✧\n只有这一个推号！提问箱https://t.co/ZvHdsSRnyr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple97192",
+                "end": 70,
+                "expanded_url": "https://ngl.link/apple97192",
+                "start": 47,
+                "url": "https://t.co/ZvHdsSRnyr"
+              }
+            ]
+          }
+        },
+        "id": "1941500711675854848",
+        "name": "故事一无所有",
+        "pinned_tweet_id": "2004056275697701202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995573692131409922/qccbuSOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 1,
+          "like_count": 613,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 454
+        },
+        "username": "xirichaoxi",
+        "verified": false
+      }
+    ]
+  }
+}

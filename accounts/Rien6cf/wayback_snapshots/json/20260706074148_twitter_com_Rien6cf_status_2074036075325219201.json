@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073416885727899648"
+      ],
+      "media_source_tweet_id": [
+        "2073416891650150757"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2074036075325219201",
+    "created_at": "2026-07-06T07:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074036075325219201"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 39,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "ましろ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291652313703014400",
+          "start": 3,
+          "username": "trmrmeer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6LM6dacyx",
+          "end": 78,
+          "expanded_url": "https://x.com/trmrmeer/status/2073416891650150757/photo/1",
+          "media_key": "3_2073416885727899648",
+          "start": 55,
+          "url": "https://t.co/y6LM6dacyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074036075325219201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073416891650150757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trmrmeer: 2026.06.20\n\nアイドルステップ🦭🎤🎶\n\n#とっかりセンター \n#ましろ https://t.co/y6LM6dacyx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2073416885727899648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZBrBEbsAAP5xz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073416885727899648"
+          ],
+          "media_source_tweet_id": [
+            "2073416891650150757"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2074036075325219201",
+        "created_at": "2026-07-06T07:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074036075325219201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "ましろ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291652313703014400",
+              "start": 3,
+              "username": "trmrmeer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6LM6dacyx",
+              "end": 78,
+              "expanded_url": "https://x.com/trmrmeer/status/2073416891650150757/photo/1",
+              "media_key": "3_2073416885727899648",
+              "start": 55,
+              "url": "https://t.co/y6LM6dacyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074036075325219201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073416891650150757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trmrmeer: 2026.06.20\n\nアイドルステップ🦭🎤🎶\n\n#とっかりセンター \n#ましろ https://t.co/y6LM6dacyx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073416885727899648"
+          ]
+        },
+        "author_id": "1291652313703014400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2073416891650150757",
+        "created_at": "2026-07-04T14:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073416891650150757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "ましろ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6LM6dacyx",
+              "end": 64,
+              "expanded_url": "https://x.com/trmrmeer/status/2073416891650150757/photo/1",
+              "media_key": "3_2073416885727899648",
+              "start": 41,
+              "url": "https://t.co/y6LM6dacyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073416891650150757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 7607,
+          "like_count": 960,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "2026.06.20\n\nアイドルステップ🦭🎤🎶\n\n#とっかりセンター \n#ましろ https://t.co/y6LM6dacyx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 196,
+          "like_count": 7153,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2832
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T08:28:14.000Z",
+        "description": "🦭🔰アイコンはジャンボ、ヘッダーはスカイです\n@wakamemarudayo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "wakamemarudayo"
+              }
+            ]
+          }
+        },
+        "id": "1291652313703014400",
+        "location": "⚠️無断転載禁止",
+        "name": "ねる",
+        "pinned_tweet_id": "2069233970227847422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004815202492264449/BuYvQ6Nv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 120,
+          "like_count": 16525,
+          "listed_count": 17,
+          "media_count": 1291,
+          "tweet_count": 6956
+        },
+        "url": "",
+        "username": "trmrmeer",
+        "verified": false
+      }
+    ]
+  }
+}

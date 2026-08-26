@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2054139887063036150",
+    "created_at": "2026-05-12T10:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054139887063036150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/livedoornews/status/2054115063758561684",
+          "start": 3,
+          "url": "https://t.co/x79PqNoMeK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054139887063036150",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054115063758561684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？ https://t.co/x79PqNoMeK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2054115005579325440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGutuNa8AAxhNc.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2054139887063036150",
+        "created_at": "2026-05-12T10:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054139887063036150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/livedoornews/status/2054115063758561684",
+              "start": 3,
+              "url": "https://t.co/x79PqNoMeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054139887063036150",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054115063758561684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？ https://t.co/x79PqNoMeK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054115005579325440"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2054115063758561684",
+        "created_at": "2026-05-12T08:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054115063758561684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "東京・八王子市でツキノワグマが出没しました。八王子市元八王子町の雑木林で10日、「罠とカメラを確認したらクマが徘徊している様子が映っていた」と地元のハンターから連絡がありました。市によりますと、出没した",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 59,
+              "expanded_url": "https://news.livedoor.com/article/detail/31245641/",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2054115064026939393/f_Nea-BJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054115064026939393/f_Nea-BJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "東京・八王子市で体長1メートル超のツキノワグマ　捕獲用の罠に近づく様子　市が箱罠を設置へ",
+              "unwound_url": "https://news.livedoor.com/article/detail/31245641/",
+              "url": "https://t.co/2hphV88zf2"
+            },
+            {
+              "display_url": "pic.x.com/KeDA7Vc19P",
+              "end": 177,
+              "expanded_url": "https://x.com/livedoornews/status/2054115063758561684/photo/1",
+              "media_key": "3_2054115005579325440",
+              "start": 154,
+              "url": "https://t.co/KeDA7Vc19P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054115063758561684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 254415,
+          "like_count": 1882,
+          "quote_count": 258,
+          "reply_count": 113,
+          "retweet_count": 1219
+        },
+        "reply_settings": "everyone",
+        "text": "【確認】東京・八王子市で体長1m超のツキノワグマ出没 市が箱罠を設置へ\nhttps://t.co/2hphV88zf2\n\n八王子市元八王子町の雑木林で10日、「罠とカメラを確認したらクマが徘徊している様子が映っていた」と地元のハンターから連絡があった。撮影日は4月29日で、捕獲用の箱罠を近く設置する予定。 https://t.co/KeDA7Vc19P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 171,
+          "like_count": 3805,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1993
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165309,
+          "following_count": 106,
+          "like_count": 2289,
+          "listed_count": 13951,
+          "media_count": 288490,
+          "tweet_count": 465223
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

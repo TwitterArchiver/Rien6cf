@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029587195888320537",
+    "created_at": "2026-03-05T15:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029587195888320537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rien6cf/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/rien6cf/status/2027054287394951198",
+          "start": 20,
+          "url": "https://t.co/264I33G2Gx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029587195888320537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027054287394951198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伸びたい໒꒰ྀི∩˃ ᵕ ˂∩꒱ྀི১ https://t.co/264I33G2Gx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_2027054281111777280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGLIP4aMAAOme-.jpg",
+        "width": 1207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029587195888320537",
+        "created_at": "2026-03-05T15:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029587195888320537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rien6cf/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/rien6cf/status/2027054287394951198",
+              "start": 20,
+              "url": "https://t.co/264I33G2Gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029587195888320537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027054287394951198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伸びたい໒꒰ྀི∩˃ ᵕ ˂∩꒱ྀི১ https://t.co/264I33G2Gx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027054281111777280"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2027054287394951198",
+        "created_at": "2026-02-26T16:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027054287394951198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfJy9bdKGM",
+              "end": 25,
+              "expanded_url": "https://x.com/Rien6cf/status/2027054287394951198/photo/1",
+              "media_key": "3_2027054281111777280",
+              "start": 2,
+              "url": "https://t.co/YfJy9bdKGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027054287394951198",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1338,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/YfJy9bdKGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 101,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 785
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

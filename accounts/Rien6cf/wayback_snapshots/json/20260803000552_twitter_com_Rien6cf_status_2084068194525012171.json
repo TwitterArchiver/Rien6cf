@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083846538569318400"
+      ],
+      "media_source_tweet_id": [
+        "2083846541996142880"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2084068194525012171",
+    "created_at": "2026-08-03T00:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084068194525012171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "722972862",
+          "start": 3,
+          "username": "13999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BgHx5yThwP",
+          "end": 48,
+          "expanded_url": "https://x.com/13999/status/2083846541996142880/photo/1",
+          "media_key": "3_2083846538569318400",
+          "start": 25,
+          "url": "https://t.co/BgHx5yThwP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084068194525012171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083846541996142880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13999: マジでどう言うことわざだよ https://t.co/BgHx5yThwP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 577,
+        "media_key": "3_2083846538569318400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtPYtnaAAAD2wg.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083846538569318400"
+          ]
+        },
+        "author_id": "722972862",
+        "conversation_id": "2083846541996142880",
+        "created_at": "2026-08-02T09:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083846541996142880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgHx5yThwP",
+              "end": 37,
+              "expanded_url": "https://x.com/13999/status/2083846541996142880/photo/1",
+              "media_key": "3_2083846538569318400",
+              "start": 14,
+              "url": "https://t.co/BgHx5yThwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083846541996142880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 29944,
+          "like_count": 976,
+          "quote_count": 21,
+          "reply_count": 4,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "マジでどう言うことわざだよ https://t.co/BgHx5yThwP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083846538569318400"
+          ],
+          "media_source_tweet_id": [
+            "2083846541996142880"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2084068194525012171",
+        "created_at": "2026-08-03T00:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084068194525012171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "722972862",
+              "start": 3,
+              "username": "13999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgHx5yThwP",
+              "end": 48,
+              "expanded_url": "https://x.com/13999/status/2083846541996142880/photo/1",
+              "media_key": "3_2083846538569318400",
+              "start": 25,
+              "url": "https://t.co/BgHx5yThwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084068194525012171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083846541996142880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13999: マジでどう言うことわざだよ https://t.co/BgHx5yThwP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 210,
+          "like_count": 9058,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3236
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-28T23:06:18.000Z",
+        "description": "ブルアカ・トリッカル・マイクラ・ボカロ・ID\n🗝️@92D・@6eo｜@7w7ww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 25,
+                "username": "92D"
+              },
+              {
+                "end": 34,
+                "start": 30,
+                "username": "6eo"
+              },
+              {
+                "end": 41,
+                "start": 35,
+                "username": "7w7ww"
+              }
+            ]
+          }
+        },
+        "id": "722972862",
+        "location": "1人",
+        "name": "さも",
+        "pinned_tweet_id": "2082021381328576988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082515462186004480/e0aVeRC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6140,
+          "following_count": 934,
+          "like_count": 4695,
+          "listed_count": 11,
+          "media_count": 1487,
+          "tweet_count": 42029
+        },
+        "url": "",
+        "username": "13999",
+        "verified": false
+      }
+    ]
+  }
+}

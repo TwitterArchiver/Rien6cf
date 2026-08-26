@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308899335468244992",
+          "name": "Hamsters"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1308899335468244992",
+          "name": "Hamsters"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2054772604582735948",
+    "created_at": "2026-05-14T03:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054772604582735948"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "拡散希望"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1188918873090736128",
+          "start": 3,
+          "username": "JJbcQRiOsdfmaEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054772604582735948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9614
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054543375165247491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JJbcQRiOsdfmaEO: #拡散希望\n今さっき（午後21時頃）大阪府大阪市島之内一丁目で野生？のハムスター発見して車に轢かれそうだったので保護したのでこれから大阪市中央区南警察署に届けます。\n1週間飼い主が見つからなかったら保健所行きらしいので飼い主さんに届いて…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40598,
+        "height": 1280,
+        "media_key": "13_2054543267682033664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054543267682033664/img/-u0we9xA_491ktF4.jpg",
+        "public_metrics": {
+          "view_count": 1132749
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054543267682033664/vid/avc1/320x568/qqLophYS5v-iI6e6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054543267682033664/vid/avc1/480x852/t0rCjiw264CJfUI9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054543267682033664/vid/avc1/720x1280/Kqs--HtHH3EHTqg3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054543267682033664/pl/N3Pl8VGXam6DGzxl.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054543267627515904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIM0N2qbwAA6YVI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054543267652636672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIM0N2wbEAACtC4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2054772604582735948",
+        "created_at": "2026-05-14T03:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054772604582735948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "拡散希望"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1188918873090736128",
+              "start": 3,
+              "username": "JJbcQRiOsdfmaEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054772604582735948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9593
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054543375165247491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JJbcQRiOsdfmaEO: #拡散希望\n今さっき（午後21時頃）大阪府大阪市島之内一丁目で野生？のハムスター発見して車に轢かれそうだったので保護したのでこれから大阪市中央区南警察署に届けます。\n1週間飼い主が見つからなかったら保健所行きらしいので飼い主さんに届いて…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054543267682033664",
+            "3_2054543267627515904",
+            "3_2054543267652636672"
+          ]
+        },
+        "author_id": "1188918873090736128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2054543375165247491",
+        "created_at": "2026-05-13T12:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054543375165247491"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "拡散希望"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCT4b8UJyv",
+              "end": 156,
+              "expanded_url": "https://x.com/JJbcQRiOsdfmaEO/status/2054543375165247491/video/1",
+              "media_key": "13_2054543267682033664",
+              "start": 133,
+              "url": "https://t.co/cCT4b8UJyv"
+            },
+            {
+              "display_url": "pic.x.com/cCT4b8UJyv",
+              "end": 156,
+              "expanded_url": "https://x.com/JJbcQRiOsdfmaEO/status/2054543375165247491/video/1",
+              "media_key": "3_2054543267627515904",
+              "start": 133,
+              "url": "https://t.co/cCT4b8UJyv"
+            },
+            {
+              "display_url": "pic.x.com/cCT4b8UJyv",
+              "end": 156,
+              "expanded_url": "https://x.com/JJbcQRiOsdfmaEO/status/2054543375165247491/video/1",
+              "media_key": "3_2054543267652636672",
+              "start": 133,
+              "url": "https://t.co/cCT4b8UJyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054543375165247491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2799,
+          "impression_count": 3809583,
+          "like_count": 37230,
+          "quote_count": 718,
+          "reply_count": 156,
+          "retweet_count": 9593
+        },
+        "reply_settings": "everyone",
+        "text": "#拡散希望\n今さっき（午後21時頃）大阪府大阪市島之内一丁目で野生？のハムスター発見して車に轢かれそうだったので保護したのでこれから大阪市中央区南警察署に届けます。\n1週間飼い主が見つからなかったら保健所行きらしいので飼い主さんに届いて欲しいので拡散お願いします。 https://t.co/cCT4b8UJyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 169,
+          "like_count": 3894,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2028
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-28T20:42:24.000Z",
+        "description": "どもです ドラクエウォークとオラドラ、パチ関系と筋トレ関系とコスプレ関係とアニメ関係とか気になった人無言フォロー失礼します フォロバして頂けたら嬉しいです😊",
+        "id": "1188918873090736128",
+        "location": "大阪 大阪市 中央区",
+        "name": "たかたか大阪DQWオラドラ相互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924396440966569984/t6_A5PjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 1652,
+          "like_count": 9245,
+          "listed_count": 9,
+          "media_count": 49,
+          "tweet_count": 619
+        },
+        "username": "JJbcQRiOsdfmaEO",
+        "verified": false
+      }
+    ]
+  }
+}

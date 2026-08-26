@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049791024554545153",
+        "3_2049791024562900993",
+        "3_2049791024613208064",
+        "3_2049791024600645632"
+      ],
+      "media_source_tweet_id": [
+        "2049791033823871368",
+        "2049791033823871368",
+        "2049791033823871368",
+        "2049791033823871368"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049809496005087671",
+    "created_at": "2026-04-30T11:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049809496005087671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596293985466609665",
+          "start": 3,
+          "username": "miumio_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r0HmS4DjLq",
+          "end": 57,
+          "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+          "media_key": "3_2049791024554545153",
+          "start": 34,
+          "url": "https://t.co/r0HmS4DjLq"
+        },
+        {
+          "display_url": "pic.x.com/r0HmS4DjLq",
+          "end": 57,
+          "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+          "media_key": "3_2049791024562900993",
+          "start": 34,
+          "url": "https://t.co/r0HmS4DjLq"
+        },
+        {
+          "display_url": "pic.x.com/r0HmS4DjLq",
+          "end": 57,
+          "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+          "media_key": "3_2049791024613208064",
+          "start": 34,
+          "url": "https://t.co/r0HmS4DjLq"
+        },
+        {
+          "display_url": "pic.x.com/r0HmS4DjLq",
+          "end": 57,
+          "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+          "media_key": "3_2049791024600645632",
+          "start": 34,
+          "url": "https://t.co/r0HmS4DjLq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049809496005087671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049791033823871368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miumio_info: ♡ みうみお × i-COL ♡ https://t.co/r0HmS4DjLq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2049791024554545153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJSE5pbkAEXizc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2049791024562900993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJSE5rbEAEFswO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2049791024613208064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJSE53asAAkD-Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2049791024600645632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJSE50bAAAb6sy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049791024554545153",
+            "3_2049791024562900993",
+            "3_2049791024613208064",
+            "3_2049791024600645632"
+          ],
+          "media_source_tweet_id": [
+            "2049791033823871368",
+            "2049791033823871368",
+            "2049791033823871368",
+            "2049791033823871368"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049809496005087671",
+        "created_at": "2026-04-30T11:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049809496005087671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596293985466609665",
+              "start": 3,
+              "username": "miumio_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0HmS4DjLq",
+              "end": 57,
+              "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+              "media_key": "3_2049791024554545153",
+              "start": 34,
+              "url": "https://t.co/r0HmS4DjLq"
+            },
+            {
+              "display_url": "pic.x.com/r0HmS4DjLq",
+              "end": 57,
+              "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+              "media_key": "3_2049791024562900993",
+              "start": 34,
+              "url": "https://t.co/r0HmS4DjLq"
+            },
+            {
+              "display_url": "pic.x.com/r0HmS4DjLq",
+              "end": 57,
+              "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+              "media_key": "3_2049791024613208064",
+              "start": 34,
+              "url": "https://t.co/r0HmS4DjLq"
+            },
+            {
+              "display_url": "pic.x.com/r0HmS4DjLq",
+              "end": 57,
+              "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+              "media_key": "3_2049791024600645632",
+              "start": 34,
+              "url": "https://t.co/r0HmS4DjLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049809496005087671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049791033823871368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miumio_info: ♡ みうみお × i-COL ♡ https://t.co/r0HmS4DjLq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049791024554545153",
+            "3_2049791024562900993",
+            "3_2049791024613208064",
+            "3_2049791024600645632"
+          ]
+        },
+        "author_id": "1596293985466609665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049791033823871368",
+        "created_at": "2026-04-30T10:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049791033823871368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0HmS4DjLq",
+              "end": 40,
+              "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+              "media_key": "3_2049791024554545153",
+              "start": 17,
+              "url": "https://t.co/r0HmS4DjLq"
+            },
+            {
+              "display_url": "pic.x.com/r0HmS4DjLq",
+              "end": 40,
+              "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+              "media_key": "3_2049791024562900993",
+              "start": 17,
+              "url": "https://t.co/r0HmS4DjLq"
+            },
+            {
+              "display_url": "pic.x.com/r0HmS4DjLq",
+              "end": 40,
+              "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+              "media_key": "3_2049791024613208064",
+              "start": 17,
+              "url": "https://t.co/r0HmS4DjLq"
+            },
+            {
+              "display_url": "pic.x.com/r0HmS4DjLq",
+              "end": 40,
+              "expanded_url": "https://x.com/miumio_info/status/2049791033823871368/photo/1",
+              "media_key": "3_2049791024600645632",
+              "start": 17,
+              "url": "https://t.co/r0HmS4DjLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049791033823871368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 11960,
+          "like_count": 637,
+          "quote_count": 26,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "♡ みうみお × i-COL ♡ https://t.co/r0HmS4DjLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 157,
+          "like_count": 3197,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1807
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T00:05:49.000Z",
+        "description": "🐾「騙されちゃっても愛してね？」🐾 /🐈砂糖みう@nyaanemui 🐈‍⬛神楽みお @miopinyan ♥ プロデュースブランド @nyanME_info ♥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "nyaanemui"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "miopinyan"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "nyanME_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@miumio_info?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@miumio_info?si=yhDt3z6xl5WmXG3f",
+                "start": 0,
+                "url": "https://t.co/nbsHB8mQbz"
+              }
+            ]
+          }
+        },
+        "id": "1596293985466609665",
+        "name": "みうみお",
+        "pinned_tweet_id": "1985286618450919628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016723901716594688/x1DOeLwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23771,
+          "following_count": 3,
+          "like_count": 74,
+          "listed_count": 88,
+          "media_count": 807,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/nbsHB8mQbz",
+        "username": "miumio_info",
+        "verified": true
+      }
+    ]
+  }
+}

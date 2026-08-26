@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074035273374289920",
+        "3_2074035288012468224"
+      ],
+      "media_source_tweet_id": [
+        "2074035326646091939",
+        "2074035326646091939"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2074326239935144343",
+    "created_at": "2026-07-07T02:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074326239935144343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2331564084",
+          "start": 3,
+          "username": "kua_pr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HP7UuFMZFa",
+          "end": 73,
+          "expanded_url": "https://x.com/kua_pr/status/2074035326646091939/photo/1",
+          "media_key": "3_2074035273374289920",
+          "start": 50,
+          "url": "https://t.co/HP7UuFMZFa"
+        },
+        {
+          "display_url": "pic.x.com/HP7UuFMZFa",
+          "end": 73,
+          "expanded_url": "https://x.com/kua_pr/status/2074035326646091939/photo/1",
+          "media_key": "3_2074035288012468224",
+          "start": 50,
+          "url": "https://t.co/HP7UuFMZFa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074326239935144343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14721
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074035326646091939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kua_pr: 単位が落ちてました。\n\nお心当たりのある方は至急結び直しに行ってください。 https://t.co/HP7UuFMZFa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2074035273374289920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh0F6ka0AAQc_I.jpg",
+        "width": 2268
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2074035288012468224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh0GxGbsAAPDjY.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074035273374289920",
+            "3_2074035288012468224"
+          ],
+          "media_source_tweet_id": [
+            "2074035326646091939",
+            "2074035326646091939"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2074326239935144343",
+        "created_at": "2026-07-07T02:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074326239935144343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2331564084",
+              "start": 3,
+              "username": "kua_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HP7UuFMZFa",
+              "end": 73,
+              "expanded_url": "https://x.com/kua_pr/status/2074035326646091939/photo/1",
+              "media_key": "3_2074035273374289920",
+              "start": 50,
+              "url": "https://t.co/HP7UuFMZFa"
+            },
+            {
+              "display_url": "pic.x.com/HP7UuFMZFa",
+              "end": 73,
+              "expanded_url": "https://x.com/kua_pr/status/2074035326646091939/photo/1",
+              "media_key": "3_2074035288012468224",
+              "start": 50,
+              "url": "https://t.co/HP7UuFMZFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074326239935144343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14721
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074035326646091939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kua_pr: 単位が落ちてました。\n\nお心当たりのある方は至急結び直しに行ってください。 https://t.co/HP7UuFMZFa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074035273374289920",
+            "3_2074035288012468224"
+          ]
+        },
+        "author_id": "2331564084",
+        "conversation_id": "2074035326646091939",
+        "created_at": "2026-07-06T07:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074035326646091939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HP7UuFMZFa",
+              "end": 61,
+              "expanded_url": "https://x.com/kua_pr/status/2074035326646091939/photo/1",
+              "media_key": "3_2074035273374289920",
+              "start": 38,
+              "url": "https://t.co/HP7UuFMZFa"
+            },
+            {
+              "display_url": "pic.x.com/HP7UuFMZFa",
+              "end": 61,
+              "expanded_url": "https://x.com/kua_pr/status/2074035326646091939/photo/1",
+              "media_key": "3_2074035288012468224",
+              "start": 38,
+              "url": "https://t.co/HP7UuFMZFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074035326646091939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4837,
+          "impression_count": 5471114,
+          "like_count": 177884,
+          "quote_count": 1103,
+          "reply_count": 306,
+          "retweet_count": 14723
+        },
+        "reply_settings": "everyone",
+        "text": "単位が落ちてました。\n\nお心当たりのある方は至急結び直しに行ってください。 https://t.co/HP7UuFMZFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 195,
+          "like_count": 7190,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2838
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-07T09:04:42.000Z",
+        "description": "京都芸術大学の公式アカウントです。\n自然豊かな京都市左京区のキャンパスには、巨大彫刻を制作する現代美術工房から、ジャンルレスに舞台芸術を上演する本格派劇場まで。ものづくりへのエネルギーが充満する総合芸術大学から、学生たちの制作風景や、最新のアートニュースをお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kyoto-art.ac.jp",
+                "end": 23,
+                "expanded_url": "https://www.kyoto-art.ac.jp/",
+                "start": 0,
+                "url": "https://t.co/Qhml9sqOTz"
+              }
+            ]
+          }
+        },
+        "id": "2331564084",
+        "location": "京都市左京区",
+        "name": "京都芸術大学",
+        "pinned_tweet_id": "2043948115414397101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245013037745967104/bkArCoEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19763,
+          "following_count": 427,
+          "like_count": 10847,
+          "listed_count": 190,
+          "media_count": 8243,
+          "tweet_count": 22280
+        },
+        "url": "https://t.co/Qhml9sqOTz",
+        "username": "kua_pr",
+        "verified": true
+      }
+    ]
+  }
+}

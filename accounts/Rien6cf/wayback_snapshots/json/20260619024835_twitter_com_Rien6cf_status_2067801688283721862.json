@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067613506124558336"
+      ],
+      "media_source_tweet_id": [
+        "2067613511891763496"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2067801688283721862",
+    "created_at": "2026-06-19T02:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067801688283721862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1438998031471300613",
+          "start": 3,
+          "username": "kyubalnom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3nMxIP6V1",
+          "end": 45,
+          "expanded_url": "https://x.com/kyubalnom/status/2067613511891763496/photo/1",
+          "media_key": "3_2067613506124558336",
+          "start": 22,
+          "url": "https://t.co/h3nMxIP6V1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067801688283721862",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 730
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067613511891763496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kyubalnom: 정신안좋아짐 https://t.co/h3nMxIP6V1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_2067613506124558336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGjh3VasAA30YZ.jpg",
+        "width": 644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067613506124558336"
+          ],
+          "media_source_tweet_id": [
+            "2067613511891763496"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2067801688283721862",
+        "created_at": "2026-06-19T02:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067801688283721862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1438998031471300613",
+              "start": 3,
+              "username": "kyubalnom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3nMxIP6V1",
+              "end": 45,
+              "expanded_url": "https://x.com/kyubalnom/status/2067613511891763496/photo/1",
+              "media_key": "3_2067613506124558336",
+              "start": 22,
+              "url": "https://t.co/h3nMxIP6V1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067801688283721862",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 730
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067613511891763496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @kyubalnom: 정신안좋아짐 https://t.co/h3nMxIP6V1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067613506124558336"
+          ]
+        },
+        "author_id": "1438998031471300613",
+        "conversation_id": "2067613511891763496",
+        "created_at": "2026-06-18T14:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067613511891763496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3nMxIP6V1",
+              "end": 30,
+              "expanded_url": "https://x.com/kyubalnom/status/2067613511891763496/photo/1",
+              "media_key": "3_2067613506124558336",
+              "start": 7,
+              "url": "https://t.co/h3nMxIP6V1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067613511891763496",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 40911,
+          "like_count": 2182,
+          "quote_count": 31,
+          "reply_count": 0,
+          "retweet_count": 730
+        },
+        "reply_settings": "following",
+        "text": "정신안좋아짐 https://t.co/h3nMxIP6V1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 189,
+          "like_count": 5812,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2613
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T22:47:30.000Z",
+        "description": "",
+        "id": "1438998031471300613",
+        "name": "개병규",
+        "pinned_tweet_id": "1817467355720802503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642189392117895173/dW9ONF0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89171,
+          "following_count": 125,
+          "like_count": 43102,
+          "listed_count": 93,
+          "media_count": 5701,
+          "tweet_count": 42018
+        },
+        "url": "",
+        "username": "kyubalnom",
+        "verified": false
+      }
+    ]
+  }
+}

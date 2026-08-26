@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063546120824139846",
+    "created_at": "2026-06-07T08:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063546120824139846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968547361355087874",
+          "start": 3,
+          "username": "eburiwan_0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063546120824139846",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19646
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062899283343597829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eburiwan_0o: 늦는 녀석이 부모님을 잃는다"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063546120824139846",
+        "created_at": "2026-06-07T08:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063546120824139846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968547361355087874",
+              "start": 3,
+              "username": "eburiwan_0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063546120824139846",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19646
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062899283343597829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eburiwan_0o: 늦는 녀석이 부모님을 잃는다"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968547361355087874",
+        "conversation_id": "2062899283343597829",
+        "created_at": "2026-06-05T14:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062899283343597829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/butagami23/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/butagami23/status/2062758317920006449",
+              "start": 16,
+              "url": "https://t.co/qT45nSHaZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062899283343597829",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2232,
+          "impression_count": 3374567,
+          "like_count": 49109,
+          "quote_count": 573,
+          "reply_count": 9,
+          "retweet_count": 19646
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062758317920006449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "늦는 녀석이 부모님을 잃는다 https://t.co/qT45nSHaZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 185,
+          "like_count": 5190,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2453
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T05:27:38.000Z",
+        "description": "キチゲイアカウント🫪",
+        "id": "1968547361355087874",
+        "location": "일상개 구독비추천 ",
+        "name": "안냥개（안녕아님）",
+        "pinned_tweet_id": "2020174863147880837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968547801140195328/Zo1iAKxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 272,
+          "like_count": 2204,
+          "listed_count": 3,
+          "media_count": 1399,
+          "tweet_count": 12527
+        },
+        "username": "eburiwan_0o",
+        "verified": false
+      }
+    ]
+  }
+}

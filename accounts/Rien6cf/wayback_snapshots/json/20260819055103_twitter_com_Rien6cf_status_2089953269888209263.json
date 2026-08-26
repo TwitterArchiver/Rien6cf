@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2089953269888209263",
+    "created_at": "2026-08-19T05:51:03.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089953269888209263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1995848545216458752",
+          "start": 3,
+          "username": "jy9pz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089953269888209263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089666172136624166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jy9pz: 私、親金ホビ垢大っ嫌ァァい🥰🥰🥰🌹🌹🌹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2089953269888209263",
+        "created_at": "2026-08-19T05:51:03.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089953269888209263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1995848545216458752",
+              "start": 3,
+              "username": "jy9pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089953269888209263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089666172136624166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jy9pz: 私、親金ホビ垢大っ嫌ァァい🥰🥰🥰🌹🌹🌹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995848545216458752",
+        "conversation_id": "2089666172136624166",
+        "created_at": "2026-08-18T10:50:14.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089666172136624166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089666172136624166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 262256,
+          "like_count": 4799,
+          "quote_count": 144,
+          "reply_count": 3,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "私、親金ホビ垢大っ嫌ァァい🥰🥰🥰🌹🌹🌹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089953269888209263",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 215,
+          "like_count": 9462,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3369
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-02T13:32:59.000Z",
+        "description": "👊🩸  /  無言フォロー / 🚺",
+        "id": "1995848545216458752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089852171001217204",
+        "name": "みのてャ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995848545216458752/1780143715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082059163350560768/QoOn_H4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 547,
+          "like_count": 9319,
+          "listed_count": 12,
+          "media_count": 60,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "jy9pz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

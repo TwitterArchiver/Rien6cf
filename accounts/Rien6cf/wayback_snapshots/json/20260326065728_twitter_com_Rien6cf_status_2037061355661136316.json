@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037061338502225923"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2037061355661136316",
+    "created_at": "2026-03-26T06:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037061355661136316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rAF3ZG2fe3",
+          "end": 29,
+          "expanded_url": "https://x.com/Rien6cf/status/2037061355661136316/photo/1",
+          "media_key": "3_2037061338502225923",
+          "start": 6,
+          "url": "https://t.co/rAF3ZG2fe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037061355661136316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女同性恋们 https://t.co/rAF3ZG2fe3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2037061338502225923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUYfpsbYAM64G1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037061338502225923"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2037061355661136316",
+        "created_at": "2026-03-26T06:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037061355661136316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAF3ZG2fe3",
+              "end": 29,
+              "expanded_url": "https://x.com/Rien6cf/status/2037061355661136316/photo/1",
+              "media_key": "3_2037061338502225923",
+              "start": 6,
+              "url": "https://t.co/rAF3ZG2fe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037061355661136316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女同性恋们 https://t.co/rAF3ZG2fe3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2035372064241303646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 120,
+          "like_count": 1950,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1283
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

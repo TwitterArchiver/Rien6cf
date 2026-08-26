@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058827571543044096"
+      ],
+      "media_source_tweet_id": [
+        "2058827574722376010"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058843146835144710",
+    "created_at": "2026-05-25T09:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058843146835144710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4756147100",
+          "start": 3,
+          "username": "Trainfo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mKT7765gYl",
+          "end": 95,
+          "expanded_url": "https://x.com/Trainfo/status/2058827574722376010/photo/1",
+          "media_key": "3_2058827571543044096",
+          "start": 72,
+          "url": "https://t.co/mKT7765gYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058843146835144710",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058827574722376010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Trainfo: 🟠 異臭騒ぎ：京浜東北線内\n\n京浜東北線\n根岸線\nの利用者は注意\n\n＊4号車と5号車で💩の臭いがする編成があるもよう https://t.co/mKT7765gYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2058827571543044096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJsxKeacAAMuzl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058827571543044096"
+          ],
+          "media_source_tweet_id": [
+            "2058827574722376010"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058843146835144710",
+        "created_at": "2026-05-25T09:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058843146835144710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4756147100",
+              "start": 3,
+              "username": "Trainfo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKT7765gYl",
+              "end": 95,
+              "expanded_url": "https://x.com/Trainfo/status/2058827574722376010/photo/1",
+              "media_key": "3_2058827571543044096",
+              "start": 72,
+              "url": "https://t.co/mKT7765gYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058843146835144710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058827574722376010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Trainfo: 🟠 異臭騒ぎ：京浜東北線内\n\n京浜東北線\n根岸線\nの利用者は注意\n\n＊4号車と5号車で💩の臭いがする編成があるもよう https://t.co/mKT7765gYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058827571543044096"
+          ]
+        },
+        "author_id": "4756147100",
+        "conversation_id": "2058827574722376010",
+        "created_at": "2026-05-25T08:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058827574722376010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKT7765gYl",
+              "end": 82,
+              "expanded_url": "https://x.com/Trainfo/status/2058827574722376010/photo/1",
+              "media_key": "3_2058827571543044096",
+              "start": 59,
+              "url": "https://t.co/mKT7765gYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058827574722376010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3330,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "🟠 異臭騒ぎ：京浜東北線内\n\n京浜東北線\n根岸線\nの利用者は注意\n\n＊4号車と5号車で💩の臭いがする編成があるもよう https://t.co/mKT7765gYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 172,
+          "like_count": 4534,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2234
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-14T03:46:35.000Z",
+        "description": "新幹線や首都圏エリアの鉄道運行情報やニュースを中心に配信しています。フォロワーのみなさまからの情報提供等によって運営されています。配信される運行情報は非公式なもので、実際の運行状況を保証するものではありません。情報提供はLINEまたはDMへ @Trainfo_ALERT @Trainfo_Update",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Trainfo_ALERT"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "Trainfo_Update"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/@tnl022…",
+                "end": 23,
+                "expanded_url": "https://line.me/R/ti/p/@tnl0221p",
+                "start": 0,
+                "url": "https://t.co/ZczTmWv1B7"
+              }
+            ]
+          }
+        },
+        "id": "4756147100",
+        "location": "Trainfo Network",
+        "name": "とれいんふぉ 首都圏エリア",
+        "pinned_tweet_id": "2037818677056418122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1241708854431191043/vth3tfD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107153,
+          "following_count": 69,
+          "like_count": 660,
+          "listed_count": 2605,
+          "media_count": 223298,
+          "tweet_count": 252788
+        },
+        "url": "https://t.co/ZczTmWv1B7",
+        "username": "Trainfo",
+        "verified": true
+      }
+    ]
+  }
+}

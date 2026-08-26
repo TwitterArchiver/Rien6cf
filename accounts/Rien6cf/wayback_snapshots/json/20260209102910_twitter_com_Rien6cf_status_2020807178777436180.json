@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2020724933601472773",
+    "created_at": "2026-02-09T10:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T11:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020807178777436180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1825918631433412608",
+          "start": 0,
+          "username": "eeennki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020807178777436180",
+    "in_reply_to_user_id": "1825918631433412608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020724933601472773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eeennki 我要谈恋爱😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2020724933601472773",
+        "created_at": "2026-02-09T10:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020807178777436180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1825918631433412608",
+              "start": 0,
+              "username": "eeennki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020807178777436180",
+        "in_reply_to_user_id": "1825918631433412608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020724933601472773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eeennki 我要谈恋爱😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825918631433412608",
+        "conversation_id": "2020724933601472773",
+        "created_at": "2026-02-09T05:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020724933601472773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020724933601472773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要谈恋爱😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 55,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 227
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T15:32:01.000Z",
+        "description": "˙𖦹 ⋆꙳ ໑ ᮫࣭ ꩜ ｡⠀ ⠀⠀ ⠀",
+        "id": "1825918631433412608",
+        "name": "enki",
+        "pinned_tweet_id": "1912884811255226399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020140067734339585/E3tNJlCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 231,
+          "like_count": 4513,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 1789
+        },
+        "username": "eeennki",
+        "verified": false
+      }
+    ]
+  }
+}

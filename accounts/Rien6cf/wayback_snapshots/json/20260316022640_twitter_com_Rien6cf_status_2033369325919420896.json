@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2033369151079862452",
+    "created_at": "2026-03-16T02:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033369325919420896"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "府中",
+          "probability": 0.6829,
+          "start": 1,
+          "type": "Place"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033369325919420896",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033369151079862452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "*府中刑務所です"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2033369151079862452",
+        "created_at": "2026-03-16T02:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033369325919420896"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "府中",
+              "probability": 0.6829,
+              "start": 1,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033369325919420896",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033369151079862452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "*府中刑務所です"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2033369151079862452",
+        "created_at": "2026-03-16T02:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033369151079862452"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "東京都府中市晴見町４丁目",
+              "probability": 0.2213,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fusenshi_0/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/fusenshi_0/status/2033061011750793533",
+              "start": 37,
+              "url": "https://t.co/rglvhiPVDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033369151079862452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033061011750793533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私の住所は\n\n〒183-8523 東京都府中市晴見町４丁目１０\n\nです！ https://t.co/rglvhiPVDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 111,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1090
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

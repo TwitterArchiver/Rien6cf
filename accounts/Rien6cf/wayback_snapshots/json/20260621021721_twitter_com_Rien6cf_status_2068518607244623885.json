@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068518607244623885",
+    "created_at": "2026-06-21T02:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068518607244623885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/6kill__/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/6kill__/status/2067928880284119158",
+          "start": 13,
+          "url": "https://t.co/mPEzjvLd8b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068518607244623885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067928880284119158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "メジンコで殺してください https://t.co/mPEzjvLd8b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068518607244623885",
+        "created_at": "2026-06-21T02:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068518607244623885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6kill__/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/6kill__/status/2067928880284119158",
+              "start": 13,
+              "url": "https://t.co/mPEzjvLd8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068518607244623885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067928880284119158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "メジンコで殺してください https://t.co/mPEzjvLd8b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787375260758851584",
+        "conversation_id": "2067928880284119158",
+        "created_at": "2026-06-19T11:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067928880284119158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067928880284119158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 16335,
+          "like_count": 645,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "オーバードーズ一時的には救われるけど使った金の量やいつこの行為を辞められるのかこれでどれだけ頭が悪くなったんだろうと更に悩みの種が増えるからほんとにしない方がいい\nメジコンを飲みました、殺してください！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 191,
+          "like_count": 5940,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2631
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T06:54:13.000Z",
+        "description": "あたしまだ変われない",
+        "id": "1787375260758851584",
+        "name": "︎✦︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046903342736216064/kApgWFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 30,
+          "like_count": 7652,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "6kill__",
+        "verified": false
+      }
+    ]
+  }
+}

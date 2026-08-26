@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418634486766469121",
+          "name": "Folk costume"
+        }
+      }
+    ],
+    "conversation_id": "2078465874303025163",
+    "created_at": "2026-07-18T13:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078465874303025163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "254279848",
+          "start": 3,
+          "username": "denden_fish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078465874303025163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078023081067749749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denden_fish: こうしてアフリカ系の人が着物を着ると、着物の美しさが日本文化という縛りから解放され、まばゆい陽射しの中で思いがけない輝きを放つ。「無国籍の民族衣装」と呼びたくなるような輝き。異文化と交わるということは、深く土地に根差しながらどこにも属さない、一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418634486766469121",
+              "name": "Folk costume"
+            }
+          }
+        ],
+        "conversation_id": "2078465874303025163",
+        "created_at": "2026-07-18T13:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078465874303025163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "254279848",
+              "start": 3,
+              "username": "denden_fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078465874303025163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078023081067749749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denden_fish: こうしてアフリカ系の人が着物を着ると、着物の美しさが日本文化という縛りから解放され、まばゆい陽射しの中で思いがけない輝きを放つ。「無国籍の民族衣装」と呼びたくなるような輝き。異文化と交わるということは、深く土地に根差しながらどこにも属さない、一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "254279848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418634486766469121",
+              "name": "Folk costume"
+            }
+          }
+        ],
+        "conversation_id": "2078023081067749749",
+        "created_at": "2026-07-17T07:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078023081067749749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikaruganji/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/hikaruganji/status/2077313691285144015",
+              "start": 138,
+              "url": "https://t.co/45ds6EDgqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078023081067749749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 116737,
+          "like_count": 2255,
+          "quote_count": 18,
+          "reply_count": 17,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077313691285144015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こうしてアフリカ系の人が着物を着ると、着物の美しさが日本文化という縛りから解放され、まばゆい陽射しの中で思いがけない輝きを放つ。「無国籍の民族衣装」と呼びたくなるような輝き。異文化と交わるということは、深く土地に根差しながらどこにも属さない、一瞬の閃光の美を体験することだ。 https://t.co/45ds6EDgqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 196,
+          "like_count": 8056,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2969
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-19T00:18:10.000Z",
+        "description": "ゆっくり歩き、しばしば立ち止まる。",
+        "id": "254279848",
+        "location": "千葉県",
+        "name": "蝸牛",
+        "pinned_tweet_id": "2044921885973209089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033415627466260480/VpKQQGzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 310,
+          "like_count": 174144,
+          "listed_count": 80,
+          "media_count": 1713,
+          "tweet_count": 13900
+        },
+        "url": "",
+        "username": "denden_fish",
+        "verified": false
+      }
+    ]
+  }
+}

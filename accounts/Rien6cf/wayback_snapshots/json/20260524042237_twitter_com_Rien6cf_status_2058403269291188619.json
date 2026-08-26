@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056557238379249664"
+      ],
+      "media_source_tweet_id": [
+        "2058379960885407827"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058403269291188619",
+    "created_at": "2026-05-24T04:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058403269291188619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1230467258",
+          "start": 3,
+          "username": "Kyoto_Aquarium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1350mvE5cT",
+          "end": 55,
+          "expanded_url": "https://x.com/Kyoto_Aquarium/status/2058379960885407827/photo/1",
+          "media_key": "3_2056557238379249664",
+          "start": 32,
+          "url": "https://t.co/1350mvE5cT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058403269291188619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058379960885407827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyoto_Aquarium: ふわふわな「ヒカル」🦭 https://t.co/1350mvE5cT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3563,
+        "media_key": "3_2056557238379249664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpb6YXagAA7E8B.jpg",
+        "width": 2424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056557238379249664"
+          ],
+          "media_source_tweet_id": [
+            "2058379960885407827"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058403269291188619",
+        "created_at": "2026-05-24T04:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058403269291188619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1230467258",
+              "start": 3,
+              "username": "Kyoto_Aquarium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1350mvE5cT",
+              "end": 55,
+              "expanded_url": "https://x.com/Kyoto_Aquarium/status/2058379960885407827/photo/1",
+              "media_key": "3_2056557238379249664",
+              "start": 32,
+              "url": "https://t.co/1350mvE5cT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058403269291188619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058379960885407827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyoto_Aquarium: ふわふわな「ヒカル」🦭 https://t.co/1350mvE5cT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056557238379249664"
+          ]
+        },
+        "author_id": "1230467258",
+        "conversation_id": "2058379960885407827",
+        "created_at": "2026-05-24T02:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058379960885407827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1350mvE5cT",
+              "end": 35,
+              "expanded_url": "https://x.com/Kyoto_Aquarium/status/2058379960885407827/photo/1",
+              "media_key": "3_2056557238379249664",
+              "start": 12,
+              "url": "https://t.co/1350mvE5cT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058379960885407827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7669,
+          "like_count": 588,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "ふわふわな「ヒカル」🦭 https://t.co/1350mvE5cT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4412,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2203
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-01T17:04:11.000Z",
+        "description": "京都駅から徒歩約15分の位置にある「京都水族館」の公式アカウント🐟✨いきものたちの日常や館内の情報をゆる~くお届けします🐠\n\n動物取扱業に関する表示↓\nhttps://t.co/uQ5MygV9b0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kyoto-aquarium.com/doubutsu/index…",
+                "end": 99,
+                "expanded_url": "https://www.kyoto-aquarium.com/doubutsu/index.html",
+                "start": 76,
+                "url": "https://t.co/uQ5MygV9b0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kyoto-aquarium.com",
+                "end": 23,
+                "expanded_url": "https://www.kyoto-aquarium.com/",
+                "start": 0,
+                "url": "https://t.co/vuvlx7AqKp"
+              }
+            ]
+          }
+        },
+        "id": "1230467258",
+        "location": "京都市下京区観喜寺町35-1（梅小路公園内）",
+        "name": "京都水族館",
+        "pinned_tweet_id": "2056658618691330075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611303143350112256/fXxQxX3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352601,
+          "following_count": 71,
+          "like_count": 546,
+          "listed_count": 3859,
+          "media_count": 5240,
+          "tweet_count": 6357
+        },
+        "url": "https://t.co/vuvlx7AqKp",
+        "username": "Kyoto_Aquarium",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078778253113008128"
+      ],
+      "media_source_tweet_id": [
+        "2078778257345011785"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      }
+    ],
+    "conversation_id": "2078986259096338674",
+    "created_at": "2026-07-19T23:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078986259096338674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055036896120836096",
+          "start": 3,
+          "username": "Datyouodayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V48I48hvge",
+          "end": 65,
+          "expanded_url": "https://x.com/Datyouodayo/status/2078778257345011785/photo/1",
+          "media_key": "3_2078778253113008128",
+          "start": 42,
+          "url": "https://t.co/V48I48hvge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078986259096338674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2420
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078778257345011785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Datyouodayo: 𝜗𝜚꙳.*243cm120kgの食事𝜗𝜚 ⸝⸝꙳ https://t.co/V48I48hvge"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2078778253113008128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlNzq-boAA8JmB.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078778253113008128"
+          ]
+        },
+        "author_id": "2055036896120836096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2078778257345011785",
+        "created_at": "2026-07-19T09:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078778257345011785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V48I48hvge",
+              "end": 48,
+              "expanded_url": "https://x.com/Datyouodayo/status/2078778257345011785/photo/1",
+              "media_key": "3_2078778253113008128",
+              "start": 25,
+              "url": "https://t.co/V48I48hvge"
+            },
+            {
+              "display_url": "x.com/8ng_w/status/2…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/8ng_w/status/2078654266290643306",
+              "start": 49,
+              "url": "https://t.co/A4Rb3HR3RZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078778257345011785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1152,
+          "impression_count": 3241394,
+          "like_count": 58690,
+          "quote_count": 163,
+          "reply_count": 77,
+          "retweet_count": 2417
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078654266290643306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "𝜗𝜚꙳.*243cm120kgの食事𝜗𝜚 ⸝⸝꙳ https://t.co/V48I48hvge https://t.co/A4Rb3HR3RZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078778253113008128"
+          ],
+          "media_source_tweet_id": [
+            "2078778257345011785"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2078986259096338674",
+        "created_at": "2026-07-19T23:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078986259096338674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055036896120836096",
+              "start": 3,
+              "username": "Datyouodayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V48I48hvge",
+              "end": 65,
+              "expanded_url": "https://x.com/Datyouodayo/status/2078778257345011785/photo/1",
+              "media_key": "3_2078778253113008128",
+              "start": 42,
+              "url": "https://t.co/V48I48hvge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078986259096338674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078778257345011785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Datyouodayo: 𝜗𝜚꙳.*243cm120kgの食事𝜗𝜚 ⸝⸝꙳ https://t.co/V48I48hvge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8159,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2985
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T21:26:52.000Z",
+        "description": "［Ostrich］♂ 2004年卵生\nﾌﾞｫ〜〜〜〜🪶💨",
+        "id": "2055036896120836096",
+        "name": "ダチョウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055037299747094528/widFdiYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6672,
+          "following_count": 672,
+          "like_count": 2912,
+          "listed_count": 10,
+          "media_count": 220,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "Datyouodayo",
+        "verified": true
+      }
+    ]
+  }
+}

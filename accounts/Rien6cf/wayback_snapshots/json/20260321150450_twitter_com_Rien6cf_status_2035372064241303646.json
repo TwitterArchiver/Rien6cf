@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035372054703390720"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2035372064241303646",
+    "created_at": "2026-03-21T15:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035372064241303646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5GjVDsZH3",
+          "end": 32,
+          "expanded_url": "https://x.com/Rien6cf/status/2035372064241303646/photo/1",
+          "media_key": "3_2035372054703390720",
+          "start": 9,
+          "url": "https://t.co/S5GjVDsZH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035372064241303646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己紹介はALT https://t.co/S5GjVDsZH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "08／関東/♀／地雷系\n🇨🇳/🇯🇵\n一応病み垢\n絡みをください🥹🥹\nDM○ 通話△",
+        "height": 1536,
+        "media_key": "3_2035372054703390720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8YGZJaQAA5sM2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035372054703390720"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2035372064241303646",
+        "created_at": "2026-03-21T15:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035372064241303646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5GjVDsZH3",
+              "end": 32,
+              "expanded_url": "https://x.com/Rien6cf/status/2035372064241303646/photo/1",
+              "media_key": "3_2035372054703390720",
+              "start": 9,
+              "url": "https://t.co/S5GjVDsZH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035372064241303646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己紹介はALT https://t.co/S5GjVDsZH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 115,
+          "like_count": 1923,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1199
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

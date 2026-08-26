@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2033369151079862452",
+    "created_at": "2026-03-16T02:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033369151079862452"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "東京都府中市晴見町４丁目",
+          "probability": 0.2213,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/fusenshi_0/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/fusenshi_0/status/2033061011750793533",
+          "start": 37,
+          "url": "https://t.co/rglvhiPVDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033369151079862452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033061011750793533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私の住所は\n\n〒183-8523 東京都府中市晴見町４丁目１０\n\nです！ https://t.co/rglvhiPVDy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2033369151079862452",
+        "created_at": "2026-03-16T02:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033369151079862452"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "東京都府中市晴見町４丁目",
+              "probability": 0.2213,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fusenshi_0/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/fusenshi_0/status/2033061011750793533",
+              "start": 37,
+              "url": "https://t.co/rglvhiPVDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033369151079862452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033061011750793533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私の住所は\n\n〒183-8523 東京都府中市晴見町４丁目１０\n\nです！ https://t.co/rglvhiPVDy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855590657915854848",
+        "conversation_id": "2033061011750793533",
+        "created_at": "2026-03-15T06:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033061011750793533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033061011750793533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1878,
+          "impression_count": 1814616,
+          "like_count": 31206,
+          "quote_count": 2508,
+          "reply_count": 0,
+          "retweet_count": 1806
+        },
+        "reply_settings": "following",
+        "text": "晒してはいけないもの tier表\n\nS　本名、住所\nA　素顔\nB　都道府県\nC　誕生日\nD　MBTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 111,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1089
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T12:37:59.000Z",
+        "description": "おやすみのキスはまだ苦い",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mnpsp6ee5rgd56…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/mnpsp6ee5rgd56v?t=YVq2Kq&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/CdWbPWLejd"
+              }
+            ]
+          }
+        },
+        "id": "1855590657915854848",
+        "name": "春が来るよ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032741380351770624/MLNQz4KV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 205,
+          "like_count": 131422,
+          "listed_count": 26,
+          "media_count": 80,
+          "tweet_count": 9627
+        },
+        "url": "https://t.co/CdWbPWLejd",
+        "username": "fusenshi_0",
+        "verified": false
+      }
+    ]
+  }
+}

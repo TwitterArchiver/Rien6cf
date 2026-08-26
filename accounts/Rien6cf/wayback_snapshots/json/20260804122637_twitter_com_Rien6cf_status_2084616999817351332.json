@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084552740135710720"
+      ],
+      "media_source_tweet_id": [
+        "2084552744111951876"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2084616999817351332",
+    "created_at": "2026-08-04T12:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084616999817351332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1458616645078126597",
+          "start": 3,
+          "username": "bad_texter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FMEZgWOhJC",
+          "end": 51,
+          "expanded_url": "https://x.com/bad_texter/status/2084552744111951876/photo/1",
+          "media_key": "3_2084552740135710720",
+          "start": 28,
+          "url": "https://t.co/FMEZgWOhJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084616999817351332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084552744111951876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bad_texter: 父との初めてのLINE https://t.co/FMEZgWOhJC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2084552740135710720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3RrDdbMAAv-Bn.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084552740135710720"
+          ]
+        },
+        "author_id": "1458616645078126597",
+        "conversation_id": "2084552744111951876",
+        "created_at": "2026-08-04T08:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084552744111951876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMEZgWOhJC",
+              "end": 35,
+              "expanded_url": "https://x.com/bad_texter/status/2084552744111951876/photo/1",
+              "media_key": "3_2084552740135710720",
+              "start": 12,
+              "url": "https://t.co/FMEZgWOhJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084552744111951876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 178015,
+          "like_count": 3127,
+          "quote_count": 13,
+          "reply_count": 19,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "父との初めてのLINE https://t.co/FMEZgWOhJC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084552740135710720"
+          ],
+          "media_source_tweet_id": [
+            "2084552744111951876"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2084616999817351332",
+        "created_at": "2026-08-04T12:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084616999817351332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1458616645078126597",
+              "start": 3,
+              "username": "bad_texter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMEZgWOhJC",
+              "end": 51,
+              "expanded_url": "https://x.com/bad_texter/status/2084552744111951876/photo/1",
+              "media_key": "3_2084552740135710720",
+              "start": 28,
+              "url": "https://t.co/FMEZgWOhJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084616999817351332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084552744111951876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bad_texter: 父との初めてのLINE https://t.co/FMEZgWOhJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 208,
+          "like_count": 9197,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3269
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-11T02:04:51.000Z",
+        "description": "Communication Breakdown. https://t.co/3UJXIWkMqD  お問合せ:communication.breakdown.japan@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/KWmxsQSzQag",
+                "end": 48,
+                "expanded_url": "https://youtu.be/KWmxsQSzQag",
+                "start": 25,
+                "url": "https://t.co/3UJXIWkMqD"
+              }
+            ]
+          }
+        },
+        "id": "1458616645078126597",
+        "name": "会話",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458619463805595648/m1Gx3UUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461507,
+          "following_count": 52,
+          "like_count": 6934,
+          "listed_count": 1137,
+          "media_count": 8009,
+          "tweet_count": 8518
+        },
+        "url": "",
+        "username": "bad_texter",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068874528248467501",
+    "created_at": "2026-06-22T02:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068878162239648090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961830904911007745",
+          "start": 0,
+          "username": "kaei1974607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068878162239648090",
+    "in_reply_to_user_id": "1961830904911007745",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068874528248467501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaei1974607 💍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2068874524171636736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYeaxobEAAWTU3.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068874528248467501",
+        "created_at": "2026-06-22T02:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068878162239648090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961830904911007745",
+              "start": 0,
+              "username": "kaei1974607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068878162239648090",
+        "in_reply_to_user_id": "1961830904911007745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068874528248467501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaei1974607 💍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068874524171636736"
+          ]
+        },
+        "author_id": "1961830904911007745",
+        "conversation_id": "2068874528248467501",
+        "created_at": "2026-06-22T01:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068874528248467501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/woAFFJ9CPw",
+              "end": 23,
+              "expanded_url": "https://x.com/kaei1974607/status/2068874528248467501/photo/1",
+              "media_key": "3_2068874524171636736",
+              "start": 0,
+              "url": "https://t.co/woAFFJ9CPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068874528248467501",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/woAFFJ9CPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "頑張ってるよ",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 190,
+          "like_count": 6019,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2642
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T16:45:30.000Z",
+        "description": "07♀︎都内｜DMください",
+        "id": "1961830904911007745",
+        "location": "♡",
+        "name": "🌪",
+        "pinned_tweet_id": "2039368825968443413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068269810002378752/SLEm44oI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 84,
+          "like_count": 3269,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "kaei1974607",
+        "verified": false
+      }
+    ]
+  }
+}

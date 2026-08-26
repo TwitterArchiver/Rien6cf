@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066666879599648950",
+    "created_at": "2026-06-15T23:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066666879599648950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1545328278160154624",
+          "start": 3,
+          "username": "adhdkorean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066666879599648950",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066496802996748319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adhdkorean: 내 기준 싸이코패스\n\n1. 알람1개맞추고 자는사람\n2. 여행갔다오자마자 캐리어정리하는사람\n3. 모든 옷을 옷걸이에만 거는사람\n4. 아무것도안들으면서 유산소하는사람\n5. 밥먹고바로설거지하는사람"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066666879599648950",
+        "created_at": "2026-06-15T23:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066666879599648950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1545328278160154624",
+              "start": 3,
+              "username": "adhdkorean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066666879599648950",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066496802996748319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adhdkorean: 내 기준 싸이코패스\n\n1. 알람1개맞추고 자는사람\n2. 여행갔다오자마자 캐리어정리하는사람\n3. 모든 옷을 옷걸이에만 거는사람\n4. 아무것도안들으면서 유산소하는사람\n5. 밥먹고바로설거지하는사람"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545328278160154624",
+        "conversation_id": "2066496802996748319",
+        "created_at": "2026-06-15T12:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066496802996748319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066496802996748319",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1105,
+          "impression_count": 778562,
+          "like_count": 14181,
+          "quote_count": 2874,
+          "reply_count": 66,
+          "retweet_count": 3283
+        },
+        "reply_settings": "everyone",
+        "text": "내 기준 싸이코패스\n\n1. 알람1개맞추고 자는사람\n2. 여행갔다오자마자 캐리어정리하는사람\n3. 모든 옷을 옷걸이에만 거는사람\n4. 아무것도안들으면서 유산소하는사람\n5. 밥먹고바로설거지하는사람"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 187,
+          "like_count": 5781,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2604
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T08:45:55.000Z",
+        "description": "곧 저의 책이 나옵니다",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "brunch.co.kr/@agua/2",
+                "end": 23,
+                "expanded_url": "https://brunch.co.kr/@agua/2",
+                "start": 0,
+                "url": "https://t.co/0NYEqIQMGc"
+              }
+            ]
+          }
+        },
+        "id": "1545328278160154624",
+        "location": "peauu@naver.com",
+        "name": "뿍이(반혜린)",
+        "pinned_tweet_id": "1964516842766291430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939828218120617984/Yw_jI_3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40418,
+          "following_count": 762,
+          "like_count": 58650,
+          "listed_count": 54,
+          "media_count": 1155,
+          "tweet_count": 11848
+        },
+        "url": "https://t.co/0NYEqIQMGc",
+        "username": "adhdkorean",
+        "verified": true
+      }
+    ]
+  }
+}

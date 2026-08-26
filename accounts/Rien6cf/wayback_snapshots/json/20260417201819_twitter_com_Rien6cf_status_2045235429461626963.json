@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2045181629258449018",
+    "created_at": "2026-04-17T20:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045235429461626963"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045235429461626963",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045181629258449018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇我那个时候还想吃晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2045181629258449018",
+        "created_at": "2026-04-17T20:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045235429461626963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045235429461626963",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045181629258449018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇我那个时候还想吃晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2045181629258449018",
+        "created_at": "2026-04-17T16:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045181629258449018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045181629258449018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去年在kdj放学的时候爱听大家的默示录，我前世就叫这个…空气闷闷的很压抑，潮湿的热气，积雨云也是一团一团地堆在学校对面日本大学的教学楼上，校服衬衫不透气搞得我一身汗…我是那个时候接触od的满脑子都是优米什么的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 141,
+          "like_count": 2790,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1647
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2064302074964345131",
+    "created_at": "2026-06-09T22:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T23:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064474219589824706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023729444276629505",
+          "start": 0,
+          "username": "konuno_kuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064474219589824706",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064302074964345131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konuno_kuzu \n1.呼び方：こぬのさん\n2.ガチの本音： 年上だと思ってた\n3.ブロックされたら？： 反省する\n4.好感度： 70／100\n5.身内にするなら： お姉さん\n6.通話できるか： たぶん\n7.リアルで会えるか： たぶん\n8.LINE交換できるか：もう少し仲良くなったら\n9.彼氏彼女いそうか∶いないかな(ごめん"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2064302074964345131",
+        "created_at": "2026-06-09T22:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064474219589824706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023729444276629505",
+              "start": 0,
+              "username": "konuno_kuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064474219589824706",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064302074964345131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konuno_kuzu \n1.呼び方：こぬのさん\n2.ガチの本音： 年上だと思ってた\n3.ブロックされたら？： 反省する\n4.好感度： 70／100\n5.身内にするなら： お姉さん\n6.通話できるか： たぶん\n7.リアルで会えるか： たぶん\n8.LINE交換できるか：もう少し仲良くなったら\n9.彼氏彼女いそうか∶いないかな(ごめん"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2064302074964345131",
+        "created_at": "2026-06-09T11:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064302074964345131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "いいねでやる"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064302074964345131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#いいねでやる\n\n1.呼び方：\n2.ガチの本音： \n3.ブロックされたら？： \n4.好感度： \n5.身内にするなら： \n6.通話できるか： \n7.リアルで会えるか： \n8.LINE交換できるか： \n9.彼氏彼女いそうか∶ \n10.このツイやる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5377,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2504
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T12:01:56.000Z",
+        "description": "お荷物ガイジ︎ ︎ ︎ ︎🗝@konuno_sub  避難@konuno_hinan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "konuno_sub"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "konuno_hinan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/qvg8kxcocpbvrf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/qvg8kxcocpbvrfo?t=7PGb0B&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/n9YIYdh4gz"
+              }
+            ]
+          }
+        },
+        "id": "2023729444276629505",
+        "name": "こぬの",
+        "pinned_tweet_id": "2043254096040444346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024031728999059456/xH_qAVoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 154,
+          "like_count": 11034,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 2749
+        },
+        "url": "https://t.co/n9YIYdh4gz",
+        "username": "konuno_kuzu",
+        "verified": false
+      }
+    ]
+  }
+}

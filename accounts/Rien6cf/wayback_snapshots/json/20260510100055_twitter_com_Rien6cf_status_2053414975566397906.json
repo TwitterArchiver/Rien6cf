@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050995931617857536"
+      ],
+      "media_source_tweet_id": [
+        "2053414743830864218"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2053414975566397906",
+    "created_at": "2026-05-10T10:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053414975566397906"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "MILGRAM"
+        },
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "ミルグラム"
+        },
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "尋問_囚人番号007番"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1210104214262693889",
+          "start": 3,
+          "username": "MILGRAM_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YLN8SKmmXj",
+          "end": 70,
+          "expanded_url": "https://x.com/MILGRAM_info/status/2053414743830864218/photo/1",
+          "media_key": "3_2050995931617857536",
+          "start": 47,
+          "url": "https://t.co/YLN8SKmmXj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053414975566397906",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053414743830864218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MILGRAM_info: #MILGRAM #ミルグラム #尋問_囚人番号007番 https://t.co/YLN8SKmmXj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2050995931617857536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHaZ7uPakAAc0ms.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050995931617857536"
+          ],
+          "media_source_tweet_id": [
+            "2053414743830864218"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2053414975566397906",
+        "created_at": "2026-05-10T10:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053414975566397906"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "MILGRAM"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "ミルグラム"
+            },
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "尋問_囚人番号007番"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1210104214262693889",
+              "start": 3,
+              "username": "MILGRAM_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLN8SKmmXj",
+              "end": 70,
+              "expanded_url": "https://x.com/MILGRAM_info/status/2053414743830864218/photo/1",
+              "media_key": "3_2050995931617857536",
+              "start": 47,
+              "url": "https://t.co/YLN8SKmmXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053414975566397906",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053414743830864218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MILGRAM_info: #MILGRAM #ミルグラム #尋問_囚人番号007番 https://t.co/YLN8SKmmXj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050995931617857536"
+          ]
+        },
+        "author_id": "1210104214262693889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2053414743830864218",
+        "created_at": "2026-05-10T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053414743830864218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "MILGRAM"
+            },
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "ミルグラム"
+            },
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "尋問_囚人番号007番"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLN8SKmmXj",
+              "end": 52,
+              "expanded_url": "https://x.com/MILGRAM_info/status/2053414743830864218/photo/1",
+              "media_key": "3_2050995931617857536",
+              "start": 29,
+              "url": "https://t.co/YLN8SKmmXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053414743830864218",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 462,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "#MILGRAM #ミルグラム #尋問_囚人番号007番 https://t.co/YLN8SKmmXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3645,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1951
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-26T07:45:13.000Z",
+        "description": "DECO*27×山中拓也×OTOIROが送る\n「音楽による裁判員制度」視聴者参加型楽曲プロジェクト \n\n■公式HP→https://t.co/yjfsdjLPkz \n■公式購買所→https://t.co/Lwe7aAXaA9\n■公式ファンアプリ→https://t.co/XZPHYL3s2s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "milgram.jp",
+                "end": 81,
+                "expanded_url": "http://milgram.jp",
+                "start": 58,
+                "url": "https://t.co/yjfsdjLPkz"
+              },
+              {
+                "display_url": "amnibus.com/official_shop/…",
+                "end": 113,
+                "expanded_url": "https://amnibus.com/official_shop/milgram",
+                "start": 90,
+                "url": "https://t.co/Lwe7aAXaA9"
+              },
+              {
+                "display_url": "c-rayon.com/milgram/",
+                "end": 147,
+                "expanded_url": "http://c-rayon.com/milgram/",
+                "start": 124,
+                "url": "https://t.co/XZPHYL3s2s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/MilgramOffic…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/MilgramOfficial",
+                "start": 0,
+                "url": "https://t.co/4wigvrHq1J"
+              }
+            ]
+          }
+        },
+        "id": "1210104214262693889",
+        "name": "MILGRAM -ミルグラム- 公式",
+        "pinned_tweet_id": "2034208192876716433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889615651494567936/YHamz9ug_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186578,
+          "following_count": 31,
+          "like_count": 3,
+          "listed_count": 378,
+          "media_count": 1645,
+          "tweet_count": 3222
+        },
+        "url": "https://t.co/4wigvrHq1J",
+        "username": "MILGRAM_info",
+        "verified": false
+      }
+    ]
+  }
+}

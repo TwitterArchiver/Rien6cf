@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064545704513830999",
+    "created_at": "2026-06-10T03:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064545704513830999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1391388714413150210",
+          "start": 3,
+          "username": "seojihwan7583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064545704513830999",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1908
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064302321555878128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @seojihwan7583: 술 먹고 실수로 섹스하는 사람은 있어도\n술 먹고 실수로 토익 공부하는 사람은 없잖아\n토익이 그 정도로 개새끼인 거지"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064545704513830999",
+        "created_at": "2026-06-10T03:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064545704513830999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1391388714413150210",
+              "start": 3,
+              "username": "seojihwan7583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064545704513830999",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1908
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064302321555878128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @seojihwan7583: 술 먹고 실수로 섹스하는 사람은 있어도\n술 먹고 실수로 토익 공부하는 사람은 없잖아\n토익이 그 정도로 개새끼인 거지"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391388714413150210",
+        "conversation_id": "2064302321555878128",
+        "created_at": "2026-06-09T11:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064302321555878128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064302321555878128",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 133964,
+          "like_count": 4788,
+          "quote_count": 190,
+          "reply_count": 0,
+          "retweet_count": 1908
+        },
+        "reply_settings": "following",
+        "text": "술 먹고 실수로 섹스하는 사람은 있어도\n술 먹고 실수로 토익 공부하는 사람은 없잖아\n토익이 그 정도로 개새끼인 거지"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5382,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2510
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-09T13:45:08.000Z",
+        "description": "그건 선생님 마음 가는대로 하실일이지 저한테 결정을 맡기시면 안되죠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/seojihwan",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/seojihwan",
+                "start": 0,
+                "url": "https://t.co/oRkjwtLQkQ"
+              }
+            ]
+          }
+        },
+        "id": "1391388714413150210",
+        "name": "서지환",
+        "pinned_tweet_id": "2053378751338266850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019387102677680129/cSRwe-6w_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 98,
+          "like_count": 53788,
+          "listed_count": 1,
+          "media_count": 2569,
+          "tweet_count": 19225
+        },
+        "url": "https://t.co/oRkjwtLQkQ",
+        "username": "seojihwan7583",
+        "verified": false
+      }
+    ]
+  }
+}

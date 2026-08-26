@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018441403123347456"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2018441409003733380",
+    "created_at": "2026-02-02T21:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T22:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018441409003733380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kh5Rxt3HOe",
+          "end": 25,
+          "expanded_url": "https://x.com/Rien6cf/status/2018441409003733380/photo/1",
+          "media_key": "3_2018441403123347456",
+          "start": 2,
+          "url": "https://t.co/kh5Rxt3HOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018441409003733380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咪 https://t.co/kh5Rxt3HOe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2018441403123347456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALxwxEbsAAZD2U.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018441403123347456"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2018441409003733380",
+        "created_at": "2026-02-02T21:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T22:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018441409003733380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kh5Rxt3HOe",
+              "end": 25,
+              "expanded_url": "https://x.com/Rien6cf/status/2018441409003733380/photo/1",
+              "media_key": "3_2018441403123347456",
+              "start": 2,
+              "url": "https://t.co/kh5Rxt3HOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018441409003733380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪 https://t.co/kh5Rxt3HOe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 经常性无言fo  前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 45,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 93
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

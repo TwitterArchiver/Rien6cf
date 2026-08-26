@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076941543609683968"
+      ],
+      "media_source_tweet_id": [
+        "2076941548504457346"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2076969619202736182",
+    "created_at": "2026-07-14T09:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076969619202736182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944413124775591936",
+          "start": 3,
+          "username": "hana_inusuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tDxbX6ltFk",
+          "end": 78,
+          "expanded_url": "https://x.com/hana_inusuki/status/2076941548504457346/photo/1",
+          "media_key": "3_2076941543609683968",
+          "start": 55,
+          "url": "https://t.co/tDxbX6ltFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076969619202736182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076941548504457346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hana_inusuki: 真夢ちゃんのストーリーで爆笑してるwwwwwwいい加減にしてwwwwww https://t.co/tDxbX6ltFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2014,
+        "media_key": "3_2076941543609683968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLHVG4bUAAmAem.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076941543609683968"
+          ],
+          "media_source_tweet_id": [
+            "2076941548504457346"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2076969619202736182",
+        "created_at": "2026-07-14T09:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076969619202736182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944413124775591936",
+              "start": 3,
+              "username": "hana_inusuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDxbX6ltFk",
+              "end": 78,
+              "expanded_url": "https://x.com/hana_inusuki/status/2076941548504457346/photo/1",
+              "media_key": "3_2076941543609683968",
+              "start": 55,
+              "url": "https://t.co/tDxbX6ltFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076969619202736182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076941548504457346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hana_inusuki: 真夢ちゃんのストーリーで爆笑してるwwwwwwいい加減にしてwwwwww https://t.co/tDxbX6ltFk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076941543609683968"
+          ]
+        },
+        "author_id": "1944413124775591936",
+        "conversation_id": "2076941548504457346",
+        "created_at": "2026-07-14T08:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076941548504457346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDxbX6ltFk",
+              "end": 60,
+              "expanded_url": "https://x.com/hana_inusuki/status/2076941548504457346/photo/1",
+              "media_key": "3_2076941543609683968",
+              "start": 37,
+              "url": "https://t.co/tDxbX6ltFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076941548504457346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 39937,
+          "like_count": 2467,
+          "quote_count": 18,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "真夢ちゃんのストーリーで爆笑してるwwwwwwいい加減にしてwwwwww https://t.co/tDxbX6ltFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 195,
+          "like_count": 7850,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2937
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:06:37.000Z",
+        "description": "生きた証を残そう そうだインターネットに投稿だ",
+        "id": "1944413124775591936",
+        "name": "は な",
+        "pinned_tweet_id": "2059456923087577518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959870210678415360/6lc0pdKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 148,
+          "like_count": 98838,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 1360
+        },
+        "url": "",
+        "username": "hana_inusuki",
+        "verified": false
+      }
+    ]
+  }
+}

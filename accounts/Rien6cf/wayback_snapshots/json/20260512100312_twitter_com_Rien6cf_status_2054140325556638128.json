@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053850909155979266"
+      ],
+      "media_source_tweet_id": [
+        "2053850921533374668"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054140325556638128",
+    "created_at": "2026-05-12T10:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054140325556638128"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "04_m"
+        },
+        {
+          "end": 40,
+          "start": 29,
+          "tag": "milgram_fa"
+        },
+        {
+          "end": 54,
+          "start": 42,
+          "tag": "ミルグラムファンアート"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1239802337297698816",
+          "start": 3,
+          "username": "I1zcJZ0147xgQgv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9HZ7yu6yCS",
+          "end": 78,
+          "expanded_url": "https://x.com/I1zcJZ0147xgQgv/status/2053850921533374668/photo/1",
+          "media_key": "3_2053850909155979266",
+          "start": 55,
+          "url": "https://t.co/9HZ7yu6yCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054140325556638128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 436
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053850921533374668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @I1zcJZ0147xgQgv: #04_m  \n#milgram_fa \n#ミルグラムファンアート https://t.co/9HZ7yu6yCS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053850909155979266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC-hSXa8AIqeHH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053850909155979266"
+          ],
+          "media_source_tweet_id": [
+            "2053850921533374668"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054140325556638128",
+        "created_at": "2026-05-12T10:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054140325556638128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "04_m"
+            },
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "milgram_fa"
+            },
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "ミルグラムファンアート"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1239802337297698816",
+              "start": 3,
+              "username": "I1zcJZ0147xgQgv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HZ7yu6yCS",
+              "end": 78,
+              "expanded_url": "https://x.com/I1zcJZ0147xgQgv/status/2053850921533374668/photo/1",
+              "media_key": "3_2053850909155979266",
+              "start": 55,
+              "url": "https://t.co/9HZ7yu6yCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054140325556638128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 436
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053850921533374668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @I1zcJZ0147xgQgv: #04_m  \n#milgram_fa \n#ミルグラムファンアート https://t.co/9HZ7yu6yCS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053850909155979266"
+          ]
+        },
+        "author_id": "1239802337297698816",
+        "conversation_id": "2053850921533374668",
+        "created_at": "2026-05-11T14:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053850921533374668"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "04_m"
+            },
+            {
+              "end": 19,
+              "start": 8,
+              "tag": "milgram_fa"
+            },
+            {
+              "end": 33,
+              "start": 21,
+              "tag": "ミルグラムファンアート"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HZ7yu6yCS",
+              "end": 57,
+              "expanded_url": "https://x.com/I1zcJZ0147xgQgv/status/2053850921533374668/photo/1",
+              "media_key": "3_2053850909155979266",
+              "start": 34,
+              "url": "https://t.co/9HZ7yu6yCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053850921533374668",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 12385,
+          "like_count": 1791,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 436
+        },
+        "reply_settings": "everyone",
+        "text": "#04_m  \n#milgram_fa \n#ミルグラムファンアート https://t.co/9HZ7yu6yCS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 171,
+          "like_count": 3805,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1995
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T06:35:05.000Z",
+        "description": "19，死球p厨 /鬼白/阴阳师ip/杂食 低浮上",
+        "id": "1239802337297698816",
+        "location": "ai学习禁止❌私自使用OK",
+        "name": "千夜一夜千日手",
+        "pinned_tweet_id": "2025601037298733141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047572320957632512/IAUHQMwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 143,
+          "like_count": 301,
+          "listed_count": 7,
+          "media_count": 29,
+          "tweet_count": 111
+        },
+        "username": "I1zcJZ0147xgQgv",
+        "verified": false
+      }
+    ]
+  }
+}

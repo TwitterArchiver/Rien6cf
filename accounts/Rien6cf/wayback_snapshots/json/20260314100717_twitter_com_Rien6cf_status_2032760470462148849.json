@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032760470462148849",
+    "created_at": "2026-03-14T10:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032760470462148849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/victorique2/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/victorique2/status/2032683633878904993",
+          "start": 5,
+          "url": "https://t.co/zjEUCiopWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032760470462148849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032683633878904993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "活不起了 https://t.co/zjEUCiopWt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2032683626245304320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWK_QsasAAxLHX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2032683626224336896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWK_QnawAAh5i4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032760470462148849",
+        "created_at": "2026-03-14T10:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032760470462148849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/victorique2/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/victorique2/status/2032683633878904993",
+              "start": 5,
+              "url": "https://t.co/zjEUCiopWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032760470462148849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032683633878904993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活不起了 https://t.co/zjEUCiopWt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032683626245304320",
+            "3_2032683626224336896"
+          ]
+        },
+        "author_id": "273308242",
+        "conversation_id": "2032683633878904993",
+        "created_at": "2026-03-14T05:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032683633878904993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbEYyKsDz8",
+              "end": 54,
+              "expanded_url": "https://x.com/victorique2/status/2032683633878904993/photo/1",
+              "media_key": "3_2032683626245304320",
+              "start": 31,
+              "url": "https://t.co/IbEYyKsDz8"
+            },
+            {
+              "display_url": "pic.x.com/IbEYyKsDz8",
+              "end": 54,
+              "expanded_url": "https://x.com/victorique2/status/2032683633878904993/photo/1",
+              "media_key": "3_2032683626224336896",
+              "start": 31,
+              "url": "https://t.co/IbEYyKsDz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032683633878904993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 19988,
+          "like_count": 282,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "田町発のJRの運賃\n←昨日3/13　　　　　　今日3/14→ https://t.co/IbEYyKsDz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 109,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1058
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-28T07:11:11.000Z",
+        "description": "写真の通り小田急沿線に住んでます。たまに昔の動画とかUPしたりどうでもいいこと呟いたりします。フォローしてくれた方にはなるべくフォローバックします。",
+        "id": "273308242",
+        "name": "マクビー",
+        "pinned_tweet_id": "2032414181740490790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1001154565335498752/CwG9-Stp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 2149,
+          "like_count": 113419,
+          "listed_count": 71,
+          "media_count": 11074,
+          "tweet_count": 80211
+        },
+        "username": "victorique2",
+        "verified": false
+      }
+    ]
+  }
+}

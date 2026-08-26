@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029134662065635333",
+        "3_2029135891743293443"
+      ],
+      "media_source_tweet_id": [
+        "2029135909422325937",
+        "2029135909422325937"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029178639099789724",
+    "created_at": "2026-03-04T12:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029178639099789724"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "品川駅",
+          "probability": 0.8066,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1297514209228406785",
+          "start": 3,
+          "username": "iwgp_mazesoba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5rd9wsCTlE",
+          "end": 61,
+          "expanded_url": "https://x.com/iwgp_mazesoba/status/2029135909422325937/video/1",
+          "media_key": "13_2029134662065635333",
+          "start": 38,
+          "url": "https://t.co/5rd9wsCTlE"
+        },
+        {
+          "display_url": "pic.x.com/5rd9wsCTlE",
+          "end": 61,
+          "expanded_url": "https://x.com/iwgp_mazesoba/status/2029135909422325937/video/1",
+          "media_key": "3_2029135891743293443",
+          "start": 38,
+          "url": "https://t.co/5rd9wsCTlE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029178639099789724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029135909422325937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iwgp_mazesoba: 夜に品川駅でiLiFE特典会やるなよ https://t.co/5rd9wsCTlE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8503,
+        "height": 1920,
+        "media_key": "13_2029134662065635333",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029134662065635333/img/ezJzjxuDc89k8kGc.jpg",
+        "public_metrics": {
+          "view_count": 8519
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029134662065635333/vid/avc1/320x568/MKQHQ1L95LYHsQoR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029134662065635333/vid/avc1/480x852/cidV9x1wCQajlCrU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029134662065635333/vid/avc1/720x1280/AHFOIHVh00gWToXx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029134662065635333/vid/avc1/1080x1920/yW9RKtvcIFI5qm8H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029134662065635333/pl/aGqll8bcWQBlgKmf.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029135891743293443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjwV7xawAMTcvD.jpg",
+        "width": 1941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029134662065635333",
+            "3_2029135891743293443"
+          ],
+          "media_source_tweet_id": [
+            "2029135909422325937",
+            "2029135909422325937"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029178639099789724",
+        "created_at": "2026-03-04T12:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029178639099789724"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "品川駅",
+              "probability": 0.8066,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1297514209228406785",
+              "start": 3,
+              "username": "iwgp_mazesoba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rd9wsCTlE",
+              "end": 61,
+              "expanded_url": "https://x.com/iwgp_mazesoba/status/2029135909422325937/video/1",
+              "media_key": "13_2029134662065635333",
+              "start": 38,
+              "url": "https://t.co/5rd9wsCTlE"
+            },
+            {
+              "display_url": "pic.x.com/5rd9wsCTlE",
+              "end": 61,
+              "expanded_url": "https://x.com/iwgp_mazesoba/status/2029135909422325937/video/1",
+              "media_key": "3_2029135891743293443",
+              "start": 38,
+              "url": "https://t.co/5rd9wsCTlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029178639099789724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029135909422325937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iwgp_mazesoba: 夜に品川駅でiLiFE特典会やるなよ https://t.co/5rd9wsCTlE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029134662065635333",
+            "3_2029135891743293443"
+          ]
+        },
+        "author_id": "1297514209228406785",
+        "conversation_id": "2029135909422325937",
+        "created_at": "2026-03-04T10:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:01:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029135051745857980",
+          "2029135909422325937"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "品川駅",
+              "probability": 0.8097,
+              "start": 2,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rd9wsCTlE",
+              "end": 42,
+              "expanded_url": "https://x.com/iwgp_mazesoba/status/2029135909422325937/video/1",
+              "media_key": "13_2029134662065635333",
+              "start": 19,
+              "url": "https://t.co/5rd9wsCTlE"
+            },
+            {
+              "display_url": "pic.x.com/5rd9wsCTlE",
+              "end": 42,
+              "expanded_url": "https://x.com/iwgp_mazesoba/status/2029135909422325937/video/1",
+              "media_key": "3_2029135891743293443",
+              "start": 19,
+              "url": "https://t.co/5rd9wsCTlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029135909422325937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 30390,
+          "like_count": 423,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "夜に品川駅でiLiFE特典会やるなよ https://t.co/5rd9wsCTlE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 100,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 738
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T12:41:29.000Z",
+        "description": "へなぎ忖度界隈、身内ノリ根絶委員会会長、ラスカルを破壊する使者、さかまる下位互換https://t.co/pLaFbOiHBQ サブ垢@chikaidol_baka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "chikaidol_baka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiktok.com/@ryouhae",
+                "end": 63,
+                "expanded_url": "http://tiktok.com/@ryouhae",
+                "start": 40,
+                "url": "https://t.co/pLaFbOiHBQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/iwgp_mazesoba",
+                "end": 23,
+                "expanded_url": "http://instagram.com/iwgp_mazesoba",
+                "start": 0,
+                "url": "https://t.co/CEZwSS8xJr"
+              }
+            ]
+          }
+        },
+        "id": "1297514209228406785",
+        "location": "仁科茉彩の乳",
+        "name": "賄賂そのもの",
+        "pinned_tweet_id": "1996169414379819190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028437522351898624/nPIRuEN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36393,
+          "following_count": 14850,
+          "like_count": 1490861,
+          "listed_count": 137,
+          "media_count": 20490,
+          "tweet_count": 57997
+        },
+        "url": "https://t.co/CEZwSS8xJr",
+        "username": "iwgp_mazesoba",
+        "verified": true
+      }
+    ]
+  }
+}

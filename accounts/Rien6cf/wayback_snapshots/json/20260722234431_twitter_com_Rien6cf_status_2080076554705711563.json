@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047299100",
+          "name": "なんで、こんな人生に?"
+        }
+      }
+    ],
+    "conversation_id": "2080076554705711563",
+    "created_at": "2026-07-22T23:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080076554705711563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735837038262505472",
+          "start": 3,
+          "username": "EfDoXkl54525002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080076554705711563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3853
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079873229435670628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EfDoXkl54525002: 今年見たコミュニティノートで一番おもろい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047299100",
+              "name": "なんで、こんな人生に?"
+            }
+          }
+        ],
+        "conversation_id": "2080076554705711563",
+        "created_at": "2026-07-22T23:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080076554705711563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1735837038262505472",
+              "start": 3,
+              "username": "EfDoXkl54525002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080076554705711563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3853
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079873229435670628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EfDoXkl54525002: 今年見たコミュニティノートで一番おもろい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735837038262505472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047299100",
+              "name": "なんで、こんな人生に?"
+            }
+          }
+        ],
+        "conversation_id": "2079873229435670628",
+        "created_at": "2026-07-22T10:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079873229435670628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Djtumayouji/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Djtumayouji/status/2078018631146102922",
+              "start": 21,
+              "url": "https://t.co/2YWe3DHHzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079873229435670628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1518,
+          "impression_count": 2009957,
+          "like_count": 45566,
+          "quote_count": 49,
+          "reply_count": 73,
+          "retweet_count": 3854
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078018631146102922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今年見たコミュニティノートで一番おもろい https://t.co/2YWe3DHHzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 201,
+          "like_count": 8428,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3048
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T01:39:54.000Z",
+        "description": "音MAD、YTPMV、その他変な動画\n鍵：@Qotomad\n音FA：#音FAQ\nディスコード：jupita0322\n質問：https://t.co/2DZ0FMuMCq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "音FAQ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "Qotomad"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/at0gtbajht9ov6c",
+                "end": 84,
+                "expanded_url": "https://marshmallow-qa.com/at0gtbajht9ov6c",
+                "start": 61,
+                "url": "https://t.co/2DZ0FMuMCq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/129247774",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/129247774",
+                "start": 0,
+                "url": "https://t.co/an0KqG8ESj"
+              }
+            ]
+          }
+        },
+        "id": "1735837038262505472",
+        "location": "アイコン：@apoQulyps_245",
+        "name": "じゅぴたあ",
+        "pinned_tweet_id": "2073784041955017139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077353741955878912/vNsanW6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3452,
+          "following_count": 3037,
+          "like_count": 162575,
+          "listed_count": 15,
+          "media_count": 5043,
+          "tweet_count": 74113
+        },
+        "url": "https://t.co/an0KqG8ESj",
+        "username": "EfDoXkl54525002",
+        "verified": false
+      }
+    ]
+  }
+}

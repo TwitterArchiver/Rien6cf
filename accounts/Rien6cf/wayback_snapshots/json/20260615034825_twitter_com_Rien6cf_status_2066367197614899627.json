@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066367197614899627",
+    "created_at": "2026-06-15T03:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066367197614899627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015064584810610688",
+          "start": 3,
+          "username": "iatinihs123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066367197614899627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066074088913920366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iatinihs123: 自殺を成功させている人が羨ましい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066367197614899627",
+        "created_at": "2026-06-15T03:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066367197614899627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015064584810610688",
+              "start": 3,
+              "username": "iatinihs123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066367197614899627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2319
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066074088913920366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iatinihs123: 自殺を成功させている人が羨ましい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015064584810610688",
+        "conversation_id": "2066074088913920366",
+        "created_at": "2026-06-14T08:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066074088913920366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066074088913920366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 118631,
+          "like_count": 8410,
+          "quote_count": 32,
+          "reply_count": 38,
+          "retweet_count": 2319
+        },
+        "reply_settings": "everyone",
+        "text": "自殺を成功させている人が羨ましい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 5745,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2596
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T14:14:09.000Z",
+        "description": "。",
+        "id": "2015064584810610688",
+        "name": "糞野郎",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 216,
+          "like_count": 9363,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 1194
+        },
+        "username": "iatinihs123",
+        "verified": false
+      }
+    ]
+  }
+}

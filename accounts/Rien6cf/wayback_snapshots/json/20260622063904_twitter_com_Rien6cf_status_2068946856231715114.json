@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1984735117521100800"
+      ],
+      "media_source_tweet_id": [
+        "1984735221921497226"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068946856231715114",
+    "created_at": "2026-06-22T06:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068946856231715114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1085338453665996800",
+          "start": 3,
+          "username": "MasayukiTsuda2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OUXbTeAHfI",
+          "end": 111,
+          "expanded_url": "https://x.com/Kuurna0/status/1984735221921497226/video/1",
+          "media_key": "13_1984735117521100800",
+          "start": 88,
+          "url": "https://t.co/OUXbTeAHfI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068946856231715114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068828338509259201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @MasayukiTsuda2: 高い声を出したりフリッパーを振ったりして餌をねだるミナミイワトビペンギンのヒナ。インディアナポリス動物園のニオ (生後3ヶ月頃) です\nhttps://t.co/OUXbTeAHfI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12331,
+        "height": 1024,
+        "media_key": "13_1984735117521100800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984735117521100800/img/YQ4LOpBtPSAfUTDf.jpg",
+        "public_metrics": {
+          "view_count": 47725
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984735117521100800/vid/avc1/320x568/AfW5L7otMX4nLo52.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984735117521100800/vid/avc1/480x852/f0U63s_loqnOzwZo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984735117521100800/vid/avc1/576x1024/oJXFhwoE_TksXzWL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984735117521100800/pl/rtNhmLDNzsfexWwl.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984735117521100800"
+          ],
+          "media_source_tweet_id": [
+            "1984735221921497226"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068946856231715114",
+        "created_at": "2026-06-22T06:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068946856231715114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1085338453665996800",
+              "start": 3,
+              "username": "MasayukiTsuda2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUXbTeAHfI",
+              "end": 111,
+              "expanded_url": "https://x.com/Kuurna0/status/1984735221921497226/video/1",
+              "media_key": "13_1984735117521100800",
+              "start": 88,
+              "url": "https://t.co/OUXbTeAHfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068946856231715114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068828338509259201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @MasayukiTsuda2: 高い声を出したりフリッパーを振ったりして餌をねだるミナミイワトビペンギンのヒナ。インディアナポリス動物園のニオ (生後3ヶ月頃) です\nhttps://t.co/OUXbTeAHfI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984735117521100800"
+          ],
+          "media_source_tweet_id": [
+            "1984735221921497226"
+          ]
+        },
+        "author_id": "1085338453665996800",
+        "conversation_id": "2068828338509259201",
+        "created_at": "2026-06-21T22:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T23:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068828338509259201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUXbTeAHfI",
+              "end": 91,
+              "expanded_url": "https://x.com/Kuurna0/status/1984735221921497226/video/1",
+              "media_key": "13_1984735117521100800",
+              "start": 68,
+              "url": "https://t.co/OUXbTeAHfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068828338509259201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 34805,
+          "like_count": 1485,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "reply_settings": "verified",
+        "text": "高い声を出したりフリッパーを振ったりして餌をねだるミナミイワトビペンギンのヒナ。インディアナポリス動物園のニオ (生後3ヶ月頃) です\nhttps://t.co/OUXbTeAHfI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "頑張ってるよ",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 189,
+          "like_count": 6052,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2650
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-16T00:50:26.000Z",
+        "description": "津田雅之。比較文学研究者。『批評家クルティウスのヨーロッパ精神』。共著に、 Pluralité des cultures 、Roman mystique、La Grande Guerre vue de Méditerranée 、Littératures et arts du vide など。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osaka-u.academia.edu/MasayukiTsuda",
+                "end": 23,
+                "expanded_url": "https://osaka-u.academia.edu/MasayukiTsuda",
+                "start": 0,
+                "url": "https://t.co/cbPgV1KkFJ"
+              }
+            ]
+          }
+        },
+        "id": "1085338453665996800",
+        "location": "Japan",
+        "name": "Masayuki Tsuda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085342087162126336/TLfZ4-IC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123833,
+          "following_count": 981,
+          "like_count": 27440,
+          "listed_count": 981,
+          "media_count": 5840,
+          "tweet_count": 7580
+        },
+        "url": "https://t.co/cbPgV1KkFJ",
+        "username": "MasayukiTsuda2",
+        "verified": true
+      }
+    ]
+  }
+}

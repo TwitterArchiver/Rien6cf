@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023932851176304640",
+        "3_2023932851184693248"
+      ],
+      "media_source_tweet_id": [
+        "2023932856813371886",
+        "2023932856813371886"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2024100467262029865",
+    "created_at": "2026-02-18T12:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024100467262029865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841054570459643905",
+          "start": 3,
+          "username": "Atoganai_row"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qz4ILUhat8",
+          "end": 46,
+          "expanded_url": "https://x.com/Atoganai_row/status/2023932856813371886/photo/1",
+          "media_key": "3_2023932851176304640",
+          "start": 23,
+          "url": "https://t.co/qz4ILUhat8"
+        },
+        {
+          "display_url": "pic.x.com/qz4ILUhat8",
+          "end": 46,
+          "expanded_url": "https://x.com/Atoganai_row/status/2023932856813371886/photo/1",
+          "media_key": "3_2023932851184693248",
+          "start": 23,
+          "url": "https://t.co/qz4ILUhat8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024100467262029865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023932856813371886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Atoganai_row: おけおけ https://t.co/qz4ILUhat8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2023932851176304640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZ0NHObcAAY7uF.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1077,
+        "media_key": "3_2023932851184693248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZ0NHQbcAAMWhY.jpg",
+        "width": 1387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023932851176304640",
+            "3_2023932851184693248"
+          ],
+          "media_source_tweet_id": [
+            "2023932856813371886",
+            "2023932856813371886"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2024100467262029865",
+        "created_at": "2026-02-18T12:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024100467262029865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841054570459643905",
+              "start": 3,
+              "username": "Atoganai_row"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qz4ILUhat8",
+              "end": 46,
+              "expanded_url": "https://x.com/Atoganai_row/status/2023932856813371886/photo/1",
+              "media_key": "3_2023932851176304640",
+              "start": 23,
+              "url": "https://t.co/qz4ILUhat8"
+            },
+            {
+              "display_url": "pic.x.com/qz4ILUhat8",
+              "end": 46,
+              "expanded_url": "https://x.com/Atoganai_row/status/2023932856813371886/photo/1",
+              "media_key": "3_2023932851184693248",
+              "start": 23,
+              "url": "https://t.co/qz4ILUhat8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024100467262029865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023932856813371886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Atoganai_row: おけおけ https://t.co/qz4ILUhat8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023932851176304640",
+            "3_2023932851184693248"
+          ]
+        },
+        "author_id": "1841054570459643905",
+        "conversation_id": "2023932856813371886",
+        "created_at": "2026-02-18T01:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023932856813371886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qz4ILUhat8",
+              "end": 28,
+              "expanded_url": "https://x.com/Atoganai_row/status/2023932856813371886/photo/1",
+              "media_key": "3_2023932851176304640",
+              "start": 5,
+              "url": "https://t.co/qz4ILUhat8"
+            },
+            {
+              "display_url": "pic.x.com/qz4ILUhat8",
+              "end": 28,
+              "expanded_url": "https://x.com/Atoganai_row/status/2023932856813371886/photo/1",
+              "media_key": "3_2023932851184693248",
+              "start": 5,
+              "url": "https://t.co/qz4ILUhat8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023932856813371886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 125382,
+          "like_count": 4462,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "おけおけ https://t.co/qz4ILUhat8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 71,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 451
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T09:56:41.000Z",
+        "description": "k＝2",
+        "id": "1841054570459643905",
+        "name": "あとがない浪",
+        "pinned_tweet_id": "1960904328920883416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932631595862888448/opf9F-Kk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1618,
+          "like_count": 8593,
+          "listed_count": 2,
+          "media_count": 658,
+          "tweet_count": 4165
+        },
+        "username": "Atoganai_row",
+        "verified": false
+      }
+    ]
+  }
+}

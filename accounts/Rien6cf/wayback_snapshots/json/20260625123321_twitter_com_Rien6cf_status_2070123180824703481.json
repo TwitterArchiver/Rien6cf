@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2070100875830554734",
+    "created_at": "2026-06-25T12:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070123180824703481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2066136751618588672",
+          "start": 0,
+          "username": "xokrkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070123180824703481",
+    "in_reply_to_user_id": "2066136751618588672",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070100875830554734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xokrkg ( *｀ω´)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_2070100873859190784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp5xuOaUAAM6E-.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2070100875830554734",
+        "created_at": "2026-06-25T12:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070123180824703481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2066136751618588672",
+              "start": 0,
+              "username": "xokrkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070123180824703481",
+        "in_reply_to_user_id": "2066136751618588672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070100875830554734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xokrkg ( *｀ω´)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070100873859190784"
+          ]
+        },
+        "author_id": "2066136751618588672",
+        "conversation_id": "2070100875830554734",
+        "created_at": "2026-06-25T11:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070100875830554734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAvBLQpLMn",
+              "end": 67,
+              "expanded_url": "https://x.com/xokrkg/status/2070100875830554734/photo/1",
+              "media_key": "3_2070100873859190784",
+              "start": 44,
+              "url": "https://t.co/yAvBLQpLMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070100875830554734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "なんかイーロンにゴミラベル貼られてるからガチでなんでもいいので誰かリプしてくれませんか https://t.co/yAvBLQpLMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 190,
+          "like_count": 6230,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2696
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T12:34:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ldq1m9fijy331t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ldq1m9fijy331to?t=FFtWoe&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/zxYciIpwUk"
+              }
+            ]
+          }
+        },
+        "id": "2066136751618588672",
+        "location": "本垢凍結  前世2個",
+        "name": "怖（こぬの）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066146669029400576/ITCZAeIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 16,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/zxYciIpwUk",
+        "username": "xokrkg",
+        "verified": false
+      }
+    ]
+  }
+}

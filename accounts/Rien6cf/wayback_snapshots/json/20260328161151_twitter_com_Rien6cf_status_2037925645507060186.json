@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2037925312135376919",
+    "created_at": "2026-03-28T16:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037925645507060186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037925645507060186",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037925312135376919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小窗就好了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037925301616078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgqQ7GbcAAOBZ9.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2037925312135376919",
+        "created_at": "2026-03-28T16:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037925645507060186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037925645507060186",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037925312135376919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小窗就好了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037925301616078848"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2037925312135376919",
+        "created_at": "2026-03-28T16:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037925312135376919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1500855672480489475",
+              "start": 7,
+              "username": "Science_010"
+            },
+            {
+              "end": 33,
+              "id": "2031954172732719112",
+              "start": 20,
+              "username": "Minastear030"
+            },
+            {
+              "end": 48,
+              "id": "2030832351656493056",
+              "start": 35,
+              "username": "Suintouhea2t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7Md15hcF3",
+              "end": 72,
+              "expanded_url": "https://x.com/Rien6cf/status/2037925312135376919/photo/1",
+              "media_key": "3_2037925301616078848",
+              "start": 49,
+              "url": "https://t.co/K7Md15hcF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037925312135376919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖！！\n恭喜@Science_010 @Minastear030 和@Suintouhea2t https://t.co/K7Md15hcF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしい\nCN/JP/EN\n顺女//LGBTQ友好//互fo请戳//直fo是喜欢你\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2037089526167019548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 123,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1334
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

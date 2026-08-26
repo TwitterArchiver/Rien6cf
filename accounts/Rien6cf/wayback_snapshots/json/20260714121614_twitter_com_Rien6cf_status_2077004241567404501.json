@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2077004241567404501",
+    "created_at": "2026-07-14T12:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077004241567404501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782700766077358080",
+          "start": 3,
+          "username": "vrmindayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077004241567404501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2611
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076606605257576510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vrmindayo: 長髪の男が好きな女予後悪い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2077004241567404501",
+        "created_at": "2026-07-14T12:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077004241567404501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782700766077358080",
+              "start": 3,
+              "username": "vrmindayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077004241567404501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2611
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076606605257576510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vrmindayo: 長髪の男が好きな女予後悪い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782700766077358080",
+        "conversation_id": "2076606605257576510",
+        "created_at": "2026-07-13T09:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076606605257576510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076606605257576510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1103,
+          "impression_count": 1790036,
+          "like_count": 19485,
+          "quote_count": 4459,
+          "reply_count": 35,
+          "retweet_count": 2611
+        },
+        "reply_settings": "everyone",
+        "text": "長髪の男が好きな女予後悪い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 195,
+          "like_count": 7874,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2938
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T09:19:29.000Z",
+        "description": "超かぐや姫評論家\n友達を作るためにTwitterをやっています",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7jm2nzf3ihsmiz…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/7jm2nzf3ihsmizn?t=MSkp5e&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Carf8NbD4H"
+              }
+            ]
+          }
+        },
+        "id": "1782700766077358080",
+        "location": "キチガイ・顔整い・鬱ガキ・おえガキをフォロー",
+        "name": "冷笑コンサルタント",
+        "pinned_tweet_id": "2008587964050464990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008914320764391424/gZWBq6x7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 151,
+          "like_count": 23092,
+          "listed_count": 14,
+          "media_count": 244,
+          "tweet_count": 7237
+        },
+        "url": "https://t.co/Carf8NbD4H",
+        "username": "vrmindayo",
+        "verified": true
+      }
+    ]
+  }
+}

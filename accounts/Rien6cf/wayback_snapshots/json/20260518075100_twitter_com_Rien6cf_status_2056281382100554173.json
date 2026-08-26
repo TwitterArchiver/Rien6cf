@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055947892498829312"
+      ],
+      "media_source_tweet_id": [
+        "2055947897003552836"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056281382100554173",
+    "created_at": "2026-05-18T07:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056281382100554173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2797768538",
+          "start": 3,
+          "username": "arinaariri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cTdehOXGQQ",
+          "end": 63,
+          "expanded_url": "https://x.com/arinaariri/status/2055947897003552836/photo/1",
+          "media_key": "3_2055947892498829312",
+          "start": 40,
+          "url": "https://t.co/cTdehOXGQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056281382100554173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055947897003552836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arinaariri: コラかと思いきや実際に存在するという衝撃の事実 https://t.co/cTdehOXGQQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2055947892498829312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgxtyEbEAArVAY.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055947892498829312"
+          ],
+          "media_source_tweet_id": [
+            "2055947897003552836"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056281382100554173",
+        "created_at": "2026-05-18T07:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056281382100554173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2797768538",
+              "start": 3,
+              "username": "arinaariri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTdehOXGQQ",
+              "end": 63,
+              "expanded_url": "https://x.com/arinaariri/status/2055947897003552836/photo/1",
+              "media_key": "3_2055947892498829312",
+              "start": 40,
+              "url": "https://t.co/cTdehOXGQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056281382100554173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055947897003552836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arinaariri: コラかと思いきや実際に存在するという衝撃の事実 https://t.co/cTdehOXGQQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055947892498829312"
+          ]
+        },
+        "author_id": "2797768538",
+        "conversation_id": "2055947897003552836",
+        "created_at": "2026-05-17T09:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055947897003552836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTdehOXGQQ",
+              "end": 47,
+              "expanded_url": "https://x.com/arinaariri/status/2055947897003552836/photo/1",
+              "media_key": "3_2055947892498829312",
+              "start": 24,
+              "url": "https://t.co/cTdehOXGQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055947897003552836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 23153,
+          "like_count": 1147,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "コラかと思いきや実際に存在するという衝撃の事実 https://t.co/cTdehOXGQQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 4167,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2119
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-08T11:50:28.000Z",
+        "description": "ずっと忘れたくない内容を引用にてポストしています。",
+        "id": "2797768538",
+        "location": "ネタは随時DMまで募集しています",
+        "name": "ずっと忘れたくない",
+        "pinned_tweet_id": "2045735235896398176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727020754775248896/V6ve0rF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281157,
+          "following_count": 66920,
+          "like_count": 78954,
+          "listed_count": 474,
+          "media_count": 138,
+          "tweet_count": 296
+        },
+        "username": "arinaariri",
+        "verified": false
+      }
+    ]
+  }
+}

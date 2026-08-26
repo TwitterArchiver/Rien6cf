@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071104101358911488"
+      ],
+      "media_source_tweet_id": [
+        "2071104112071262270"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071226171531075590",
+    "created_at": "2026-06-28T13:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071226171531075590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "999265897205252096",
+          "start": 3,
+          "username": "ymnte235"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/odblxpbtX3",
+          "end": 51,
+          "expanded_url": "https://x.com/ymnte235/status/2071104112071262270/photo/1",
+          "media_key": "3_2071104101358911488",
+          "start": 28,
+          "url": "https://t.co/odblxpbtX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071226171531075590",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071104112071262270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ymnte235: 発生したお客様ってなんだよ https://t.co/odblxpbtX3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2071104101358911488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4KNP5aQAASHBk.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071104101358911488"
+          ],
+          "media_source_tweet_id": [
+            "2071104112071262270"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071226171531075590",
+        "created_at": "2026-06-28T13:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071226171531075590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "999265897205252096",
+              "start": 3,
+              "username": "ymnte235"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/odblxpbtX3",
+              "end": 51,
+              "expanded_url": "https://x.com/ymnte235/status/2071104112071262270/photo/1",
+              "media_key": "3_2071104101358911488",
+              "start": 28,
+              "url": "https://t.co/odblxpbtX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071226171531075590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071104112071262270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ymnte235: 発生したお客様ってなんだよ https://t.co/odblxpbtX3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071104101358911488"
+          ]
+        },
+        "author_id": "999265897205252096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071104112071262270",
+        "created_at": "2026-06-28T05:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071104112071262270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/odblxpbtX3",
+              "end": 37,
+              "expanded_url": "https://x.com/ymnte235/status/2071104112071262270/photo/1",
+              "media_key": "3_2071104101358911488",
+              "start": 14,
+              "url": "https://t.co/odblxpbtX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071104112071262270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 296813,
+          "like_count": 4305,
+          "quote_count": 49,
+          "reply_count": 18,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "発生したお客様ってなんだよ https://t.co/odblxpbtX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 6468,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2717
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-23T12:28:50.000Z",
+        "description": "東京生まれ東京育ちの都民ですが、諸事情により現在は京都を中心に、東京/愛知/京都の三拠点生活をしております。",
+        "id": "999265897205252096",
+        "location": "自称教員学園ks",
+        "name": "山本唱能",
+        "pinned_tweet_id": "1229908066356776962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618263781418885122/7Sfe78Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 787,
+          "like_count": 14940,
+          "listed_count": 9,
+          "media_count": 8840,
+          "tweet_count": 26274
+        },
+        "url": "",
+        "username": "ymnte235",
+        "verified": false
+      }
+    ]
+  }
+}

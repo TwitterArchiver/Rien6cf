@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017901933357629440"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2017901947421073509",
+    "created_at": "2026-02-01T10:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017901947421073509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BxHWdxMvPn",
+          "end": 31,
+          "expanded_url": "https://x.com/Rien6cf/status/2017901947421073509/photo/1",
+          "media_key": "3_2017901933357629440",
+          "start": 8,
+          "url": "https://t.co/BxHWdxMvPn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017901947421073509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请夸我可爱！！ https://t.co/BxHWdxMvPn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017901933357629440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEHHflbAAAJA_r.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017901933357629440"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2017901947421073509",
+        "created_at": "2026-02-01T10:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017901947421073509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxHWdxMvPn",
+              "end": 31,
+              "expanded_url": "https://x.com/Rien6cf/status/2017901947421073509/photo/1",
+              "media_key": "3_2017901933357629440",
+              "start": 8,
+              "url": "https://t.co/BxHWdxMvPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017901947421073509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请夸我可爱！！ https://t.co/BxHWdxMvPn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "前世@みんなの黙示録///关于理衣的一切",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 44
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

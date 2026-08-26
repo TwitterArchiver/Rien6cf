@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063537530566553967",
+    "created_at": "2026-06-07T08:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063537530566553967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907568792114442240",
+          "start": 3,
+          "username": "tkzn_rq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063537530566553967",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063451953250931039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tkzn_rq3: 明日学校❓ってやつらしいんだ㌔👉🏻👈🏻💦普通に自殺❓とかしたくて😅😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063537530566553967",
+        "created_at": "2026-06-07T08:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063537530566553967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907568792114442240",
+              "start": 3,
+              "username": "tkzn_rq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063537530566553967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063451953250931039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tkzn_rq3: 明日学校❓ってやつらしいんだ㌔👉🏻👈🏻💦普通に自殺❓とかしたくて😅😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907568792114442240",
+        "conversation_id": "2063451953250931039",
+        "created_at": "2026-06-07T02:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063451953250931039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063451953250931039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12925,
+          "like_count": 966,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "明日学校❓ってやつらしいんだ㌔👉🏻👈🏻💦普通に自殺❓とかしたくて😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 185,
+          "like_count": 5175,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2452
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T23:00:29.000Z",
+        "description": "SJK ┊︎🌳┊︎🇹🇭 ┊︎👊🩸┊︎🚹❌\n🗝@gmni_rq8 ▷▶▷人選🈶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "gmni_rq8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hr9w3dmcqbnbft4",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/hr9w3dmcqbnbft4",
+                "start": 0,
+                "url": "https://t.co/sHyJ0Usq4V"
+              }
+            ]
+          }
+        },
+        "id": "1907568792114442240",
+        "location": "同界隈以外お断り😤✋ ff外🔔📴",
+        "name": "筑前煮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063179770599469057/6995-SaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 767,
+          "like_count": 107610,
+          "listed_count": 47,
+          "media_count": 484,
+          "tweet_count": 4274
+        },
+        "url": "https://t.co/sHyJ0Usq4V",
+        "username": "tkzn_rq3",
+        "verified": false
+      }
+    ]
+  }
+}

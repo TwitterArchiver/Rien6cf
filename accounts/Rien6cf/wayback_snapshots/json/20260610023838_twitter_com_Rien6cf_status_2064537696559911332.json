@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064529049318567936"
+      ],
+      "media_source_tweet_id": [
+        "2064529056587207148"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064537696559911332",
+    "created_at": "2026-06-10T02:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064537696559911332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4830514909",
+          "start": 3,
+          "username": "iseseaparadise"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uM0y3RkTc1",
+          "end": 122,
+          "expanded_url": "https://x.com/iseseaparadise/status/2064529056587207148/photo/1",
+          "media_key": "3_2064529049318567936",
+          "start": 99,
+          "url": "https://t.co/uM0y3RkTc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064537696559911332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064529056587207148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iseseaparadise: 【お引越し】\n\nルーちゃんとルー仔共にゴロゴロチームのお家へ移動しました‼️\n\n早速のんびりしている様子のルー仔ちゃん。\n足だけ乾いて足袋状態になってます😆 https://t.co/uM0y3RkTc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2064529049318567936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKauO2UbsAAltxB.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064529049318567936"
+          ],
+          "media_source_tweet_id": [
+            "2064529056587207148"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064537696559911332",
+        "created_at": "2026-06-10T02:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064537696559911332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4830514909",
+              "start": 3,
+              "username": "iseseaparadise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uM0y3RkTc1",
+              "end": 122,
+              "expanded_url": "https://x.com/iseseaparadise/status/2064529056587207148/photo/1",
+              "media_key": "3_2064529049318567936",
+              "start": 99,
+              "url": "https://t.co/uM0y3RkTc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064537696559911332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064529056587207148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iseseaparadise: 【お引越し】\n\nルーちゃんとルー仔共にゴロゴロチームのお家へ移動しました‼️\n\n早速のんびりしている様子のルー仔ちゃん。\n足だけ乾いて足袋状態になってます😆 https://t.co/uM0y3RkTc1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064529049318567936"
+          ]
+        },
+        "author_id": "4830514909",
+        "conversation_id": "2064529056587207148",
+        "created_at": "2026-06-10T02:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064529056587207148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uM0y3RkTc1",
+              "end": 102,
+              "expanded_url": "https://x.com/iseseaparadise/status/2064529056587207148/photo/1",
+              "media_key": "3_2064529049318567936",
+              "start": 79,
+              "url": "https://t.co/uM0y3RkTc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064529056587207148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1997,
+          "like_count": 253,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "【お引越し】\n\nルーちゃんとルー仔共にゴロゴロチームのお家へ移動しました‼️\n\n早速のんびりしている様子のルー仔ちゃん。\n足だけ乾いて足袋状態になってます😆 https://t.co/uM0y3RkTc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5381,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2508
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-29T13:39:11.000Z",
+        "description": "三重県伊勢市の水族館「伊勢シーパラダイス」に関する情報をお知らせする公式アカウント。セイウチやトド、ゴマフアザラシ、ペンギン、アシカ、カワウソなど海獣との距離が近い\"ふれあい\"をテーマにした水族館です。■メディア関連お問い合わせ │ https://t.co/RRnzdPC6am",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ise-seaparadise.com/mediacontact/",
+                "end": 140,
+                "expanded_url": "http://ise-seaparadise.com/mediacontact/",
+                "start": 117,
+                "url": "https://t.co/RRnzdPC6am"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ise-seaparadise.com",
+                "end": 23,
+                "expanded_url": "https://ise-seaparadise.com/",
+                "start": 0,
+                "url": "https://t.co/eVhGt6XWjK"
+              }
+            ]
+          }
+        },
+        "id": "4830514909",
+        "location": "※リプ・RTによる質問にはお答えできませんでのご了承下さい。",
+        "name": "伊勢シーパラダイス【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840950941245456384/La56Za1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43782,
+          "following_count": 1076,
+          "like_count": 46015,
+          "listed_count": 1312,
+          "media_count": 3244,
+          "tweet_count": 14068
+        },
+        "url": "https://t.co/eVhGt6XWjK",
+        "username": "iseseaparadise",
+        "verified": true
+      }
+    ]
+  }
+}

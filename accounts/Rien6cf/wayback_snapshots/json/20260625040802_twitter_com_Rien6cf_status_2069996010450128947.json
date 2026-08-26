@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069711312356007936"
+      ],
+      "media_source_tweet_id": [
+        "2069711320413319315"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2069996010450128947",
+    "created_at": "2026-06-25T04:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069996010450128947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1073221226821312512",
+          "start": 3,
+          "username": "Patatakamikaze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oBs5MzKPCL",
+          "end": 117,
+          "expanded_url": "https://x.com/Patatakamikaze/status/2069711320413319315/photo/1",
+          "media_key": "3_2069711312356007936",
+          "start": 94,
+          "url": "https://t.co/oBs5MzKPCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069996010450128947",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2830
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069711320413319315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Patatakamikaze: Este GORDO se ha tragado 20 GRILLOS en un dia, es un genocida de insectos https://t.co/oBs5MzKPCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069711312356007936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkXeQiWYAA6J3k.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069711312356007936"
+          ],
+          "media_source_tweet_id": [
+            "2069711320413319315"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2069996010450128947",
+        "created_at": "2026-06-25T04:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069996010450128947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1073221226821312512",
+              "start": 3,
+              "username": "Patatakamikaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBs5MzKPCL",
+              "end": 117,
+              "expanded_url": "https://x.com/Patatakamikaze/status/2069711320413319315/photo/1",
+              "media_key": "3_2069711312356007936",
+              "start": 94,
+              "url": "https://t.co/oBs5MzKPCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069996010450128947",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2830
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069711320413319315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Patatakamikaze: Este GORDO se ha tragado 20 GRILLOS en un dia, es un genocida de insectos https://t.co/oBs5MzKPCL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069711312356007936"
+          ]
+        },
+        "author_id": "1073221226821312512",
+        "conversation_id": "2069711320413319315",
+        "created_at": "2026-06-24T09:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069711320413319315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBs5MzKPCL",
+              "end": 97,
+              "expanded_url": "https://x.com/Patatakamikaze/status/2069711320413319315/photo/1",
+              "media_key": "3_2069711312356007936",
+              "start": 74,
+              "url": "https://t.co/oBs5MzKPCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069711320413319315",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 792,
+          "impression_count": 246224,
+          "like_count": 21479,
+          "quote_count": 77,
+          "reply_count": 51,
+          "retweet_count": 2830
+        },
+        "reply_settings": "everyone",
+        "text": "Este GORDO se ha tragado 20 GRILLOS en un dia, es un genocida de insectos https://t.co/oBs5MzKPCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 6170,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2680
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-13T14:20:54.000Z",
+        "description": "Soy una Patata.\nBest Neeko EUW Multi season high elo.",
+        "id": "1073221226821312512",
+        "location": "Boadilla del monte, Madrid",
+        "name": "Patatakamikaze",
+        "pinned_tweet_id": "2069711320413319315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983131321376428032/wn1ovtW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 488,
+          "like_count": 55595,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 3984
+        },
+        "url": "",
+        "username": "Patatakamikaze",
+        "verified": false
+      }
+    ]
+  }
+}

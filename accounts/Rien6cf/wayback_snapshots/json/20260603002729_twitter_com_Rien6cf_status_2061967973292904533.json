@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061967966783315968"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2061967973292904533",
+    "created_at": "2026-06-03T00:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061967973292904533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f5PmessyOU",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2061967973292904533/photo/1",
+          "media_key": "3_2061967966783315968",
+          "start": 0,
+          "url": "https://t.co/f5PmessyOU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061967973292904533",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/f5PmessyOU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061967966783315968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2U8OZaoAAycuh.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061967966783315968"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2061967973292904533",
+        "created_at": "2026-06-03T00:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061967973292904533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5PmessyOU",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2061967973292904533/photo/1",
+              "media_key": "3_2061967966783315968",
+              "start": 0,
+              "url": "https://t.co/f5PmessyOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061967973292904533",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/f5PmessyOU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 184,
+          "like_count": 4987,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2370
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

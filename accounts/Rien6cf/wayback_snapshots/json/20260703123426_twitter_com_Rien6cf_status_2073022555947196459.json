@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072344073067798528"
+      ],
+      "media_source_tweet_id": [
+        "2072344180295090504"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2073022555947196459",
+    "created_at": "2026-07-03T12:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073022555947196459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1171221685715886080",
+          "start": 3,
+          "username": "investorMM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bVI1p5H2X2",
+          "end": 90,
+          "expanded_url": "https://x.com/aykiri/status/2072344180295090504/video/1",
+          "media_key": "13_2072344073067798528",
+          "start": 67,
+          "url": "https://t.co/bVI1p5H2X2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073022555947196459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072850253032952298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @investorMM: 【話題】東京・神楽坂で75年間愛された老舗スーパーが閉店、最後の「お辞儀」が美しすぎると世界中で話題にhttps://t.co/bVI1p5H2X2\n■老舗スーパー「キムラヤ」（2026年6月30日閉店）\n・1951年創業、地域に寄り添い続けた名…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29100,
+        "height": 1280,
+        "media_key": "13_2072344073067798528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072344073067798528/img/ZlKv8AJS1c2c92Be.jpg",
+        "public_metrics": {
+          "view_count": 1451453
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072344073067798528/vid/avc1/320x568/fX2iFrfuHOlp7cqe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072344073067798528/vid/avc1/480x852/8sULODq9DmYeSitO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072344073067798528/vid/avc1/720x1280/ipwaA4SyWNkWdj7B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072344073067798528/pl/eaOZJ-7YqQQvBfLK.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072344073067798528"
+          ],
+          "media_source_tweet_id": [
+            "2072344180295090504"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2073022555947196459",
+        "created_at": "2026-07-03T12:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073022555947196459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1171221685715886080",
+              "start": 3,
+              "username": "investorMM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVI1p5H2X2",
+              "end": 90,
+              "expanded_url": "https://x.com/aykiri/status/2072344180295090504/video/1",
+              "media_key": "13_2072344073067798528",
+              "start": 67,
+              "url": "https://t.co/bVI1p5H2X2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073022555947196459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072850253032952298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @investorMM: 【話題】東京・神楽坂で75年間愛された老舗スーパーが閉店、最後の「お辞儀」が美しすぎると世界中で話題にhttps://t.co/bVI1p5H2X2\n■老舗スーパー「キムラヤ」（2026年6月30日閉店）\n・1951年創業、地域に寄り添い続けた名…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072344073067798528"
+          ],
+          "media_source_tweet_id": [
+            "2072344180295090504"
+          ]
+        },
+        "author_id": "1171221685715886080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2072850253032952298",
+        "created_at": "2026-07-03T01:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072850253032952298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVI1p5H2X2",
+              "end": 74,
+              "expanded_url": "https://x.com/aykiri/status/2072344180295090504/video/1",
+              "media_key": "13_2072344073067798528",
+              "start": 51,
+              "url": "https://t.co/bVI1p5H2X2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072850253032952298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/aykiri/status/…",
+                "end": 74,
+                "expanded_url": "https://x.com/aykiri/status/2072344180295090504/video/1",
+                "start": 51,
+                "url": "https://t.co/uIqAmnH4dB"
+              }
+            ]
+          },
+          "text": "【話題】東京・神楽坂で75年間愛された老舗スーパーが閉店、最後の「お辞儀」が美しすぎると世界中で話題にhttps://t.co/uIqAmnH4dB\n■老舗スーパー「キムラヤ」（2026年6月30日閉店）\n・1951年創業、地域に寄り添い続けた名店\n\n・建物の老朽化を理由に、惜しまれつつ約75年の歴史に幕\n\n・閉店の瞬間、高齢の経営者らがシャッターが閉まるまで超深いお辞儀を継続\n→この姿に外国人らが「日本人の礼儀深さは国宝級」「涙が出た」と大絶賛"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 1023601,
+          "like_count": 2558,
+          "quote_count": 50,
+          "reply_count": 25,
+          "retweet_count": 253
+        },
+        "reply_settings": "other",
+        "text": "【話題】東京・神楽坂で75年間愛された老舗スーパーが閉店、最後の「お辞儀」が美しすぎると世界中で話題にhttps://t.co/bVI1p5H2X2\n■老舗スーパー「キムラヤ」（2026年6月30日閉店）\n・1951年創業、地域に寄り添い続けた名店\n\n・建物の老朽化を理由に、惜しまれつつ約75年の歴史に幕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 196,
+          "like_count": 6800,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2787
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-10T00:39:55.000Z",
+        "description": "🕊️世界に平和を🕊️ 世界中から集めた迫力満点の動画や面白い映像🎥、おすすめ映画をどんどん発信！さらに、面白いと思った漫画も紹介していきます！📚 ポストの詳細は投稿者へお問い合わせを。",
+        "id": "1171221685715886080",
+        "name": "世界のど迫力映像@フォレスト(Forest)🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820078597048262656/PNxCvVck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233999,
+          "following_count": 305,
+          "like_count": 12952,
+          "listed_count": 418,
+          "media_count": 23839,
+          "tweet_count": 34197
+        },
+        "url": "",
+        "username": "investorMM",
+        "verified": true
+      }
+    ]
+  }
+}

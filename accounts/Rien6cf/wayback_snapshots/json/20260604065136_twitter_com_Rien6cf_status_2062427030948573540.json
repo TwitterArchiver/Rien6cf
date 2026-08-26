@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062197829284638721"
+      ],
+      "media_source_tweet_id": [
+        "2062197833101447659"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062427030948573540",
+    "created_at": "2026-06-04T06:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062427030948573540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892530438125875201",
+          "start": 3,
+          "username": "adogtwting"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ivmeMbFgp1",
+          "end": 45,
+          "expanded_url": "https://x.com/adogtwting/status/2062197833101447659/photo/1",
+          "media_key": "3_2062197829284638721",
+          "start": 22,
+          "url": "https://t.co/ivmeMbFgp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062427030948573540",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062197833101447659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adogtwting: proof https://t.co/ivmeMbFgp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_2062197829284638721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5l_-8XsAEVUGd.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062197829284638721"
+          ],
+          "media_source_tweet_id": [
+            "2062197833101447659"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062427030948573540",
+        "created_at": "2026-06-04T06:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062427030948573540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892530438125875201",
+              "start": 3,
+              "username": "adogtwting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivmeMbFgp1",
+              "end": 45,
+              "expanded_url": "https://x.com/adogtwting/status/2062197833101447659/photo/1",
+              "media_key": "3_2062197829284638721",
+              "start": 22,
+              "url": "https://t.co/ivmeMbFgp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062427030948573540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062197833101447659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adogtwting: proof https://t.co/ivmeMbFgp1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062197829284638721"
+          ]
+        },
+        "author_id": "1892530438125875201",
+        "conversation_id": "2062197833101447659",
+        "created_at": "2026-06-03T15:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062197833101447659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivmeMbFgp1",
+              "end": 29,
+              "expanded_url": "https://x.com/adogtwting/status/2062197833101447659/photo/1",
+              "media_key": "3_2062197829284638721",
+              "start": 6,
+              "url": "https://t.co/ivmeMbFgp1"
+            },
+            {
+              "display_url": "x.com/adogtwting/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/adogtwting/status/2062160480542601523",
+              "start": 30,
+              "url": "https://t.co/eXRE7Z58wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062197833101447659",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 55766,
+          "like_count": 2909,
+          "quote_count": 15,
+          "reply_count": 24,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062160480542601523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "proof https://t.co/ivmeMbFgp1 https://t.co/eXRE7Z58wi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 182,
+          "like_count": 5043,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2392
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T11:03:19.000Z",
+        "description": "literally just a dog with a blog",
+        "id": "1892530438125875201",
+        "location": "dog park",
+        "name": "dog",
+        "pinned_tweet_id": "2062197833101447659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050344276744159232/d2wBHGv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12252,
+          "following_count": 125,
+          "like_count": 183,
+          "listed_count": 40,
+          "media_count": 71,
+          "tweet_count": 360
+        },
+        "username": "adogtwting",
+        "verified": true
+      }
+    ]
+  }
+}

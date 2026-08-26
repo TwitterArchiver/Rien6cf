@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063716191558840320"
+      ],
+      "media_source_tweet_id": [
+        "2063716193458942423"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063819827991781569",
+    "created_at": "2026-06-08T03:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063819827991781569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1337902475609690113",
+          "start": 3,
+          "username": "killmyaffairs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/auf2Kch7JW",
+          "end": 88,
+          "expanded_url": "https://x.com/killmyaffairs/status/2063716193458942423/photo/1",
+          "media_key": "3_2063716191558840320",
+          "start": 65,
+          "url": "https://t.co/auf2Kch7JW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063819827991781569",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1840
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063716193458942423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killmyaffairs: asi se siente despertarse con la menstruacion https://t.co/auf2Kch7JW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2063716191558840320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPK8TMWMAAbejy.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063716191558840320"
+          ],
+          "media_source_tweet_id": [
+            "2063716193458942423"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063819827991781569",
+        "created_at": "2026-06-08T03:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063819827991781569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1337902475609690113",
+              "start": 3,
+              "username": "killmyaffairs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/auf2Kch7JW",
+              "end": 88,
+              "expanded_url": "https://x.com/killmyaffairs/status/2063716193458942423/photo/1",
+              "media_key": "3_2063716191558840320",
+              "start": 65,
+              "url": "https://t.co/auf2Kch7JW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063819827991781569",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1840
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063716193458942423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killmyaffairs: asi se siente despertarse con la menstruacion https://t.co/auf2Kch7JW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063716191558840320"
+          ]
+        },
+        "author_id": "1337902475609690113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063716193458942423",
+        "created_at": "2026-06-07T20:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063716193458942423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auf2Kch7JW",
+              "end": 69,
+              "expanded_url": "https://x.com/killmyaffairs/status/2063716193458942423/photo/1",
+              "media_key": "3_2063716191558840320",
+              "start": 46,
+              "url": "https://t.co/auf2Kch7JW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063716193458942423",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 58659,
+          "like_count": 7957,
+          "quote_count": 31,
+          "reply_count": 21,
+          "retweet_count": 1840
+        },
+        "reply_settings": "everyone",
+        "text": "asi se siente despertarse con la menstruacion https://t.co/auf2Kch7JW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5231,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2464
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T23:29:54.000Z",
+        "description": "mi vida por el satosugu",
+        "id": "1337902475609690113",
+        "location": "she/her ",
+        "name": "karen",
+        "pinned_tweet_id": "1819448945611100167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061293460158590977/Qw4TKZo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23649,
+          "following_count": 12115,
+          "like_count": 39716,
+          "listed_count": 256,
+          "media_count": 5579,
+          "tweet_count": 186278
+        },
+        "username": "killmyaffairs",
+        "verified": true
+      }
+    ]
+  }
+}

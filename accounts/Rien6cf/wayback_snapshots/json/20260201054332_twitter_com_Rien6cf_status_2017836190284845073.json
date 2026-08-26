@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2017637609963659369",
+    "created_at": "2026-02-01T05:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T06:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017836190284845073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599238618450907138",
+          "start": 0,
+          "username": "gangge_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017836190284845073",
+    "in_reply_to_user_id": "1599238618450907138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017823870712270854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gangge_1118 好呀…但是最好不要长时间o这个、副作用有脑萎缩（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2017637609963659369",
+        "created_at": "2026-02-01T05:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017836190284845073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599238618450907138",
+              "start": 0,
+              "username": "gangge_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017836190284845073",
+        "in_reply_to_user_id": "1599238618450907138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017823870712270854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gangge_1118 好呀…但是最好不要长时间o这个、副作用有脑萎缩（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599238618450907138",
+        "conversation_id": "2017637609963659369",
+        "created_at": "2026-02-01T04:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017823870712270854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017823870712270854",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017778142283501892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf hh我可能直接12t試試吧，到時候再紀錄過程，總之謝謝你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "前世@みんなの黙示録///关于理衣的一切",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T03:06:36.000Z",
+        "description": "彰冬/潮斯左右相手固定\noverdose 自傷理論 生理男\n禁止轉載",
+        "id": "1599238618450907138",
+        "name": "缸",
+        "pinned_tweet_id": "1979198825026781501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990090350753648640/t0rmXc6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 25,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 158
+        },
+        "username": "gangge_1118",
+        "verified": false
+      }
+    ]
+  }
+}

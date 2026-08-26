@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055947584318132224"
+      ],
+      "media_source_tweet_id": [
+        "2055947588470501458"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056162150901833955",
+    "created_at": "2026-05-17T23:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056162150901833955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "801256790490890240",
+          "start": 3,
+          "username": "Slankdouga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gObiUH5jvV",
+          "end": 55,
+          "expanded_url": "https://x.com/Slankdouga/status/2055947588470501458/photo/1",
+          "media_key": "3_2055947584318132224",
+          "start": 32,
+          "url": "https://t.co/gObiUH5jvV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056162150901833955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 444
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055947588470501458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Slankdouga: メンタル強すぎて笑ってしまった https://t.co/gObiUH5jvV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_2055947584318132224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgxb2Aa0AAph8m.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055947584318132224"
+          ],
+          "media_source_tweet_id": [
+            "2055947588470501458"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056162150901833955",
+        "created_at": "2026-05-17T23:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056162150901833955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "801256790490890240",
+              "start": 3,
+              "username": "Slankdouga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gObiUH5jvV",
+              "end": 55,
+              "expanded_url": "https://x.com/Slankdouga/status/2055947588470501458/photo/1",
+              "media_key": "3_2055947584318132224",
+              "start": 32,
+              "url": "https://t.co/gObiUH5jvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056162150901833955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 444
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055947588470501458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Slankdouga: メンタル強すぎて笑ってしまった https://t.co/gObiUH5jvV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055947584318132224"
+          ]
+        },
+        "author_id": "801256790490890240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055947588470501458",
+        "created_at": "2026-05-17T09:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055947588470501458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gObiUH5jvV",
+              "end": 39,
+              "expanded_url": "https://x.com/Slankdouga/status/2055947588470501458/photo/1",
+              "media_key": "3_2055947584318132224",
+              "start": 16,
+              "url": "https://t.co/gObiUH5jvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055947588470501458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 359,
+          "impression_count": 333788,
+          "like_count": 6587,
+          "quote_count": 20,
+          "reply_count": 28,
+          "retweet_count": 444
+        },
+        "reply_settings": "everyone",
+        "text": "メンタル強すぎて笑ってしまった https://t.co/gObiUH5jvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 166,
+          "like_count": 4129,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2091
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-23T02:51:20.000Z",
+        "description": "過去に話題になっていたポストをX機能の引用でRPしているアカウント📮",
+        "id": "801256790490890240",
+        "location": "※ネタ提供・削除依頼はDMまでお願いします",
+        "name": "何度でも見たくなる",
+        "pinned_tweet_id": "1949589111154544825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817503728821587968/yyOTZjXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202874,
+          "following_count": 108,
+          "like_count": 97941,
+          "listed_count": 132,
+          "media_count": 133,
+          "tweet_count": 136
+        },
+        "username": "Slankdouga",
+        "verified": true
+      }
+    ]
+  }
+}

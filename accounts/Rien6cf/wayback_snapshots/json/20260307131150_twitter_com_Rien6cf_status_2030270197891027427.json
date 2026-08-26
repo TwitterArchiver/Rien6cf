@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030270119847620609",
+        "3_2030270119856029696",
+        "3_2030270119830806528",
+        "3_2030270119847571456"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2030270197891027427",
+    "created_at": "2026-03-07T13:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030270197891027427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0II7xFqSwy",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2030270197891027427/video/1",
+          "media_key": "13_2030270119847620609",
+          "start": 0,
+          "url": "https://t.co/0II7xFqSwy"
+        },
+        {
+          "display_url": "pic.x.com/0II7xFqSwy",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2030270197891027427/video/1",
+          "media_key": "3_2030270119856029696",
+          "start": 0,
+          "url": "https://t.co/0II7xFqSwy"
+        },
+        {
+          "display_url": "pic.x.com/0II7xFqSwy",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2030270197891027427/video/1",
+          "media_key": "3_2030270119830806528",
+          "start": 0,
+          "url": "https://t.co/0II7xFqSwy"
+        },
+        {
+          "display_url": "pic.x.com/0II7xFqSwy",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2030270197891027427/video/1",
+          "media_key": "3_2030270119847571456",
+          "start": 0,
+          "url": "https://t.co/0II7xFqSwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030270197891027427",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0II7xFqSwy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7701,
+        "height": 1280,
+        "media_key": "13_2030270119847620609",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030270119847620609/img/sSTF5nqOaSVBXpiY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030270119847620609/vid/avc1/320x568/DOZHy6fbFaQI2xAY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030270119847620609/vid/avc1/480x852/noB_4len_tpOe0QA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030270119847620609/vid/avc1/720x1280/AykDSiw3FYW_w7g6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030270119847620609/pl/lN7-F34it8khKI2t.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030270119856029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz36swbwAAxISz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030270119830806528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz36sqa4AAYl86.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030270119847571456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz36suasAA_j7O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030270119847620609",
+            "3_2030270119856029696",
+            "3_2030270119830806528",
+            "3_2030270119847571456"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2030270197891027427",
+        "created_at": "2026-03-07T13:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030270197891027427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0II7xFqSwy",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2030270197891027427/video/1",
+              "media_key": "13_2030270119847620609",
+              "start": 0,
+              "url": "https://t.co/0II7xFqSwy"
+            },
+            {
+              "display_url": "pic.x.com/0II7xFqSwy",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2030270197891027427/video/1",
+              "media_key": "3_2030270119856029696",
+              "start": 0,
+              "url": "https://t.co/0II7xFqSwy"
+            },
+            {
+              "display_url": "pic.x.com/0II7xFqSwy",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2030270197891027427/video/1",
+              "media_key": "3_2030270119830806528",
+              "start": 0,
+              "url": "https://t.co/0II7xFqSwy"
+            },
+            {
+              "display_url": "pic.x.com/0II7xFqSwy",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2030270197891027427/video/1",
+              "media_key": "3_2030270119847571456",
+              "start": 0,
+              "url": "https://t.co/0II7xFqSwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030270197891027427",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0II7xFqSwy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 102,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 831
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

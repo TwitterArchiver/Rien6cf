@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2076285527280742788",
+    "created_at": "2026-07-12T12:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076286264207401301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2066136751618588672",
+          "start": 0,
+          "username": "xokrkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076286264207401301",
+    "in_reply_to_user_id": "2066136751618588672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076285527280742788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xokrkg イーロンさん、、🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2076285527280742788",
+        "created_at": "2026-07-12T12:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076286264207401301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2066136751618588672",
+              "start": 0,
+              "username": "xokrkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076286264207401301",
+        "in_reply_to_user_id": "2066136751618588672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076285527280742788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xokrkg イーロンさん、、🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066136751618588672",
+        "conversation_id": "2076285527280742788",
+        "created_at": "2026-07-12T12:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076285527280742788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076285527280742788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "皆の素敵なポストにいいねをしたらとってもお金持ちでかっこいいイーロンさんが私をシャドバンしちゃうらしい😭\nどうしてそんなことをするの？言葉遣いもちゃんと気をつけてるのに🥺\n私は、Xっていう大好きなアプリで楽しみたいだけなのになぁ…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7632,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2915
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T12:34:37.000Z",
+        "description": "シャドバン中",
+        "id": "2066136751618588672",
+        "location": "本垢凍結  前世2個",
+        "name": "怖（こぬの）",
+        "pinned_tweet_id": "2072714285420290535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071833311891030016/RL0Us08v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 24,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "xokrkg",
+        "verified": false
+      }
+    ]
+  }
+}

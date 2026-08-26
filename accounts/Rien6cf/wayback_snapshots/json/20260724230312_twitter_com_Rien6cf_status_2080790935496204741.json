@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080702863442063360",
+        "3_2080702863450542080"
+      ],
+      "media_source_tweet_id": [
+        "2080702868118728968",
+        "2080702868118728968"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2080790935496204741",
+    "created_at": "2026-07-24T23:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T00:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080790935496204741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1989225894448394241",
+          "start": 3,
+          "username": "emQaetMzTM4699"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jM2qLGFGJO",
+          "end": 93,
+          "expanded_url": "https://x.com/emQaetMzTM4699/status/2080702868118728968/photo/1",
+          "media_key": "3_2080702863442063360",
+          "start": 70,
+          "url": "https://t.co/jM2qLGFGJO"
+        },
+        {
+          "display_url": "pic.x.com/jM2qLGFGJO",
+          "end": 93,
+          "expanded_url": "https://x.com/emQaetMzTM4699/status/2080702868118728968/photo/1",
+          "media_key": "3_2080702863450542080",
+          "start": 70,
+          "url": "https://t.co/jM2qLGFGJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080790935496204741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080702868118728968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emQaetMzTM4699: ⬅️ボーイッシュにした時の自認\n                　　　　　　　　　　　　　現実➡️ https://t.co/jM2qLGFGJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "イケメンの男の画像",
+        "height": 1157,
+        "media_key": "3_2080702863442063360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAkOvKaMAA_yzH.jpg",
+        "width": 736
+      },
+      {
+        "alt_text": "石破茂元首相の画像",
+        "height": 374,
+        "media_key": "3_2080702863450542080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAkOvMbkAAQvOh.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080702863442063360",
+            "3_2080702863450542080"
+          ]
+        },
+        "author_id": "1989225894448394241",
+        "conversation_id": "2080702868118728968",
+        "created_at": "2026-07-24T17:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080702868118728968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jM2qLGFGJO",
+              "end": 73,
+              "expanded_url": "https://x.com/emQaetMzTM4699/status/2080702868118728968/photo/1",
+              "media_key": "3_2080702863442063360",
+              "start": 50,
+              "url": "https://t.co/jM2qLGFGJO"
+            },
+            {
+              "display_url": "pic.x.com/jM2qLGFGJO",
+              "end": 73,
+              "expanded_url": "https://x.com/emQaetMzTM4699/status/2080702868118728968/photo/1",
+              "media_key": "3_2080702863450542080",
+              "start": 50,
+              "url": "https://t.co/jM2qLGFGJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080702868118728968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1389,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "⬅️ボーイッシュにした時の自認\n                　　　　　　　　　　　　　現実➡️ https://t.co/jM2qLGFGJO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080702863442063360",
+            "3_2080702863450542080"
+          ],
+          "media_source_tweet_id": [
+            "2080702868118728968",
+            "2080702868118728968"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2080790935496204741",
+        "created_at": "2026-07-24T23:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080790935496204741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1989225894448394241",
+              "start": 3,
+              "username": "emQaetMzTM4699"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jM2qLGFGJO",
+              "end": 93,
+              "expanded_url": "https://x.com/emQaetMzTM4699/status/2080702868118728968/photo/1",
+              "media_key": "3_2080702863442063360",
+              "start": 70,
+              "url": "https://t.co/jM2qLGFGJO"
+            },
+            {
+              "display_url": "pic.x.com/jM2qLGFGJO",
+              "end": 93,
+              "expanded_url": "https://x.com/emQaetMzTM4699/status/2080702868118728968/photo/1",
+              "media_key": "3_2080702863450542080",
+              "start": 70,
+              "url": "https://t.co/jM2qLGFGJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080790935496204741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080702868118728968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emQaetMzTM4699: ⬅️ボーイッシュにした時の自認\n                　　　　　　　　　　　　　現実➡️ https://t.co/jM2qLGFGJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2080735603323523206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 202,
+          "like_count": 8649,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3102
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T06:56:37.000Z",
+        "description": "",
+        "id": "1989225894448394241",
+        "name": "え⁉️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063172751251353600/rItW7lVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 515,
+          "like_count": 114576,
+          "listed_count": 44,
+          "media_count": 42,
+          "tweet_count": 1293
+        },
+        "url": "",
+        "username": "emQaetMzTM4699",
+        "verified": false
+      }
+    ]
+  }
+}

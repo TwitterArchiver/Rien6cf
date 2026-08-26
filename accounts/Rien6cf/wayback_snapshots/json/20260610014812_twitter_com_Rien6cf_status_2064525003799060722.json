@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064525003799060722",
+    "created_at": "2026-06-10T01:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064525003799060722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "154381364",
+          "start": 3,
+          "username": "Osaka_Kaiyukan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064525003799060722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82662
+    },
+    "referenced_tweets": [
+      {
+        "id": "1389850828672880642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Osaka_Kaiyukan: 【ワモンアザラシの赤ちゃんの成長記録ブログ③更新】\n\n生後21日目\n生まれて初めて水に入れて泳がせてみると…\n\n鼻から水を吸い込んでしまいクシャミ連発！\n\n「このままじゃアザラシなのに水に入れないな…」と心配しましたが、練習するとすぐ水に…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16133,
+        "height": 720,
+        "media_key": "7_1389850285195939841",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1389850285195939841/pu/img/28rmxwoqh_4u4San.jpg",
+        "public_metrics": {
+          "view_count": 33763267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1389850285195939841/pu/vid/480x270/ICX6HzlhMqi9fKhh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1389850285195939841/pu/vid/640x360/f15XzLMLPRfoVWM_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1389850285195939841/pu/vid/1280x720/nF92Epi3uY6XkM5Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1389850285195939841/pu/pl/ptkXrvqmnmo7oNdW.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064525003799060722",
+        "created_at": "2026-06-10T01:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064525003799060722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "154381364",
+              "start": 3,
+              "username": "Osaka_Kaiyukan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064525003799060722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82662
+        },
+        "referenced_tweets": [
+          {
+            "id": "1389850828672880642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Osaka_Kaiyukan: 【ワモンアザラシの赤ちゃんの成長記録ブログ③更新】\n\n生後21日目\n生まれて初めて水に入れて泳がせてみると…\n\n鼻から水を吸い込んでしまいクシャミ連発！\n\n「このままじゃアザラシなのに水に入れないな…」と心配しましたが、練習するとすぐ水に…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1389850285195939841"
+          ]
+        },
+        "author_id": "154381364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298975554125705216",
+              "name": "Kinki region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299138554128289793",
+              "name": "Osaka Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299142711623073793",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1389850828672880642",
+        "created_at": "2021-05-05T07:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2021-05-05T08:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1389850828672880642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bit.ly/3f9mxXZ",
+              "end": 156,
+              "expanded_url": "https://bit.ly/3f9mxXZ",
+              "start": 133,
+              "url": "https://t.co/nZJW7Xk28y"
+            },
+            {
+              "display_url": "pic.x.com/zEKkHj0o0a",
+              "end": 180,
+              "expanded_url": "https://x.com/Osaka_Kaiyukan/status/1389850828672880642/video/1",
+              "media_key": "7_1389850285195939841",
+              "start": 157,
+              "url": "https://t.co/zEKkHj0o0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1389850828672880642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12105,
+          "impression_count": 0,
+          "like_count": 289785,
+          "quote_count": 5406,
+          "reply_count": 253,
+          "retweet_count": 82662
+        },
+        "reply_settings": "everyone",
+        "text": "【ワモンアザラシの赤ちゃんの成長記録ブログ③更新】\n\n生後21日目\n生まれて初めて水に入れて泳がせてみると…\n\n鼻から水を吸い込んでしまいクシャミ連発！\n\n「このままじゃアザラシなのに水に入れないな…」と心配しましたが、練習するとすぐ水に顔をつけて泳げるように😌\n▶https://t.co/nZJW7Xk28y https://t.co/zEKkHj0o0a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5379,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2507
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-11T02:52:06.000Z",
+        "description": "世界最大級の水族館・海遊館の公式アカウントです。 タイムラインでのお問い合わせは基本的にお答えできませんので、海遊館インフォメーションまでお電話（06-6576-5501）くださいませ。 Osaka Aquarium Kaiyukan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaiyukan.com",
+                "end": 23,
+                "expanded_url": "https://www.kaiyukan.com/",
+                "start": 0,
+                "url": "https://t.co/Pz9opU3Z7j"
+              }
+            ]
+          }
+        },
+        "id": "154381364",
+        "location": "大阪市港区",
+        "name": "大阪・海遊館",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/877077005346287617/4aXX0pWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414289,
+          "following_count": 2,
+          "like_count": 691,
+          "listed_count": 4048,
+          "media_count": 3438,
+          "tweet_count": 4199
+        },
+        "url": "https://t.co/Pz9opU3Z7j",
+        "username": "Osaka_Kaiyukan",
+        "verified": true
+      }
+    ]
+  }
+}

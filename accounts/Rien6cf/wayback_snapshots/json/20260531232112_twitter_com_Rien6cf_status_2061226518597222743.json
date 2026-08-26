@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2061219659609972887",
+    "created_at": "2026-05-31T23:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T00:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061226518597222743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946736168990846976",
+          "start": 0,
+          "username": "yaesakimimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061226518597222743",
+    "in_reply_to_user_id": "1946736168990846976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061219659609972887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaesakimimu かわいい"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 226,
+        "media_key": "3_2061219656019693568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrsWzkbUAA5kz2.jpg",
+        "width": 226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2061219659609972887",
+        "created_at": "2026-05-31T23:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061226518597222743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946736168990846976",
+              "start": 0,
+              "username": "yaesakimimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061226518597222743",
+        "in_reply_to_user_id": "1946736168990846976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061219659609972887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaesakimimu かわいい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061219656019693568"
+          ]
+        },
+        "author_id": "1946736168990846976",
+        "conversation_id": "2061219659609972887",
+        "created_at": "2026-05-31T22:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061219659609972887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8Fm8trryt",
+              "end": 28,
+              "expanded_url": "https://x.com/yaesakimimu/status/2061219659609972887/photo/1",
+              "media_key": "3_2061219656019693568",
+              "start": 5,
+              "url": "https://t.co/L8Fm8trryt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061219659609972887",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/L8Fm8trryt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 180,
+          "like_count": 4864,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2314
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T00:57:45.000Z",
+        "description": "⬆️男\nみむです",
+        "id": "1946736168990846976",
+        "location": "ヘドロ",
+        "name": "Миму",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061219631948603392/o3bl_9RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 56,
+          "like_count": 4931,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 451
+        },
+        "username": "yaesakimimu",
+        "verified": false
+      }
+    ]
+  }
+}

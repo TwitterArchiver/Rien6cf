@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2033540988741054727",
+    "created_at": "2026-03-17T14:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033915860717605241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1789475739659821056",
+          "start": 0,
+          "username": "muuuau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033915860717605241",
+    "in_reply_to_user_id": "1789475739659821056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033915675878858975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muuuau 戒了好久了.jpg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2033540988741054727",
+        "created_at": "2026-03-17T14:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033915860717605241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1789475739659821056",
+              "start": 0,
+              "username": "muuuau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033915860717605241",
+        "in_reply_to_user_id": "1789475739659821056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033915675878858975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muuuau 戒了好久了.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789475739659821056",
+        "conversation_id": "2033540988741054727",
+        "created_at": "2026-03-17T14:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033915675878858975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033915675878858975",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033540988741054727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf 你不许割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 112,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1142
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T02:00:57.000Z",
+        "description": "マイマイ/ff14/gal/\n中国語＋日本語OK\nISFJ  |  HRT 2023.11.29",
+        "id": "1789475739659821056",
+        "location": "Tokyo, Japan",
+        "name": "祷潵",
+        "pinned_tweet_id": "1903128887833628770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902360819486408704/RTo6q0o9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 401,
+          "like_count": 3794,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 670
+        },
+        "username": "muuuau",
+        "verified": false
+      }
+    ]
+  }
+}

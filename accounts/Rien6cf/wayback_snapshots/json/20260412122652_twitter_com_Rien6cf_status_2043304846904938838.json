@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043304840236023808"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2043304846904938838",
+    "created_at": "2026-04-12T12:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043304846904938838"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 9,
+          "tag": "水色系統"
+        },
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbkJHKK59p",
+          "end": 45,
+          "expanded_url": "https://x.com/Rien6cf/status/2043304846904938838/photo/1",
+          "media_key": "3_2043304840236023808",
+          "start": 22,
+          "url": "https://t.co/lbkJHKK59p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043304846904938838",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐬𓂃 𓈒𓏸🫧🩵\n\n#水色系統\n#自撮り界隈 https://t.co/lbkJHKK59p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_2043304840236023808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtG7SIawAAuPpw.jpg",
+        "width": 1348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043304840236023808"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2043304846904938838",
+        "created_at": "2026-04-12T12:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043304846904938838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "水色系統"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbkJHKK59p",
+              "end": 45,
+              "expanded_url": "https://x.com/Rien6cf/status/2043304846904938838/photo/1",
+              "media_key": "3_2043304840236023808",
+              "start": 22,
+              "url": "https://t.co/lbkJHKK59p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043304846904938838",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐬𓂃 𓈒𓏸🫧🩵\n\n#水色系統\n#自撮り界隈 https://t.co/lbkJHKK59p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 134,
+          "like_count": 2635,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1551
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062022237948117235",
+    "created_at": "2026-06-04T10:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062474966017392844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031954172732719112",
+          "start": 0,
+          "username": "Minastear030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062474966017392844",
+    "in_reply_to_user_id": "2031954172732719112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062022237948117235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minastear030 求一个这个的repo啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062022237948117235",
+        "created_at": "2026-06-04T10:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062474966017392844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031954172732719112",
+              "start": 0,
+              "username": "Minastear030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062474966017392844",
+        "in_reply_to_user_id": "2031954172732719112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062022237948117235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minastear030 求一个这个的repo啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031954172732719112",
+        "conversation_id": "2062022237948117235",
+        "created_at": "2026-06-03T04:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062022237948117235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062022237948117235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3mepcpy。太安逸了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 182,
+          "like_count": 5054,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2402
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T04:43:39.000Z",
+        "description": "前世@minastear1︱艰难找回互关中︱18↑︱荒诞主义者︱oder︱友跨顺女泛性恋︱之前这里有一段个性签名但是我忘了是什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "minastear1"
+              }
+            ]
+          }
+        },
+        "id": "2031954172732719112",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2032141633345712556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032141006750302211/tUre2IlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 139,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 170
+        },
+        "username": "Minastear030",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2091539630483202376",
+    "created_at": "2026-08-23T14:54:41.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T15:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091539630483202376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018959137070317568",
+          "start": 3,
+          "username": "02bd025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091539630483202376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091498295537586415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @02bd025: 躁鬱になる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2091539630483202376",
+        "created_at": "2026-08-23T14:54:41.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091539630483202376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018959137070317568",
+              "start": 3,
+              "username": "02bd025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091539630483202376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091498295537586415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @02bd025: 躁鬱になる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018959137070317568",
+        "conversation_id": "2091498295537586415",
+        "created_at": "2026-08-23T12:10:26.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091498295537586415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kangaibukai_/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kangaibukai_/status/2091490151004536985",
+              "start": 6,
+              "url": "https://t.co/UvALrlbDUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091498295537586415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10309,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091490151004536985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "躁鬱になる https://t.co/UvALrlbDUO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n\n🗝 @KiLLTheTiME4yo\n\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091539630483202376",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 218,
+          "like_count": 9852,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3437
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T08:05:51.000Z",
+        "description": "足元に幸せはあるけど、足元が崖\n\nDM・マシュマロを募集中！",
+        "id": "2018959137070317568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091520916320821630",
+        "name": "瀬名",
+        "pinned_tweet_id": "2070061019838427410",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041993542202224641/0yBxCWHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4110,
+          "following_count": 1258,
+          "like_count": 6863,
+          "listed_count": 45,
+          "media_count": 108,
+          "tweet_count": 4411
+        },
+        "url": "",
+        "username": "02bd025",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

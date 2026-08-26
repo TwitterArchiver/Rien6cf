@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063571002727276545"
+      ],
+      "media_source_tweet_id": [
+        "2063939847291867410"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064149645270634893",
+    "created_at": "2026-06-09T00:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064149645270634893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1892837958849613824",
+          "start": 3,
+          "username": "7wVy1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l75z19Cdn2",
+          "end": 52,
+          "expanded_url": "https://x.com/7wVy1/status/2063939847291867410/photo/1",
+          "media_key": "3_2063571002727276545",
+          "start": 29,
+          "url": "https://t.co/l75z19Cdn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064149645270634893",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 760
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063939847291867410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7wVy1: お口ωになってる\n赤ちゃんアザラシ https://t.co/l75z19Cdn2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2063571002727276545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNG5MpbIAEmdfe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063571002727276545"
+          ],
+          "media_source_tweet_id": [
+            "2063939847291867410"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064149645270634893",
+        "created_at": "2026-06-09T00:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064149645270634893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1892837958849613824",
+              "start": 3,
+              "username": "7wVy1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l75z19Cdn2",
+              "end": 52,
+              "expanded_url": "https://x.com/7wVy1/status/2063939847291867410/photo/1",
+              "media_key": "3_2063571002727276545",
+              "start": 29,
+              "url": "https://t.co/l75z19Cdn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064149645270634893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 760
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063939847291867410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7wVy1: お口ωになってる\n赤ちゃんアザラシ https://t.co/l75z19Cdn2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063571002727276545"
+          ]
+        },
+        "author_id": "1892837958849613824",
+        "conversation_id": "2063939847291867410",
+        "created_at": "2026-06-08T11:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063939847291867410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l75z19Cdn2",
+              "end": 41,
+              "expanded_url": "https://x.com/7wVy1/status/2063939847291867410/photo/1",
+              "media_key": "3_2063571002727276545",
+              "start": 18,
+              "url": "https://t.co/l75z19Cdn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063939847291867410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 308,
+          "impression_count": 85259,
+          "like_count": 7321,
+          "quote_count": 45,
+          "reply_count": 5,
+          "retweet_count": 760
+        },
+        "reply_settings": "everyone",
+        "text": "お口ωになってる\n赤ちゃんアザラシ https://t.co/l75z19Cdn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 187,
+          "like_count": 5302,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2483
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T07:25:30.000Z",
+        "description": "激かわの動物をお届けします♪",
+        "id": "1892837958849613824",
+        "name": "尊い動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014103140774342656/hfCcHbO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29964,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 88,
+          "media_count": 4679,
+          "tweet_count": 4687
+        },
+        "username": "7wVy1",
+        "verified": true
+      }
+    ]
+  }
+}

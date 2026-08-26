@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2076639252620935232",
+    "created_at": "2026-07-13T12:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076639252620935232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grmchn4ai/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/grmchn4ai/status/2075825770249982197",
+          "start": 5,
+          "url": "https://t.co/mEkWbK4en3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076639252620935232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075825770249982197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个可爱 https://t.co/mEkWbK4en3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29952,
+        "height": 1222,
+        "media_key": "13_2075823674134036480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075823674134036480/img/c_CD5NiYg9xC5446.jpg",
+        "public_metrics": {
+          "view_count": 370756
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075823674134036480/vid/avc1/318x270/lXrCbVWp27LUXT9X.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075823674134036480/vid/avc1/426x360/62JCBm9F2nFUhtEv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075823674134036480/vid/avc1/852x720/kDOxakoBpjE8ZQn7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075823674134036480/pl/QHDamGlsoCQEiyUu.m3u8?tag=14&v=9d9"
+          }
+        ],
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2076639252620935232",
+        "created_at": "2026-07-13T12:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076639252620935232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grmchn4ai/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/grmchn4ai/status/2075825770249982197",
+              "start": 5,
+              "url": "https://t.co/mEkWbK4en3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076639252620935232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075825770249982197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个可爱 https://t.co/mEkWbK4en3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075823674134036480"
+          ]
+        },
+        "author_id": "1628253688220512261",
+        "conversation_id": "2075825770249982197",
+        "created_at": "2026-07-11T06:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075825770249982197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "画像の好きな範囲を揺らして保存できる、ブラウザ完結のぷるぷるメーカー",
+              "display_url": "purupuru-maker.tanosix.com",
+              "end": 127,
+              "expanded_url": "https://purupuru-maker.tanosix.com/",
+              "start": 104,
+              "status": 200,
+              "title": "ぷるぷるメーカー",
+              "unwound_url": "https://purupuru-maker.tanosix.com/",
+              "url": "https://t.co/myRWfIHUfT"
+            },
+            {
+              "display_url": "pic.x.com/lItXSlxqUh",
+              "end": 151,
+              "expanded_url": "https://x.com/grmchn4ai/status/2075825770249982197/video/1",
+              "media_key": "13_2075823674134036480",
+              "start": 128,
+              "url": "https://t.co/lItXSlxqUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075825770249982197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36303,
+          "impression_count": 11971898,
+          "like_count": 24934,
+          "quote_count": 4575,
+          "reply_count": 64,
+          "retweet_count": 5566
+        },
+        "reply_settings": "everyone",
+        "text": "「ぷるぷるメーカー」をリリースしました！\n画像を入れて、揺らしたいところを塗るだけで、画像を揺らせるツールです。揺らしっぷり録画して保存できます。スマホふりふりでも揺れる！好きな画像をプルプルさせてみてね！\nhttps://t.co/myRWfIHUfT https://t.co/lItXSlxqUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 195,
+          "like_count": 7746,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2931
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T04:42:11.000Z",
+        "description": "かわいい ∩ かっこいいキャラ🔫🐰、遊びを生み出す玩具🧸🕹️、創造性をくすぐる面白🥳🧪、をAI🧠💻️で量産を企むアカウントです。\n\nnote→https://t.co/k3TKcmFLL9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/grmchn4ai",
+                "end": 94,
+                "expanded_url": "https://note.com/grmchn4ai",
+                "start": 71,
+                "url": "https://t.co/k3TKcmFLL9"
+              }
+            ]
+          }
+        },
+        "id": "1628253688220512261",
+        "location": "data",
+        "name": "⚙gear machine@AI",
+        "pinned_tweet_id": "2047261530467782903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047169393474617344/Uj4GNSpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4680,
+          "following_count": 88,
+          "like_count": 10916,
+          "listed_count": 57,
+          "media_count": 1167,
+          "tweet_count": 3592
+        },
+        "url": "",
+        "username": "grmchn4ai",
+        "verified": false
+      }
+    ]
+  }
+}

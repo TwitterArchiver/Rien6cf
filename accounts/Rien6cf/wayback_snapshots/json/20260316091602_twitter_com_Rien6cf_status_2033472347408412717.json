@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033405891404537856"
+      ],
+      "media_source_tweet_id": [
+        "2033405897834459280"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2033472347408412717",
+    "created_at": "2026-03-16T09:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033472347408412717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1177426106867011584",
+          "start": 3,
+          "username": "buzz_wadai_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGwmZaKRJk",
+          "end": 57,
+          "expanded_url": "https://x.com/buzz_wadai_/status/2033405897834459280/photo/1",
+          "media_key": "3_2033405891404537856",
+          "start": 34,
+          "url": "https://t.co/MGwmZaKRJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033472347408412717",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033405897834459280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buzz_wadai_: どう見ても「謝れ」って書いてて草 https://t.co/MGwmZaKRJk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2033405891404537856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgb4oFaoAAZjiS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033405891404537856"
+          ],
+          "media_source_tweet_id": [
+            "2033405897834459280"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2033472347408412717",
+        "created_at": "2026-03-16T09:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033472347408412717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1177426106867011584",
+              "start": 3,
+              "username": "buzz_wadai_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGwmZaKRJk",
+              "end": 57,
+              "expanded_url": "https://x.com/buzz_wadai_/status/2033405897834459280/photo/1",
+              "media_key": "3_2033405891404537856",
+              "start": 34,
+              "url": "https://t.co/MGwmZaKRJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033472347408412717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033405897834459280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buzz_wadai_: どう見ても「謝れ」って書いてて草 https://t.co/MGwmZaKRJk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033405891404537856"
+          ]
+        },
+        "author_id": "1177426106867011584",
+        "conversation_id": "2033405897834459280",
+        "created_at": "2026-03-16T04:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033405897834459280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGwmZaKRJk",
+              "end": 40,
+              "expanded_url": "https://x.com/buzz_wadai_/status/2033405897834459280/photo/1",
+              "media_key": "3_2033405891404537856",
+              "start": 17,
+              "url": "https://t.co/MGwmZaKRJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033405897834459280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 39841,
+          "like_count": 968,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "どう見ても「謝れ」って書いてて草 https://t.co/MGwmZaKRJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 112,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1115
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-27T03:34:17.000Z",
+        "description": "話題のツイートを投稿してます。",
+        "id": "1177426106867011584",
+        "name": "ネットで話題のツイ図鑑",
+        "pinned_tweet_id": "2033018658612719618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026206370505314304/VfxDKOi-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24495,
+          "following_count": 2488,
+          "like_count": 74177,
+          "listed_count": 35,
+          "media_count": 1702,
+          "tweet_count": 43808
+        },
+        "username": "buzz_wadai_",
+        "verified": true
+      }
+    ]
+  }
+}

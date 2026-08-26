@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068911007947456512"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068911012036932051",
+    "created_at": "2026-06-22T04:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068911012036932051"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "天使界隈"
+        },
+        {
+          "end": 12,
+          "start": 6,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EVq1HTMTNe",
+          "end": 36,
+          "expanded_url": "https://x.com/Rien6cf/status/2068911012036932051/photo/1",
+          "media_key": "3_2068911007947456512",
+          "start": 13,
+          "url": "https://t.co/EVq1HTMTNe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068911012036932051",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#天使界隈 #自撮り界隈 https://t.co/EVq1HTMTNe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2068911007947456512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLY_maSagAAe2TY.jpg",
+        "width": 1009
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068911007947456512"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068911012036932051",
+        "created_at": "2026-06-22T04:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068911012036932051"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "天使界隈"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVq1HTMTNe",
+              "end": 36,
+              "expanded_url": "https://x.com/Rien6cf/status/2068911012036932051/photo/1",
+              "media_key": "3_2068911007947456512",
+              "start": 13,
+              "url": "https://t.co/EVq1HTMTNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068911012036932051",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#天使界隈 #自撮り界隈 https://t.co/EVq1HTMTNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "頑張ってるよ",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 188,
+          "like_count": 6028,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2647
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

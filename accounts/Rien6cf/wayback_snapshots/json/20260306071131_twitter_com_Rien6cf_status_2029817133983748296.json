@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029817133983748296",
+    "created_at": "2026-03-06T07:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029817133983748296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koalaenglish18…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/koalaenglish180/status/2029779734637506890",
+          "start": 20,
+          "url": "https://t.co/irjMJ0uZSi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029817133983748296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029779734637506890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": ":感谢您一直文明如厕\n:请文静如厕\n草 https://t.co/irjMJ0uZSi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1121,
+        "media_key": "3_2029779730787127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCs56THa0AAv2ak.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029817133983748296",
+        "created_at": "2026-03-06T07:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029817133983748296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koalaenglish18…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/koalaenglish180/status/2029779734637506890",
+              "start": 20,
+              "url": "https://t.co/irjMJ0uZSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029817133983748296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029779734637506890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": ":感谢您一直文明如厕\n:请文静如厕\n草 https://t.co/irjMJ0uZSi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029779730787127296"
+          ]
+        },
+        "author_id": "1094102590176940032",
+        "conversation_id": "2029779734637506890",
+        "created_at": "2026-03-06T04:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029779734637506890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgQxwzaAGY",
+              "end": 37,
+              "expanded_url": "https://x.com/KoalaEnglish180/status/2029779734637506890/photo/1",
+              "media_key": "3_2029779730787127296",
+              "start": 14,
+              "url": "https://t.co/IgQxwzaAGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029779734637506890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 545487,
+          "like_count": 2319,
+          "quote_count": 52,
+          "reply_count": 110,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "英語ってマジで難しいよな… https://t.co/IgQxwzaAGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 101,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 797
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-09T05:15:59.000Z",
+        "description": "英語を楽しく学べるイラストや漫画をオーストラリアから毎日お届け｜英語で苦労した自分だからこそ分かる英語学習者が知りたいポイントをシンプルに分かりやすく発信｜20歳まで日本から出たことがなくても海外で働ける｜「世界中どこでも楽しく生きられる」を目指しています🐨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/koalaenglish18…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/koalaenglish180/",
+                "start": 0,
+                "url": "https://t.co/Wi66C89wVi"
+              }
+            ]
+          }
+        },
+        "id": "1094102590176940032",
+        "location": "↓インスタも見てね↓",
+        "name": "こあたん🇦🇺こあらの学校",
+        "pinned_tweet_id": "1940731083609592331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220907752525979649/aVgX1-g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747490,
+          "following_count": 63,
+          "like_count": 106576,
+          "listed_count": 3627,
+          "media_count": 6106,
+          "tweet_count": 22096
+        },
+        "url": "https://t.co/Wi66C89wVi",
+        "username": "KoalaEnglish180",
+        "verified": true
+      }
+    ]
+  }
+}

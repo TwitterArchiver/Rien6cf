@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023004807490134016"
+      ],
+      "media_source_tweet_id": [
+        "2023004813022425232"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2023012010141851666",
+    "created_at": "2026-02-15T12:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023012010141851666"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "KAITO君",
+          "probability": 0.8109,
+          "start": 45,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "130874079",
+          "start": 3,
+          "username": "fuganaoto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9NkvvPAkd",
+          "end": 92,
+          "expanded_url": "https://x.com/fuganaoto/status/2023004813022425232/photo/1",
+          "media_key": "3_2023004807490134016",
+          "start": 69,
+          "url": "https://t.co/D9NkvvPAkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023012010141851666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023004813022425232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuganaoto: me &amp; my son❤️❤️\n\nオフ会パーティーでKAITO君と2ショット❤️❤️嬉しかった❤️ https://t.co/D9NkvvPAkd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023004807490134016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMoJ3FbYAAHvVC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023004807490134016"
+          ],
+          "media_source_tweet_id": [
+            "2023004813022425232"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2023012010141851666",
+        "created_at": "2026-02-15T12:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023012010141851666"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "KAITO君",
+              "probability": 0.8109,
+              "start": 45,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "130874079",
+              "start": 3,
+              "username": "fuganaoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9NkvvPAkd",
+              "end": 92,
+              "expanded_url": "https://x.com/fuganaoto/status/2023004813022425232/photo/1",
+              "media_key": "3_2023004807490134016",
+              "start": 69,
+              "url": "https://t.co/D9NkvvPAkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023012010141851666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023004813022425232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuganaoto: me &amp; my son❤️❤️\n\nオフ会パーティーでKAITO君と2ショット❤️❤️嬉しかった❤️ https://t.co/D9NkvvPAkd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023004807490134016"
+          ]
+        },
+        "author_id": "130874079",
+        "conversation_id": "2023004813022425232",
+        "created_at": "2026-02-15T12:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023004813022425232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "KAITO君",
+              "probability": 0.7786,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9NkvvPAkd",
+              "end": 77,
+              "expanded_url": "https://x.com/fuganaoto/status/2023004813022425232/photo/1",
+              "media_key": "3_2023004807490134016",
+              "start": 54,
+              "url": "https://t.co/D9NkvvPAkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023004813022425232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3527,
+          "like_count": 572,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "me &amp; my son❤️❤️\n\nオフ会パーティーでKAITO君と2ショット❤️❤️嬉しかった❤️ https://t.co/D9NkvvPAkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 390
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-08T15:52:50.000Z",
+        "description": "歌の仕事御依頼&問合せ先などfuganaoto@gmail.com 双極性障害、パニック障害、喘息、酷いアレルギー症状、シェーグレン症候群との闘病生活中。なんとか頑張ってます。 Youtube channel  https://t.co/1dTicXfcwX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naotofuga?si=…",
+                "end": 129,
+                "expanded_url": "https://youtube.com/@naotofuga?si=XpCrrKQoo0_sckDL",
+                "start": 106,
+                "url": "https://t.co/1dTicXfcwX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naoto_fuga/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/naoto_fuga/",
+                "start": 0,
+                "url": "https://t.co/2Zyu4zdFqn"
+              }
+            ]
+          }
+        },
+        "id": "130874079",
+        "location": "Tokyo  Japan",
+        "name": "風雅なおと(NAOTO FUUGA/NAOTO FUGA)SINGER",
+        "pinned_tweet_id": "1758507499001659893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399643681137721344/yjKvUlOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126811,
+          "following_count": 929,
+          "like_count": 102791,
+          "listed_count": 332,
+          "media_count": 7866,
+          "tweet_count": 132824
+        },
+        "url": "https://t.co/2Zyu4zdFqn",
+        "username": "fuganaoto",
+        "verified": true
+      }
+    ]
+  }
+}

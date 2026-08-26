@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079561375580672000"
+      ],
+      "media_source_tweet_id": [
+        "2079561678069682562"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2079819568567193793",
+    "created_at": "2026-07-22T06:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079819568567193793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1297358142",
+          "start": 3,
+          "username": "chikikumaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYuuekCbN5",
+          "end": 80,
+          "expanded_url": "https://x.com/chikikumaru/status/2079561678069682562/photo/1",
+          "media_key": "3_2079561375580672000",
+          "start": 57,
+          "url": "https://t.co/mYuuekCbN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079819568567193793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079561678069682562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chikikumaru: 和語中訳：\nいつまでも私のそばにいてほしいです。\n我希望我的荞麦面永远吃不完。 https://t.co/mYuuekCbN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2079561375580672000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwWDZgb0AAgA2B.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079561375580672000"
+          ]
+        },
+        "author_id": "1297358142",
+        "conversation_id": "2079561678069682562",
+        "created_at": "2026-07-21T13:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079561678069682562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYuuekCbN5",
+              "end": 63,
+              "expanded_url": "https://x.com/chikikumaru/status/2079561678069682562/photo/1",
+              "media_key": "3_2079561375580672000",
+              "start": 40,
+              "url": "https://t.co/mYuuekCbN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079561678069682562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7467,
+          "like_count": 102,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "和語中訳：\nいつまでも私のそばにいてほしいです。\n我希望我的荞麦面永远吃不完。 https://t.co/mYuuekCbN5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079561375580672000"
+          ],
+          "media_source_tweet_id": [
+            "2079561678069682562"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2079819568567193793",
+        "created_at": "2026-07-22T06:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079819568567193793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1297358142",
+              "start": 3,
+              "username": "chikikumaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYuuekCbN5",
+              "end": 80,
+              "expanded_url": "https://x.com/chikikumaru/status/2079561678069682562/photo/1",
+              "media_key": "3_2079561375580672000",
+              "start": 57,
+              "url": "https://t.co/mYuuekCbN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079819568567193793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079561678069682562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chikikumaru: 和語中訳：\nいつまでも私のそばにいてほしいです。\n我希望我的荞麦面永远吃不完。 https://t.co/mYuuekCbN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 200,
+          "like_count": 8366,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-25T02:29:04.000Z",
+        "description": "中国人です。中国にある日系企業に勤めてます。政治冷感、日本好き、スバル車オーナー、日本語検定N1級合格しましたが、まだまだです。今まで日本に5回行ったことあります。仲良くしましょう。宜しくお願い致します。",
+        "id": "1297358142",
+        "location": "日本",
+        "name": "花鳥風月",
+        "pinned_tweet_id": "1736305019509739555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559021191204966400/6xoChtVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 161,
+          "like_count": 16202,
+          "listed_count": 9,
+          "media_count": 2089,
+          "tweet_count": 4883
+        },
+        "url": "",
+        "username": "chikikumaru",
+        "verified": false
+      }
+    ]
+  }
+}

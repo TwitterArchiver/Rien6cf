@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089690042776395776"
+      ],
+      "media_source_tweet_id": [
+        "2089690047037800909"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090039177178161593",
+    "created_at": "2026-08-19T11:32:25.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090039177178161593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2084928826417860608",
+          "start": 3,
+          "username": "neruneru_zinsei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2Qwnu0Ycc",
+          "end": 70,
+          "expanded_url": "https://x.com/neruneru_zinsei/status/2089690047037800909/photo/1",
+          "media_key": "3_2089690042776395776",
+          "start": 47,
+          "url": "https://t.co/d2Qwnu0Ycc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090039177178161593",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089690042776395776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 746
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089690047037800909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neruneru_zinsei: ペットボトル飲料あるある\nこの辺りから美味しくない https://t.co/d2Qwnu0Ycc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2089690042776395776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQASBbJboAAEdWX.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089690042776395776"
+          ],
+          "media_source_tweet_id": [
+            "2089690047037800909"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090039177178161593",
+        "created_at": "2026-08-19T11:32:25.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090039177178161593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2084928826417860608",
+              "start": 3,
+              "username": "neruneru_zinsei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2Qwnu0Ycc",
+              "end": 70,
+              "expanded_url": "https://x.com/neruneru_zinsei/status/2089690047037800909/photo/1",
+              "media_key": "3_2089690042776395776",
+              "start": 47,
+              "url": "https://t.co/d2Qwnu0Ycc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090039177178161593",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089690042776395776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 746
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089690047037800909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neruneru_zinsei: ペットボトル飲料あるある\nこの辺りから美味しくない https://t.co/d2Qwnu0Ycc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089690042776395776"
+          ]
+        },
+        "author_id": "2084928826417860608",
+        "conversation_id": "2089690047037800909",
+        "created_at": "2026-08-18T12:25:06.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089690047037800909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2Qwnu0Ycc",
+              "end": 49,
+              "expanded_url": "https://x.com/neruneru_zinsei/status/2089690047037800909/photo/1",
+              "media_key": "3_2089690042776395776",
+              "start": 26,
+              "url": "https://t.co/d2Qwnu0Ycc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089690047037800909",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089690042776395776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 736320,
+          "like_count": 25385,
+          "quote_count": 181,
+          "reply_count": 36,
+          "retweet_count": 746
+        },
+        "reply_settings": "everyone",
+        "text": "ペットボトル飲料あるある\nこの辺りから美味しくない https://t.co/d2Qwnu0Ycc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090039177178161593",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 213,
+          "like_count": 9500,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T09:06:02.000Z",
+        "description": "リプくれるの大好き😍💞\n👊🩸 鬼ツイ廃 女JK 通信 猫犬アレルギー\n無言フォロー失礼します！\n馴れ馴れしかったらごめんなさいɞ̴̶̷̥⩊ɞ̴̶̷̥",
+        "id": "2084928826417860608",
+        "is_identity_verified": false,
+        "location": "ブス喪女喪喪🍑チャンネル",
+        "most_recent_tweet_id": "2090034810085666972",
+        "name": "ツイート制限ねるね君",
+        "pinned_tweet_id": "2086058439990780203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084928826417860608/1786610335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084929705388720128/Gf2Uiapw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 247,
+          "like_count": 2092,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "neruneru_zinsei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

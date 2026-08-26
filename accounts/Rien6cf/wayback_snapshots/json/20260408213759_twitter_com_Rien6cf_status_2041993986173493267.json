@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041672653124333572"
+      ],
+      "media_source_tweet_id": [
+        "2041672693758751183"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2041993986173493267",
+    "created_at": "2026-04-08T21:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T22:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041993986173493267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1327816489",
+          "start": 3,
+          "username": "animal_kyawa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bSXEOMvDhi",
+          "end": 56,
+          "expanded_url": "https://x.com/animal_kyawa_/status/2041672693758751183/photo/1",
+          "media_key": "3_2041672653124333572",
+          "start": 33,
+          "url": "https://t.co/bSXEOMvDhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041993986173493267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 802
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041672693758751183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animal_kyawa_: 毎日こういうニュースでいい https://t.co/bSXEOMvDhi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2041672653124333572",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFV6dfUa8AQgqq6.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041672653124333572"
+          ],
+          "media_source_tweet_id": [
+            "2041672693758751183"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2041993986173493267",
+        "created_at": "2026-04-08T21:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041993986173493267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1327816489",
+              "start": 3,
+              "username": "animal_kyawa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSXEOMvDhi",
+              "end": 56,
+              "expanded_url": "https://x.com/animal_kyawa_/status/2041672693758751183/photo/1",
+              "media_key": "3_2041672653124333572",
+              "start": 33,
+              "url": "https://t.co/bSXEOMvDhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041993986173493267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 802
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041672693758751183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animal_kyawa_: 毎日こういうニュースでいい https://t.co/bSXEOMvDhi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041672653124333572"
+          ]
+        },
+        "author_id": "1327816489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2041672693758751183",
+        "created_at": "2026-04-08T00:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041672693758751183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSXEOMvDhi",
+              "end": 37,
+              "expanded_url": "https://x.com/animal_kyawa_/status/2041672693758751183/photo/1",
+              "media_key": "3_2041672653124333572",
+              "start": 14,
+              "url": "https://t.co/bSXEOMvDhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041672693758751183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 156593,
+          "like_count": 11014,
+          "quote_count": 28,
+          "reply_count": 11,
+          "retweet_count": 802
+        },
+        "reply_settings": "everyone",
+        "text": "毎日こういうニュースでいい https://t.co/bSXEOMvDhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 131,
+          "like_count": 2524,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1501
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-04T21:03:00.000Z",
+        "description": "かわいい動物達を上げています🐶🐱",
+        "id": "1327816489",
+        "name": "犬しか勝たん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033416536736862208/4oF6B8c__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11271,
+          "following_count": 0,
+          "like_count": 2168,
+          "listed_count": 37,
+          "media_count": 539,
+          "tweet_count": 20199
+        },
+        "username": "animal_kyawa_",
+        "verified": true
+      }
+    ]
+  }
+}

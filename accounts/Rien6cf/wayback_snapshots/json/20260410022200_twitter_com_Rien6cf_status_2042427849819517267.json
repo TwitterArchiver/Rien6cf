@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042149221265240066"
+      ],
+      "media_source_tweet_id": [
+        "2042149225396629915"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2042427849819517267",
+    "created_at": "2026-04-10T02:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042427849819517267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1833314739990253568",
+          "start": 3,
+          "username": "knowthisdream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gVIDj1BYaG",
+          "end": 55,
+          "expanded_url": "https://x.com/knowthisdream/status/2042149225396629915/photo/1",
+          "media_key": "3_2042149221265240066",
+          "start": 32,
+          "url": "https://t.co/gVIDj1BYaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042427849819517267",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1340
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042149225396629915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knowthisdream: Young Girl A https://t.co/gVIDj1BYaG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2042149221265240066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcr5Z_a8AI3PTH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042149221265240066"
+          ],
+          "media_source_tweet_id": [
+            "2042149225396629915"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2042427849819517267",
+        "created_at": "2026-04-10T02:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042427849819517267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1833314739990253568",
+              "start": 3,
+              "username": "knowthisdream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVIDj1BYaG",
+              "end": 55,
+              "expanded_url": "https://x.com/knowthisdream/status/2042149225396629915/photo/1",
+              "media_key": "3_2042149221265240066",
+              "start": 32,
+              "url": "https://t.co/gVIDj1BYaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042427849819517267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1340
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042149225396629915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knowthisdream: Young Girl A https://t.co/gVIDj1BYaG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042149221265240066"
+          ]
+        },
+        "author_id": "1833314739990253568",
+        "conversation_id": "2042149225396629915",
+        "created_at": "2026-04-09T07:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042149225396629915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVIDj1BYaG",
+              "end": 36,
+              "expanded_url": "https://x.com/knowthisdream/status/2042149225396629915/photo/1",
+              "media_key": "3_2042149221265240066",
+              "start": 13,
+              "url": "https://t.co/gVIDj1BYaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042149225396629915",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 448,
+          "impression_count": 48439,
+          "like_count": 7954,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1340
+        },
+        "reply_settings": "everyone",
+        "text": "Young Girl A https://t.co/gVIDj1BYaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 133,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1527
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T01:21:14.000Z",
+        "description": "🇭🇰🇨🇳🇺🇸 | 我恨我的生活 | NO AI🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/know.thisdream/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/know.thisdream/",
+                "start": 0,
+                "url": "https://t.co/aEoqXEnaHN"
+              }
+            ]
+          }
+        },
+        "id": "1833314739990253568",
+        "location": "？？？",
+        "name": "知道这个梦",
+        "pinned_tweet_id": "1842104447520145512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884857206740561920/PJLqgcQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27822,
+          "following_count": 529,
+          "like_count": 35230,
+          "listed_count": 81,
+          "media_count": 452,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/aEoqXEnaHN",
+        "username": "knowthisdream",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090596603719553024"
+      ],
+      "media_source_tweet_id": [
+        "2090635011963920509"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090714412206391338",
+    "created_at": "2026-08-21T08:15:34.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090714412206391338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1760576770670309376",
+          "start": 3,
+          "username": "chodae3333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hpy2dSn8t",
+          "end": 69,
+          "expanded_url": "https://x.com/RatInControl/status/2090635011963920509/video/1",
+          "media_key": "13_2090596603719553024",
+          "start": 46,
+          "url": "https://t.co/0hpy2dSn8t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090714412206391338",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2090596603719553024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2528
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090670548460413194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chodae3333: 생쥐, 쥐덩이, 생쥐덩어리, 쥐덩어리, 휴대용 돈가스 https://t.co/0hpy2dSn8t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31266,
+        "height": 752,
+        "media_key": "13_2090596603719553024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090596603719553024/img/vNEiPX8UgUDMY3sg.jpg",
+        "public_metrics": {
+          "view_count": 66512
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090596603719553024/vid/avc1/320x500/nsJdBzQJ-3yqioyO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090596603719553024/vid/avc1/480x752/P36Zmr8URyJ5kYgC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090596603719553024/pl/Bco4FNBNRMG54y04.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090596603719553024"
+          ],
+          "media_source_tweet_id": [
+            "2090635011963920509"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090714412206391338",
+        "created_at": "2026-08-21T08:15:34.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090714412206391338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1760576770670309376",
+              "start": 3,
+              "username": "chodae3333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hpy2dSn8t",
+              "end": 69,
+              "expanded_url": "https://x.com/RatInControl/status/2090635011963920509/video/1",
+              "media_key": "13_2090596603719553024",
+              "start": 46,
+              "url": "https://t.co/0hpy2dSn8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090714412206391338",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2090596603719553024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2528
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090670548460413194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chodae3333: 생쥐, 쥐덩이, 생쥐덩어리, 쥐덩어리, 휴대용 돈가스 https://t.co/0hpy2dSn8t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090596603719553024"
+          ],
+          "media_source_tweet_id": [
+            "2090635011963920509"
+          ]
+        },
+        "author_id": "1760576770670309376",
+        "conversation_id": "2090670548460413194",
+        "created_at": "2026-08-21T05:21:16.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090670548460413194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hpy2dSn8t",
+              "end": 53,
+              "expanded_url": "https://x.com/RatInControl/status/2090635011963920509/video/1",
+              "media_key": "13_2090596603719553024",
+              "start": 30,
+              "url": "https://t.co/0hpy2dSn8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090670548460413194",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2090596603719553024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 138667,
+          "like_count": 4221,
+          "quote_count": 296,
+          "reply_count": 0,
+          "retweet_count": 2528
+        },
+        "reply_settings": "following",
+        "text": "생쥐, 쥐덩이, 생쥐덩어리, 쥐덩어리, 휴대용 돈가스 https://t.co/0hpy2dSn8t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090596603719553024"
+          ]
+        },
+        "author_id": "1961723126158397440",
+        "conversation_id": "2090635011963920509",
+        "created_at": "2026-08-21T03:00:03.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090635011963920509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgBBudFTNy",
+              "end": 38,
+              "expanded_url": "https://x.com/RatInControl/status/2090635011963920509/video/1",
+              "media_key": "13_2090596603719553024",
+              "start": 15,
+              "url": "https://t.co/ZgBBudFTNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090635011963920509",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090596603719553024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 564,
+          "impression_count": 147553,
+          "like_count": 4414,
+          "quote_count": 82,
+          "reply_count": 5,
+          "retweet_count": 583
+        },
+        "reply_settings": "everyone",
+        "text": "handful of rat https://t.co/ZgBBudFTNy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090714412206391338",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 216,
+          "like_count": 9639,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3409
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-22T08:06:52.000Z",
+        "description": "씹덕계오타쿠덕질계정아카이빙계아님팔로비추",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/chodae3333",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/chodae3333",
+                "start": 0,
+                "url": "https://t.co/5zfuYhI0g1"
+              }
+            ]
+          }
+        },
+        "id": "1760576770670309376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090712678620680373",
+        "name": "두바이쫀득도치",
+        "pinned_tweet_id": "2065722233058959406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760576770670309376/1780557070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088808863575449600/LvoHVvao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 110,
+          "like_count": 9834,
+          "listed_count": 7,
+          "media_count": 968,
+          "tweet_count": 20464
+        },
+        "url": "https://t.co/5zfuYhI0g1",
+        "username": "chodae3333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

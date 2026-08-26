@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2026319211820384456",
+    "created_at": "2026-02-24T15:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026319211820384456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenlife202010/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kenlife202010/status/2026047162375602440",
+          "start": 3,
+          "url": "https://t.co/tKzV83NxCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026319211820384456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026047162375602440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "は？ https://t.co/tKzV83NxCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2026046316368044032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB32Y-mbIAAUUz0.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2026319211820384456",
+        "created_at": "2026-02-24T15:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026319211820384456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenlife202010/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kenlife202010/status/2026047162375602440",
+              "start": 3,
+              "url": "https://t.co/tKzV83NxCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026319211820384456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026047162375602440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "は？ https://t.co/tKzV83NxCM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026046316368044032"
+          ]
+        },
+        "author_id": "1311271164757463042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026047162375602440",
+        "created_at": "2026-02-23T21:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T22:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026047162375602440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IikavYM5Ud",
+              "end": 46,
+              "expanded_url": "https://x.com/kenlife202010/status/2026047162375602440/photo/1",
+              "media_key": "3_2026046316368044032",
+              "start": 23,
+              "url": "https://t.co/IikavYM5Ud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026047162375602440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1391,
+          "impression_count": 120142,
+          "like_count": 4421,
+          "quote_count": 85,
+          "reply_count": 41,
+          "retweet_count": 819
+        },
+        "reply_settings": "everyone",
+        "text": "音楽に関する難読漢字をまとめました。さらに↓ https://t.co/IikavYM5Ud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 77,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 578
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-30T11:46:54.000Z",
+        "description": "教養になる知識やクイズを毎朝図解でお届け💡『見るだけことば雑学辞典』(KADOKAWA)著者 | Voicyﾊﾟｰｿﾅﾘﾃｨ | TVやWebメディアなど紹介多数 | お仕事のご相談はDMに📩 書籍はお子様や普段本を読まない方にも好評です↓クイズ好きはﾌｫﾛﾐｰ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amzn.to/3YZBmo0",
+                "end": 23,
+                "expanded_url": "https://amzn.to/3YZBmo0",
+                "start": 0,
+                "url": "https://t.co/vgjvRHgHk6"
+              }
+            ]
+          }
+        },
+        "id": "1311271164757463042",
+        "location": "⬇️書籍のAmazon購入サイトはこちら",
+        "name": "けんたろ| 知識図解",
+        "pinned_tweet_id": "1869858077778080038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884753835178303488/S3MNdIGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90426,
+          "following_count": 399,
+          "like_count": 418935,
+          "listed_count": 488,
+          "media_count": 2940,
+          "tweet_count": 142309
+        },
+        "url": "https://t.co/vgjvRHgHk6",
+        "username": "kenlife202010",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058126604925300736"
+      ],
+      "media_source_tweet_id": [
+        "2058126608771498159"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058159891156738253",
+    "created_at": "2026-05-23T12:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058159891156738253"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 59,
+          "start": 51,
+          "tag": "ワモンアザラシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1836658621784166400",
+          "start": 3,
+          "username": "suika_azarashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vU5cImZjyv",
+          "end": 83,
+          "expanded_url": "https://x.com/suika_azarashi/status/2058126608771498159/photo/1",
+          "media_key": "3_2058126604925300736",
+          "start": 60,
+          "url": "https://t.co/vU5cImZjyv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058159891156738253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058126608771498159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suika_azarashi: おヒゲ美しい🦭✨\n\n2026.5 ましろ\n#とっかりセンター\n#ワモンアザラシ https://t.co/vU5cImZjyv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2058126604925300736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_vPiVacAAFL_B.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058126604925300736"
+          ],
+          "media_source_tweet_id": [
+            "2058126608771498159"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058159891156738253",
+        "created_at": "2026-05-23T12:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058159891156738253"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1836658621784166400",
+              "start": 3,
+              "username": "suika_azarashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vU5cImZjyv",
+              "end": 83,
+              "expanded_url": "https://x.com/suika_azarashi/status/2058126608771498159/photo/1",
+              "media_key": "3_2058126604925300736",
+              "start": 60,
+              "url": "https://t.co/vU5cImZjyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058159891156738253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058126608771498159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suika_azarashi: おヒゲ美しい🦭✨\n\n2026.5 ましろ\n#とっかりセンター\n#ワモンアザラシ https://t.co/vU5cImZjyv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058126604925300736"
+          ]
+        },
+        "author_id": "1836658621784166400",
+        "conversation_id": "2058126608771498159",
+        "created_at": "2026-05-23T10:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058126608771498159"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vU5cImZjyv",
+              "end": 63,
+              "expanded_url": "https://x.com/suika_azarashi/status/2058126608771498159/photo/1",
+              "media_key": "3_2058126604925300736",
+              "start": 40,
+              "url": "https://t.co/vU5cImZjyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058126608771498159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 5029,
+          "like_count": 694,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "おヒゲ美しい🦭✨\n\n2026.5 ましろ\n#とっかりセンター\n#ワモンアザラシ https://t.co/vU5cImZjyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 170,
+          "like_count": 4380,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2193
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T06:50:52.000Z",
+        "description": "アザラシが好きです🦭会いに行ったアザラシさん達の写真を載せています🦭　Do not reupload.",
+        "id": "1836658621784166400",
+        "name": "スイカ",
+        "pinned_tweet_id": "1908104040031912055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836669916537327619/7l01Ub6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 215,
+          "like_count": 48210,
+          "listed_count": 25,
+          "media_count": 911,
+          "tweet_count": 1230
+        },
+        "username": "suika_azarashi",
+        "verified": false
+      }
+    ]
+  }
+}

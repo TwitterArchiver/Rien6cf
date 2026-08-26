@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067384567795990528"
+      ],
+      "media_source_tweet_id": [
+        "2067384573852606799"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2067578603764896013",
+    "created_at": "2026-06-18T12:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067578603764896013"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 21,
+          "tag": "もっちゅりんだと思うものを貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "500730332",
+          "start": 3,
+          "username": "enchcmdosnfhrbc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0W0TG3wQMS",
+          "end": 61,
+          "expanded_url": "https://x.com/enchcmdosnfhrbc/status/2067384573852606799/photo/1",
+          "media_key": "3_2067384567795990528",
+          "start": 38,
+          "url": "https://t.co/0W0TG3wQMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067578603764896013",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067384573852606799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enchcmdosnfhrbc: #もっちゅりんだと思うものを貼る https://t.co/0W0TG3wQMS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067384567795990528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDTT5mawAAB9AW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067384567795990528"
+          ],
+          "media_source_tweet_id": [
+            "2067384573852606799"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2067578603764896013",
+        "created_at": "2026-06-18T12:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067578603764896013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 21,
+              "tag": "もっちゅりんだと思うものを貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "500730332",
+              "start": 3,
+              "username": "enchcmdosnfhrbc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0W0TG3wQMS",
+              "end": 61,
+              "expanded_url": "https://x.com/enchcmdosnfhrbc/status/2067384573852606799/photo/1",
+              "media_key": "3_2067384567795990528",
+              "start": 38,
+              "url": "https://t.co/0W0TG3wQMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067578603764896013",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067384573852606799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enchcmdosnfhrbc: #もっちゅりんだと思うものを貼る https://t.co/0W0TG3wQMS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067384567795990528"
+          ]
+        },
+        "author_id": "500730332",
+        "conversation_id": "2067384573852606799",
+        "created_at": "2026-06-17T23:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067384573852606799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "もっちゅりんだと思うものを貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0W0TG3wQMS",
+              "end": 40,
+              "expanded_url": "https://x.com/enchcmdosnfhrbc/status/2067384573852606799/photo/1",
+              "media_key": "3_2067384567795990528",
+              "start": 17,
+              "url": "https://t.co/0W0TG3wQMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067384573852606799",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 23533,
+          "like_count": 2229,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "#もっちゅりんだと思うものを貼る https://t.co/0W0TG3wQMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 188,
+          "like_count": 5788,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2606
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-23T12:13:36.000Z",
+        "description": "動物が大好きです。アザラシ幼稚園をよく見ています。伊勢シーパラダイスが大好きです。アザラシかわいい。それだけです。 毎日アザラシ見れるのありがたい。その気持ちだけでじゅうぶんです。🥐⛳️",
+        "id": "500730332",
+        "location": "日本",
+        "name": "mirry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863501151381094400/mQBGiabq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 98,
+          "like_count": 24913,
+          "listed_count": 4,
+          "media_count": 963,
+          "tweet_count": 3281
+        },
+        "url": "",
+        "username": "enchcmdosnfhrbc",
+        "verified": false
+      }
+    ]
+  }
+}

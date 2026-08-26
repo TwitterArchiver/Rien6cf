@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064241099561148723",
+    "created_at": "2026-06-09T07:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064241099561148723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/honchahmb/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/honchahmb/status/2063933294295879854",
+          "start": 20,
+          "url": "https://t.co/XE7jXoirTD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064241099561148723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063933294295879854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中学の制服ってまじでこういう感じ、死ぬ https://t.co/XE7jXoirTD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2063933258572980224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSQXQ1bYAAjaAi.jpg",
+        "width": 1173
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064241099561148723",
+        "created_at": "2026-06-09T07:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064241099561148723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/honchahmb/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/honchahmb/status/2063933294295879854",
+              "start": 20,
+              "url": "https://t.co/XE7jXoirTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064241099561148723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063933294295879854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中学の制服ってまじでこういう感じ、死ぬ https://t.co/XE7jXoirTD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063933258572980224"
+          ]
+        },
+        "author_id": "1155672520294408193",
+        "conversation_id": "2063933294295879854",
+        "created_at": "2026-06-08T10:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063933294295879854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lVMzsuZgS5",
+              "end": 48,
+              "expanded_url": "https://x.com/honchahmb/status/2063933294295879854/photo/1",
+              "media_key": "3_2063933258572980224",
+              "start": 25,
+              "url": "https://t.co/lVMzsuZgS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063933294295879854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 583,
+          "impression_count": 584675,
+          "like_count": 4050,
+          "quote_count": 162,
+          "reply_count": 172,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "中国、韓国、日本の学生服の違い\n※イメージです。 https://t.co/lVMzsuZgS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5330,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2491
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-29T02:52:54.000Z",
+        "description": "【中国語学習・中華圏にルーツや興味がある方へ】90后｜中国語スラング・中国語学習・日中ハーフあるあるをご紹介｜教科書で習わない中国語を発信中💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "honchablog.com",
+                "end": 23,
+                "expanded_url": "https://honchablog.com",
+                "start": 0,
+                "url": "https://t.co/solDvIhnoI"
+              }
+            ]
+          }
+        },
+        "id": "1155672520294408193",
+        "location": "ほんちゃブログ👇中国語学習/C-POPなど",
+        "name": "ほんちゃ🐼",
+        "pinned_tweet_id": "1997991765937434633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944894146898223106/heQyvTPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6313,
+          "following_count": 167,
+          "like_count": 104204,
+          "listed_count": 35,
+          "media_count": 1908,
+          "tweet_count": 20526
+        },
+        "url": "https://t.co/solDvIhnoI",
+        "username": "honchahmb",
+        "verified": false
+      }
+    ]
+  }
+}

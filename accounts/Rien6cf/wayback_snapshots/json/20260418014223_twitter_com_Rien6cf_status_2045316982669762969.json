@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045110140526026752",
+        "3_2045110140479983616"
+      ],
+      "media_source_tweet_id": [
+        "2045110151007650004",
+        "2045110151007650004"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2045316982669762969",
+    "created_at": "2026-04-18T01:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045316982669762969"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 88,
+          "tag": "パラディーク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1371782723107397632",
+          "start": 3,
+          "username": "para_deeq"
+        },
+        {
+          "end": 52,
+          "id": "2043930132356968451",
+          "start": 41,
+          "username": "para_chuin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1p8HQmxKQ",
+          "end": 119,
+          "expanded_url": "https://x.com/para_deeq/status/2045110151007650004/photo/1",
+          "media_key": "3_2045110140526026752",
+          "start": 96,
+          "url": "https://t.co/C1p8HQmxKQ"
+        },
+        {
+          "display_url": "pic.x.com/C1p8HQmxKQ",
+          "end": 119,
+          "expanded_url": "https://x.com/para_deeq/status/2045110151007650004/photo/1",
+          "media_key": "3_2045110140479983616",
+          "start": 96,
+          "url": "https://t.co/C1p8HQmxKQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045316982669762969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045110151007650004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @para_deeq: 【 新メンバー 4人目 】\n\n♥ 桜空ちゅいん ( @para_chuin )\n♡ 担当カラー : ピンク\n\n『 大空に輝くちゅいんくる♡ 』\n\n#パラディーク https://t.co/C1p8HQmxKQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2045110140526026752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGw1lyaYAAP4qw.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2045110140479983616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGw1lnb0AAfsKd.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045110140526026752",
+            "3_2045110140479983616"
+          ],
+          "media_source_tweet_id": [
+            "2045110151007650004",
+            "2045110151007650004"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2045316982669762969",
+        "created_at": "2026-04-18T01:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045316982669762969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 88,
+              "tag": "パラディーク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1371782723107397632",
+              "start": 3,
+              "username": "para_deeq"
+            },
+            {
+              "end": 52,
+              "id": "2043930132356968451",
+              "start": 41,
+              "username": "para_chuin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1p8HQmxKQ",
+              "end": 119,
+              "expanded_url": "https://x.com/para_deeq/status/2045110151007650004/photo/1",
+              "media_key": "3_2045110140526026752",
+              "start": 96,
+              "url": "https://t.co/C1p8HQmxKQ"
+            },
+            {
+              "display_url": "pic.x.com/C1p8HQmxKQ",
+              "end": 119,
+              "expanded_url": "https://x.com/para_deeq/status/2045110151007650004/photo/1",
+              "media_key": "3_2045110140479983616",
+              "start": 96,
+              "url": "https://t.co/C1p8HQmxKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045316982669762969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045110151007650004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @para_deeq: 【 新メンバー 4人目 】\n\n♥ 桜空ちゅいん ( @para_chuin )\n♡ 担当カラー : ピンク\n\n『 大空に輝くちゅいんくる♡ 』\n\n#パラディーク https://t.co/C1p8HQmxKQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045110140526026752",
+            "3_2045110140479983616"
+          ]
+        },
+        "author_id": "1371782723107397632",
+        "conversation_id": "2045110151007650004",
+        "created_at": "2026-04-17T12:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045110151007650004"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 73,
+              "tag": "パラディーク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 37,
+              "id": "2043930132356968451",
+              "start": 26,
+              "username": "para_chuin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1p8HQmxKQ",
+              "end": 104,
+              "expanded_url": "https://x.com/para_deeq/status/2045110151007650004/photo/1",
+              "media_key": "3_2045110140526026752",
+              "start": 81,
+              "url": "https://t.co/C1p8HQmxKQ"
+            },
+            {
+              "display_url": "pic.x.com/C1p8HQmxKQ",
+              "end": 104,
+              "expanded_url": "https://x.com/para_deeq/status/2045110151007650004/photo/1",
+              "media_key": "3_2045110140479983616",
+              "start": 81,
+              "url": "https://t.co/C1p8HQmxKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045110151007650004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 1069917,
+          "like_count": 5465,
+          "quote_count": 519,
+          "reply_count": 3,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "【 新メンバー 4人目 】\n\n♥ 桜空ちゅいん ( @para_chuin )\n♡ 担当カラー : ピンク\n\n『 大空に輝くちゅいんくる♡ 』\n\n#パラディーク https://t.co/C1p8HQmxKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 141,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1657
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-16T11:18:40.000Z",
+        "description": "2026年4月18日新体制デビュー❣️ スケジュールはこちら▷https://t.co/nbCCgeIeNC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "timetr.ee/p/para_deeq",
+                "end": 54,
+                "expanded_url": "https://timetr.ee/p/para_deeq",
+                "start": 31,
+                "url": "https://t.co/nbCCgeIeNC"
+              }
+            ]
+          }
+        },
+        "id": "1371782723107397632",
+        "location": "paradeeq.official@gmail.com",
+        "name": "パラディーク",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832301412497117184/bUt9ojmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11729,
+          "following_count": 14,
+          "like_count": 5423,
+          "listed_count": 150,
+          "media_count": 5010,
+          "tweet_count": 5898
+        },
+        "username": "para_deeq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T05:52:41.000Z",
+        "description": "@para_deeq 新メンバー ピンク色担当🎀\nぴんくとツインテール大好きです꒰՞ɞ̴̶̷̥⩊ɞ̴̶̷̥꒱֯🍥\n桜空（おうぞら）です🌸\n #大空に輝くちゅいんくる🩷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 70,
+                "tag": "大空に輝くちゅいんくる"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "para_deeq"
+              }
+            ]
+          }
+        },
+        "id": "2043930132356968451",
+        "name": "桜空ちゅいん【パラディーク】",
+        "pinned_tweet_id": "2045110914295468236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045110026164211712/JV2YsVcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 10,
+          "like_count": 142,
+          "listed_count": 5,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "para_chuin",
+        "verified": false
+      }
+    ]
+  }
+}

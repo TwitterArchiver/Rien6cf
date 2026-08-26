@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090487705364750337"
+      ],
+      "media_source_tweet_id": [
+        "2090487765347533186"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090619488924516502",
+    "created_at": "2026-08-21T01:58:22.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090619488924516502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546179655933345792",
+          "start": 3,
+          "username": "sillywaver"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qyGxawaGzR",
+          "end": 52,
+          "expanded_url": "https://x.com/sillywaver/status/2090487765347533186/video/1",
+          "media_key": "13_2090487705364750337",
+          "start": 29,
+          "url": "https://t.co/qyGxawaGzR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090619488924516502",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2090487705364750337"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090487765347533186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sillywaver: how it feels https://t.co/qyGxawaGzR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12416,
+        "height": 480,
+        "media_key": "13_2090487705364750337",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090487705364750337/img/nGU3GFlpQFFvh5Z9.jpg",
+        "public_metrics": {
+          "view_count": 11790
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090487705364750337/vid/avc1/278x270/uSxRbso3PhY09Enn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090487705364750337/vid/avc1/372x360/-ke5LNtg1cFKm3pW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090487705364750337/vid/avc1/496x480/2Mi0iu7swwi6XYZV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090487705364750337/pl/w2Ub4aHS_2mGGqzT.m3u8?v=cfc"
+          }
+        ],
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090487705364750337"
+          ],
+          "media_source_tweet_id": [
+            "2090487765347533186"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090619488924516502",
+        "created_at": "2026-08-21T01:58:22.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090619488924516502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546179655933345792",
+              "start": 3,
+              "username": "sillywaver"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyGxawaGzR",
+              "end": 52,
+              "expanded_url": "https://x.com/sillywaver/status/2090487765347533186/video/1",
+              "media_key": "13_2090487705364750337",
+              "start": 29,
+              "url": "https://t.co/qyGxawaGzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090619488924516502",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090487705364750337"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090487765347533186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sillywaver: how it feels https://t.co/qyGxawaGzR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090487705364750337"
+          ]
+        },
+        "author_id": "1546179655933345792",
+        "conversation_id": "2090487765347533186",
+        "created_at": "2026-08-20T17:14:57.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090487765347533186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyGxawaGzR",
+              "end": 36,
+              "expanded_url": "https://x.com/sillywaver/status/2090487765347533186/video/1",
+              "media_key": "13_2090487705364750337",
+              "start": 13,
+              "url": "https://t.co/qyGxawaGzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090487765347533186",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090487705364750337"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 536,
+          "impression_count": 26567,
+          "like_count": 3424,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "how it feels https://t.co/qyGxawaGzR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090619488924516502",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 216,
+          "like_count": 9613,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3408
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-10T17:09:15.000Z",
+        "description": "bottomless pit supervisor | pfp by @borenii_ banner by @dgud_a | ENG/עבר 🇵🇸 🇺🇦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "borenii_"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "username": "dgud_a"
+              }
+            ]
+          }
+        },
+        "id": "1546179655933345792",
+        "is_identity_verified": false,
+        "location": "21 | she/her",
+        "most_recent_tweet_id": "2090552045849702703",
+        "name": "or PVP boss",
+        "pinned_tweet_id": "1814030997664448539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546179655933345792/1740384178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081312914460356608/BUKkOg4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1260,
+          "like_count": 191299,
+          "listed_count": 3,
+          "media_count": 3162,
+          "tweet_count": 14252
+        },
+        "url": "",
+        "username": "sillywaver",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

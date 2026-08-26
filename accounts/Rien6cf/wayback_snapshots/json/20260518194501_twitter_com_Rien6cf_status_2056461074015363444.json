@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056204369369149440"
+      ],
+      "media_source_tweet_id": [
+        "2056204374247129296"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056461074015363444",
+    "created_at": "2026-05-18T19:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056461074015363444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "67034591",
+          "start": 3,
+          "username": "rika1402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aj4xarNWRa",
+          "end": 115,
+          "expanded_url": "https://x.com/rika1402/status/2056204374247129296/photo/1",
+          "media_key": "3_2056204369369149440",
+          "start": 92,
+          "url": "https://t.co/aj4xarNWRa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056461074015363444",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056204374247129296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rika1402: ひつじ探偵団！\n本当に見て損はないです！！\nよかったら観てください！いや！ぜひ！！！\n絶対観て！！！\n観ないとダメよ！！\nキラ「はい！キラも観ます！！🐑」 https://t.co/aj4xarNWRa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056204369369149440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIka-s3asAAVl9z.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056204369369149440"
+          ],
+          "media_source_tweet_id": [
+            "2056204374247129296"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056461074015363444",
+        "created_at": "2026-05-18T19:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056461074015363444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "67034591",
+              "start": 3,
+              "username": "rika1402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aj4xarNWRa",
+              "end": 115,
+              "expanded_url": "https://x.com/rika1402/status/2056204374247129296/photo/1",
+              "media_key": "3_2056204369369149440",
+              "start": 92,
+              "url": "https://t.co/aj4xarNWRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056461074015363444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056204374247129296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rika1402: ひつじ探偵団！\n本当に見て損はないです！！\nよかったら観てください！いや！ぜひ！！！\n絶対観て！！！\n観ないとダメよ！！\nキラ「はい！キラも観ます！！🐑」 https://t.co/aj4xarNWRa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056204369369149440"
+          ]
+        },
+        "author_id": "67034591",
+        "conversation_id": "2056204374247129296",
+        "created_at": "2026-05-18T02:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056204374247129296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aj4xarNWRa",
+              "end": 101,
+              "expanded_url": "https://x.com/rika1402/status/2056204374247129296/photo/1",
+              "media_key": "3_2056204369369149440",
+              "start": 78,
+              "url": "https://t.co/aj4xarNWRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056204374247129296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2102,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "ひつじ探偵団！\n本当に見て損はないです！！\nよかったら観てください！いや！ぜひ！！！\n絶対観て！！！\n観ないとダメよ！！\nキラ「はい！キラも観ます！！🐑」 https://t.co/aj4xarNWRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 169,
+          "like_count": 4212,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2134
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-19T15:55:22.000Z",
+        "description": "降快＆ひなけん中心に呟いたり絵を描いてます。 今はラッコに夢中です！沢山呟きます。フォローは慎重によろしくお願いします。Reprint is prohibited 成人済 https://t.co/JcJcQUfozk https://t.co/nxGJmOh5Fk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/rika1402",
+                "end": 109,
+                "expanded_url": "http://twpf.jp/rika1402",
+                "start": 86,
+                "url": "https://t.co/JcJcQUfozk"
+              },
+              {
+                "display_url": "privatter.net/u/rika1402",
+                "end": 133,
+                "expanded_url": "https://privatter.net/u/rika1402",
+                "start": 110,
+                "url": "https://t.co/nxGJmOh5Fk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=61442",
+                "start": 0,
+                "url": "https://t.co/ycKoPehRS3"
+              }
+            ]
+          }
+        },
+        "id": "67034591",
+        "location": "新潟PT",
+        "name": "りか🦦🌸☘",
+        "pinned_tweet_id": "1794935439956254772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670290475432181761/4lx5ELYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 983,
+          "like_count": 168175,
+          "listed_count": 32,
+          "media_count": 20173,
+          "tweet_count": 210895
+        },
+        "url": "https://t.co/ycKoPehRS3",
+        "username": "rika1402",
+        "verified": false
+      }
+    ]
+  }
+}

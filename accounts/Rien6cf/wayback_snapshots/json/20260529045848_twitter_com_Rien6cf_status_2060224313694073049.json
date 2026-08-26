@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060224313694073049",
+    "created_at": "2026-05-29T04:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060224313694073049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892530438125875201",
+          "start": 3,
+          "username": "adogtwting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060224313694073049",
+    "lang": "da",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059627589665190132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adogtwting: bark bark bark bark bark bark bark"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060224313694073049",
+        "created_at": "2026-05-29T04:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060224313694073049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892530438125875201",
+              "start": 3,
+              "username": "adogtwting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060224313694073049",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059627589665190132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adogtwting: bark bark bark bark bark bark bark"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892530438125875201",
+        "conversation_id": "2059627589665190132",
+        "created_at": "2026-05-27T13:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059627589665190132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059627589665190132",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8013,
+          "like_count": 394,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "bark bark bark bark bark bark bark"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 179,
+          "like_count": 4683,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2279
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T11:03:19.000Z",
+        "description": "literally just a dog with a blog",
+        "id": "1892530438125875201",
+        "location": "dog park",
+        "name": "dog",
+        "pinned_tweet_id": "2060073732308111493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050344276744159232/d2wBHGv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12077,
+          "following_count": 126,
+          "like_count": 183,
+          "listed_count": 40,
+          "media_count": 70,
+          "tweet_count": 351
+        },
+        "username": "adogtwting",
+        "verified": true
+      }
+    ]
+  }
+}

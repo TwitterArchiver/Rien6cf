@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046041097802301440"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2046041109319819652",
+    "created_at": "2026-04-20T01:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046041109319819652"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bJJ7vlsu6o",
+          "end": 38,
+          "expanded_url": "https://x.com/Rien6cf/status/2046041109319819652/video/1",
+          "media_key": "13_2046041097802301440",
+          "start": 15,
+          "url": "https://t.co/bJJ7vlsu6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046041109319819652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女の子でいいな\n#自撮り界隈 https://t.co/bJJ7vlsu6o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2566,
+        "height": 960,
+        "media_key": "13_2046041097802301440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046041097802301440/img/hzWwuYH3roR2aVz8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046041097802301440/vid/avc1/320x426/kUNtInu56GaGeuSf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046041097802301440/vid/avc1/480x640/6SAprtg_2DlQBuO8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046041097802301440/vid/avc1/720x960/rBaonexVS0oNmlqa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046041097802301440/pl/lPCGKwEIjqKl_IFs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046041097802301440"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2046041109319819652",
+        "created_at": "2026-04-20T01:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046041109319819652"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJJ7vlsu6o",
+              "end": 38,
+              "expanded_url": "https://x.com/Rien6cf/status/2046041109319819652/video/1",
+              "media_key": "13_2046041097802301440",
+              "start": 15,
+              "url": "https://t.co/bJJ7vlsu6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046041109319819652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女の子でいいな\n#自撮り界隈 https://t.co/bJJ7vlsu6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 143,
+          "like_count": 2846,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1673
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053446350201835520"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hair Care",
+          "id": "854761964874088448",
+          "name": "Hair care"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conditioner",
+          "id": "854765599469076480",
+          "name": "Conditioner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conditioner",
+          "id": "854765599469076480",
+          "name": "Conditioner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Conditioner",
+          "id": "854765599469076480",
+          "name": "Conditioner"
+        }
+      }
+    ],
+    "conversation_id": "2053446355599892774",
+    "created_at": "2026-05-10T12:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053446355599892774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NTW0l7e6Xd",
+          "end": 128,
+          "expanded_url": "https://x.com/Rien6cf/status/2053446355599892774/photo/1",
+          "media_key": "3_2053446350201835520",
+          "start": 105,
+          "url": "https://t.co/NTW0l7e6Xd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053446355599892774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昔は父さんにヘアオイルはダメだぞって言われたんけど今は普通に使ってる\nあ、カラコンもダメだった\n🥸:「まだ子供だから使う必要がねぇ‼️わかる？\n👩🏻(16歳、スーパー剛毛):あ、わかりました。\nスーパー剛毛↓ https://t.co/NTW0l7e6Xd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2053446350201835520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9Ok20aUAAT9Oq.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053446350201835520"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hair Care",
+              "id": "854761964874088448",
+              "name": "Hair care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conditioner",
+              "id": "854765599469076480",
+              "name": "Conditioner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conditioner",
+              "id": "854765599469076480",
+              "name": "Conditioner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Conditioner",
+              "id": "854765599469076480",
+              "name": "Conditioner"
+            }
+          }
+        ],
+        "conversation_id": "2053446355599892774",
+        "created_at": "2026-05-10T12:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053446355599892774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTW0l7e6Xd",
+              "end": 128,
+              "expanded_url": "https://x.com/Rien6cf/status/2053446355599892774/photo/1",
+              "media_key": "3_2053446350201835520",
+              "start": 105,
+              "url": "https://t.co/NTW0l7e6Xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053446355599892774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昔は父さんにヘアオイルはダメだぞって言われたんけど今は普通に使ってる\nあ、カラコンもダメだった\n🥸:「まだ子供だから使う必要がねぇ‼️わかる？\n👩🏻(16歳、スーパー剛毛):あ、わかりました。\nスーパー剛毛↓ https://t.co/NTW0l7e6Xd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3660,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1962
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

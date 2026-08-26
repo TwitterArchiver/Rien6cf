@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2040467809977909380",
+    "created_at": "2026-04-04T16:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040467809977909380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "60105788",
+          "start": 3,
+          "username": "wowaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040467809977909380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50900
+    },
+    "referenced_tweets": [
+      {
+        "id": "1112546645223198721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wowaka: 令和きれいだー。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2040467809977909380",
+        "created_at": "2026-04-04T16:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040467809977909380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "60105788",
+              "start": 3,
+              "username": "wowaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040467809977909380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50900
+        },
+        "referenced_tweets": [
+          {
+            "id": "1112546645223198721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wowaka: 令和きれいだー。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60105788",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1103034132668375045",
+              "name": "JP - New Era Name Announcement (新元号発表)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1103034132668375045",
+              "name": "JP - New Era Name Announcement (新元号発表)"
+            }
+          }
+        ],
+        "conversation_id": "1112546645223198721",
+        "created_at": "2019-04-01T02:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2019-04-01T03:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1112546645223198721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1112546645223198721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5676,
+          "impression_count": 0,
+          "like_count": 185414,
+          "quote_count": 4264,
+          "reply_count": 6957,
+          "retweet_count": 50900
+        },
+        "reply_settings": "everyone",
+        "text": "令和きれいだー。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 127,
+          "like_count": 2284,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1404
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T17:36:20.000Z",
+        "description": "音楽 / ヒトリエ [ @hitorieJP ] Vocal / https://t.co/RcQ2aiVgCD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "hitorieJP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Instagram.com/wowaka_hitorie",
+                "end": 56,
+                "expanded_url": "http://Instagram.com/wowaka_hitorie",
+                "start": 33,
+                "url": "https://t.co/RcQ2aiVgCD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hitorie.jp",
+                "end": 23,
+                "expanded_url": "http://hitorie.jp",
+                "start": 0,
+                "url": "https://t.co/rEhbnj0e3N"
+              }
+            ]
+          }
+        },
+        "id": "60105788",
+        "name": "wowaka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2770097162/9d301f43c4c72eb2c7358c9d670cc742_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275799,
+          "following_count": 344,
+          "like_count": 2,
+          "listed_count": 3172,
+          "media_count": 231,
+          "tweet_count": 4353
+        },
+        "url": "https://t.co/rEhbnj0e3N",
+        "username": "wowaka",
+        "verified": false
+      }
+    ]
+  }
+}

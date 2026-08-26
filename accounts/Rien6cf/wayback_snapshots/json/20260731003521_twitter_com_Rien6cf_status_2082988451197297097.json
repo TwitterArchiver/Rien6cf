@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2082988451197297097",
+    "created_at": "2026-07-31T00:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082988451197297097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1619739297518862336",
+          "start": 3,
+          "username": "seki808808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082988451197297097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080651104111730937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seki808808: 东京旋死队招乐手\n缺吉他鼓键盘 对技术力要求较高\n如果有合适的朋友请务必引荐给我🙏\nお願いいたします🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2082988451197297097",
+        "created_at": "2026-07-31T00:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082988451197297097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1619739297518862336",
+              "start": 3,
+              "username": "seki808808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082988451197297097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080651104111730937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seki808808: 东京旋死队招乐手\n缺吉他鼓键盘 对技术力要求较高\n如果有合适的朋友请务必引荐给我🙏\nお願いいたします🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619739297518862336",
+        "conversation_id": "2080651104111730937",
+        "created_at": "2026-07-24T13:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080651104111730937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080651104111730937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1581,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "东京旋死队招乐手\n缺吉他鼓键盘 对技术力要求较高\n如果有合适的朋友请务必引荐给我🙏\nお願いいたします🤲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 207,
+          "like_count": 8930,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 3199
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T16:48:45.000Z",
+        "description": "",
+        "id": "1619739297518862336",
+        "name": "808",
+        "pinned_tweet_id": "2080651104111730937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886457724575322112/3b_FbZrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 1284,
+          "like_count": 13354,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "seki808808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073311455127175462",
+    "created_at": "2026-07-04T07:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073311455127175462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039252048546234368",
+          "start": 3,
+          "username": "__xjkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073311455127175462",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3720
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072726596558246092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__xjkx: 人間って寝溜めできないのガチで終わってる。\n進化過程で絶対追加するべき機能なのに"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073311455127175462",
+        "created_at": "2026-07-04T07:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073311455127175462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039252048546234368",
+              "start": 3,
+              "username": "__xjkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073311455127175462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3720
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072726596558246092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__xjkx: 人間って寝溜めできないのガチで終わってる。\n進化過程で絶対追加するべき機能なのに"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039252048546234368",
+        "conversation_id": "2072726596558246092",
+        "created_at": "2026-07-02T16:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072726596558246092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072726596558246092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1961,
+          "impression_count": 3051343,
+          "like_count": 116059,
+          "quote_count": 343,
+          "reply_count": 204,
+          "retweet_count": 3720
+        },
+        "reply_settings": "everyone",
+        "text": "人間って寝溜めできないのガチで終わってる。\n進化過程で絶対追加するべき機能なのに"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 196,
+          "like_count": 6859,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 2797
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T08:03:21.000Z",
+        "description": "🌳 / 👊🏻🩸/ 顔面青春コンプ",
+        "id": "2039252048546234368",
+        "location": "自分に向けての言葉",
+        "name": "倫理",
+        "pinned_tweet_id": "2070877537379782829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052397330041851905/GeqA1pV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4060,
+          "following_count": 320,
+          "like_count": 9235,
+          "listed_count": 31,
+          "media_count": 183,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "__xjkx",
+        "verified": false
+      }
+    ]
+  }
+}

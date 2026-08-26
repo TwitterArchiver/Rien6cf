@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029468742414192640"
+      ],
+      "media_source_tweet_id": [
+        "2029468747774476762"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "2029593803183841391",
+    "created_at": "2026-03-05T16:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029593803183841391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1458616645078126597",
+          "start": 3,
+          "username": "bad_texter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JI2SqqnT3r",
+          "end": 43,
+          "expanded_url": "https://x.com/bad_texter/status/2029468747774476762/photo/1",
+          "media_key": "3_2029468742414192640",
+          "start": 20,
+          "url": "https://t.co/JI2SqqnT3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029593803183841391",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 525
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029468747774476762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bad_texter: 卒業式 https://t.co/JI2SqqnT3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1021,
+        "media_key": "3_2029468742414192640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCofEZJbUAA0Vs2.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029468742414192640"
+          ],
+          "media_source_tweet_id": [
+            "2029468747774476762"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2029593803183841391",
+        "created_at": "2026-03-05T16:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029593803183841391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1458616645078126597",
+              "start": 3,
+              "username": "bad_texter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JI2SqqnT3r",
+              "end": 43,
+              "expanded_url": "https://x.com/bad_texter/status/2029468747774476762/photo/1",
+              "media_key": "3_2029468742414192640",
+              "start": 20,
+              "url": "https://t.co/JI2SqqnT3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029593803183841391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 525
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029468747774476762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bad_texter: 卒業式 https://t.co/JI2SqqnT3r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029468742414192640"
+          ]
+        },
+        "author_id": "1458616645078126597",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2029468747774476762",
+        "created_at": "2026-03-05T08:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029468747774476762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JI2SqqnT3r",
+              "end": 27,
+              "expanded_url": "https://x.com/bad_texter/status/2029468747774476762/photo/1",
+              "media_key": "3_2029468742414192640",
+              "start": 4,
+              "url": "https://t.co/JI2SqqnT3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029468747774476762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 186546,
+          "like_count": 9916,
+          "quote_count": 41,
+          "reply_count": 65,
+          "retweet_count": 525
+        },
+        "reply_settings": "everyone",
+        "text": "卒業式 https://t.co/JI2SqqnT3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 101,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 786
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-11T02:04:51.000Z",
+        "description": "Communication Breakdown. https://t.co/3UJXIWkMqD  お問合せ:communication.breakdown.japan@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/KWmxsQSzQag",
+                "end": 48,
+                "expanded_url": "https://youtu.be/KWmxsQSzQag",
+                "start": 25,
+                "url": "https://t.co/3UJXIWkMqD"
+              }
+            ]
+          }
+        },
+        "id": "1458616645078126597",
+        "name": "会話",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458619463805595648/m1Gx3UUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469937,
+          "following_count": 39,
+          "like_count": 5483,
+          "listed_count": 1152,
+          "media_count": 7580,
+          "tweet_count": 8051
+        },
+        "username": "bad_texter",
+        "verified": true
+      }
+    ]
+  }
+}

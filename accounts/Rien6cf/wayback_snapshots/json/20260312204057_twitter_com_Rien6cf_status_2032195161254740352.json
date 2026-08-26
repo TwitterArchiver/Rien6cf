@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "624184390592000000",
+    "created_at": "2026-03-12T20:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T21:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032195161254740352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "245670900",
+          "start": 0,
+          "username": "siinamota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032195161254740352",
+    "in_reply_to_user_id": "245670900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "624184390592000000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siinamota 想成为像motaさん一样的人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "624184390592000000",
+        "created_at": "2026-03-12T20:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032195161254740352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "245670900",
+              "start": 0,
+              "username": "siinamota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032195161254740352",
+        "in_reply_to_user_id": "245670900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "624184390592000000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siinamota 想成为像motaさん一样的人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "245670900",
+        "conversation_id": "624184390592000000",
+        "created_at": "2015-07-23T11:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2015-07-23T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "624184390592000000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "624184390592000000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2382,
+          "impression_count": 0,
+          "like_count": 37020,
+          "quote_count": 1219,
+          "reply_count": 1640,
+          "retweet_count": 10433
+        },
+        "reply_settings": "everyone",
+        "text": "大人になったから魅力がなくなった、と。\n大人になってはいけないらしいですね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2032136717285958050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 107,
+          "like_count": 1410,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1014
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-01T06:14:13.000Z",
+        "description": "音楽家　絵も描く　→siinamota@gingaweb.net\ni&h とくちな",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "siinamota.com/index.html",
+                "end": 22,
+                "expanded_url": "http://www.siinamota.com/index.html",
+                "start": 0,
+                "url": "http://t.co/t81PZIxqqk"
+              }
+            ]
+          }
+        },
+        "id": "245670900",
+        "location": "スタジオポンコツ",
+        "name": "椎名もた",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/591631266937638913/AtOAlQpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62737,
+          "following_count": 630,
+          "like_count": 5600,
+          "listed_count": 748,
+          "media_count": 1373,
+          "tweet_count": 50538
+        },
+        "url": "http://t.co/t81PZIxqqk",
+        "username": "siinamota",
+        "verified": false
+      }
+    ]
+  }
+}

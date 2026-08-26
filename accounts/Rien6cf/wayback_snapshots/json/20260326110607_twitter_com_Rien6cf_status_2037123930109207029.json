@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2037123930109207029",
+    "created_at": "2026-03-26T11:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037123930109207029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1561588899499196417",
+          "start": 3,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037123930109207029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037033663624573208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tiandaidaidai: 上网看了一辈子健全人的这种言论。上推特还有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2037123930109207029",
+        "created_at": "2026-03-26T11:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037123930109207029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1561588899499196417",
+              "start": 3,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037123930109207029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037033663624573208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tiandaidaidai: 上网看了一辈子健全人的这种言论。上推特还有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561588899499196417",
+        "conversation_id": "2037033663624573208",
+        "created_at": "2026-03-26T05:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037033663624573208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Abel_akun/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Abel_akun/status/2036815734626730166",
+              "start": 22,
+              "url": "https://t.co/YkoU1FzmDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037033663624573208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3705,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036815734626730166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上网看了一辈子健全人的这种言论。上推特还有 https://t.co/YkoU1FzmDp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです//\n顺女//LGBTQ友好//互fo请戳//直fo是喜欢你",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2037089526167019548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 123,
+          "like_count": 1968,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1292
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "退役oder 丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨不会聊天别找我闲聊丨 狗@GHYYAYA 丨 提问箱https://t.co/nWrczArwoW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 86,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 63,
+                "url": "https://t.co/nWrczArwoW"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020409150174629888/JDiHPAX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2270,
+          "like_count": 83290,
+          "listed_count": 11,
+          "media_count": 741,
+          "tweet_count": 11797
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2075378575348494403",
+    "created_at": "2026-07-10T00:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T01:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075378575348494403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778793847830786048",
+          "start": 3,
+          "username": "asd_chicken1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075378575348494403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 477
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075168266448937358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asd_chicken1: ASD、ホンマにフラバ現象で苦しんでる人が多いんよな。\n昔同級生に挑発されたとか、先生に理不尽に怒られた記憶が急に蘇ってブチ切れて興奮しすぎて腹が痛くなって寝れない夜を過ごしてる事が自分はよくある。\nこの現象の対処法なんだけど、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2075378575348494403",
+        "created_at": "2026-07-10T00:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075378575348494403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778793847830786048",
+              "start": 3,
+              "username": "asd_chicken1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075378575348494403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 477
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075168266448937358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asd_chicken1: ASD、ホンマにフラバ現象で苦しんでる人が多いんよな。\n昔同級生に挑発されたとか、先生に理不尽に怒られた記憶が急に蘇ってブチ切れて興奮しすぎて腹が痛くなって寝れない夜を過ごしてる事が自分はよくある。\nこの現象の対処法なんだけど、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778793847830786048",
+        "conversation_id": "2075168266448937358",
+        "created_at": "2026-07-09T10:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075168266448937358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075168266448937358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1861,
+          "impression_count": 555707,
+          "like_count": 6576,
+          "quote_count": 129,
+          "reply_count": 35,
+          "retweet_count": 477
+        },
+        "reply_settings": "everyone",
+        "text": "ASD、ホンマにフラバ現象で苦しんでる人が多いんよな。\n昔同級生に挑発されたとか、先生に理不尽に怒られた記憶が急に蘇ってブチ切れて興奮しすぎて腹が痛くなって寝れない夜を過ごしてる事が自分はよくある。\nこの現象の対処法なんだけど、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 195,
+          "like_count": 7419,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2877
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T14:34:51.000Z",
+        "description": "3歳で自閉症診断(受動型)/国公立大学理系ボッチ/2E/\n・幼少期〜現在までの自分の体験や内面を綴る。\n・発達障害やメンタル面の言語化や考察\nを行い、生きづらさの共有や共感する場を作ったり、改善のヒントとなる発信を目指してます。\n\n※名前はLチキが好き過ぎる為",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/asd_chicken1",
+                "end": 23,
+                "expanded_url": "https://note.com/asd_chicken1",
+                "start": 0,
+                "url": "https://t.co/n0xVBjy9MD"
+              }
+            ]
+          }
+        },
+        "id": "1778793847830786048",
+        "location": "ローソンの揚げ物コーナー",
+        "name": "Lチキレッド@発達障害大学生",
+        "pinned_tweet_id": "2051964579354456306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986248881890598916/Rt0YNv1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15150,
+          "following_count": 1036,
+          "like_count": 54378,
+          "listed_count": 100,
+          "media_count": 321,
+          "tweet_count": 22056
+        },
+        "url": "https://t.co/n0xVBjy9MD",
+        "username": "asd_chicken1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058191774066298880"
+      ],
+      "media_source_tweet_id": [
+        "2058191776935231846"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058475430303404371",
+    "created_at": "2026-05-24T09:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058475430303404371"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "うみたまご"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1905226929697095680",
+          "start": 3,
+          "username": "maruk_mc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dC3H4rp2jr",
+          "end": 57,
+          "expanded_url": "https://x.com/maruk_mc/status/2058191776935231846/photo/1",
+          "media_key": "3_2058191774066298880",
+          "start": 34,
+          "url": "https://t.co/dC3H4rp2jr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058475430303404371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058191776935231846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @maruk_mc: にらちゃん🦭✨\n26.4\n#うみたまご https://t.co/dC3H4rp2jr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058191774066298880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAqg4TaUAA1sA6.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058191774066298880"
+          ],
+          "media_source_tweet_id": [
+            "2058191776935231846"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058475430303404371",
+        "created_at": "2026-05-24T09:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058475430303404371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "うみたまご"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1905226929697095680",
+              "start": 3,
+              "username": "maruk_mc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dC3H4rp2jr",
+              "end": 57,
+              "expanded_url": "https://x.com/maruk_mc/status/2058191776935231846/photo/1",
+              "media_key": "3_2058191774066298880",
+              "start": 34,
+              "url": "https://t.co/dC3H4rp2jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058475430303404371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058191776935231846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @maruk_mc: にらちゃん🦭✨\n26.4\n#うみたまご https://t.co/dC3H4rp2jr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058191774066298880"
+          ]
+        },
+        "author_id": "1905226929697095680",
+        "conversation_id": "2058191776935231846",
+        "created_at": "2026-05-23T14:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058191776935231846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "うみたまご"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dC3H4rp2jr",
+              "end": 43,
+              "expanded_url": "https://x.com/maruk_mc/status/2058191776935231846/photo/1",
+              "media_key": "3_2058191774066298880",
+              "start": 20,
+              "url": "https://t.co/dC3H4rp2jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058191776935231846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3991,
+          "like_count": 508,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "following",
+        "text": "にらちゃん🦭✨\n26.4\n#うみたまご https://t.co/dC3H4rp2jr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4422,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2209
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T11:57:03.000Z",
+        "description": "アザラシが大好き。アザラシになりたい。主に🦭、他に好きな生き物とたまに雑多なことをマイペースに。＊無断転載禁止。鍵垢の方やスパムと思われる垢はブロックする事があります。",
+        "id": "1905226929697095680",
+        "name": "なつ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651066579488768/EqFBjYNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 76,
+          "like_count": 9820,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4143
+        },
+        "username": "maruk_mc",
+        "verified": false
+      }
+    ]
+  }
+}

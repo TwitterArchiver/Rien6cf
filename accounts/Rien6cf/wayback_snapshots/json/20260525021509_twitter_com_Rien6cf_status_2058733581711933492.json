@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058512445157806080"
+      ],
+      "media_source_tweet_id": [
+        "2058512463067586651"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058733581711933492",
+    "created_at": "2026-05-25T02:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058733581711933492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717077063105167360",
+          "start": 3,
+          "username": "rickey_sea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SMO8GeYlcC",
+          "end": 65,
+          "expanded_url": "https://x.com/rickey_sea/status/2058512463067586651/photo/1",
+          "media_key": "3_2058512445157806080",
+          "start": 42,
+          "url": "https://t.co/SMO8GeYlcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058733581711933492",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058512463067586651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rickey_sea: 久しぶりにアラレちゃんに会えて嬉し可愛かった🥲✨️ https://t.co/SMO8GeYlcC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3074,
+        "media_key": "3_2058512445157806080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFOKZNaEAAKR4E.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058512445157806080"
+          ],
+          "media_source_tweet_id": [
+            "2058512463067586651"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058733581711933492",
+        "created_at": "2026-05-25T02:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058733581711933492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717077063105167360",
+              "start": 3,
+              "username": "rickey_sea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMO8GeYlcC",
+              "end": 65,
+              "expanded_url": "https://x.com/rickey_sea/status/2058512463067586651/photo/1",
+              "media_key": "3_2058512445157806080",
+              "start": 42,
+              "url": "https://t.co/SMO8GeYlcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058733581711933492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058512463067586651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rickey_sea: 久しぶりにアラレちゃんに会えて嬉し可愛かった🥲✨️ https://t.co/SMO8GeYlcC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058512445157806080"
+          ]
+        },
+        "author_id": "1717077063105167360",
+        "conversation_id": "2058512463067586651",
+        "created_at": "2026-05-24T11:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058512463067586651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMO8GeYlcC",
+              "end": 49,
+              "expanded_url": "https://x.com/rickey_sea/status/2058512463067586651/photo/1",
+              "media_key": "3_2058512445157806080",
+              "start": 26,
+              "url": "https://t.co/SMO8GeYlcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058512463067586651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 2832,
+          "like_count": 350,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりにアラレちゃんに会えて嬉し可愛かった🥲✨️ https://t.co/SMO8GeYlcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 171,
+          "like_count": 4464,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2217
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:14:22.000Z",
+        "description": "【2023.10.25-】🦭🔰┊︎ワモンアザラシ ミゾレが原点┊︎個人的アザ活備忘録▷▶ #RS_アザ活備忘録┊︎無言フォロー失礼します・アザラシ関連のRP多めです┊︎ Please do not use or repost without permission.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 45,
+                "tag": "RS_アザ活備忘録"
+              }
+            ]
+          }
+        },
+        "id": "1717077063105167360",
+        "location": "よく出没するのは海遊館です",
+        "name": "りっきー⋆🦭",
+        "pinned_tweet_id": "1717080899354034203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996064521753083904/rDt1HTGD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 230,
+          "like_count": 28459,
+          "listed_count": 11,
+          "media_count": 2048,
+          "tweet_count": 13060
+        },
+        "username": "rickey_sea",
+        "verified": false
+      }
+    ]
+  }
+}

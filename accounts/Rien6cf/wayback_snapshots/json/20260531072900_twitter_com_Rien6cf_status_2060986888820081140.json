@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060892550786084864"
+      ],
+      "media_source_tweet_id": [
+        "2060892553646608590"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060986888820081140",
+    "created_at": "2026-05-31T07:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060986888820081140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1278831792540139523",
+          "start": 3,
+          "username": "miike_hrk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qkKazoCT9j",
+          "end": 44,
+          "expanded_url": "https://x.com/miike_hrk/status/2060892553646608590/photo/1",
+          "media_key": "3_2060892550786084864",
+          "start": 21,
+          "url": "https://t.co/qkKazoCT9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060986888820081140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060892553646608590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miike_hrk: 那我问你： https://t.co/qkKazoCT9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2060892550786084864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnC2xnacAAnqE8.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060892550786084864"
+          ],
+          "media_source_tweet_id": [
+            "2060892553646608590"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060986888820081140",
+        "created_at": "2026-05-31T07:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060986888820081140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1278831792540139523",
+              "start": 3,
+              "username": "miike_hrk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkKazoCT9j",
+              "end": 44,
+              "expanded_url": "https://x.com/miike_hrk/status/2060892553646608590/photo/1",
+              "media_key": "3_2060892550786084864",
+              "start": 21,
+              "url": "https://t.co/qkKazoCT9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060986888820081140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060892553646608590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miike_hrk: 那我问你： https://t.co/qkKazoCT9j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060892550786084864"
+          ]
+        },
+        "author_id": "1278831792540139523",
+        "conversation_id": "2060892553646608590",
+        "created_at": "2026-05-31T01:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060892553646608590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkKazoCT9j",
+              "end": 29,
+              "expanded_url": "https://x.com/miike_hrk/status/2060892553646608590/photo/1",
+              "media_key": "3_2060892550786084864",
+              "start": 6,
+              "url": "https://t.co/qkKazoCT9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060892553646608590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13886,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那我问你： https://t.co/qkKazoCT9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 180,
+          "like_count": 4821,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2311
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "20↑｜Cosplay｜Tourette's Syndrome｜CFA & FRM｜SP500 ETF Trading Analyst",
+        "id": "1278831792540139523",
+        "location": "Yabao Road, Beijing",
+        "name": "❀雲堇はるか❀",
+        "pinned_tweet_id": "2046849424257912833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923486647221616646/jewlxugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4726,
+          "following_count": 463,
+          "like_count": 33653,
+          "listed_count": 17,
+          "media_count": 12234,
+          "tweet_count": 47510
+        },
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

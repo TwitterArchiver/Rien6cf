@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055983836367069184"
+      ],
+      "media_source_tweet_id": [
+        "2055983841014321416"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056247987689652583",
+    "created_at": "2026-05-18T05:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056247987689652583"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 12,
+          "tag": "ディズニー写真下手選手権"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "130990699",
+          "start": 3,
+          "username": "mm0522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hlHrnxMOSp",
+          "end": 55,
+          "expanded_url": "https://x.com/mm0522/status/2055983841014321416/photo/1",
+          "media_key": "3_2055983836367069184",
+          "start": 32,
+          "url": "https://t.co/hlHrnxMOSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056247987689652583",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4917
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055983841014321416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mm0522: #ディズニー写真下手選手権\n\nこれかな https://t.co/hlHrnxMOSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055983836367069184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhSZ_aaoAAhsgn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055983836367069184"
+          ],
+          "media_source_tweet_id": [
+            "2055983841014321416"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056247987689652583",
+        "created_at": "2026-05-18T05:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056247987689652583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 12,
+              "tag": "ディズニー写真下手選手権"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "130990699",
+              "start": 3,
+              "username": "mm0522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlHrnxMOSp",
+              "end": 55,
+              "expanded_url": "https://x.com/mm0522/status/2055983841014321416/photo/1",
+              "media_key": "3_2055983836367069184",
+              "start": 32,
+              "url": "https://t.co/hlHrnxMOSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056247987689652583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4924
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055983841014321416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mm0522: #ディズニー写真下手選手権\n\nこれかな https://t.co/hlHrnxMOSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055983836367069184"
+          ]
+        },
+        "author_id": "130990699",
+        "conversation_id": "2055983841014321416",
+        "created_at": "2026-05-17T12:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055983841014321416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "ディズニー写真下手選手権"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlHrnxMOSp",
+              "end": 43,
+              "expanded_url": "https://x.com/mm0522/status/2055983841014321416/photo/1",
+              "media_key": "3_2055983836367069184",
+              "start": 20,
+              "url": "https://t.co/hlHrnxMOSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055983841014321416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2177,
+          "impression_count": 980696,
+          "like_count": 53057,
+          "quote_count": 280,
+          "reply_count": 121,
+          "retweet_count": 4924
+        },
+        "reply_settings": "everyone",
+        "text": "#ディズニー写真下手選手権\n\nこれかな https://t.co/hlHrnxMOSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 167,
+          "like_count": 4141,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2100
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-08T23:27:39.000Z",
+        "description": "釣り。生き物飼育。ホロリス。宝鐘の一味。元ディズニー年パサー。デジヲタ。過去ショーパレ動画アップしてますhttps://t.co/LDZcy0DiHQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCgECy…",
+                "end": 75,
+                "expanded_url": "https://www.youtube.com/channel/UCgECyR9ABw8w5batGitjx_A",
+                "start": 52,
+                "url": "https://t.co/LDZcy0DiHQ"
+              }
+            ]
+          }
+        },
+        "id": "130990699",
+        "location": "藤沢・舞浜・美味しいご飯があるとこ",
+        "name": "まさ@娘は私をしゃしゃと呼ぶ",
+        "pinned_tweet_id": "831795316982681600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021457490576277516/PQysM5mA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 783,
+          "like_count": 19103,
+          "listed_count": 11,
+          "media_count": 9099,
+          "tweet_count": 42269
+        },
+        "username": "mm0522",
+        "verified": false
+      }
+    ]
+  }
+}

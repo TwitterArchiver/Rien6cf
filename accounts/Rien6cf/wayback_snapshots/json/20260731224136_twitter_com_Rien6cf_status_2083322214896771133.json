@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2083190212939944403",
+    "created_at": "2026-07-31T22:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T23:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083322214896771133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735501744510263297",
+          "start": 0,
+          "username": "Yaesaki_Mimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083322214896771133",
+    "in_reply_to_user_id": "1735501744510263297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083321014608626135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yaesaki_Mimu 日本人か"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083321014608626135].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083321014608626135",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083321014608626135"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2083190212939944403",
+        "created_at": "2026-07-31T22:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T23:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083322214896771133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735501744510263297",
+              "start": 0,
+              "username": "Yaesaki_Mimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083322214896771133",
+        "in_reply_to_user_id": "1735501744510263297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083321014608626135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yaesaki_Mimu 日本人か"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 205,
+          "like_count": 8958,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T03:27:31.000Z",
+        "description": "3Dモデルとかいろいろ\nアイコン@yon4g1_VRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "yon4g1_VRC"
+              }
+            ]
+          }
+        },
+        "id": "1735501744510263297",
+        "location": "くらいとこ",
+        "name": "みむ🐟️🦴【MIMU】",
+        "pinned_tweet_id": "2054550978276606448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069823667098238976/8j1UazLs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 1095,
+          "like_count": 130772,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 9709
+        },
+        "url": "",
+        "username": "Yaesaki_Mimu",
+        "verified": false
+      }
+    ]
+  }
+}

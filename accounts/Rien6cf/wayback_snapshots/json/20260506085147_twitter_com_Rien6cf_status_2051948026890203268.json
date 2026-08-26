@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051822506621956096",
+        "3_2051822506659733504"
+      ],
+      "media_source_tweet_id": [
+        "2051822511676104743",
+        "2051822511676104743"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2051948026890203268",
+    "created_at": "2026-05-06T08:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051948026890203268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1229707931639136256",
+          "start": 3,
+          "username": "shupra004"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wdUuAgZLSz",
+          "end": 59,
+          "expanded_url": "https://x.com/shupra004/status/2051822511676104743/photo/1",
+          "media_key": "3_2051822506621956096",
+          "start": 36,
+          "url": "https://t.co/wdUuAgZLSz"
+        },
+        {
+          "display_url": "pic.x.com/wdUuAgZLSz",
+          "end": 59,
+          "expanded_url": "https://x.com/shupra004/status/2051822511676104743/photo/1",
+          "media_key": "3_2051822506659733504",
+          "start": 36,
+          "url": "https://t.co/wdUuAgZLSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051948026890203268",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051822511676104743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shupra004: ← GW初日　　　　　　　→ GW最終日 https://t.co/wdUuAgZLSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_2051822506621956096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmJsuFacAA1Cyj.jpg",
+        "width": 552
+      },
+      {
+        "height": 271,
+        "media_key": "3_2051822506659733504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmJsuOa4AAsu8i.jpg",
+        "width": 312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051822506621956096",
+            "3_2051822506659733504"
+          ],
+          "media_source_tweet_id": [
+            "2051822511676104743",
+            "2051822511676104743"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2051948026890203268",
+        "created_at": "2026-05-06T08:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051948026890203268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1229707931639136256",
+              "start": 3,
+              "username": "shupra004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdUuAgZLSz",
+              "end": 59,
+              "expanded_url": "https://x.com/shupra004/status/2051822511676104743/photo/1",
+              "media_key": "3_2051822506621956096",
+              "start": 36,
+              "url": "https://t.co/wdUuAgZLSz"
+            },
+            {
+              "display_url": "pic.x.com/wdUuAgZLSz",
+              "end": 59,
+              "expanded_url": "https://x.com/shupra004/status/2051822511676104743/photo/1",
+              "media_key": "3_2051822506659733504",
+              "start": 36,
+              "url": "https://t.co/wdUuAgZLSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051948026890203268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051822511676104743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shupra004: ← GW初日　　　　　　　→ GW最終日 https://t.co/wdUuAgZLSz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051822506621956096",
+            "3_2051822506659733504"
+          ]
+        },
+        "author_id": "1229707931639136256",
+        "conversation_id": "2051822511676104743",
+        "created_at": "2026-05-06T00:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051822511676104743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdUuAgZLSz",
+              "end": 44,
+              "expanded_url": "https://x.com/shupra004/status/2051822511676104743/photo/1",
+              "media_key": "3_2051822506621956096",
+              "start": 21,
+              "url": "https://t.co/wdUuAgZLSz"
+            },
+            {
+              "display_url": "pic.x.com/wdUuAgZLSz",
+              "end": 44,
+              "expanded_url": "https://x.com/shupra004/status/2051822511676104743/photo/1",
+              "media_key": "3_2051822506659733504",
+              "start": 21,
+              "url": "https://t.co/wdUuAgZLSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051822511676104743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 75146,
+          "like_count": 3998,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "← GW初日　　　　　　　→ GW最終日 https://t.co/wdUuAgZLSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 164,
+          "like_count": 3415,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1881
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T10:03:22.000Z",
+        "description": "中国語大喜利アカウント。FF外通知は全て切っています。基本フォロバしてますが、見落としがちなので鍵垢の方含めフォロバ無かったらリプかDMください。",
+        "id": "1229707931639136256",
+        "location": "日本",
+        "name": "しゅぷら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439410017963163649/SEBLvwfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8710,
+          "following_count": 6856,
+          "like_count": 745470,
+          "listed_count": 43,
+          "media_count": 1921,
+          "tweet_count": 9642
+        },
+        "username": "shupra004",
+        "verified": false
+      }
+    ]
+  }
+}

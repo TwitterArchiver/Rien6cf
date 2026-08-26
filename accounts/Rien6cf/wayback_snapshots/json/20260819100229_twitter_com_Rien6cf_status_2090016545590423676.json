@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1957648856684118016"
+      ],
+      "media_source_tweet_id": [
+        "1957648980369895652"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090016545590423676",
+    "created_at": "2026-08-19T10:02:29.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090016545590423676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "48651959",
+          "start": 3,
+          "username": "nico_nico_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NycUMQ8KA4",
+          "end": 70,
+          "expanded_url": "https://x.com/nico_nico_info/status/1957648980369895652/video/1",
+          "media_key": "7_1957648856684118016",
+          "start": 47,
+          "url": "https://t.co/NycUMQ8KA4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090016545590423676",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_1957648856684118016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 468
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089895138529366341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nico_nico_info: 8月19日で9周年🎉\n阿吽のビーツ / flower\nhttps://t.co/NycUMQ8KA4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17020,
+        "height": 720,
+        "media_key": "7_1957648856684118016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957648856684118016/pu/img/lcmlsW1b3dACSeJh.jpg",
+        "public_metrics": {
+          "view_count": 24860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957648856684118016/pu/vid/avc1/480x270/zlM1VXRr5Ye3PKuG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957648856684118016/pu/vid/avc1/640x360/rvW7F5yjqJZkMRDo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957648856684118016/pu/vid/avc1/1280x720/wLsnwDx-9sS-8cBL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957648856684118016/pu/pl/CVZkPNlNcdO2EzRG.m3u8?tag=12&v=996"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957648856684118016"
+          ],
+          "media_source_tweet_id": [
+            "1957648980369895652"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090016545590423676",
+        "created_at": "2026-08-19T10:02:29.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090016545590423676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "48651959",
+              "start": 3,
+              "username": "nico_nico_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NycUMQ8KA4",
+              "end": 70,
+              "expanded_url": "https://x.com/nico_nico_info/status/1957648980369895652/video/1",
+              "media_key": "7_1957648856684118016",
+              "start": 47,
+              "url": "https://t.co/NycUMQ8KA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090016545590423676",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1957648856684118016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 468
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089895138529366341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nico_nico_info: 8月19日で9周年🎉\n阿吽のビーツ / flower\nhttps://t.co/NycUMQ8KA4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957648856684118016"
+          ],
+          "media_source_tweet_id": [
+            "1957648980369895652"
+          ]
+        },
+        "author_id": "48651959",
+        "conversation_id": "2089895138529366341",
+        "created_at": "2026-08-19T02:00:04.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089895138529366341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NycUMQ8KA4",
+              "end": 50,
+              "expanded_url": "https://x.com/nico_nico_info/status/1957648980369895652/video/1",
+              "media_key": "7_1957648856684118016",
+              "start": 27,
+              "url": "https://t.co/NycUMQ8KA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089895138529366341",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1957648856684118016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 49435,
+          "like_count": 1315,
+          "quote_count": 74,
+          "reply_count": 2,
+          "retweet_count": 468
+        },
+        "reply_settings": "everyone",
+        "text": "8月19日で9周年🎉\n阿吽のビーツ / flower\nhttps://t.co/NycUMQ8KA4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957648856684118016"
+          ]
+        },
+        "author_id": "48651959",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1957648980369895652",
+        "created_at": "2025-08-19T03:41:02.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957648980369895652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 142,
+              "id": "3299290885",
+              "start": 129,
+              "username": "maigo_hanyuu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "どうも羽生まゐごです。最近一皮剥けました□Music mylist/53720459□Music : 羽生まゐご (@maigo_hanyuu)...",
+              "display_url": "nicovideo.jp/watch/sm317758…",
+              "end": 54,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm31775813?utm_source=twitter&utm_medium=video_player&utm_campaign=nico_nico_info&utm_content=sm31775813",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2087450329759854592/lnr3Dp7L?format=jpg&name=orig",
+                  "width": 960
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2087450329759854592/lnr3Dp7L?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "阿吽のビーツ / flower",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm31775813?utm_source=twitter&utm_medium=video_player&utm_campaign=nico_nico_info&utm_content=sm31775813",
+              "url": "https://t.co/XQ8iBYRnKG"
+            },
+            {
+              "display_url": "pic.x.com/fdtJGOHjRG",
+              "end": 185,
+              "expanded_url": "https://x.com/nico_nico_info/status/1957648980369895652/video/1",
+              "media_key": "7_1957648856684118016",
+              "start": 162,
+              "url": "https://t.co/fdtJGOHjRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957648980369895652",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1957648856684118016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 76258,
+          "like_count": 1184,
+          "quote_count": 26,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "本日8月19日で8周年🎉\n\n阿吽のビーツ / flower\n📺https://t.co/XQ8iBYRnKG\n\nflowerのまっすぐな歌声が、力強さと儚さを繊細に表現🎤✨\n物悲しい和の雰囲気と美しい言葉に胸が締め付けられる一曲です🎆\n\n投稿者：羽生まゐご @maigo_hanyuu\nIllustration：瀬川あをじ https://t.co/fdtJGOHjRG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090016545590423676",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 213,
+          "like_count": 9473,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-19T08:36:14.000Z",
+        "description": "コメントと共に楽しめる日本最大級の動画＆配信サービス「ニコニコ」のおすすめ情報、サービスや機能に関する最新情報をお届けしています。\nゲーム@nicogame_PR／アニメ@nicoanime_PR／ニュース@nico_nico_news／リリース・障害・復旧のお知らせ@nico_nico_talk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "nicogame_PR"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "nicoanime_PR"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "nico_nico_news"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "nico_nico_talk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/",
+                "start": 0,
+                "url": "https://t.co/kM30O8Ye0Z"
+              }
+            ]
+          }
+        },
+        "id": "48651959",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2090001732885766151",
+        "name": "ニコニコ公式",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48651959/1748403657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893316114157051907/7MjEfpEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560332,
+          "following_count": 35,
+          "like_count": 1150,
+          "listed_count": 6585,
+          "media_count": 12023,
+          "tweet_count": 116735
+        },
+        "url": "https://t.co/kM30O8Ye0Z",
+        "username": "nico_nico_info",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

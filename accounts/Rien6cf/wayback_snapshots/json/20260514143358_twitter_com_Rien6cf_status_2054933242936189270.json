@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054933242936189270",
+    "created_at": "2026-05-14T14:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054933242936189270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4756147100",
+          "start": 3,
+          "username": "Trainfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054933242936189270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3007
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054863834385658362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Trainfo: 【小田急線】18:40頃、新宿駅にて雀が急行列車に乗車し、降車誘導を行った影響で、下り線の一部列車に3分前後の遅れが生じています。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054933242936189270",
+        "created_at": "2026-05-14T14:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054933242936189270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4756147100",
+              "start": 3,
+              "username": "Trainfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054933242936189270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3007
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054863834385658362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Trainfo: 【小田急線】18:40頃、新宿駅にて雀が急行列車に乗車し、降車誘導を行った影響で、下り線の一部列車に3分前後の遅れが生じています。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4756147100",
+        "conversation_id": "2054863834385658362",
+        "created_at": "2026-05-14T09:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054863834385658362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pizzaparty88/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/pizzaparty88/status/2054860689379057723",
+              "start": 66,
+              "url": "https://t.co/nfygBgXwq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054863834385658362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 603,
+          "impression_count": 852592,
+          "like_count": 7686,
+          "quote_count": 237,
+          "reply_count": 63,
+          "retweet_count": 3007
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054860689379057723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【小田急線】18:40頃、新宿駅にて雀が急行列車に乗車し、降車誘導を行った影響で、下り線の一部列車に3分前後の遅れが生じています。 https://t.co/nfygBgXwq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 169,
+          "like_count": 3922,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2038
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-14T03:46:35.000Z",
+        "description": "新幹線や首都圏エリアの鉄道運行情報やニュースを中心に配信しています。フォロワーのみなさまからの情報提供等によって運営されています。配信される運行情報は非公式なもので、実際の運行状況を保証するものではありません。情報提供はLINEまたはDMへ @Trainfo_ALERT @Trainfo_Update",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Trainfo_ALERT"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "Trainfo_Update"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/@tnl022…",
+                "end": 23,
+                "expanded_url": "https://line.me/R/ti/p/@tnl0221p",
+                "start": 0,
+                "url": "https://t.co/ZczTmWv1B7"
+              }
+            ]
+          }
+        },
+        "id": "4756147100",
+        "location": "Trainfo Network",
+        "name": "とれいんふぉ 首都圏エリア",
+        "pinned_tweet_id": "2037818677056418122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1241708854431191043/vth3tfD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107035,
+          "following_count": 69,
+          "like_count": 651,
+          "listed_count": 2602,
+          "media_count": 222365,
+          "tweet_count": 251759
+        },
+        "url": "https://t.co/ZczTmWv1B7",
+        "username": "Trainfo",
+        "verified": true
+      }
+    ]
+  }
+}

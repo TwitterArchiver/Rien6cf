@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2030657317398855780",
+    "created_at": "2026-03-08T14:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030657317398855780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0622shud/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/0622shud/status/2030403217314713739",
+          "start": 5,
+          "url": "https://t.co/sY2sf8rX4v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030657317398855780",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030403217314713739",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "えぐすぎ https://t.co/sY2sf8rX4v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 991,
+        "media_key": "3_2030403210427707392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC1w9lxbMAAOz3M.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1004,
+        "media_key": "3_2030403210574499840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC1w9mUbEAANJl-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2030657317398855780",
+        "created_at": "2026-03-08T14:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030657317398855780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0622shud/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/0622shud/status/2030403217314713739",
+              "start": 5,
+              "url": "https://t.co/sY2sf8rX4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030657317398855780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030403217314713739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "えぐすぎ https://t.co/sY2sf8rX4v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030403210427707392",
+            "3_2030403210574499840"
+          ]
+        },
+        "author_id": "1162201730479603712",
+        "conversation_id": "2030403217314713739",
+        "created_at": "2026-03-07T22:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T23:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030403217314713739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jK7lPrWxgA",
+              "end": 45,
+              "expanded_url": "https://x.com/0622shud/status/2030403217314713739/photo/1",
+              "media_key": "3_2030403210427707392",
+              "start": 22,
+              "url": "https://t.co/jK7lPrWxgA"
+            },
+            {
+              "display_url": "pic.x.com/jK7lPrWxgA",
+              "end": 45,
+              "expanded_url": "https://x.com/0622shud/status/2030403217314713739/photo/1",
+              "media_key": "3_2030403210574499840",
+              "start": 22,
+              "url": "https://t.co/jK7lPrWxgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030403217314713739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 625,
+          "impression_count": 2444602,
+          "like_count": 6925,
+          "quote_count": 975,
+          "reply_count": 30,
+          "retweet_count": 1370
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "3/14の運賃値上げ改めて見るとえぐいな。 https://t.co/jK7lPrWxgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 102,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 854
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-16T03:19:05.000Z",
+        "description": "旅行同人サークル「へっぷらけっこ！」代表(南方そらみ名義)/旅行/鉄道/発車標/‘19.03全県踏破/‘19.11全県宿泊/‘20.02初海外🇹🇼/JR 98%乗車/サンライズ瀬戸出雲 12回乗車",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heppurakekko.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://heppurakekko.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/eyuc5A6qXU"
+              }
+            ]
+          }
+        },
+        "id": "1162201730479603712",
+        "location": "New York, USA",
+        "name": "しゅど㌠@C107お疲れ様 新刊🍈委託中",
+        "pinned_tweet_id": "2006548694997553639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845110197104279552/SzwRr74F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1136,
+          "like_count": 30265,
+          "listed_count": 57,
+          "media_count": 19025,
+          "tweet_count": 176938
+        },
+        "url": "https://t.co/eyuc5A6qXU",
+        "username": "0622shud",
+        "verified": false
+      }
+    ]
+  }
+}

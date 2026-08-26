@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065537509535203328",
+        "3_2065537509514211328"
+      ],
+      "media_source_tweet_id": [
+        "2065537514757038284",
+        "2065537514757038284"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065648264347897933",
+    "created_at": "2026-06-13T04:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065648264347897933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "101479485",
+          "start": 3,
+          "username": "plushy_cat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B7PGuairuq",
+          "end": 51,
+          "expanded_url": "https://x.com/plushy_cat/status/2065537514757038284/photo/1",
+          "media_key": "3_2065537509535203328",
+          "start": 28,
+          "url": "https://t.co/B7PGuairuq"
+        },
+        {
+          "display_url": "pic.x.com/B7PGuairuq",
+          "end": 51,
+          "expanded_url": "https://x.com/plushy_cat/status/2065537514757038284/photo/1",
+          "media_key": "3_2065537509514211328",
+          "start": 28,
+          "url": "https://t.co/B7PGuairuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065648264347897933",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065537514757038284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plushy_cat: Bonsai Baby https://t.co/B7PGuairuq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065537509535203328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpDa9YXQAA1J5C.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065537509514211328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpDa9TW8AASEGK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065537509535203328",
+            "3_2065537509514211328"
+          ],
+          "media_source_tweet_id": [
+            "2065537514757038284",
+            "2065537514757038284"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2065648264347897933",
+        "created_at": "2026-06-13T04:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065648264347897933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "101479485",
+              "start": 3,
+              "username": "plushy_cat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7PGuairuq",
+              "end": 51,
+              "expanded_url": "https://x.com/plushy_cat/status/2065537514757038284/photo/1",
+              "media_key": "3_2065537509535203328",
+              "start": 28,
+              "url": "https://t.co/B7PGuairuq"
+            },
+            {
+              "display_url": "pic.x.com/B7PGuairuq",
+              "end": 51,
+              "expanded_url": "https://x.com/plushy_cat/status/2065537514757038284/photo/1",
+              "media_key": "3_2065537509514211328",
+              "start": 28,
+              "url": "https://t.co/B7PGuairuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065648264347897933",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065537514757038284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plushy_cat: Bonsai Baby https://t.co/B7PGuairuq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065537509535203328",
+            "3_2065537509514211328"
+          ]
+        },
+        "author_id": "101479485",
+        "conversation_id": "2065537514757038284",
+        "created_at": "2026-06-12T20:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065537514757038284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7PGuairuq",
+              "end": 35,
+              "expanded_url": "https://x.com/plushy_cat/status/2065537514757038284/photo/1",
+              "media_key": "3_2065537509535203328",
+              "start": 12,
+              "url": "https://t.co/B7PGuairuq"
+            },
+            {
+              "display_url": "pic.x.com/B7PGuairuq",
+              "end": 35,
+              "expanded_url": "https://x.com/plushy_cat/status/2065537514757038284/photo/1",
+              "media_key": "3_2065537509514211328",
+              "start": 12,
+              "url": "https://t.co/B7PGuairuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065537514757038284",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 3437,
+          "like_count": 584,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "Bonsai Baby https://t.co/B7PGuairuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5580,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2569
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-03T13:39:24.000Z",
+        "description": "Katzen und Robben Content. Auch Hunde, Reisen und Essen kommen vor, eben aus dem Leben gegriffen. 🐈 🦭",
+        "id": "101479485",
+        "name": "Zauberkatze",
+        "pinned_tweet_id": "911268079170211840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046713569555701760/cAE9YtKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 516,
+          "like_count": 417965,
+          "listed_count": 31,
+          "media_count": 17235,
+          "tweet_count": 115469
+        },
+        "username": "plushy_cat",
+        "verified": false
+      }
+    ]
+  }
+}

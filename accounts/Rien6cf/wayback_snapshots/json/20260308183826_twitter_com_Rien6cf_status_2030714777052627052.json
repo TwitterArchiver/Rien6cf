@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2030686774201290927",
+    "created_at": "2026-03-08T18:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T19:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030714777052627052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492780226837123075",
+          "start": 0,
+          "username": "Jitetsu226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030714777052627052",
+    "in_reply_to_user_id": "1492780226837123075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030686774201290927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jitetsu226 老师打扰了…！很喜欢您的作品请问可以用作社交平台头像吗！不会商用/转载🙏🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_2030686747462701056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5y1nibkAA6cW3.jpg",
+        "width": 751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2030686774201290927",
+        "created_at": "2026-03-08T18:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T19:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030714777052627052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492780226837123075",
+              "start": 0,
+              "username": "Jitetsu226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030714777052627052",
+        "in_reply_to_user_id": "1492780226837123075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030686774201290927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jitetsu226 老师打扰了…！很喜欢您的作品请问可以用作社交平台头像吗！不会商用/转载🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030686747462701056"
+          ]
+        },
+        "author_id": "1492780226837123075",
+        "conversation_id": "2030686774201290927",
+        "created_at": "2026-03-08T16:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030686774201290927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "椎名もた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsxMbHDhs1",
+              "end": 29,
+              "expanded_url": "https://x.com/Jitetsu226/status/2030686774201290927/photo/1",
+              "media_key": "3_2030686747462701056",
+              "start": 6,
+              "url": "https://t.co/jsxMbHDhs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030686774201290927",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 152,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#椎名もた https://t.co/jsxMbHDhs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 108,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 878
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T08:38:48.000Z",
+        "description": "不常在!我不会日语。",
+        "id": "1492780226837123075",
+        "location": "🧲",
+        "name": "ジテツ",
+        "pinned_tweet_id": "1626439508937027584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020776872234430465/VtbfOSjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 93,
+          "like_count": 1530,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "username": "Jitetsu226",
+        "verified": false
+      }
+    ]
+  }
+}

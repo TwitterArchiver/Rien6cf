@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056697934176296960",
+        "3_2056698018628517888"
+      ],
+      "media_source_tweet_id": [
+        "2056698055811080379",
+        "2056698055811080379"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056815829879320612",
+    "created_at": "2026-05-19T19:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T20:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056815829879320612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "74674685",
+          "start": 3,
+          "username": "nabe1975"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9NS4vbNN8V",
+          "end": 52,
+          "expanded_url": "https://x.com/nabe1975/status/2056698055811080379/photo/1",
+          "media_key": "3_2056697934176296960",
+          "start": 29,
+          "url": "https://t.co/9NS4vbNN8V"
+        },
+        {
+          "display_url": "pic.x.com/9NS4vbNN8V",
+          "end": 52,
+          "expanded_url": "https://x.com/nabe1975/status/2056698055811080379/photo/1",
+          "media_key": "3_2056698018628517888",
+          "start": 29,
+          "url": "https://t.co/9NS4vbNN8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056815829879320612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1967
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056698055811080379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @nabe1975: 「朱元璋みたいでかわいい！」 https://t.co/9NS4vbNN8V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2056697934176296960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrb39DboAAgium.png",
+        "width": 450
+      },
+      {
+        "height": 480,
+        "media_key": "3_2056698018628517888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrb83qaQAA2lg7.png",
+        "width": 553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056697934176296960",
+            "3_2056698018628517888"
+          ],
+          "media_source_tweet_id": [
+            "2056698055811080379",
+            "2056698055811080379"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056815829879320612",
+        "created_at": "2026-05-19T19:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056815829879320612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "74674685",
+              "start": 3,
+              "username": "nabe1975"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NS4vbNN8V",
+              "end": 52,
+              "expanded_url": "https://x.com/nabe1975/status/2056698055811080379/photo/1",
+              "media_key": "3_2056697934176296960",
+              "start": 29,
+              "url": "https://t.co/9NS4vbNN8V"
+            },
+            {
+              "display_url": "pic.x.com/9NS4vbNN8V",
+              "end": 52,
+              "expanded_url": "https://x.com/nabe1975/status/2056698055811080379/photo/1",
+              "media_key": "3_2056698018628517888",
+              "start": 29,
+              "url": "https://t.co/9NS4vbNN8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056815829879320612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1967
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056698055811080379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @nabe1975: 「朱元璋みたいでかわいい！」 https://t.co/9NS4vbNN8V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056697934176296960",
+            "3_2056698018628517888"
+          ]
+        },
+        "author_id": "74674685",
+        "conversation_id": "2056698055811080379",
+        "created_at": "2026-05-19T11:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056698055811080379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NS4vbNN8V",
+              "end": 38,
+              "expanded_url": "https://x.com/nabe1975/status/2056698055811080379/photo/1",
+              "media_key": "3_2056697934176296960",
+              "start": 15,
+              "url": "https://t.co/9NS4vbNN8V"
+            },
+            {
+              "display_url": "pic.x.com/9NS4vbNN8V",
+              "end": 38,
+              "expanded_url": "https://x.com/nabe1975/status/2056698055811080379/photo/1",
+              "media_key": "3_2056698018628517888",
+              "start": 15,
+              "url": "https://t.co/9NS4vbNN8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056698055811080379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 558,
+          "impression_count": 366853,
+          "like_count": 9760,
+          "quote_count": 110,
+          "reply_count": 36,
+          "retweet_count": 1967
+        },
+        "reply_settings": "other",
+        "text": "「朱元璋みたいでかわいい！」 https://t.co/9NS4vbNN8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 170,
+          "like_count": 4257,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2143
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-16T07:13:42.000Z",
+        "description": "Tu fui, ego eris.",
+        "id": "74674685",
+        "name": "Vatanabeus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113481634/Maciejowski_Bible_Navin_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31469,
+          "following_count": 1090,
+          "like_count": 15796,
+          "listed_count": 526,
+          "media_count": 57005,
+          "tweet_count": 192460
+        },
+        "username": "nabe1975",
+        "verified": true
+      }
+    ]
+  }
+}

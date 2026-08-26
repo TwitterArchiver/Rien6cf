@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2025588906360795606",
+    "created_at": "2026-02-22T15:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025588906360795606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1907710448834850817",
+          "start": 3,
+          "username": "Oo_tuuuuuchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025588906360795606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1960
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025110405472026924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oo_tuuuuuchan: 女子校生がスクバにぬいぐるみ沢山つけて持ち歩いてるのクッソ幼稚って言ってる人いるけどさ、そうやってすぐケチつけて文句垂れる方がよっぽど幼稚じゃない？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2025588906360795606",
+        "created_at": "2026-02-22T15:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025588906360795606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1907710448834850817",
+              "start": 3,
+              "username": "Oo_tuuuuuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025588906360795606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1960
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025110405472026924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oo_tuuuuuchan: 女子校生がスクバにぬいぐるみ沢山つけて持ち歩いてるのクッソ幼稚って言ってる人いるけどさ、そうやってすぐケチつけて文句垂れる方がよっぽど幼稚じゃない？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907710448834850817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2025110405472026924",
+        "created_at": "2026-02-21T07:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025110405472026924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025110405472026924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 860,
+          "impression_count": 2768027,
+          "like_count": 54074,
+          "quote_count": 528,
+          "reply_count": 160,
+          "retweet_count": 1960
+        },
+        "reply_settings": "everyone",
+        "text": "女子校生がスクバにぬいぐるみ沢山つけて持ち歩いてるのクッソ幼稚って言ってる人いるけどさ、そうやってすぐケチつけて文句垂れる方がよっぽど幼稚じゃない？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 73,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 552
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T08:23:26.000Z",
+        "description": "闘病垢 / 高1 / ♀ / 発達 / 強迫 / 自傷 / 自殺念慮 / 自発苦手 / 避難垢兼絵垢 @ktth_822 🗝 @O2_chan2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "ktth_822"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "O2_chan2"
+              }
+            ]
+          }
+        },
+        "id": "1907710448834850817",
+        "location": "メディア欄注意",
+        "name": "0²",
+        "pinned_tweet_id": "1994363402857369842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907711437642104832/WGcgSjRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1365,
+          "like_count": 58230,
+          "listed_count": 11,
+          "media_count": 491,
+          "tweet_count": 4980
+        },
+        "username": "Oo_tuuuuuchan",
+        "verified": false
+      }
+    ]
+  }
+}

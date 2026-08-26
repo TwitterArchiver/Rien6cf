@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058391066202800128"
+      ],
+      "media_source_tweet_id": [
+        "2058391086775816262"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058475443322548282",
+    "created_at": "2026-05-24T09:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058475443322548282"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "海遊館"
+        },
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "アザラシ"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "seal"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "709959385603248128",
+          "start": 3,
+          "username": "lassie99289125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oLSMfVURC6",
+          "end": 85,
+          "expanded_url": "https://x.com/lassie99289125/status/2058391086775816262/video/1",
+          "media_key": "7_2058391066202800128",
+          "start": 62,
+          "url": "https://t.co/oLSMfVURC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058475443322548282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058391086775816262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lassie99289125: アラレさん、お魚いらない\n（換毛期の為）\n\n #海遊館  #アザラシ  #seal https://t.co/oLSMfVURC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30023,
+        "height": 720,
+        "media_key": "7_2058391066202800128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058391066202800128/pu/img/5N2v2QO6jOkpqBCc.jpg",
+        "public_metrics": {
+          "view_count": 7876
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058391066202800128/pu/vid/avc1/360x270/2Mz3DdR1Qxs8tJFw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058391066202800128/pu/vid/avc1/480x360/4e2Q7WITljZfEGxJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058391066202800128/pu/vid/avc1/960x720/u9Hv6mYgi2oFE0KA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058391066202800128/pu/pl/miil3OE7cagDjFGR.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058391066202800128"
+          ],
+          "media_source_tweet_id": [
+            "2058391086775816262"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058475443322548282",
+        "created_at": "2026-05-24T09:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058475443322548282"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "海遊館"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "アザラシ"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "seal"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "709959385603248128",
+              "start": 3,
+              "username": "lassie99289125"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLSMfVURC6",
+              "end": 85,
+              "expanded_url": "https://x.com/lassie99289125/status/2058391086775816262/video/1",
+              "media_key": "7_2058391066202800128",
+              "start": 62,
+              "url": "https://t.co/oLSMfVURC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058475443322548282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058391086775816262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lassie99289125: アラレさん、お魚いらない\n（換毛期の為）\n\n #海遊館  #アザラシ  #seal https://t.co/oLSMfVURC6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058391066202800128"
+          ]
+        },
+        "author_id": "709959385603248128",
+        "conversation_id": "2058391086775816262",
+        "created_at": "2026-05-24T03:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058391086775816262"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "海遊館"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "アザラシ"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "seal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLSMfVURC6",
+              "end": 65,
+              "expanded_url": "https://x.com/lassie99289125/status/2058391086775816262/video/1",
+              "media_key": "7_2058391066202800128",
+              "start": 42,
+              "url": "https://t.co/oLSMfVURC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058391086775816262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 24239,
+          "like_count": 1155,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "アラレさん、お魚いらない\n（換毛期の為）\n\n #海遊館  #アザラシ  #seal https://t.co/oLSMfVURC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4422,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2209
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-16T04:28:02.000Z",
+        "description": "ワモンアザラシが大好きで海遊館のユキちゃんの大ファンです。ユキちゃんだけのインスタグラムもやってます。音楽が好きです。楽器はギター、ドラム。好きなバンドSuchmosとOASIS。RGさんのあるあるが好きです。１９８０年生まれです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lassie_azarasi",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lassie_azarasi",
+                "start": 0,
+                "url": "https://t.co/PCnPMfeuI3"
+              }
+            ]
+          }
+        },
+        "id": "709959385603248128",
+        "name": "ラッシー lassie🦭",
+        "pinned_tweet_id": "2058391086775816262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056119296758296576/hB9lGIuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7247,
+          "following_count": 941,
+          "like_count": 580004,
+          "listed_count": 69,
+          "media_count": 5748,
+          "tweet_count": 49645
+        },
+        "url": "https://t.co/PCnPMfeuI3",
+        "username": "lassie99289125",
+        "verified": false
+      }
+    ]
+  }
+}

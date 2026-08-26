@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2073598580695404852",
+    "created_at": "2026-07-05T02:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073598580695404852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1887292023369314304",
+          "start": 3,
+          "username": "ohyou_wake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073598580695404852",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1389
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073370454849703981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ohyou_wake: 絵描きが一度はぶつかる壁\n\n・ 背景描けない\n・ 性別片方描けない\n・ 表情豊かに描けない\n・ 手/足の指が描けない\n・ 服のシワが理解不能\n・ いい構図が思いつかん\n・ 光と影がわからん\n・ 配色が決まらない\n・ アオリ/フカンが謎\n・ 顔がい…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2073598580695404852",
+        "created_at": "2026-07-05T02:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073598580695404852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1887292023369314304",
+              "start": 3,
+              "username": "ohyou_wake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073598580695404852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073370454849703981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ohyou_wake: 絵描きが一度はぶつかる壁\n\n・ 背景描けない\n・ 性別片方描けない\n・ 表情豊かに描けない\n・ 手/足の指が描けない\n・ 服のシワが理解不能\n・ いい構図が思いつかん\n・ 光と影がわからん\n・ 配色が決まらない\n・ アオリ/フカンが謎\n・ 顔がい…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887292023369314304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2073370454849703981",
+        "created_at": "2026-07-04T11:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073370454849703981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073370454849703981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "絵描きが一度はぶつかる壁\n\n・ 背景描けない\n・ 性別片方描けない\n・ 表情豊かに描けない\n・ 手/足の指が描けない\n・ 服のシワが理解不能\n・ いい構図が思いつかん\n・ 光と影がわからん\n・ 配色が決まらない\n・ アオリ/フカンが謎\n・ 顔がいつも同じ向き\n・ 完成条件が「もう、いいか…」\n\nもう、いくつ壁があるかわかんない。\nでもいつか、越えてみせるよ。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1718,
+          "impression_count": 265884,
+          "like_count": 8664,
+          "quote_count": 181,
+          "reply_count": 25,
+          "retweet_count": 1389
+        },
+        "reply_settings": "everyone",
+        "text": "絵描きが一度はぶつかる壁\n\n・ 背景描けない\n・ 性別片方描けない\n・ 表情豊かに描けない\n・ 手/足の指が描けない\n・ 服のシワが理解不能\n・ いい構図が思いつかん\n・ 光と影がわからん\n・ 配色が決まらない\n・ アオリ/フカンが謎\n・ 顔がいつも同じ向き\n・ 完成条件が「もう、いいか…」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 194,
+          "like_count": 6891,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2806
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T00:08:02.000Z",
+        "description": "「描けない」を「描きたい」に。絵描きのチカラになる言葉をつぶやく｜絵描き応援・交流アカウント｜私も描くよ！🎨絵描き× 🩺現役助産師｜イラスト依頼はDM・skebへ✏︎https://t.co/1N32GR0fbV｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ohyou_wake",
+                "end": 106,
+                "expanded_url": "https://skeb.jp/@ohyou_wake",
+                "start": 83,
+                "url": "https://t.co/1N32GR0fbV"
+              }
+            ]
+          }
+        },
+        "id": "1887292023369314304",
+        "location": "毎月中旬『ぉゆの褒め塾』、月末『ぉゆの絵描き交流会』開催",
+        "name": "ぉゆ",
+        "pinned_tweet_id": "2066718310381883484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020736518026059776/InR4_v6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13678,
+          "following_count": 112,
+          "like_count": 21833,
+          "listed_count": 43,
+          "media_count": 680,
+          "tweet_count": 9479
+        },
+        "url": "",
+        "username": "ohyou_wake",
+        "verified": true
+      }
+    ]
+  }
+}

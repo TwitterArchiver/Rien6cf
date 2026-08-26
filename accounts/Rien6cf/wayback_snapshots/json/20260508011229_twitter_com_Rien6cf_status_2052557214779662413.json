@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2052557214779662413",
+    "created_at": "2026-05-08T01:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T02:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052557214779662413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042781518788202496",
+          "start": 3,
+          "username": "su_zoo_hara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052557214779662413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 335
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052523880447869192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @su_zoo_hara: 【臨時休園のお知らせ】\n\n本日5/8(金)ラッコのサリーちゃんの貝殻を叩く音が140デシベル（至近距離での落雷と同等）を計測したため、臨時休園とさせていただきます。\n\n皆様には申し訳ございませんが、ご了承のほどよろしくお願いいたします。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2052557214779662413",
+        "created_at": "2026-05-08T01:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052557214779662413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042781518788202496",
+              "start": 3,
+              "username": "su_zoo_hara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052557214779662413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 335
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052523880447869192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @su_zoo_hara: 【臨時休園のお知らせ】\n\n本日5/8(金)ラッコのサリーちゃんの貝殻を叩く音が140デシベル（至近距離での落雷と同等）を計測したため、臨時休園とさせていただきます。\n\n皆様には申し訳ございませんが、ご了承のほどよろしくお願いいたします。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042781518788202496",
+        "conversation_id": "2052523880447869192",
+        "created_at": "2026-05-07T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052523880447869192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052523880447869192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 21897,
+          "like_count": 1926,
+          "quote_count": 17,
+          "reply_count": 15,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "【臨時休園のお知らせ】\n\n本日5/8(金)ラッコのサリーちゃんの貝殻を叩く音が140デシベル（至近距離での落雷と同等）を計測したため、臨時休園とさせていただきます。\n\n皆様には申し訳ございませんが、ご了承のほどよろしくお願いいたします。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 168,
+          "like_count": 3498,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1911
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T01:47:22.000Z",
+        "description": "鈴原県最大の動物園🐻鈴原動物園の公式アカウントです🦁鈴原動物園に関する情報をお伝えします🐵",
+        "id": "2042781518788202496",
+        "location": "鈴原県鈴原市",
+        "name": "鈴原動物園",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042849687645097986/d3OzJcjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28202,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 29,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "su_zoo_hara",
+        "verified": false
+      }
+    ]
+  }
+}

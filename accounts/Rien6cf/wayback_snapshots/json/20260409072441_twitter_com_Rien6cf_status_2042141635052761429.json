@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2042141635052761429",
+    "created_at": "2026-04-09T07:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042141635052761429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1700380257642274816",
+          "start": 3,
+          "username": "yuu3man"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042141635052761429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042082868126740722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuu3man: メン地下は、繋がっても、彼女いても、女子風呂覗いてもアイドル続けられるのに、\n女ドルは一瞬で業界戻れなくなるのがちで地下ドル界隈の謎すぎる(ᐢᴖ ·̫ ᴖᐢ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2042141635052761429",
+        "created_at": "2026-04-09T07:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042141635052761429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1700380257642274816",
+              "start": 3,
+              "username": "yuu3man"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042141635052761429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042082868126740722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuu3man: メン地下は、繋がっても、彼女いても、女子風呂覗いてもアイドル続けられるのに、\n女ドルは一瞬で業界戻れなくなるのがちで地下ドル界隈の謎すぎる(ᐢᴖ ·̫ ᴖᐢ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700380257642274816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2042082868126740722",
+        "created_at": "2026-04-09T03:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042082868126740722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042082868126740722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 163495,
+          "like_count": 3917,
+          "quote_count": 106,
+          "reply_count": 42,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "メン地下は、繋がっても、彼女いても、女子風呂覗いてもアイドル続けられるのに、\n女ドルは一瞬で業界戻れなくなるのがちで地下ドル界隈の謎すぎる(ᐢᴖ ·̫ ᴖᐢ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 132,
+          "like_count": 2560,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1517
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T05:27:23.000Z",
+        "description": "♡@buglimit ♡の会える屋さん🩶⛓️\n出勤予定ヘッダーにあります⬆️\n※当アカウントは全てエンタメです",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 1,
+                "username": "buglimit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70615107KQnQ5",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70615107KQnQ5",
+                "start": 0,
+                "url": "https://t.co/TQBj0Tf2Ru"
+              }
+            ]
+          }
+        },
+        "id": "1700380257642274816",
+        "name": "白瀬 由佳",
+        "pinned_tweet_id": "1907769413505618430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022241568342847488/LAMszcLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4897,
+          "following_count": 49,
+          "like_count": 16875,
+          "listed_count": 28,
+          "media_count": 406,
+          "tweet_count": 3160
+        },
+        "url": "https://t.co/TQBj0Tf2Ru",
+        "username": "yuu3man",
+        "verified": false
+      }
+    ]
+  }
+}

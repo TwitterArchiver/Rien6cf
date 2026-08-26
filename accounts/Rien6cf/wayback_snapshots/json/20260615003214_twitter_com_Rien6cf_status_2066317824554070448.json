@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066317824554070448",
+    "created_at": "2026-06-15T00:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066317824554070448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873311917605068800",
+          "start": 3,
+          "username": "_neonyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066317824554070448",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13374
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066046353806090305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @_neonyg: 눕는다는 행위가 왤케 좋지\n하루종일 누워있기만 하고 싶다\n사회적 체면만 없었다면 길바닥에도 누울 텐데"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066317824554070448",
+        "created_at": "2026-06-15T00:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066317824554070448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873311917605068800",
+              "start": 3,
+              "username": "_neonyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066317824554070448",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13374
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066046353806090305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @_neonyg: 눕는다는 행위가 왤케 좋지\n하루종일 누워있기만 하고 싶다\n사회적 체면만 없었다면 길바닥에도 누울 텐데"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873311917605068800",
+        "conversation_id": "2066046353806090305",
+        "created_at": "2026-06-14T06:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066046353806090305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066046353806090305",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 776,
+          "impression_count": 458524,
+          "like_count": 24151,
+          "quote_count": 589,
+          "reply_count": 0,
+          "retweet_count": 13374
+        },
+        "reply_settings": "following",
+        "text": "눕는다는 행위가 왤케 좋지\n하루종일 누워있기만 하고 싶다\n사회적 체면만 없었다면 길바닥에도 누울 텐데"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 5720,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2592
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T10:15:47.000Z",
+        "description": "평생 소원이 누룽지",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/_neonyg",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/_neonyg",
+                "start": 0,
+                "url": "https://t.co/dZ2WAES6yQ"
+              }
+            ]
+          }
+        },
+        "id": "1873311917605068800",
+        "location": "입시계정x 그림저장및참고xxx",
+        "name": "너녕",
+        "pinned_tweet_id": "2051704646570541289",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6884,
+          "following_count": 111,
+          "like_count": 10138,
+          "listed_count": 11,
+          "media_count": 59,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/dZ2WAES6yQ",
+        "username": "_neonyg",
+        "verified": false
+      }
+    ]
+  }
+}

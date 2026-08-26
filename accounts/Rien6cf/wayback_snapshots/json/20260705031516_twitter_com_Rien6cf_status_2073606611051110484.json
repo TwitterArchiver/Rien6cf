@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073484630393786368"
+      ],
+      "media_source_tweet_id": [
+        "2073484717928911199"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073606611051110484",
+    "created_at": "2026-07-05T03:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073606611051110484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1918655561446617088",
+          "start": 3,
+          "username": "0__w__o_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m0yiGC54i5",
+          "end": 47,
+          "expanded_url": "https://x.com/0__w__o_/status/2073484717928911199/photo/1",
+          "media_key": "3_2073484630393786368",
+          "start": 24,
+          "url": "https://t.co/m0yiGC54i5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073606611051110484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 938
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073484717928911199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0__w__o_: 結局これ作ってない https://t.co/m0yiGC54i5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_2073484630393786368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZ_SRnakAA6I4-.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073484630393786368"
+          ],
+          "media_source_tweet_id": [
+            "2073484717928911199"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073606611051110484",
+        "created_at": "2026-07-05T03:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073606611051110484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1918655561446617088",
+              "start": 3,
+              "username": "0__w__o_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0yiGC54i5",
+              "end": 47,
+              "expanded_url": "https://x.com/0__w__o_/status/2073484717928911199/photo/1",
+              "media_key": "3_2073484630393786368",
+              "start": 24,
+              "url": "https://t.co/m0yiGC54i5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073606611051110484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 938
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073484717928911199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0__w__o_: 結局これ作ってない https://t.co/m0yiGC54i5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073484630393786368"
+          ]
+        },
+        "author_id": "1918655561446617088",
+        "conversation_id": "2073484717928911199",
+        "created_at": "2026-07-04T19:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073484717928911199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0yiGC54i5",
+              "end": 33,
+              "expanded_url": "https://x.com/0__w__o_/status/2073484717928911199/photo/1",
+              "media_key": "3_2073484630393786368",
+              "start": 10,
+              "url": "https://t.co/m0yiGC54i5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073484717928911199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1947,
+          "impression_count": 839342,
+          "like_count": 44412,
+          "quote_count": 21,
+          "reply_count": 44,
+          "retweet_count": 938
+        },
+        "reply_settings": "everyone",
+        "text": "結局これ作ってない https://t.co/m0yiGC54i5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 194,
+          "like_count": 6910,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2809
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T13:15:17.000Z",
+        "description": "",
+        "id": "1918655561446617088",
+        "name": "_Λ__Λ_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070756688454705152/hwND5lm8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14578,
+          "following_count": 99,
+          "like_count": 23004,
+          "listed_count": 59,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "0__w__o_",
+        "verified": false
+      }
+    ]
+  }
+}

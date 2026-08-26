@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2078733289339363765",
+    "created_at": "2026-07-19T06:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078733289339363765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akiko_lawson/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/akiko_lawson/status/2078615801863553095",
+          "start": 3,
+          "url": "https://t.co/GTw7Bia8ZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078733289339363765",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078615801863553095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😇💖 https://t.co/GTw7Bia8ZH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2078733289339363765",
+        "created_at": "2026-07-19T06:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078733289339363765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akiko_lawson/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/akiko_lawson/status/2078615801863553095",
+              "start": 3,
+              "url": "https://t.co/GTw7Bia8ZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078733289339363765",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078615801863553095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😇💖 https://t.co/GTw7Bia8ZH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "115639376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "1402739868820590593",
+              "name": "Convenience stores"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402739868820590593",
+              "name": "Convenience stores"
+            }
+          }
+        ],
+        "conversation_id": "2078615801863553095",
+        "created_at": "2026-07-18T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078615801863553095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078615801863553095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 590,
+          "impression_count": 5804151,
+          "like_count": 43214,
+          "quote_count": 16694,
+          "reply_count": 338,
+          "retweet_count": 197755
+        },
+        "reply_settings": "everyone",
+        "text": "5日間限定の無料券チャレンジ(^^)\n今日はオリジナルペットボトル飲料無料の最終日です♪\n\n1）このアカウントをフォロー\n2）この投稿をリポスト\n3）抽選で毎日1万名様に無料券！結果は自動でお知らせ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8125,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2976
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-19T11:16:00.000Z",
+        "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "akiko_lawson"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lawson.co.jp",
+                "end": 23,
+                "expanded_url": "http://lawson.co.jp",
+                "start": 0,
+                "url": "https://t.co/T6cg3CLT7X"
+              }
+            ]
+          }
+        },
+        "id": "115639376",
+        "location": "東京都品川区大崎",
+        "name": "ローソン",
+        "pinned_tweet_id": "2078615801863553095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613363763008393216/RxJvbU68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9885682,
+          "following_count": 18,
+          "like_count": 395,
+          "listed_count": 19275,
+          "media_count": 50339389,
+          "tweet_count": 50465044
+        },
+        "url": "https://t.co/T6cg3CLT7X",
+        "username": "akiko_lawson",
+        "verified": true
+      }
+    ]
+  }
+}

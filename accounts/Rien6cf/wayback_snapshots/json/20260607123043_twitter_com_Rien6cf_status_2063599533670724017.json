@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063535689560662017"
+      ],
+      "media_source_tweet_id": [
+        "2063535717167550640"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063599533670724017",
+    "created_at": "2026-06-07T12:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063599533670724017"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 53,
+          "tag": "男鹿水族館GAO"
+        },
+        {
+          "end": 71,
+          "start": 63,
+          "tag": "ゴマフアザラシ"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "ターボ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1286865442682757126",
+          "start": 3,
+          "username": "go38382802"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9nnpwFetmS",
+          "end": 100,
+          "expanded_url": "https://x.com/go38382802/status/2063535717167550640/video/1",
+          "media_key": "7_2063535689560662017",
+          "start": 77,
+          "url": "https://t.co/9nnpwFetmS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063599533670724017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063535717167550640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @go38382802: 🦭『もうちょっとおさかな増やしてもらえませんかね…？』\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#ターボ https://t.co/9nnpwFetmS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8400,
+        "height": 1280,
+        "media_key": "7_2063535689560662017",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063535689560662017/pu/img/FtlQcheZ8j7zjkdE.jpg",
+        "public_metrics": {
+          "view_count": 1081
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063535689560662017/pu/vid/avc1/320x568/cV4Wpaz-C-QelErg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063535689560662017/pu/vid/avc1/480x852/cS4AVxDAmjNWMu5M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063535689560662017/pu/vid/avc1/720x1280/ZYsVL9VtgD_wPYvE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063535689560662017/pu/pl/KyL9rpfkLCjRIUde.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063535689560662017"
+          ],
+          "media_source_tweet_id": [
+            "2063535717167550640"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063599533670724017",
+        "created_at": "2026-06-07T12:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063599533670724017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "男鹿水族館GAO"
+            },
+            {
+              "end": 71,
+              "start": 63,
+              "tag": "ゴマフアザラシ"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "ターボ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1286865442682757126",
+              "start": 3,
+              "username": "go38382802"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nnpwFetmS",
+              "end": 100,
+              "expanded_url": "https://x.com/go38382802/status/2063535717167550640/video/1",
+              "media_key": "7_2063535689560662017",
+              "start": 77,
+              "url": "https://t.co/9nnpwFetmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063599533670724017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063535717167550640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @go38382802: 🦭『もうちょっとおさかな増やしてもらえませんかね…？』\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#ターボ https://t.co/9nnpwFetmS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063535689560662017"
+          ]
+        },
+        "author_id": "1286865442682757126",
+        "conversation_id": "2063535717167550640",
+        "created_at": "2026-06-07T08:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063535717167550640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "男鹿水族館GAO"
+            },
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "ゴマフアザラシ"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "ターボ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nnpwFetmS",
+              "end": 84,
+              "expanded_url": "https://x.com/go38382802/status/2063535717167550640/video/1",
+              "media_key": "7_2063535689560662017",
+              "start": 61,
+              "url": "https://t.co/9nnpwFetmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063535717167550640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 4172,
+          "like_count": 373,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "🦭『もうちょっとおさかな増やしてもらえませんかね…？』\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#ターボ https://t.co/9nnpwFetmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5213,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2459
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T03:26:56.000Z",
+        "description": "男鹿水族館のこまちさんに出会い、にわかアザラーとなりました🦭",
+        "id": "1286865442682757126",
+        "name": "りん🍀",
+        "pinned_tweet_id": "1846086991894675655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886001458077937664/wR8Xgfg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 148,
+          "like_count": 30738,
+          "listed_count": 13,
+          "media_count": 2130,
+          "tweet_count": 4457
+        },
+        "username": "go38382802",
+        "verified": false
+      }
+    ]
+  }
+}

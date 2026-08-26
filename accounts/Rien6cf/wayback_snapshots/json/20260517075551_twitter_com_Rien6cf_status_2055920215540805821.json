@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055920215540805821",
+    "created_at": "2026-05-17T07:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055920215540805821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17306975",
+          "start": 3,
+          "username": "livedoornews"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「ガラスにぶつかるアザラシの赤ちゃん」【話題のポスト】ぶつかっちゃった！？ガラスにぴっとりの赤ちゃんアザラシ成長記録動画もそんなポストがX上に投稿され、話題になっている。Xユーザーのヒロサキ（＠hiro",
+          "display_url": "news.livedoor.com/article/detail…",
+          "end": 78,
+          "expanded_url": "https://news.livedoor.com/article/detail/31293398/",
+          "images": [
+            {
+              "height": 318,
+              "url": "https://pbs.twimg.com/news_img/2055872194081591296/ahysxWOV?format=jpg&name=orig",
+              "width": 564
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2055872194081591296/ahysxWOV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 55,
+          "status": 200,
+          "title": "ふわふわ赤ちゃんアザラシのお顔がガラスにムニュ〜　伊勢シーパラダイスで激写された貴重な1枚に2.1万人夢中",
+          "unwound_url": "https://news.livedoor.com/article/detail/31293398/",
+          "url": "https://t.co/vFSzxZZ8Ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055920215540805821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055872186607366218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livedoornews: 【かわいい】赤ちゃんアザラシの顔がガラスにムニュ～！“貴重な1枚”に反響\nhttps://t.co/vFSzxZZ8Ke\n\nこの子は「伊勢シーパラダイス」で4月に生まれたゴマフアザラシの女の子。このしぐさ自体は珍しいものではないが、これほどタ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_2055859553590460416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfhXx_aQAAZjRq.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055920215540805821",
+        "created_at": "2026-05-17T07:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055920215540805821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17306975",
+              "start": 3,
+              "username": "livedoornews"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「ガラスにぶつかるアザラシの赤ちゃん」【話題のポスト】ぶつかっちゃった！？ガラスにぴっとりの赤ちゃんアザラシ成長記録動画もそんなポストがX上に投稿され、話題になっている。Xユーザーのヒロサキ（＠hiro",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 78,
+              "expanded_url": "https://news.livedoor.com/article/detail/31293398/",
+              "images": [
+                {
+                  "height": 318,
+                  "url": "https://pbs.twimg.com/news_img/2055872194081591296/ahysxWOV?format=jpg&name=orig",
+                  "width": 564
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055872194081591296/ahysxWOV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "ふわふわ赤ちゃんアザラシのお顔がガラスにムニュ〜　伊勢シーパラダイスで激写された貴重な1枚に2.1万人夢中",
+              "unwound_url": "https://news.livedoor.com/article/detail/31293398/",
+              "url": "https://t.co/vFSzxZZ8Ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055920215540805821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055872186607366218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livedoornews: 【かわいい】赤ちゃんアザラシの顔がガラスにムニュ～！“貴重な1枚”に反響\nhttps://t.co/vFSzxZZ8Ke\n\nこの子は「伊勢シーパラダイス」で4月に生まれたゴマフアザラシの女の子。このしぐさ自体は珍しいものではないが、これほどタ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055859553590460416"
+          ]
+        },
+        "author_id": "17306975",
+        "conversation_id": "2055872186607366218",
+        "created_at": "2026-05-17T04:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055872186607366218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "「ガラスにぶつかるアザラシの赤ちゃん」【話題のポスト】ぶつかっちゃった！？ガラスにぴっとりの赤ちゃんアザラシ成長記録動画もそんなポストがX上に投稿され、話題になっている。Xユーザーのヒロサキ（＠hiro",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 60,
+              "expanded_url": "https://news.livedoor.com/article/detail/31293398/",
+              "images": [
+                {
+                  "height": 318,
+                  "url": "https://pbs.twimg.com/news_img/2055872194081591296/ahysxWOV?format=jpg&name=orig",
+                  "width": 564
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055872194081591296/ahysxWOV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "ふわふわ赤ちゃんアザラシのお顔がガラスにムニュ〜　伊勢シーパラダイスで激写された貴重な1枚に2.1万人夢中",
+              "unwound_url": "https://news.livedoor.com/article/detail/31293398/",
+              "url": "https://t.co/vFSzxZZ8Ke"
+            },
+            {
+              "display_url": "pic.x.com/Na64Yn4mto",
+              "end": 178,
+              "expanded_url": "https://x.com/livedoornews/status/2055872186607366218/photo/1",
+              "media_key": "3_2055859553590460416",
+              "start": 155,
+              "url": "https://t.co/Na64Yn4mto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055872186607366218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 457,
+          "impression_count": 206521,
+          "like_count": 9625,
+          "quote_count": 33,
+          "reply_count": 117,
+          "retweet_count": 1498
+        },
+        "reply_settings": "everyone",
+        "text": "【かわいい】赤ちゃんアザラシの顔がガラスにムニュ～！“貴重な1枚”に反響\nhttps://t.co/vFSzxZZ8Ke\n\nこの子は「伊勢シーパラダイス」で4月に生まれたゴマフアザラシの女の子。このしぐさ自体は珍しいものではないが、これほどタイミングよく収めた一枚は「非常に貴重で見応えのあるもの」だという。 https://t.co/Na64Yn4mto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 4082,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2077
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167105,
+          "following_count": 107,
+          "like_count": 2289,
+          "listed_count": 13946,
+          "media_count": 288804,
+          "tweet_count": 465717
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

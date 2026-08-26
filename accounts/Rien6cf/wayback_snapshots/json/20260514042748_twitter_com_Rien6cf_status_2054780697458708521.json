@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054780697458708521",
+    "created_at": "2026-05-14T04:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054780697458708521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1466252554086785346",
+          "start": 3,
+          "username": "subsugi_warota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054780697458708521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054278620861100059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @subsugi_warota: タクシー飛ばしてよ大宮から北浦和へ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054780697458708521",
+        "created_at": "2026-05-14T04:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054780697458708521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1466252554086785346",
+              "start": 3,
+              "username": "subsugi_warota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054780697458708521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054278620861100059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @subsugi_warota: タクシー飛ばしてよ大宮から北浦和へ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466252554086785346",
+        "conversation_id": "2054278307567550539",
+        "created_at": "2026-05-12T19:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054278620861100059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054278620861100059",
+        "in_reply_to_user_id": "1466252554086785346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 175638,
+          "like_count": 1817,
+          "quote_count": 51,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054278307567550539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "タクシー飛ばしてよ大宮から北浦和へ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 169,
+          "like_count": 3896,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2029
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-02T03:47:11.000Z",
+        "description": "@morisugi_warota",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "morisugi_warota"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@morisugi_waro…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@morisugi_warotaaaa",
+                "start": 0,
+                "url": "https://t.co/PYEHrw22pd"
+              }
+            ]
+          }
+        },
+        "id": "1466252554086785346",
+        "name": "あら塩",
+        "pinned_tweet_id": "1914947479843357036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913208823818698752/EBrh-cam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8659,
+          "following_count": 1982,
+          "like_count": 95087,
+          "listed_count": 27,
+          "media_count": 5307,
+          "tweet_count": 29553
+        },
+        "url": "https://t.co/PYEHrw22pd",
+        "username": "subsugi_warota",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2025116912586522812",
+    "created_at": "2026-02-21T07:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025116912586522812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8trju/status/2…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/8trju/status/2024842294814540231",
+          "start": 3,
+          "url": "https://t.co/s3pqU07Slf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025116912586522812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024842294814540231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死ぬ https://t.co/s3pqU07Slf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2024842270818914304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmvUTZbUAA5pod.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2025116912586522812",
+        "created_at": "2026-02-21T07:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025116912586522812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8trju/status/2…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/8trju/status/2024842294814540231",
+              "start": 3,
+              "url": "https://t.co/s3pqU07Slf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025116912586522812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024842294814540231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死ぬ https://t.co/s3pqU07Slf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024842270818914304"
+          ]
+        },
+        "author_id": "1909839345034596352",
+        "conversation_id": "2024842294814540231",
+        "created_at": "2026-02-20T13:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024842294814540231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDtSlpgj3f",
+              "end": 32,
+              "expanded_url": "https://x.com/8trju/status/2024842294814540231/photo/1",
+              "media_key": "3_2024842270818914304",
+              "start": 9,
+              "url": "https://t.co/qDtSlpgj3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024842294814540231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 452840,
+          "like_count": 8344,
+          "quote_count": 38,
+          "reply_count": 40,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "しぬwwwwww https://t.co/qDtSlpgj3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 74,
+          "like_count": 429,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 525
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T05:23:07.000Z",
+        "description": "話題のツイートをDMで募集中",
+        "id": "1909839345034596352",
+        "name": "面白いツイート集",
+        "pinned_tweet_id": "1946848461565075513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000291177862664192/abjZWMC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16658,
+          "following_count": 16,
+          "like_count": 2155,
+          "listed_count": 25,
+          "media_count": 288,
+          "tweet_count": 1021
+        },
+        "username": "8trju",
+        "verified": false
+      }
+    ]
+  }
+}

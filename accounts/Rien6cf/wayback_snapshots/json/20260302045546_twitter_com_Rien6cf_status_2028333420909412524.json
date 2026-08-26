@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028092931173994497",
+        "3_2028092930997776384"
+      ],
+      "media_source_tweet_id": [
+        "2028092933703110946",
+        "2028092933703110946"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2028333420909412524",
+    "created_at": "2026-03-02T04:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028333420909412524"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "五美大展",
+          "probability": 0.2926,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "17923203",
+          "start": 3,
+          "username": "renten_nf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SCaqEoAdbB",
+          "end": 74,
+          "expanded_url": "https://x.com/renten_nf/status/2028092933703110946/photo/1",
+          "media_key": "3_2028092931173994497",
+          "start": 51,
+          "url": "https://t.co/SCaqEoAdbB"
+        },
+        {
+          "display_url": "pic.x.com/SCaqEoAdbB",
+          "end": 74,
+          "expanded_url": "https://x.com/renten_nf/status/2028092933703110946/photo/1",
+          "media_key": "3_2028092930997776384",
+          "start": 51,
+          "url": "https://t.co/SCaqEoAdbB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028333420909412524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 551
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028092933703110946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renten_nf: 五美大展でキャプションと合わせて一番笑ったのはこれでした\n\nだめだよ！ https://t.co/SCaqEoAdbB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2028092931173994497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU7xo4bUAEGbOc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1273,
+        "media_key": "3_2028092930997776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU7xoOacAAsRyJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028092931173994497",
+            "3_2028092930997776384"
+          ],
+          "media_source_tweet_id": [
+            "2028092933703110946",
+            "2028092933703110946"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2028333420909412524",
+        "created_at": "2026-03-02T04:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028333420909412524"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "五美大展",
+              "probability": 0.2926,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "17923203",
+              "start": 3,
+              "username": "renten_nf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCaqEoAdbB",
+              "end": 74,
+              "expanded_url": "https://x.com/renten_nf/status/2028092933703110946/photo/1",
+              "media_key": "3_2028092931173994497",
+              "start": 51,
+              "url": "https://t.co/SCaqEoAdbB"
+            },
+            {
+              "display_url": "pic.x.com/SCaqEoAdbB",
+              "end": 74,
+              "expanded_url": "https://x.com/renten_nf/status/2028092933703110946/photo/1",
+              "media_key": "3_2028092930997776384",
+              "start": 51,
+              "url": "https://t.co/SCaqEoAdbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028333420909412524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 551
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028092933703110946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renten_nf: 五美大展でキャプションと合わせて一番笑ったのはこれでした\n\nだめだよ！ https://t.co/SCaqEoAdbB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028092931173994497",
+            "3_2028092930997776384"
+          ]
+        },
+        "author_id": "17923203",
+        "conversation_id": "2028092933703110946",
+        "created_at": "2026-03-01T13:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028092933703110946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCaqEoAdbB",
+              "end": 59,
+              "expanded_url": "https://x.com/renten_nf/status/2028092933703110946/photo/1",
+              "media_key": "3_2028092931173994497",
+              "start": 36,
+              "url": "https://t.co/SCaqEoAdbB"
+            },
+            {
+              "display_url": "pic.x.com/SCaqEoAdbB",
+              "end": 59,
+              "expanded_url": "https://x.com/renten_nf/status/2028092933703110946/photo/1",
+              "media_key": "3_2028092930997776384",
+              "start": 36,
+              "url": "https://t.co/SCaqEoAdbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028092933703110946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 476,
+          "impression_count": 343663,
+          "like_count": 4067,
+          "quote_count": 44,
+          "reply_count": 14,
+          "retweet_count": 551
+        },
+        "reply_settings": "everyone",
+        "text": "五美大展でキャプションと合わせて一番笑ったのはこれでした\n\nだめだよ！ https://t.co/SCaqEoAdbB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 89,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 666
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-06T15:36:53.000Z",
+        "description": "よく字を書きます\n時々尻が出ます\n趣味の投稿が多いです\n無断転載🚫\n依頼はDMへ（用途により500円から）\n公認SUZURI https://t.co/oLtZLkNcfa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/tawagoto-co",
+                "end": 86,
+                "expanded_url": "https://suzuri.jp/tawagoto-co",
+                "start": 63,
+                "url": "https://t.co/oLtZLkNcfa"
+              }
+            ]
+          }
+        },
+        "id": "17923203",
+        "location": "川崎市",
+        "name": "ゆづ",
+        "pinned_tweet_id": "1072880301221675008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392770214832394242/ZD0UysFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11351,
+          "following_count": 1212,
+          "like_count": 16941,
+          "listed_count": 305,
+          "media_count": 22688,
+          "tweet_count": 364903
+        },
+        "username": "renten_nf",
+        "verified": true
+      }
+    ]
+  }
+}

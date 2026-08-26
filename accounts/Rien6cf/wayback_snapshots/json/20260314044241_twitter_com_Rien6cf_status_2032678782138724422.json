@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032678782138724422",
+    "created_at": "2026-03-14T04:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T05:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032678782138724422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3515592372",
+          "start": 3,
+          "username": "cvx1125"
+        },
+        {
+          "end": 25,
+          "id": "1656773057032376320",
+          "start": 13,
+          "username": "duyuming212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032678782138724422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032325093825921311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cvx1125: @duyuming212 这也是日语圈有意思的一点，他们通常会认为FF外（非互fo）的评论点赞转发是失礼的行为，但是他们却设置推文公开。你不想和外人互动你设置仅关注可见啊？我认为他们在占据公共空间发展自己的小圈子。在公众给你一个开放的印象，但人来了以后…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032678782138724422",
+        "created_at": "2026-03-14T04:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032678782138724422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3515592372",
+              "start": 3,
+              "username": "cvx1125"
+            },
+            {
+              "end": 25,
+              "id": "1656773057032376320",
+              "start": 13,
+              "username": "duyuming212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032678782138724422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032325093825921311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cvx1125: @duyuming212 这也是日语圈有意思的一点，他们通常会认为FF外（非互fo）的评论点赞转发是失礼的行为，但是他们却设置推文公开。你不想和外人互动你设置仅关注可见啊？我认为他们在占据公共空间发展自己的小圈子。在公众给你一个开放的印象，但人来了以后…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3515592372",
+        "conversation_id": "2032291074736353305",
+        "created_at": "2026-03-13T05:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032325093825921311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1656773057032376320",
+              "start": 0,
+              "username": "duyuming212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032325093825921311",
+        "in_reply_to_user_id": "1656773057032376320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 47765,
+          "like_count": 1116,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032291074736353305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duyuming212 这也是日语圈有意思的一点，他们通常会认为FF外（非互fo）的评论点赞转发是失礼的行为，但是他们却设置推文公开。你不想和外人互动你设置仅关注可见啊？我认为他们在占据公共空间发展自己的小圈子。在公众给你一个开放的印象，但人来了以后我再筛选掉我不要的人。就这么简单。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 108,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1048
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-10T13:02:40.000Z",
+        "description": "",
+        "id": "3515592372",
+        "name": "Wet Magician",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744192999205318656/TXsrS48e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 405,
+          "like_count": 1121,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1136
+        },
+        "username": "cvx1125",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T21:29:29.000Z",
+        "description": "电影和枪械还有游戏机爱好者，喜欢黑泽明  赛尔乔莱昂内  库布里克  胡金铨  吴宇森，这个账号就当做一个影迷和玩家的碎碎念",
+        "id": "1656773057032376320",
+        "name": "椿十三郎",
+        "pinned_tweet_id": "2023687712319099198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022129715633647617/D0u-2kJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 491,
+          "like_count": 9366,
+          "listed_count": 1,
+          "media_count": 2278,
+          "tweet_count": 12881
+        },
+        "username": "duyuming212",
+        "verified": false
+      }
+    ]
+  }
+}

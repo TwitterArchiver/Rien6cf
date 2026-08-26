@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057793612948324352"
+      ],
+      "media_source_tweet_id": [
+        "2057793630392516925"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058450220204401047",
+    "created_at": "2026-05-24T07:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058450220204401047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051953013124890624",
+          "start": 3,
+          "username": "kyunn_iLiFE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cabxuqmNQ0",
+          "end": 50,
+          "expanded_url": "https://x.com/kyunn_iLiFE/status/2057793630392516925/photo/1",
+          "media_key": "3_2057793612948324352",
+          "start": 27,
+          "url": "https://t.co/cabxuqmNQ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058450220204401047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 612
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057793630392516925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyunn_iLiFE: 君にメッセージ💌💭 https://t.co/cabxuqmNQ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2810,
+        "media_key": "3_2057793612948324352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7AY2jaQAAeYf1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057793612948324352"
+          ],
+          "media_source_tweet_id": [
+            "2057793630392516925"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058450220204401047",
+        "created_at": "2026-05-24T07:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058450220204401047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051953013124890624",
+              "start": 3,
+              "username": "kyunn_iLiFE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cabxuqmNQ0",
+              "end": 50,
+              "expanded_url": "https://x.com/kyunn_iLiFE/status/2057793630392516925/photo/1",
+              "media_key": "3_2057793612948324352",
+              "start": 27,
+              "url": "https://t.co/cabxuqmNQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058450220204401047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 612
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057793630392516925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyunn_iLiFE: 君にメッセージ💌💭 https://t.co/cabxuqmNQ0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057793612948324352"
+          ]
+        },
+        "author_id": "2051953013124890624",
+        "conversation_id": "2057793630392516925",
+        "created_at": "2026-05-22T12:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057793630392516925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cabxuqmNQ0",
+              "end": 33,
+              "expanded_url": "https://x.com/kyunn_iLiFE/status/2057793630392516925/photo/1",
+              "media_key": "3_2057793612948324352",
+              "start": 10,
+              "url": "https://t.co/cabxuqmNQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057793630392516925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 855507,
+          "like_count": 21551,
+          "quote_count": 204,
+          "reply_count": 181,
+          "retweet_count": 612
+        },
+        "reply_settings": "everyone",
+        "text": "君にメッセージ💌💭 https://t.co/cabxuqmNQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 4420,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2206
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T09:18:32.000Z",
+        "description": "",
+        "id": "2051953013124890624",
+        "name": "きゅん【iLiFE!候補生】",
+        "pinned_tweet_id": "2052003447101329758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051994270207557632/GNdqpm6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22049,
+          "following_count": 26,
+          "like_count": 4404,
+          "listed_count": 33,
+          "media_count": 10,
+          "tweet_count": 86
+        },
+        "username": "kyunn_iLiFE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      }
+    ],
+    "conversation_id": "2023937904113029606",
+    "created_at": "2026-02-18T01:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T02:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023937904113029606"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "ソニーミュージック本社",
+          "probability": 0.631,
+          "start": 16,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090060469606338561",
+          "start": 3,
+          "username": "Ayase_0404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023937904113029606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023691545342538188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayase_0404: ソニーミュージック本社のトイレットペーパー硬すぎて肛門が八つ裂きになった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "2023937904113029606",
+        "created_at": "2026-02-18T01:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023937904113029606"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "ソニーミュージック本社",
+              "probability": 0.631,
+              "start": 16,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090060469606338561",
+              "start": 3,
+              "username": "Ayase_0404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023937904113029606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023691545342538188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayase_0404: ソニーミュージック本社のトイレットペーパー硬すぎて肛門が八つ裂きになった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090060469606338561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          }
+        ],
+        "conversation_id": "2023691545342538188",
+        "created_at": "2026-02-17T09:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023691545342538188"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "ソニーミュージック本社",
+              "probability": 0.6435,
+              "start": 0,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023691545342538188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2048,
+          "impression_count": 5047513,
+          "like_count": 59725,
+          "quote_count": 824,
+          "reply_count": 893,
+          "retweet_count": 5108
+        },
+        "reply_settings": "everyone",
+        "text": "ソニーミュージック本社のトイレットペーパー硬すぎて肛門が八つ裂きになった"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 69,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 439
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T01:34:03.000Z",
+        "description": "V O C A L O I D p .⁎⁺ Y O A S O B I - ･:*+.˚ https://t.co/BUSjVjZeNM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ayase_0404",
+                "end": 68,
+                "expanded_url": "http://instagram.com/ayase_0404",
+                "start": 45,
+                "url": "https://t.co/BUSjVjZeNM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Ayase0404",
+                "end": 23,
+                "expanded_url": "http://youtube.com/c/Ayase0404",
+                "start": 0,
+                "url": "https://t.co/KD5s8Wae2l"
+              }
+            ]
+          }
+        },
+        "id": "1090060469606338561",
+        "location": "tokyo",
+        "name": "Ayase",
+        "pinned_tweet_id": "1641977337490325504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817792968444792832/1-laHWzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595363,
+          "following_count": 220,
+          "like_count": 31776,
+          "listed_count": 2022,
+          "media_count": 874,
+          "tweet_count": 5944
+        },
+        "url": "https://t.co/KD5s8Wae2l",
+        "username": "Ayase_0404",
+        "verified": true
+      }
+    ]
+  }
+}

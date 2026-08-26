@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054458838481510400"
+      ],
+      "media_source_tweet_id": [
+        "2054458842663223714"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054718183957999737",
+    "created_at": "2026-05-14T00:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054718183957999737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1910825270300536832",
+          "start": 3,
+          "username": "lr8b7G5lwU1370"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXzOV5MPBj",
+          "end": 53,
+          "expanded_url": "https://x.com/lr8b7G5lwU1370/status/2054458842663223714/photo/1",
+          "media_key": "3_2054458838481510400",
+          "start": 30,
+          "url": "https://t.co/TXzOV5MPBj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054718183957999737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054458842663223714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lr8b7G5lwU1370: こういうやつ\nrp https://t.co/TXzOV5MPBj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054458838481510400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILnbblaIAAQ8E5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054458838481510400"
+          ],
+          "media_source_tweet_id": [
+            "2054458842663223714"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054718183957999737",
+        "created_at": "2026-05-14T00:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054718183957999737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1910825270300536832",
+              "start": 3,
+              "username": "lr8b7G5lwU1370"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXzOV5MPBj",
+              "end": 53,
+              "expanded_url": "https://x.com/lr8b7G5lwU1370/status/2054458842663223714/photo/1",
+              "media_key": "3_2054458838481510400",
+              "start": 30,
+              "url": "https://t.co/TXzOV5MPBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054718183957999737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054458842663223714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lr8b7G5lwU1370: こういうやつ\nrp https://t.co/TXzOV5MPBj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054458838481510400"
+          ]
+        },
+        "author_id": "1910825270300536832",
+        "conversation_id": "2054458842663223714",
+        "created_at": "2026-05-13T07:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054458842663223714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXzOV5MPBj",
+              "end": 33,
+              "expanded_url": "https://x.com/lr8b7G5lwU1370/status/2054458842663223714/photo/1",
+              "media_key": "3_2054458838481510400",
+              "start": 10,
+              "url": "https://t.co/TXzOV5MPBj"
+            },
+            {
+              "display_url": "x.com/lr8b7g5lwu1370…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/lr8b7g5lwu1370/status/2054349504468689002",
+              "start": 34,
+              "url": "https://t.co/viMRxzFJ4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054458842663223714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 16116,
+          "like_count": 759,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054349504468689002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こういうやつ\nrp https://t.co/TXzOV5MPBj https://t.co/viMRxzFJ4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 169,
+          "like_count": 3889,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2026
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T22:44:09.000Z",
+        "description": "生き物愛しやイラスト描くぞ 自分にできる動物愛護をコツコツと 無言フォロー失礼します",
+        "id": "1910825270300536832",
+        "location": "日本 山形",
+        "name": "きぬこ2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034053314325975040/rNlJ3iHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 77,
+          "like_count": 1994,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 328
+        },
+        "username": "lr8b7G5lwU1370",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057408610469380096"
+      ],
+      "media_source_tweet_id": [
+        "2057408622347661817"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2057759421506457927",
+    "created_at": "2026-05-22T09:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057759421506457927"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 64,
+          "start": 56,
+          "tag": "ワモンアザラシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1836658621784166400",
+          "start": 3,
+          "username": "suika_azarashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EfHDvrFjtZ",
+          "end": 88,
+          "expanded_url": "https://x.com/suika_azarashi/status/2057408622347661817/photo/1",
+          "media_key": "3_2057408610469380096",
+          "start": 65,
+          "url": "https://t.co/EfHDvrFjtZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057759421506457927",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057408622347661817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suika_azarashi: ようちゃん🦭💛\nかわいい過ぎて🤦✨\n\n2026.5\n#とっかりセンター\n#ワモンアザラシ https://t.co/EfHDvrFjtZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4076,
+        "media_key": "3_2057408610469380096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1iOwjbgAACZbG.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057408610469380096"
+          ],
+          "media_source_tweet_id": [
+            "2057408622347661817"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2057759421506457927",
+        "created_at": "2026-05-22T09:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057759421506457927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1836658621784166400",
+              "start": 3,
+              "username": "suika_azarashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfHDvrFjtZ",
+              "end": 88,
+              "expanded_url": "https://x.com/suika_azarashi/status/2057408622347661817/photo/1",
+              "media_key": "3_2057408610469380096",
+              "start": 65,
+              "url": "https://t.co/EfHDvrFjtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057759421506457927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057408622347661817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suika_azarashi: ようちゃん🦭💛\nかわいい過ぎて🤦✨\n\n2026.5\n#とっかりセンター\n#ワモンアザラシ https://t.co/EfHDvrFjtZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057408610469380096"
+          ]
+        },
+        "author_id": "1836658621784166400",
+        "conversation_id": "2057408622347661817",
+        "created_at": "2026-05-21T10:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057408622347661817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "ワモンアザラシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfHDvrFjtZ",
+              "end": 68,
+              "expanded_url": "https://x.com/suika_azarashi/status/2057408622347661817/photo/1",
+              "media_key": "3_2057408610469380096",
+              "start": 45,
+              "url": "https://t.co/EfHDvrFjtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057408622347661817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 9999,
+          "like_count": 1222,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "ようちゃん🦭💛\nかわいい過ぎて🤦✨\n\n2026.5\n#とっかりセンター\n#ワモンアザラシ https://t.co/EfHDvrFjtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 173,
+          "like_count": 4343,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2175
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T06:50:52.000Z",
+        "description": "アザラシが好きです🦭会いに行ったアザラシさん達の写真を載せています🦭　Do not reupload.",
+        "id": "1836658621784166400",
+        "name": "スイカ",
+        "pinned_tweet_id": "1908104040031912055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836669916537327619/7l01Ub6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 215,
+          "like_count": 48053,
+          "listed_count": 25,
+          "media_count": 904,
+          "tweet_count": 1222
+        },
+        "username": "suika_azarashi",
+        "verified": false
+      }
+    ]
+  }
+}

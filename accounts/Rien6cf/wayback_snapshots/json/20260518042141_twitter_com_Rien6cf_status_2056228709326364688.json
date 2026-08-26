@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056228709326364688",
+    "created_at": "2026-05-18T04:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056228709326364688"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 110,
+          "tag": "千葉市動物公園"
+        },
+        {
+          "end": 127,
+          "start": 119,
+          "tag": "レッサーパンダ"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "風太"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "602436204",
+          "start": 3,
+          "username": "ChibaZoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056228709326364688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056168980726063348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChibaZoo: 昨日に続き本日も気温が高くなる予報となっております。レッサーパンダ【風太】の展示はお休みさせていただきます。ご了承ください。\nご来園のみなさまは、小まめな水分補給🥤を心がけください。(飼Ⅰ)\n#千葉市動物公園　#レッサーパンダ　#風太 https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056168903718653952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIj6uVBa0AA7l1k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056228709326364688",
+        "created_at": "2026-05-18T04:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056228709326364688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 110,
+              "tag": "千葉市動物公園"
+            },
+            {
+              "end": 127,
+              "start": 119,
+              "tag": "レッサーパンダ"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "風太"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "602436204",
+              "start": 3,
+              "username": "ChibaZoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056228709326364688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056168980726063348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChibaZoo: 昨日に続き本日も気温が高くなる予報となっております。レッサーパンダ【風太】の展示はお休みさせていただきます。ご了承ください。\nご来園のみなさまは、小まめな水分補給🥤を心がけください。(飼Ⅰ)\n#千葉市動物公園　#レッサーパンダ　#風太 https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056168903718653952"
+          ]
+        },
+        "author_id": "602436204",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1295937299117555712",
+              "name": "Kanto region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296114377788026880",
+              "name": "Chiba Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296485385434873857",
+              "name": "Chiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1296485385434873857",
+              "name": "Chiba"
+            }
+          }
+        ],
+        "conversation_id": "2056168980726063348",
+        "created_at": "2026-05-18T00:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056168980726063348"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 96,
+              "tag": "千葉市動物公園"
+            },
+            {
+              "end": 113,
+              "start": 105,
+              "tag": "レッサーパンダ"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "風太"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KY35gVbkkP",
+              "end": 141,
+              "expanded_url": "https://x.com/ChibaZoo/status/2056168980726063348/photo/1",
+              "media_key": "3_2056168903718653952",
+              "start": 118,
+              "url": "https://t.co/KY35gVbkkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056168980726063348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 20820,
+          "like_count": 2296,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "昨日に続き本日も気温が高くなる予報となっております。レッサーパンダ【風太】の展示はお休みさせていただきます。ご了承ください。\nご来園のみなさまは、小まめな水分補給🥤を心がけください。(飼Ⅰ)\n#千葉市動物公園　#レッサーパンダ　#風太 https://t.co/KY35gVbkkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 167,
+          "like_count": 4135,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2097
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-08T01:22:33.000Z",
+        "description": "千葉市動物公園の公式アカウントです。※投稿内容:動物の日常や、イベント情報など。※フォロー、リプライ(DM含む)は原則行っていませんのでご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "city.chiba.jp/zoo/index.html",
+                "end": 23,
+                "expanded_url": "https://www.city.chiba.jp/zoo/index.html",
+                "start": 0,
+                "url": "https://t.co/F0zbn6YciY"
+              }
+            ]
+          }
+        },
+        "id": "602436204",
+        "location": "千葉市若葉区源町280",
+        "name": "千葉市動物公園【公式】",
+        "pinned_tweet_id": "2053738675993997348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/761555977455841282/taRem8t5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161715,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 1989,
+          "media_count": 21189,
+          "tweet_count": 23456
+        },
+        "url": "https://t.co/F0zbn6YciY",
+        "username": "ChibaZoo",
+        "verified": false
+      }
+    ]
+  }
+}

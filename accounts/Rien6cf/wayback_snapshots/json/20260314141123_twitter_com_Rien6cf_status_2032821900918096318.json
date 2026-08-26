@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032818671836606868",
+    "created_at": "2026-03-14T14:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032821900918096318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2023505570473594880",
+          "start": 0,
+          "username": "shIkIx0_0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032821900918096318",
+    "in_reply_to_user_id": "2023505570473594880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032821830889934868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shIkIx0_0x なんかエロいw"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032821830889934868].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032821830889934868",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032821830889934868"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032818671836606868",
+        "created_at": "2026-03-14T14:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032821900918096318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2023505570473594880",
+              "start": 0,
+              "username": "shIkIx0_0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032821900918096318",
+        "in_reply_to_user_id": "2023505570473594880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032821830889934868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shIkIx0_0x なんかエロいw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 108,
+          "like_count": 1542,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1068
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T21:11:53.000Z",
+        "description": "ウルフがモテる世界がほしい🗝@ry0n0k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "ry0n0k"
+              }
+            ]
+          }
+        },
+        "id": "2023505570473594880",
+        "location": "通信高校",
+        "name": "死希",
+        "pinned_tweet_id": "2031370735353254218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032081704324894720/5okXaVtJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 109,
+          "like_count": 3029,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 333
+        },
+        "username": "shIkIx0_0x",
+        "verified": false
+      }
+    ]
+  }
+}

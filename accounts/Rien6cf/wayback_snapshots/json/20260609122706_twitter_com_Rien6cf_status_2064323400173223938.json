@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064294637775515648"
+      ],
+      "media_source_tweet_id": [
+        "2064294641617559779"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064323400173223938",
+    "created_at": "2026-06-09T12:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064323400173223938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903024436745469952",
+          "start": 3,
+          "username": "ku_sabi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RjkYalaTNA",
+          "end": 37,
+          "expanded_url": "https://x.com/ku_sabi_/status/2064294641617559779/photo/1",
+          "media_key": "3_2064294637775515648",
+          "start": 14,
+          "url": "https://t.co/RjkYalaTNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064323400173223938",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064294641617559779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ku_sabi_: https://t.co/RjkYalaTNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_2064294637775515648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXZCTRacAA49Uf.jpg",
+        "width": 1301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064294637775515648"
+          ],
+          "media_source_tweet_id": [
+            "2064294641617559779"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064323400173223938",
+        "created_at": "2026-06-09T12:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064323400173223938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903024436745469952",
+              "start": 3,
+              "username": "ku_sabi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjkYalaTNA",
+              "end": 37,
+              "expanded_url": "https://x.com/ku_sabi_/status/2064294641617559779/photo/1",
+              "media_key": "3_2064294637775515648",
+              "start": 14,
+              "url": "https://t.co/RjkYalaTNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323400173223938",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064294641617559779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ku_sabi_: https://t.co/RjkYalaTNA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064294637775515648"
+          ]
+        },
+        "author_id": "1903024436745469952",
+        "conversation_id": "2064294641617559779",
+        "created_at": "2026-06-09T10:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064294641617559779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjkYalaTNA",
+              "end": 23,
+              "expanded_url": "https://x.com/ku_sabi_/status/2064294641617559779/photo/1",
+              "media_key": "3_2064294637775515648",
+              "start": 0,
+              "url": "https://t.co/RjkYalaTNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064294641617559779",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3414,
+          "like_count": 289,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/RjkYalaTNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5358,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2499
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T10:02:48.000Z",
+        "description": "絵@utututuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 1,
+                "username": "utututuna"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ku_sabi?si=Q_…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ku_sabi?si=Q_5omVTgBqNIS7UT",
+                "start": 0,
+                "url": "https://t.co/judVkr1cOX"
+              }
+            ]
+          }
+        },
+        "id": "1903024436745469952",
+        "name": "楔しお",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022299394658488320/yDbPHUvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6919,
+          "following_count": 65,
+          "like_count": 4106,
+          "listed_count": 35,
+          "media_count": 112,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/judVkr1cOX",
+        "username": "ku_sabi_",
+        "verified": false
+      }
+    ]
+  }
+}

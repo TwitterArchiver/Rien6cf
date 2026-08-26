@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018987914399801344",
+        "3_2018987914403983361"
+      ],
+      "media_source_tweet_id": [
+        "2018987919781089740",
+        "2018987919781089740"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019006373330329913",
+    "created_at": "2026-02-04T11:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T12:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019006373330329913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "92985467",
+          "start": 3,
+          "username": "164203"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sl05CCkP1o",
+          "end": 53,
+          "expanded_url": "https://x.com/164203/status/2018987919781089740/photo/1",
+          "media_key": "3_2018987914399801344",
+          "start": 30,
+          "url": "https://t.co/Sl05CCkP1o"
+        },
+        {
+          "display_url": "pic.x.com/Sl05CCkP1o",
+          "end": 53,
+          "expanded_url": "https://x.com/164203/status/2018987919781089740/photo/1",
+          "media_key": "3_2018987914403983361",
+          "start": 30,
+          "url": "https://t.co/Sl05CCkP1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019006373330329913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 339
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018987919781089740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @164203: ろっくせんまん！\nろっくせんまん！ https://t.co/Sl05CCkP1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2018987914399801344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATiz6ObYAA1WKV.jpg",
+        "width": 1474
+      },
+      {
+        "height": 1150,
+        "media_key": "3_2018987914403983361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATiz6PbMAEHmkX.jpg",
+        "width": 2147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018987914399801344",
+            "3_2018987914403983361"
+          ],
+          "media_source_tweet_id": [
+            "2018987919781089740",
+            "2018987919781089740"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019006373330329913",
+        "created_at": "2026-02-04T11:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019006373330329913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "92985467",
+              "start": 3,
+              "username": "164203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sl05CCkP1o",
+              "end": 53,
+              "expanded_url": "https://x.com/164203/status/2018987919781089740/photo/1",
+              "media_key": "3_2018987914399801344",
+              "start": 30,
+              "url": "https://t.co/Sl05CCkP1o"
+            },
+            {
+              "display_url": "pic.x.com/Sl05CCkP1o",
+              "end": 53,
+              "expanded_url": "https://x.com/164203/status/2018987919781089740/photo/1",
+              "media_key": "3_2018987914403983361",
+              "start": 30,
+              "url": "https://t.co/Sl05CCkP1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019006373330329913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 339
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018987919781089740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @164203: ろっくせんまん！\nろっくせんまん！ https://t.co/Sl05CCkP1o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018987914399801344",
+            "3_2018987914403983361"
+          ]
+        },
+        "author_id": "92985467",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018987919781089740",
+        "created_at": "2026-02-04T10:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018987919781089740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sl05CCkP1o",
+              "end": 41,
+              "expanded_url": "https://x.com/164203/status/2018987919781089740/photo/1",
+              "media_key": "3_2018987914399801344",
+              "start": 18,
+              "url": "https://t.co/Sl05CCkP1o"
+            },
+            {
+              "display_url": "pic.x.com/Sl05CCkP1o",
+              "end": 41,
+              "expanded_url": "https://x.com/164203/status/2018987919781089740/photo/1",
+              "media_key": "3_2018987914403983361",
+              "start": 18,
+              "url": "https://t.co/Sl05CCkP1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018987919781089740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 81682,
+          "like_count": 4553,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 339
+        },
+        "reply_settings": "everyone",
+        "text": "ろっくせんまん！\nろっくせんまん！ https://t.co/Sl05CCkP1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 经常性无言fo  前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 127
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-27T15:07:53.000Z",
+        "description": "ボカロP 𝗬𝗼𝘂𝗧𝘂𝗯𝗲→ https://t.co/jHnClAvwmV 𝗻𝗶𝗰𝗼𝗻𝗶𝗰𝗼→ https://t.co/ybQZJ6z9X9 読みはｲﾁﾛｸﾖﾝ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@164203",
+                "end": 37,
+                "expanded_url": "http://m.youtube.com/@164203",
+                "start": 14,
+                "url": "https://t.co/jHnClAvwmV"
+              },
+              {
+                "display_url": "nico.ms/mylist/3304983",
+                "end": 71,
+                "expanded_url": "http://nico.ms/mylist/3304983",
+                "start": 48,
+                "url": "https://t.co/ybQZJ6z9X9"
+              }
+            ]
+          }
+        },
+        "id": "92985467",
+        "location": "お仕事のご連絡先：164203.com@gmail.com",
+        "name": "１６４",
+        "pinned_tweet_id": "2018987919781089740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904274881161875456/7rMpZP9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203651,
+          "following_count": 26737,
+          "like_count": 44112,
+          "listed_count": 1713,
+          "media_count": 2524,
+          "tweet_count": 21914
+        },
+        "username": "164203",
+        "verified": true
+      }
+    ]
+  }
+}

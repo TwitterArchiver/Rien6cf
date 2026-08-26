@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054822548354019380",
+    "created_at": "2026-05-14T07:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054823503342539148"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054823503342539148",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054822548354019380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "20トンだったら"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054822548354019380",
+        "created_at": "2026-05-14T07:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054823503342539148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054823503342539148",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054822548354019380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20トンだったら"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054822548354019380",
+        "created_at": "2026-05-14T07:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054822548354019380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quachill0312/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/quachill0312/status/2054804801524007403",
+              "start": 9,
+              "url": "https://t.co/fBpGBfs7XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054822548354019380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054804801524007403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大塚製薬工場やん https://t.co/fBpGBfs7XQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 169,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2032
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1688497486162546688"
+      ],
+      "media_source_tweet_id": [
+        "1688626063872872448"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2082964205578379532",
+    "created_at": "2026-07-30T22:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T23:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082964205578379532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2475118086",
+          "start": 3,
+          "username": "asayozibot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7zbXq32Hx",
+          "end": 39,
+          "expanded_url": "https://x.com/asayozibot/status/1688626063872872448/photo/1",
+          "media_key": "3_1688497486162546688",
+          "start": 16,
+          "url": "https://t.co/j7zbXq32Hx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082964205578379532",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082904255967510528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asayozibot: https://t.co/j7zbXq32Hx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1688497486162546688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F26_hILb0AA7abR.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1688497486162546688"
+          ]
+        },
+        "author_id": "2475118086",
+        "conversation_id": "1688626063872872448",
+        "created_at": "2023-08-07T19:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-07T20:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1688626063872872448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7zbXq32Hx",
+              "end": 23,
+              "expanded_url": "https://x.com/asayozibot/status/1688626063872872448/photo/1",
+              "media_key": "3_1688497486162546688",
+              "start": 0,
+              "url": "https://t.co/j7zbXq32Hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1688626063872872448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18951,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j7zbXq32Hx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1688497486162546688"
+          ],
+          "media_source_tweet_id": [
+            "1688626063872872448"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2082964205578379532",
+        "created_at": "2026-07-30T22:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T23:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082964205578379532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2475118086",
+              "start": 3,
+              "username": "asayozibot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7zbXq32Hx",
+              "end": 39,
+              "expanded_url": "https://x.com/asayozibot/status/1688626063872872448/photo/1",
+              "media_key": "3_1688497486162546688",
+              "start": 16,
+              "url": "https://t.co/j7zbXq32Hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082964205578379532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082904255967510528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asayozibot: https://t.co/j7zbXq32Hx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1688497486162546688"
+          ],
+          "media_source_tweet_id": [
+            "1688626063872872448"
+          ]
+        },
+        "author_id": "2475118086",
+        "conversation_id": "2082904255967510528",
+        "created_at": "2026-07-30T19:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082904255967510528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7zbXq32Hx",
+              "end": 23,
+              "expanded_url": "https://x.com/asayozibot/status/1688626063872872448/photo/1",
+              "media_key": "3_1688497486162546688",
+              "start": 0,
+              "url": "https://t.co/j7zbXq32Hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082904255967510528",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6506,
+          "like_count": 230,
+          "quote_count": 22,
+          "reply_count": 4,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j7zbXq32Hx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 207,
+          "like_count": 8915,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 3193
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-03T07:45:10.000Z",
+        "description": "毎日午前４時に煽ります　何かあれば→【@tataninjin】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "tataninjin"
+              }
+            ]
+          }
+        },
+        "id": "2475118086",
+        "name": "朝四時に何してるんだい?bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/462498323576807424/PctM1qMn_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30432,
+          "following_count": 11,
+          "like_count": 1,
+          "listed_count": 206,
+          "media_count": 4333,
+          "tweet_count": 4345
+        },
+        "url": "",
+        "username": "asayozibot",
+        "verified": false
+      }
+    ]
+  }
+}

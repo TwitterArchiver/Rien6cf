@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051549758729424896"
+      ],
+      "media_source_tweet_id": [
+        "2051549786021720174"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2051873208140476876",
+    "created_at": "2026-05-06T03:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051873208140476876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1584505841524170752",
+          "start": 3,
+          "username": "WINDSCALE_coai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bg6akyiWCY",
+          "end": 60,
+          "expanded_url": "https://x.com/WINDSCALE_coai/status/2051549786021720174/photo/1",
+          "media_key": "3_2051549758729424896",
+          "start": 37,
+          "url": "https://t.co/Bg6akyiWCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051873208140476876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051549786021720174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WINDSCALE_coai: iLifeみたいなグレープ屋だな https://t.co/Bg6akyiWCY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2051549758729424896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiRotAbEAAbqQy.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051549758729424896"
+          ],
+          "media_source_tweet_id": [
+            "2051549786021720174"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051873208140476876",
+        "created_at": "2026-05-06T03:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051873208140476876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1584505841524170752",
+              "start": 3,
+              "username": "WINDSCALE_coai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bg6akyiWCY",
+              "end": 60,
+              "expanded_url": "https://x.com/WINDSCALE_coai/status/2051549786021720174/photo/1",
+              "media_key": "3_2051549758729424896",
+              "start": 37,
+              "url": "https://t.co/Bg6akyiWCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051873208140476876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051549786021720174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WINDSCALE_coai: iLifeみたいなグレープ屋だな https://t.co/Bg6akyiWCY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051549758729424896"
+          ]
+        },
+        "author_id": "1584505841524170752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051549786021720174",
+        "created_at": "2026-05-05T06:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051549786021720174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bg6akyiWCY",
+              "end": 40,
+              "expanded_url": "https://x.com/WINDSCALE_coai/status/2051549786021720174/photo/1",
+              "media_key": "3_2051549758729424896",
+              "start": 17,
+              "url": "https://t.co/Bg6akyiWCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051549786021720174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 177898,
+          "like_count": 7429,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "iLifeみたいなグレープ屋だな https://t.co/Bg6akyiWCY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 163,
+          "like_count": 3394,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1880
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T11:23:46.000Z",
+        "description": "憎んでしまうことも \n疑ってしまうことも \n困らせてしまうことも \n忘れようとしたことも\n今ここにいるのも \n信じられることも\n強くなれることも\nこあいを愛してるから💕💕💕💕",
+        "id": "1584505841524170752",
+        "name": "サバッツ∞ブルー",
+        "pinned_tweet_id": "1645370112072105984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629116900662972417/c7A9hc9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1217,
+          "like_count": 120994,
+          "listed_count": 17,
+          "media_count": 4202,
+          "tweet_count": 52725
+        },
+        "username": "WINDSCALE_coai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029387646603342034",
+    "created_at": "2026-03-05T02:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T03:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029387646603342034"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "北品川",
+          "probability": 0.3812,
+          "start": 16,
+          "type": "Place"
+        },
+        {
+          "end": 21,
+          "normalized_text": "品川",
+          "probability": 0.9445,
+          "start": 20,
+          "type": "Place"
+        },
+        {
+          "end": 33,
+          "normalized_text": "青物横丁",
+          "probability": 0.2945,
+          "start": 30,
+          "type": "Place"
+        },
+        {
+          "end": 36,
+          "normalized_text": "品川",
+          "probability": 0.9385,
+          "start": 35,
+          "type": "Place"
+        },
+        {
+          "end": 48,
+          "normalized_text": "京急蒲田",
+          "probability": 0.2214,
+          "start": 45,
+          "type": "Place"
+        },
+        {
+          "end": 51,
+          "normalized_text": "品川",
+          "probability": 0.9397,
+          "start": 50,
+          "type": "Place"
+        },
+        {
+          "end": 63,
+          "normalized_text": "羽田空港",
+          "probability": 0.903,
+          "start": 60,
+          "type": "Place"
+        },
+        {
+          "end": 66,
+          "normalized_text": "品川",
+          "probability": 0.9549,
+          "start": 65,
+          "type": "Place"
+        },
+        {
+          "end": 79,
+          "normalized_text": "上大岡",
+          "probability": 0.7622,
+          "start": 77,
+          "type": "Place"
+        },
+        {
+          "end": 82,
+          "normalized_text": "品川",
+          "probability": 0.8749,
+          "start": 81,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684124792566460417",
+          "start": 3,
+          "username": "yozacra_ft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029387646603342034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029200265480683600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yozacra_ft: 北品川「品川から一駅です」\n青物横丁「品川から一駅です」\n京急蒲田「品川から一駅です」\n羽田空港「品川から一駅です」\n  上大岡「品川まで一駅です」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029387646603342034",
+        "created_at": "2026-03-05T02:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029387646603342034"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "北品川",
+              "probability": 0.3812,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 21,
+              "normalized_text": "品川",
+              "probability": 0.9445,
+              "start": 20,
+              "type": "Place"
+            },
+            {
+              "end": 33,
+              "normalized_text": "青物横丁",
+              "probability": 0.2945,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 36,
+              "normalized_text": "品川",
+              "probability": 0.9385,
+              "start": 35,
+              "type": "Place"
+            },
+            {
+              "end": 48,
+              "normalized_text": "京急蒲田",
+              "probability": 0.2214,
+              "start": 45,
+              "type": "Place"
+            },
+            {
+              "end": 51,
+              "normalized_text": "品川",
+              "probability": 0.9397,
+              "start": 50,
+              "type": "Place"
+            },
+            {
+              "end": 63,
+              "normalized_text": "羽田空港",
+              "probability": 0.903,
+              "start": 60,
+              "type": "Place"
+            },
+            {
+              "end": 66,
+              "normalized_text": "品川",
+              "probability": 0.9549,
+              "start": 65,
+              "type": "Place"
+            },
+            {
+              "end": 79,
+              "normalized_text": "上大岡",
+              "probability": 0.7622,
+              "start": 77,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "品川",
+              "probability": 0.8749,
+              "start": 81,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684124792566460417",
+              "start": 3,
+              "username": "yozacra_ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029387646603342034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029200265480683600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yozacra_ft: 北品川「品川から一駅です」\n青物横丁「品川から一駅です」\n京急蒲田「品川から一駅です」\n羽田空港「品川から一駅です」\n  上大岡「品川まで一駅です」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684124792566460417",
+        "conversation_id": "2029200265480683600",
+        "created_at": "2026-03-04T14:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029200265480683600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "品川",
+              "probability": 0.9199,
+              "start": 4,
+              "type": "Place"
+            },
+            {
+              "end": 17,
+              "normalized_text": "青物横丁",
+              "probability": 0.2893,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 20,
+              "normalized_text": "品川",
+              "probability": 0.9358,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 32,
+              "normalized_text": "京急蒲田",
+              "probability": 0.2341,
+              "start": 29,
+              "type": "Place"
+            },
+            {
+              "end": 35,
+              "normalized_text": "品川",
+              "probability": 0.9377,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 47,
+              "normalized_text": "羽田空港",
+              "probability": 0.9026,
+              "start": 44,
+              "type": "Place"
+            },
+            {
+              "end": 50,
+              "normalized_text": "品川",
+              "probability": 0.9546,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 63,
+              "normalized_text": "上大岡",
+              "probability": 0.7615,
+              "start": 61,
+              "type": "Place"
+            },
+            {
+              "end": 66,
+              "normalized_text": "品川",
+              "probability": 0.8763,
+              "start": 65,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029200265480683600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3380,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "北品川「品川から一駅です」\n青物横丁「品川から一駅です」\n京急蒲田「品川から一駅です」\n羽田空港「品川から一駅です」\n  上大岡「品川まで一駅です」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 100,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 773
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T08:53:46.000Z",
+        "description": "鉄道好きはフォロバします！\nデジカメ、スマホ使ってますが撮るのは下手です\n（マイクラは現在活動休止中）",
+        "id": "1684124792566460417",
+        "location": "2101F",
+        "name": "夜桜 -𝒏𝒊𝒈𝒉𝒕 𝒄𝒉𝒆𝒓𝒓𝒚-",
+        "pinned_tweet_id": "2028493336617828552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010731187686510592/_wZPyN4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 3140,
+          "like_count": 5632,
+          "listed_count": 1,
+          "media_count": 573,
+          "tweet_count": 692
+        },
+        "username": "yozacra_ft",
+        "verified": false
+      }
+    ]
+  }
+}

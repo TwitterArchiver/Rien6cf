@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2040701593180663917",
+    "created_at": "2026-04-05T08:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040701593180663917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791412273678086144",
+          "start": 3,
+          "username": "siderail_791"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040701593180663917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040674950185709905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siderail_791: Q.大阪駅から一駅で行ける最も遠い場所は？\n\n🙂「新大阪？」\n😁「いやいや、尼崎だろ」\n🥸「天王寺だと思います」\n\nA.静岡\n\n🤯🤯🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2040701593180663917",
+        "created_at": "2026-04-05T08:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040701593180663917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791412273678086144",
+              "start": 3,
+              "username": "siderail_791"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040701593180663917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040674950185709905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siderail_791: Q.大阪駅から一駅で行ける最も遠い場所は？\n\n🙂「新大阪？」\n😁「いやいや、尼崎だろ」\n🥸「天王寺だと思います」\n\nA.静岡\n\n🤯🤯🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791412273678086144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2040674950185709905",
+        "created_at": "2026-04-05T06:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040674950185709905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040674950185709905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7742,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Q.大阪駅から一駅で行ける最も遠い場所は？\n\n🙂「新大阪？」\n😁「いやいや、尼崎だろ」\n🥸「天王寺だと思います」\n\nA.静岡\n\n🤯🤯🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 127,
+          "like_count": 2334,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1416
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T10:16:00.000Z",
+        "description": "E231系1000番台推し/ゲーム中毒者/#ﾈﾘﾈﾘ界隈 /大切な人がいます/サブ垢兼音鉄垢→@siderail_subsub",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 21,
+                "tag": "ﾈﾘﾈﾘ界隈"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "siderail_subsub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/siderail_791",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/siderail_791",
+                "start": 0,
+                "url": "https://t.co/A46xLGhuLF"
+              }
+            ]
+          }
+        },
+        "id": "1791412273678086144",
+        "location": "大静岡帝国",
+        "name": "さいどの鉄",
+        "pinned_tweet_id": "2009241468561707122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959985072309993472/GusCvlf6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1418,
+          "like_count": 26175,
+          "listed_count": 0,
+          "media_count": 704,
+          "tweet_count": 4683
+        },
+        "url": "https://t.co/A46xLGhuLF",
+        "username": "siderail_791",
+        "verified": false
+      }
+    ]
+  }
+}

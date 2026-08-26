@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2031256643539972161",
+    "created_at": "2026-03-10T06:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T07:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031256643539972161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3921918133",
+          "start": 3,
+          "username": "motamama0309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031256643539972161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031198157720445377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @motamama0309: 特設公式サイトオープンしました。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2031256643539972161",
+        "created_at": "2026-03-10T06:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031256643539972161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3921918133",
+              "start": 3,
+              "username": "motamama0309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031256643539972161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031198157720445377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @motamama0309: 特設公式サイトオープンしました。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3921918133",
+        "conversation_id": "2031198157720445377",
+        "created_at": "2026-03-10T02:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031198157720445377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031198157720445377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1409,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "特設公式サイトオープンしました。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 113,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 932
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-17T06:08:23.000Z",
+        "description": "ぽわぽわＰ,椎名もたのオカンです。  気軽にお声掛けして下さいね。",
+        "id": "3921918133",
+        "location": "石川県 小松市",
+        "name": "もたmama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1104820702593478656/bNU_fXtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 390,
+          "like_count": 9857,
+          "listed_count": 27,
+          "media_count": 145,
+          "tweet_count": 4506
+        },
+        "username": "motamama0309",
+        "verified": false
+      }
+    ]
+  }
+}

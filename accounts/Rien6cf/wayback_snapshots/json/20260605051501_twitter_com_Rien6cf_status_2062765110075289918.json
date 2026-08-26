@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062502591918133248"
+      ],
+      "media_source_tweet_id": [
+        "2062508093486096648"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062765110075289918",
+    "created_at": "2026-06-05T05:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062765110075289918"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 25,
+          "tag": "アクアマリンふくしま"
+        },
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "クラカケアザラシ"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "くらまる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1419723003957432332",
+          "start": 3,
+          "username": "yun_luv_seals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/46bn9qBQlZ",
+          "end": 76,
+          "expanded_url": "https://x.com/yun_luv_seals/status/2062508093486096648/photo/1",
+          "media_key": "3_2062502591918133248",
+          "start": 53,
+          "url": "https://t.co/46bn9qBQlZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062765110075289918",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062508093486096648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yun_luv_seals: くら様♡♡\n#アクアマリンふくしま\n#クラカケアザラシ\n#くらまる https://t.co/46bn9qBQlZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_2062502591918133248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ97LgOaUAArijt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062502591918133248"
+          ],
+          "media_source_tweet_id": [
+            "2062508093486096648"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062765110075289918",
+        "created_at": "2026-06-05T05:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062765110075289918"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 25,
+              "tag": "アクアマリンふくしま"
+            },
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "クラカケアザラシ"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "くらまる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1419723003957432332",
+              "start": 3,
+              "username": "yun_luv_seals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/46bn9qBQlZ",
+              "end": 76,
+              "expanded_url": "https://x.com/yun_luv_seals/status/2062508093486096648/photo/1",
+              "media_key": "3_2062502591918133248",
+              "start": 53,
+              "url": "https://t.co/46bn9qBQlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062765110075289918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062508093486096648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yun_luv_seals: くら様♡♡\n#アクアマリンふくしま\n#クラカケアザラシ\n#くらまる https://t.co/46bn9qBQlZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062502591918133248"
+          ]
+        },
+        "author_id": "1419723003957432332",
+        "conversation_id": "2062508093486096648",
+        "created_at": "2026-06-04T12:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062508093486096648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "アクアマリンふくしま"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "クラカケアザラシ"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "くらまる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/46bn9qBQlZ",
+              "end": 57,
+              "expanded_url": "https://x.com/yun_luv_seals/status/2062508093486096648/photo/1",
+              "media_key": "3_2062502591918133248",
+              "start": 34,
+              "url": "https://t.co/46bn9qBQlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062508093486096648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5182,
+          "like_count": 533,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "くら様♡♡\n#アクアマリンふくしま\n#クラカケアザラシ\n#くらまる https://t.co/46bn9qBQlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 183,
+          "like_count": 5081,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2412
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T18:15:23.000Z",
+        "description": "アザラシが大好き。ホッキョクグマも。男鹿水族館GAOは箱押し。アイコンはこまち。",
+        "id": "1419723003957432332",
+        "location": "最寄りアザラシはマリンピア日本海🌾",
+        "name": "yu n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1419726904068755460/9EsEFBI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 218,
+          "like_count": 89732,
+          "listed_count": 40,
+          "media_count": 1814,
+          "tweet_count": 5752
+        },
+        "username": "yun_luv_seals",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090272071305822414",
+    "created_at": "2026-08-20T02:57:51.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090272071305822414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057722562520772608",
+          "start": 3,
+          "username": "___0010_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090272071305822414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089581853313568781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @___0010_: 希死念慮を抱いていなかった頃をもう思い出せない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090272071305822414",
+        "created_at": "2026-08-20T02:57:51.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090272071305822414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057722562520772608",
+              "start": 3,
+              "username": "___0010_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090272071305822414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089581853313568781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @___0010_: 希死念慮を抱いていなかった頃をもう思い出せない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057722562520772608",
+        "conversation_id": "2089581853313568781",
+        "created_at": "2026-08-18T05:15:11.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089581853313568781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089581853313568781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 20546,
+          "like_count": 2252,
+          "quote_count": 19,
+          "reply_count": 2,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "希死念慮を抱いていなかった頃をもう思い出せない"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090272071305822414",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 213,
+          "like_count": 9553,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3392
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:17:57.000Z",
+        "description": "いつか終わりがくることを願って",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/twhcepnbcxyjwb…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/twhcepnbcxyjwbe?t=HvHafP&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/xXFy2TLWjB"
+              }
+            ]
+          }
+        },
+        "id": "2057722562520772608",
+        "is_identity_verified": false,
+        "location": "ひとりごと",
+        "most_recent_tweet_id": "2090198543835472347",
+        "name": "椋",
+        "pinned_tweet_id": "2084291934252925321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057722562520772608/1782369259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062115919795769344/HytKvvIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 99,
+          "like_count": 6431,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/xXFy2TLWjB",
+        "username": "___0010_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

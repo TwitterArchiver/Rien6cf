@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2044333163321991669",
+    "created_at": "2026-04-16T19:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T20:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044855012019617928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845786359082135552",
+          "start": 0,
+          "username": "Fluttermori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044855012019617928",
+    "in_reply_to_user_id": "1845786359082135552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044333163321991669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fluttermori 原宿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2044333163321991669",
+        "created_at": "2026-04-16T19:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T20:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044855012019617928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845786359082135552",
+              "start": 0,
+              "username": "Fluttermori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044855012019617928",
+        "in_reply_to_user_id": "1845786359082135552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044333163321991669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fluttermori 原宿！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845786359082135552",
+        "conversation_id": "2044333163321991669",
+        "created_at": "2026-04-15T08:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044333163321991669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044333163321991669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 711,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日签下来了好期待啊终于可以去日本了 东京哪里好玩好吃便宜😛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 139,
+          "like_count": 2733,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1611
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T11:19:12.000Z",
+        "description": "碎碎念=ᗜωᗜ= /对你有兴趣会互fo /现生刷到请保持边界感/不线下/不礼貌拉黑/分身@phyuyomore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "phyuyomore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puyo23953",
+                "end": 23,
+                "expanded_url": "https://ngl.link/puyo23953",
+                "start": 0,
+                "url": "https://t.co/7vIC1YhHkG"
+              }
+            ]
+          }
+        },
+        "id": "1845786359082135552",
+        "location": "🚪好友位88",
+        "name": "ぷよ",
+        "pinned_tweet_id": "2010715318365348314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005284831522127872/Zk63-t7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 187,
+          "like_count": 4230,
+          "listed_count": 4,
+          "media_count": 274,
+          "tweet_count": 2310
+        },
+        "url": "https://t.co/7vIC1YhHkG",
+        "username": "Fluttermori",
+        "verified": false
+      }
+    ]
+  }
+}

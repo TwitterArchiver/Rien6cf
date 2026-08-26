@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058012908991520768",
+        "3_2058012908987322368",
+        "3_2058012908987305984"
+      ],
+      "media_source_tweet_id": [
+        "2058012916058828853",
+        "2058012916058828853",
+        "2058012916058828853"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2058160041308635281",
+    "created_at": "2026-05-23T12:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058160041308635281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2006670175492517895",
+          "start": 3,
+          "username": "k4i2r1a0m5a9y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5YbS9mtJKO",
+          "end": 86,
+          "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+          "media_key": "3_2058012908991520768",
+          "start": 63,
+          "url": "https://t.co/5YbS9mtJKO"
+        },
+        {
+          "display_url": "pic.x.com/5YbS9mtJKO",
+          "end": 86,
+          "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+          "media_key": "3_2058012908987322368",
+          "start": 63,
+          "url": "https://t.co/5YbS9mtJKO"
+        },
+        {
+          "display_url": "pic.x.com/5YbS9mtJKO",
+          "end": 86,
+          "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+          "media_key": "3_2058012908987305984",
+          "start": 63,
+          "url": "https://t.co/5YbS9mtJKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058160041308635281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058012916058828853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k4i2r1a0m5a9y: メイちゃん寝てたのにファンサしてくれました\nただ、メイちゃん、その体勢って寝れるん？笑 https://t.co/5YbS9mtJKO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2058012908991520768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-H1j-boAASN1c.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2058012908987322368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-H1j9bkAAus81.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2058012908987305984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-H1j9bUAAFoLN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058012908991520768",
+            "3_2058012908987322368",
+            "3_2058012908987305984"
+          ],
+          "media_source_tweet_id": [
+            "2058012916058828853",
+            "2058012916058828853",
+            "2058012916058828853"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2058160041308635281",
+        "created_at": "2026-05-23T12:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058160041308635281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2006670175492517895",
+              "start": 3,
+              "username": "k4i2r1a0m5a9y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YbS9mtJKO",
+              "end": 86,
+              "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+              "media_key": "3_2058012908991520768",
+              "start": 63,
+              "url": "https://t.co/5YbS9mtJKO"
+            },
+            {
+              "display_url": "pic.x.com/5YbS9mtJKO",
+              "end": 86,
+              "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+              "media_key": "3_2058012908987322368",
+              "start": 63,
+              "url": "https://t.co/5YbS9mtJKO"
+            },
+            {
+              "display_url": "pic.x.com/5YbS9mtJKO",
+              "end": 86,
+              "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+              "media_key": "3_2058012908987305984",
+              "start": 63,
+              "url": "https://t.co/5YbS9mtJKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058160041308635281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058012916058828853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k4i2r1a0m5a9y: メイちゃん寝てたのにファンサしてくれました\nただ、メイちゃん、その体勢って寝れるん？笑 https://t.co/5YbS9mtJKO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058012908991520768",
+            "3_2058012908987322368",
+            "3_2058012908987305984"
+          ]
+        },
+        "author_id": "2006670175492517895",
+        "conversation_id": "2058012916058828853",
+        "created_at": "2026-05-23T02:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058012916058828853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YbS9mtJKO",
+              "end": 67,
+              "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+              "media_key": "3_2058012908991520768",
+              "start": 44,
+              "url": "https://t.co/5YbS9mtJKO"
+            },
+            {
+              "display_url": "pic.x.com/5YbS9mtJKO",
+              "end": 67,
+              "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+              "media_key": "3_2058012908987322368",
+              "start": 44,
+              "url": "https://t.co/5YbS9mtJKO"
+            },
+            {
+              "display_url": "pic.x.com/5YbS9mtJKO",
+              "end": 67,
+              "expanded_url": "https://x.com/k4i2r1a0m5a9y/status/2058012916058828853/photo/1",
+              "media_key": "3_2058012908987305984",
+              "start": 44,
+              "url": "https://t.co/5YbS9mtJKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058012916058828853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 28452,
+          "like_count": 1884,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "メイちゃん寝てたのにファンサしてくれました\nただ、メイちゃん、その体勢って寝れるん？笑 https://t.co/5YbS9mtJKO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 170,
+          "like_count": 4383,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2195
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T10:14:24.000Z",
+        "description": "鳥羽水族館のメイちゃんキラちゃんにはまってます🦦 2025年9月 初鳥羽水族館🔰🦦",
+        "id": "2006670175492517895",
+        "name": "はるい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016136403436933120/NiIIuoEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 68,
+          "like_count": 5366,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 777
+        },
+        "username": "k4i2r1a0m5a9y",
+        "verified": false
+      }
+    ]
+  }
+}

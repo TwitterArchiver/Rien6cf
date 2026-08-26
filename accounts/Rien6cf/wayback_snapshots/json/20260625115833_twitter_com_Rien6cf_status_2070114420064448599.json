@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069776280719929346"
+      ],
+      "media_source_tweet_id": [
+        "2069776290417439156"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2070114420064448599",
+    "created_at": "2026-06-25T11:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070114420064448599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1184154212571025408",
+          "start": 3,
+          "username": "ftapz_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/koLsVrVslA",
+          "end": 136,
+          "expanded_url": "https://x.com/ftapz_/status/2069776290417439156/photo/1",
+          "media_key": "3_2069776280719929346",
+          "start": 113,
+          "url": "https://t.co/koLsVrVslA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070114420064448599",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42900
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069776290417439156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ftapz_: 🐶 ถ้าเจอคนแก่กับเด็กอยู่บนถนน ต้องเหยียบอะไร\n🐹 คนแก่ครับ เพราะเด็กยังมีอนาคตอีกไกล\n🐶 เบรค เหยียบเบรค https://t.co/koLsVrVslA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_2069776280719929346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlSj6jXMAIB9FR.jpg",
+        "width": 1435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069776280719929346"
+          ],
+          "media_source_tweet_id": [
+            "2069776290417439156"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2070114420064448599",
+        "created_at": "2026-06-25T11:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070114420064448599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1184154212571025408",
+              "start": 3,
+              "username": "ftapz_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/koLsVrVslA",
+              "end": 136,
+              "expanded_url": "https://x.com/ftapz_/status/2069776290417439156/photo/1",
+              "media_key": "3_2069776280719929346",
+              "start": 113,
+              "url": "https://t.co/koLsVrVslA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070114420064448599",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42900
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069776290417439156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ftapz_: 🐶 ถ้าเจอคนแก่กับเด็กอยู่บนถนน ต้องเหยียบอะไร\n🐹 คนแก่ครับ เพราะเด็กยังมีอนาคตอีกไกล\n🐶 เบรค เหยียบเบรค https://t.co/koLsVrVslA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069776280719929346"
+          ]
+        },
+        "author_id": "1184154212571025408",
+        "conversation_id": "2069776290417439156",
+        "created_at": "2026-06-24T13:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069776290417439156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/koLsVrVslA",
+              "end": 124,
+              "expanded_url": "https://x.com/ftapz_/status/2069776290417439156/photo/1",
+              "media_key": "3_2069776280719929346",
+              "start": 101,
+              "url": "https://t.co/koLsVrVslA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069776290417439156",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4689,
+          "impression_count": 1681455,
+          "like_count": 90752,
+          "quote_count": 1178,
+          "reply_count": 4,
+          "retweet_count": 42900
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🐶 ถ้าเจอคนแก่กับเด็กอยู่บนถนน ต้องเหยียบอะไร\n🐹 คนแก่ครับ เพราะเด็กยังมีอนาคตอีกไกล\n🐶 เบรค เหยียบเบรค https://t.co/koLsVrVslA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 190,
+          "like_count": 6229,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2695
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-15T17:09:08.000Z",
+        "description": "เป็นมิตรต่อสิ่งแวดล้อม",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ftapz_1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ftapz_1",
+                "start": 0,
+                "url": "https://t.co/miCWVcfZNG"
+              }
+            ]
+          }
+        },
+        "id": "1184154212571025408",
+        "name": "เฟย่า",
+        "pinned_tweet_id": "1797153398414078036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062552676525875200/Tr49oV7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 86,
+          "like_count": 2857,
+          "listed_count": 0,
+          "media_count": 3147,
+          "tweet_count": 57867
+        },
+        "url": "https://t.co/miCWVcfZNG",
+        "username": "ftapz_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030286382711832576"
+      ],
+      "media_source_tweet_id": [
+        "2030286387866488871"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030310179976409190",
+    "created_at": "2026-03-07T15:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030310179976409190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1992962779087826944",
+          "start": 3,
+          "username": "dbdbsjbsja"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wPHORPtLcs",
+          "end": 60,
+          "expanded_url": "https://x.com/dbdbsjbsja/status/2030286387866488871/photo/1",
+          "media_key": "3_2030286382711832576",
+          "start": 37,
+          "url": "https://t.co/wPHORPtLcs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030310179976409190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030286387866488871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dbdbsjbsja: 有人有这个人的消息吗她没事吧好久没更新了 https://t.co/wPHORPtLcs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030286382711832576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0GtUnaAAAop0z.jpg",
+        "width": 457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030286382711832576"
+          ],
+          "media_source_tweet_id": [
+            "2030286387866488871"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030310179976409190",
+        "created_at": "2026-03-07T15:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030310179976409190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992962779087826944",
+              "start": 3,
+              "username": "dbdbsjbsja"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPHORPtLcs",
+              "end": 60,
+              "expanded_url": "https://x.com/dbdbsjbsja/status/2030286387866488871/photo/1",
+              "media_key": "3_2030286382711832576",
+              "start": 37,
+              "url": "https://t.co/wPHORPtLcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030310179976409190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030286387866488871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dbdbsjbsja: 有人有这个人的消息吗她没事吧好久没更新了 https://t.co/wPHORPtLcs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030286382711832576"
+          ]
+        },
+        "author_id": "1992962779087826944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030286387866488871",
+        "created_at": "2026-03-07T14:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030286387866488871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPHORPtLcs",
+              "end": 44,
+              "expanded_url": "https://x.com/dbdbsjbsja/status/2030286387866488871/photo/1",
+              "media_key": "3_2030286382711832576",
+              "start": 21,
+              "url": "https://t.co/wPHORPtLcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030286387866488871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有人有这个人的消息吗她没事吧好久没更新了 https://t.co/wPHORPtLcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 102,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 835
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T14:27:38.000Z",
+        "description": "08年这里是地狱酱的空间喵/地狱酱喜欢和大家交朋友💘~情绪不稳定抑郁焦虑割手手🍥pink小鬼别来沾边😾🤘永远的神是霖酱！！！@wu_si42846💗💗我的佛@wu_si42846❤️‍🔥❤️‍🔥❤️‍🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "wu_si42846"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "wu_si42846"
+              }
+            ]
+          }
+        },
+        "id": "1992962779087826944",
+        "location": " Japan",
+        "name": "宇宙级病娇地狱酱喵💗💗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022001387928977408/VRDMCYRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 34,
+          "like_count": 2721,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 476
+        },
+        "username": "dbdbsjbsja",
+        "verified": false
+      }
+    ]
+  }
+}

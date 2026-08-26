@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2017096414896279719",
+    "created_at": "2026-01-30T04:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T05:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017098669485592918"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017098669485592918",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017096414896279719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "⚠️:OD/リスカ要素あり、苦手な方はご遠慮ください🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2017096410408374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4qf4wbUAABTTn.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2017096414896279719",
+        "created_at": "2026-01-30T04:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017098669485592918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017098669485592918",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017096414896279719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⚠️:OD/リスカ要素あり、苦手な方はご遠慮ください🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017096410408374272"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2017096414896279719",
+        "created_at": "2026-01-30T04:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017096414896279719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTVw9i4gR6",
+              "end": 95,
+              "expanded_url": "https://x.com/Rien6cf/status/2017096414896279719/photo/1",
+              "media_key": "3_2017096410408374272",
+              "start": 72,
+              "url": "https://t.co/KTVw9i4gR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017096414896279719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "=りえ/黙示録\n関東/18↓ 出会い厨はダメ！！\n呼び方は自由\n🇨🇳/🇯🇵/🇬🇧OK\n愚痴多い　DM○通話△\nとりあえず仲良くしてくださいー。 https://t.co/KTVw9i4gR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "前世@みんなの黙示録///关于理衣的一切",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

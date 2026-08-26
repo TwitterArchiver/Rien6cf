@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018637005782224896",
+        "3_2018637005782122496"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2018637013394858356",
+    "created_at": "2026-02-03T10:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T11:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018637013394858356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LkopaFTsy7",
+          "end": 101,
+          "expanded_url": "https://x.com/Rien6cf/status/2018637013394858356/photo/1",
+          "media_key": "3_2018637005782224896",
+          "start": 78,
+          "url": "https://t.co/LkopaFTsy7"
+        },
+        {
+          "display_url": "pic.x.com/LkopaFTsy7",
+          "end": 101,
+          "expanded_url": "https://x.com/Rien6cf/status/2018637013394858356/photo/1",
+          "media_key": "3_2018637005782122496",
+          "start": 78,
+          "url": "https://t.co/LkopaFTsy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018637013394858356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我七月末八月初整个人真的像骷髅一样然而我当时甚至意识不到有什么异常、游荡在二十三区北部飘荡，现在看来我那个时候好可怕，，\np1有疤p2是我的腰，妈的好恐怖 https://t.co/LkopaFTsy7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018637013394858356].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018637013394858356",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018637013394858356"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2018637005782224896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOjqVwbkAAQR7V.jpg",
+        "width": 937
+      },
+      {
+        "height": 1563,
+        "media_key": "3_2018637005782122496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOjqVwaAAARkdN.jpg",
+        "width": 1320
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 经常性无言fo  前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 46,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 104
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

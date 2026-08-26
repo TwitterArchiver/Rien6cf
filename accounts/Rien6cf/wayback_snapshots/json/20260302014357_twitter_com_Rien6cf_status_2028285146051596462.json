@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2028094452703838550",
+    "created_at": "2026-03-02T01:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028285146051596462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778417832457560064",
+          "start": 0,
+          "username": "muk_ret"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028285146051596462",
+    "in_reply_to_user_id": "1778417832457560064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028094452703838550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muk_ret 母語者です。正解は「听说他私底下总干些龌龊的勾当。」ですが龌だけを提示するのはけっこうおかしいと思います..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2028094448702464000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU9J-HaIAAY5fy.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2028094452703838550",
+        "created_at": "2026-03-02T01:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028285146051596462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778417832457560064",
+              "start": 0,
+              "username": "muk_ret"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028285146051596462",
+        "in_reply_to_user_id": "1778417832457560064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028094452703838550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muk_ret 母語者です。正解は「听说他私底下总干些龌龊的勾当。」ですが龌だけを提示するのはけっこうおかしいと思います..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028094448702464000"
+          ]
+        },
+        "author_id": "1778417832457560064",
+        "conversation_id": "2028094452703838550",
+        "created_at": "2026-03-01T13:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028094452703838550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDBgYuij9i",
+              "end": 72,
+              "expanded_url": "https://x.com/muk_ret/status/2028094452703838550/photo/1",
+              "media_key": "3_2028094448702464000",
+              "start": 49,
+              "url": "https://t.co/jDBgYuij9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028094452703838550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 109340,
+          "like_count": 1608,
+          "quote_count": 20,
+          "reply_count": 3,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "「彼はいつも裏でえげつないことをしているそうだ。」（2026.東大中国語）\n\nどんな問題やねん。 https://t.co/jDBgYuij9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 89,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 662
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T13:40:53.000Z",
+        "description": "社会人再受験 （2024.04〜） / uts2志望(理物志望)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/muk_ret/",
+                "end": 23,
+                "expanded_url": "https://note.com/muk_ret/",
+                "start": 0,
+                "url": "https://t.co/uhES4pqQsT"
+              }
+            ]
+          }
+        },
+        "id": "1778417832457560064",
+        "location": "自己紹介→",
+        "name": "ベトベトン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778418172556963840/8qFuLkC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 532,
+          "like_count": 2028,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 3995
+        },
+        "url": "https://t.co/uhES4pqQsT",
+        "username": "muk_ret",
+        "verified": false
+      }
+    ]
+  }
+}

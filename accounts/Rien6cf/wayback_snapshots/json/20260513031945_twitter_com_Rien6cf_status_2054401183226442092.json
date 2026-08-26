@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054401172417679360"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054401183226442092",
+    "created_at": "2026-05-13T03:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054401183226442092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5MibGO2JOc",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2054401183226442092/photo/1",
+          "media_key": "3_2054401172417679360",
+          "start": 0,
+          "url": "https://t.co/5MibGO2JOc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054401183226442092",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5MibGO2JOc"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "学校でどの言語を使うって個人の自由なんだろう..？",
+        "height": 2048,
+        "media_key": "3_2054401172417679360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKy-0waEAACVgv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054401172417679360"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054401183226442092",
+        "created_at": "2026-05-13T03:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054401183226442092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MibGO2JOc",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2054401183226442092/photo/1",
+              "media_key": "3_2054401172417679360",
+              "start": 0,
+              "url": "https://t.co/5MibGO2JOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054401183226442092",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5MibGO2JOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 170,
+          "like_count": 3847,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2009
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

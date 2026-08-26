@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2051688793867219084",
+    "created_at": "2026-05-05T15:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051690258635567430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735501744510263297",
+          "start": 0,
+          "username": "Yaesaki_Mimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051690258635567430",
+    "in_reply_to_user_id": "1735501744510263297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051690157800325426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yaesaki_Mimu ？？？？？まじ？？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2051688793867219084",
+        "created_at": "2026-05-05T15:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051690258635567430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735501744510263297",
+              "start": 0,
+              "username": "Yaesaki_Mimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051690258635567430",
+        "in_reply_to_user_id": "1735501744510263297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051690157800325426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yaesaki_Mimu ？？？？？まじ？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735501744510263297",
+        "conversation_id": "2051688793867219084",
+        "created_at": "2026-05-05T15:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051690157800325426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051690157800325426",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051689974953881671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf はえーそうなんだ、中古で8,000円だったからつい買っちゃった"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 163,
+          "like_count": 3383,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1876
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T03:27:31.000Z",
+        "description": "すりーでーもでるとかいろいろ あ、一応バイ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mimunohouse.booth.pm",
+                "end": 23,
+                "expanded_url": "https://mimunohouse.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/47yXbLyg8A"
+              }
+            ]
+          }
+        },
+        "id": "1735501744510263297",
+        "location": "くらいとこ",
+        "name": "М̷и̷м̷у̷🐟️🦴【みむ】",
+        "pinned_tweet_id": "2051283548792127626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409697382432768/O5unyrRB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 1013,
+          "like_count": 114237,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 8180
+        },
+        "url": "https://t.co/47yXbLyg8A",
+        "username": "Yaesaki_Mimu",
+        "verified": false
+      }
+    ]
+  }
+}

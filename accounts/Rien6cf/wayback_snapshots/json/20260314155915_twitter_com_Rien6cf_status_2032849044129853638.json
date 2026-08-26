@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032668363118489603"
+      ],
+      "media_source_tweet_id": [
+        "2032668370806649139"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032849044129853638",
+    "created_at": "2026-03-14T15:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032849044129853638"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "浜押会"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "87487056",
+          "start": 3,
+          "username": "forrai087"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rUMgJ4mPPP",
+          "end": 46,
+          "expanded_url": "https://x.com/forrai087/status/2032668370806649139/photo/1",
+          "media_key": "3_2032668363118489603",
+          "start": 23,
+          "url": "https://t.co/rUMgJ4mPPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032849044129853638",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1216
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032668370806649139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @forrai087: 良問 #浜押会 https://t.co/rUMgJ4mPPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032668363118489603",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDV9G1HaMAMlr5z.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032668363118489603"
+          ],
+          "media_source_tweet_id": [
+            "2032668370806649139"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032849044129853638",
+        "created_at": "2026-03-14T15:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032849044129853638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "浜押会"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "87487056",
+              "start": 3,
+              "username": "forrai087"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUMgJ4mPPP",
+              "end": 46,
+              "expanded_url": "https://x.com/forrai087/status/2032668370806649139/photo/1",
+              "media_key": "3_2032668363118489603",
+              "start": 23,
+              "url": "https://t.co/rUMgJ4mPPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032849044129853638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1216
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032668370806649139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @forrai087: 良問 #浜押会 https://t.co/rUMgJ4mPPP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032668363118489603"
+          ]
+        },
+        "author_id": "87487056",
+        "conversation_id": "2032668370806649139",
+        "created_at": "2026-03-14T04:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032668370806649139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "浜押会"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUMgJ4mPPP",
+              "end": 31,
+              "expanded_url": "https://x.com/forrai087/status/2032668370806649139/photo/1",
+              "media_key": "3_2032668363118489603",
+              "start": 8,
+              "url": "https://t.co/rUMgJ4mPPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032668370806649139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 871,
+          "impression_count": 1254212,
+          "like_count": 17930,
+          "quote_count": 61,
+          "reply_count": 14,
+          "retweet_count": 1216
+        },
+        "reply_settings": "everyone",
+        "text": "良問 #浜押会 https://t.co/rUMgJ4mPPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 109,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1072
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-04T17:26:55.000Z",
+        "description": "好きな俳優は影山優佳 サッカーはFC岐阜 MリーグはBEAST クイズはスポーツ芸能 アイドルはみんな好きだけど特に日向坂メイン 日向は大野金村竹内清水 乃木は弓木井上 櫻は森田山﨑幸阪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/forrai087/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/forrai087/",
+                "start": 0,
+                "url": "https://t.co/G9UHzRAWG5"
+              }
+            ]
+          }
+        },
+        "id": "87487056",
+        "name": "フォーライ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/703544614263721986/03B8A-TD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1558,
+          "like_count": 22791,
+          "listed_count": 19,
+          "media_count": 4694,
+          "tweet_count": 45635
+        },
+        "url": "https://t.co/G9UHzRAWG5",
+        "username": "forrai087",
+        "verified": false
+      }
+    ]
+  }
+}

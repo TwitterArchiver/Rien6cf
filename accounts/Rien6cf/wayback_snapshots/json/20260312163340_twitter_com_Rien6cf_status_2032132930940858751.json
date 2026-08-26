@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2032132930940858751",
+    "created_at": "2026-03-12T16:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032132930940858751"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "稲葉曇",
+          "probability": 0.8725,
+          "start": 58,
+          "type": "Person"
+        },
+        {
+          "end": 108,
+          "normalized_text": "かいりきベア アンチユー",
+          "probability": 0.2351,
+          "start": 96,
+          "type": "Person"
+        },
+        {
+          "end": 127,
+          "normalized_text": "Chinozo 紗痲",
+          "probability": 0.774,
+          "start": 117,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 19,
+          "tag": "JOYSOUNDボカロ新曲"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1109718850528927744",
+          "start": 3,
+          "username": "karaoke_taro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032132930940858751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032115498150978012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @karaoke_taro_: #JOYSOUNDボカロ新曲\n\n配信日:配信済\n\nラグトレイン《本人映像》/ 稲葉曇\n\nシビュラ《本人映像》/ wotaku\n\n失敗作少女《本人映像》/ かいりきベア\n\nアンチユー《本人映像》/ Chinozo\n\n紗痲《本人映像》/ 煮ル果…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2032132930940858751",
+        "created_at": "2026-03-12T16:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032132930940858751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "稲葉曇",
+              "probability": 0.8725,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 108,
+              "normalized_text": "かいりきベア アンチユー",
+              "probability": 0.2351,
+              "start": 96,
+              "type": "Person"
+            },
+            {
+              "end": 127,
+              "normalized_text": "Chinozo 紗痲",
+              "probability": 0.774,
+              "start": 117,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 19,
+              "tag": "JOYSOUNDボカロ新曲"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1109718850528927744",
+              "start": 3,
+              "username": "karaoke_taro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032132930940858751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032115498150978012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @karaoke_taro_: #JOYSOUNDボカロ新曲\n\n配信日:配信済\n\nラグトレイン《本人映像》/ 稲葉曇\n\nシビュラ《本人映像》/ wotaku\n\n失敗作少女《本人映像》/ かいりきベア\n\nアンチユー《本人映像》/ Chinozo\n\n紗痲《本人映像》/ 煮ル果…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109718850528927744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2032115498150978012",
+        "created_at": "2026-03-12T15:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032115498150978012"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "稲葉曇",
+              "probability": 0.8673,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 89,
+              "normalized_text": "かいりきベア アンチユー",
+              "probability": 0.2727,
+              "start": 77,
+              "type": "Person"
+            },
+            {
+              "end": 108,
+              "normalized_text": "Chinozo 紗痲",
+              "probability": 0.7935,
+              "start": 98,
+              "type": "Person"
+            },
+            {
+              "end": 126,
+              "normalized_text": "煮ル果実 マジック",
+              "probability": 0.3338,
+              "start": 117,
+              "type": "Other"
+            },
+            {
+              "end": 154,
+              "normalized_text": "MIMI 魔法少女は救われない",
+              "probability": 0.399,
+              "start": 139,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "JOYSOUNDボカロ新曲"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032115498150978012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 39287,
+          "like_count": 1625,
+          "quote_count": 107,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "reply_settings": "following",
+        "text": "#JOYSOUNDボカロ新曲\n\n配信日:配信済\n\nラグトレイン《本人映像》/ 稲葉曇\n\nシビュラ《本人映像》/ wotaku\n\n失敗作少女《本人映像》/ かいりきベア\n\nアンチユー《本人映像》/ Chinozo\n\n紗痲《本人映像》/ 煮ル果実\n\nマジック・メイド《本人映像》/ MIMI\n\n魔法少女は救われない《本人映像》/ yume."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 106,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1004
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-24T07:29:26.000Z",
+        "description": "※当アカウントは非公式です 主に 公式サイトから情報取得できる分の #JOYSOUNDボカロ新曲 #DAMボカロ新曲 の情報を発信しています 何かございましたら@karaoke_jiro_ までお願いします",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 34,
+                "tag": "JOYSOUNDボカロ新曲"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "DAMボカロ新曲"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "karaoke_jiro_"
+              }
+            ]
+          }
+        },
+        "id": "1109718850528927744",
+        "name": "ボカロ カラオケ配信曲情報",
+        "pinned_tweet_id": "2012164200651735211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874409666492661760/TqEkmgkh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18796,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 60,
+          "media_count": 9,
+          "tweet_count": 1524
+        },
+        "username": "karaoke_taro_",
+        "verified": false
+      }
+    ]
+  }
+}

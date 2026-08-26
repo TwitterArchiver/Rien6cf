@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2036905426588229788",
+    "created_at": "2026-03-25T20:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T21:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036905426588229788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rien6cf/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/rien6cf/status/2036903861223645498",
+          "start": 5,
+          "url": "https://t.co/w65wD7CDjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036905426588229788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036903861223645498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不敢睡了 https://t.co/w65wD7CDjt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2036905426588229788",
+        "created_at": "2026-03-25T20:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036905426588229788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rien6cf/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/rien6cf/status/2036903861223645498",
+              "start": 5,
+              "url": "https://t.co/w65wD7CDjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036905426588229788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036903861223645498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢睡了 https://t.co/w65wD7CDjt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2036903861223645498",
+        "created_at": "2026-03-25T20:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036903861223645498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036903861223645498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又梦见一堆虫子和虫卵然后我很无助地一遍又一遍地拿漂白剂杀了它们看见绿色的汁液流的到处都是呀妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2035372064241303646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 118,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1272
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

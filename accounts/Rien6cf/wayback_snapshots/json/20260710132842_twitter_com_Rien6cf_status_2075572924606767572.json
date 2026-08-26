@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2075572924606767572",
+    "created_at": "2026-07-10T13:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075572924606767572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1814839209976606720",
+          "start": 3,
+          "username": "QSeSlEN6j1YAKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075572924606767572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075360785849831744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QSeSlEN6j1YAKO: 発達障害あるある\n\n常に頭の中で音楽祭が開催されてる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2075572924606767572",
+        "created_at": "2026-07-10T13:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075572924606767572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1814839209976606720",
+              "start": 3,
+              "username": "QSeSlEN6j1YAKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075572924606767572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075360785849831744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QSeSlEN6j1YAKO: 発達障害あるある\n\n常に頭の中で音楽祭が開催されてる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814839209976606720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2075360785849831744",
+        "created_at": "2026-07-09T23:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075360785849831744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075360785849831744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 31931,
+          "like_count": 1068,
+          "quote_count": 41,
+          "reply_count": 13,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "発達障害あるある\n\n常に頭の中で音楽祭が開催されてる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7485,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2891
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T01:46:50.000Z",
+        "description": "ASD持ち。スペースラジオ「いまだラジオ」を不定期開催。それ以外にも、スペースを開き、雑談や趣味（ゲーム等）の話をしてます。厳しめのポストもありますが、明るめの内容も発信するようにしてます。障害や持病がある方向けのオタ活に関する情報も不定期で発信。障害年金等は受給してません。",
+        "id": "1814839209976606720",
+        "name": "いまだ だいすけ",
+        "pinned_tweet_id": "2028780389079392760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814839671790444546/gn8pI6pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16890,
+          "following_count": 4600,
+          "like_count": 27207,
+          "listed_count": 168,
+          "media_count": 233,
+          "tweet_count": 10550
+        },
+        "url": "",
+        "username": "QSeSlEN6j1YAKO",
+        "verified": true
+      }
+    ]
+  }
+}

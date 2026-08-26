@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079932123331670016"
+      ],
+      "media_source_tweet_id": [
+        "2079932128503238936"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2080207581877072045",
+    "created_at": "2026-07-23T08:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080207581877072045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874078567874879488",
+          "start": 3,
+          "username": "R_nxch1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hEWfdAGR2j",
+          "end": 80,
+          "expanded_url": "https://x.com/R_nxch1/status/2079932128503238936/photo/1",
+          "media_key": "3_2079932123331670016",
+          "start": 57,
+          "url": "https://t.co/hEWfdAGR2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080207581877072045",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1890
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079932128503238936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R_nxch1: シルバニア知らない女(ありえない)(日本人やめろ)にシルバニア集合写真みせたらガチ死ぬ https://t.co/hEWfdAGR2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2079932123331670016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1nPwgbsAALjFJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079932123331670016"
+          ]
+        },
+        "author_id": "1874078567874879488",
+        "conversation_id": "2079932128503238936",
+        "created_at": "2026-07-22T14:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079932128503238936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEWfdAGR2j",
+              "end": 67,
+              "expanded_url": "https://x.com/R_nxch1/status/2079932128503238936/photo/1",
+              "media_key": "3_2079932123331670016",
+              "start": 44,
+              "url": "https://t.co/hEWfdAGR2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079932128503238936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 836,
+          "impression_count": 524673,
+          "like_count": 28422,
+          "quote_count": 146,
+          "reply_count": 4,
+          "retweet_count": 1888
+        },
+        "reply_settings": "everyone",
+        "text": "シルバニア知らない女(ありえない)(日本人やめろ)にシルバニア集合写真みせたらガチ死ぬ https://t.co/hEWfdAGR2j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079932123331670016"
+          ],
+          "media_source_tweet_id": [
+            "2079932128503238936"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2080207581877072045",
+        "created_at": "2026-07-23T08:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080207581877072045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874078567874879488",
+              "start": 3,
+              "username": "R_nxch1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEWfdAGR2j",
+              "end": 80,
+              "expanded_url": "https://x.com/R_nxch1/status/2079932128503238936/photo/1",
+              "media_key": "3_2079932123331670016",
+              "start": 57,
+              "url": "https://t.co/hEWfdAGR2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080207581877072045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1890
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079932128503238936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R_nxch1: シルバニア知らない女(ありえない)(日本人やめろ)にシルバニア集合写真みせたらガチ死ぬ https://t.co/hEWfdAGR2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 200,
+          "like_count": 8475,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T13:02:14.000Z",
+        "description": "じゅんいば",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em28s24frzqs0c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em28s24frzqs0cg?t=rJlmu1&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/IpLEgj3tC4"
+              }
+            ]
+          }
+        },
+        "id": "1874078567874879488",
+        "name": "欺かるる",
+        "pinned_tweet_id": "2071145042035736888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919326423158054912/velLZ_xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 62,
+          "like_count": 1473,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/IpLEgj3tC4",
+        "username": "R_nxch1",
+        "verified": false
+      }
+    ]
+  }
+}

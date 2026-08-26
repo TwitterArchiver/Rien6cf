@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046175972500922368"
+      ],
+      "media_source_tweet_id": [
+        "2046175981854159299"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2046398139796795560",
+    "created_at": "2026-04-21T01:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046398139796795560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893030061848305665",
+          "start": 3,
+          "username": "Xyyyy_0324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EfhaqmXVG4",
+          "end": 53,
+          "expanded_url": "https://x.com/Xyyyy_0324/status/2046175981854159299/photo/1",
+          "media_key": "3_2046175972500922368",
+          "start": 30,
+          "url": "https://t.co/EfhaqmXVG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046398139796795560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046175981854159299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xyyyy_0324: 我同意你们这样找我要微信。 https://t.co/EfhaqmXVG4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046175972500922368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV6NLTbYAANMfO.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046175972500922368"
+          ],
+          "media_source_tweet_id": [
+            "2046175981854159299"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2046398139796795560",
+        "created_at": "2026-04-21T01:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046398139796795560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893030061848305665",
+              "start": 3,
+              "username": "Xyyyy_0324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfhaqmXVG4",
+              "end": 53,
+              "expanded_url": "https://x.com/Xyyyy_0324/status/2046175981854159299/photo/1",
+              "media_key": "3_2046175972500922368",
+              "start": 30,
+              "url": "https://t.co/EfhaqmXVG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046398139796795560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046175981854159299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xyyyy_0324: 我同意你们这样找我要微信。 https://t.co/EfhaqmXVG4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046175972500922368"
+          ]
+        },
+        "author_id": "1893030061848305665",
+        "conversation_id": "2046175981854159299",
+        "created_at": "2026-04-20T10:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046175981854159299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfhaqmXVG4",
+              "end": 37,
+              "expanded_url": "https://x.com/Xyyyy_0324/status/2046175981854159299/photo/1",
+              "media_key": "3_2046175972500922368",
+              "start": 14,
+              "url": "https://t.co/EfhaqmXVG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046175981854159299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16477,
+          "like_count": 392,
+          "quote_count": 1,
+          "reply_count": 97,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我同意你们这样找我要微信。 https://t.co/EfhaqmXVG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 143,
+          "like_count": 2909,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1685
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:08:42.000Z",
+        "description": "可以叫我小氧^^我有恋哥癖。无🚪只加互关！一个话很多的小女孩^^喜欢大扔扔肌肉男！！夸我的私信看见了会回 不搞h不聊s看见了直接拉黑^^不要恶心我 匿名：https://t.co/uhOO8LUdot",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooo26894",
+                "end": 100,
+                "expanded_url": "https://ngl.link/ooo26894",
+                "start": 77,
+                "url": "https://t.co/uhOO8LUdot"
+              }
+            ]
+          }
+        },
+        "id": "1893030061848305665",
+        "location": "纯清水推 不搞h不聊s 喜欢我请给我打钱^^",
+        "name": "O₂",
+        "pinned_tweet_id": "2033515930249236669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041143495197675521/2v2-O4Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2947,
+          "following_count": 280,
+          "like_count": 6444,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 2429
+        },
+        "username": "Xyyyy_0324",
+        "verified": false
+      }
+    ]
+  }
+}

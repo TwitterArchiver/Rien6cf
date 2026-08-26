@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kawasaki",
+          "id": "1009168947009032192",
+          "name": "Kawasaki"
+        }
+      }
+    ],
+    "conversation_id": "2053397182708130122",
+    "created_at": "2026-05-10T08:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053397182708130122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/trainfo/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/trainfo/status/2053392218988413176",
+          "start": 3,
+          "url": "https://t.co/ptaZwfaK1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053397182708130122",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053392218988413176",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？ https://t.co/ptaZwfaK1n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2053392188642656256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8dUPSbgAACn06.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kawasaki",
+              "id": "1009168947009032192",
+              "name": "Kawasaki"
+            }
+          }
+        ],
+        "conversation_id": "2053397182708130122",
+        "created_at": "2026-05-10T08:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053397182708130122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trainfo/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/trainfo/status/2053392218988413176",
+              "start": 3,
+              "url": "https://t.co/ptaZwfaK1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053397182708130122",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053392218988413176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？ https://t.co/ptaZwfaK1n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053392188642656256"
+          ]
+        },
+        "author_id": "4756147100",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kawasaki",
+              "id": "1009168947009032192",
+              "name": "Kawasaki"
+            }
+          }
+        ],
+        "conversation_id": "2053392218988413176",
+        "created_at": "2026-05-10T08:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053392218988413176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1makJu0SKu",
+              "end": 170,
+              "expanded_url": "https://x.com/Trainfo/status/2053392218988413176/photo/1",
+              "media_key": "3_2053392188642656256",
+              "start": 147,
+              "url": "https://t.co/1makJu0SKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053392218988413176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【東海道線(品川〜戸塚) 上り線 運転見合わせ･経路変更】\n東海道線は、16:36頃、川崎駅での車内トラブル（スプレーが撒かれ負傷者複数･警察出動あり）の影響で、の影響で、戸塚〜品川の上り線で運転を見合わせています。同区間は横須賀線経由で運転し、武蔵小杉駅に臨時停車しています。［Update 17:30］\n★振替輸送利用可能★"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7298,
+          "like_count": 20,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "【東海道線(品川〜戸塚) 上り線 運転見合わせ･経路変更】\n東海道線は、16:36頃、川崎駅での車内トラブル（スプレーが撒かれ負傷者複数･警察出動あり）の影響で、の影響で、戸塚〜品川の上り線で運転を見合わせています。同区間は横須賀線経由で運転し、武蔵小杉駅に臨時停車しています。［Update https://t.co/1makJu0SKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3622,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1942
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-14T03:46:35.000Z",
+        "description": "新幹線や首都圏エリアの鉄道運行情報やニュースを中心に配信しています。フォロワーのみなさまからの情報提供等によって運営されています。配信される運行情報は非公式なもので、実際の運行状況を保証するものではありません。情報提供はLINEまたはDMへ @Trainfo_ALERT @Trainfo_Update",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Trainfo_ALERT"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "Trainfo_Update"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/@tnl022…",
+                "end": 23,
+                "expanded_url": "https://line.me/R/ti/p/@tnl0221p",
+                "start": 0,
+                "url": "https://t.co/ZczTmWv1B7"
+              }
+            ]
+          }
+        },
+        "id": "4756147100",
+        "location": "Trainfo Network",
+        "name": "とれいんふぉ 首都圏エリア",
+        "pinned_tweet_id": "2037818677056418122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1241708854431191043/vth3tfD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106838,
+          "following_count": 69,
+          "like_count": 639,
+          "listed_count": 2602,
+          "media_count": 221862,
+          "tweet_count": 251173
+        },
+        "url": "https://t.co/ZczTmWv1B7",
+        "username": "Trainfo",
+        "verified": true
+      }
+    ]
+  }
+}

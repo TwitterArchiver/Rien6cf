@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079483040469073920"
+      ],
+      "media_source_tweet_id": [
+        "2079483044235444600"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2079916778621476966",
+    "created_at": "2026-07-22T13:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079916778621476966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1784223606903644160",
+          "start": 3,
+          "username": "ttuuru0101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GeREOkKDIL",
+          "end": 58,
+          "expanded_url": "https://x.com/ttuuru0101/status/2079483044235444600/photo/1",
+          "media_key": "3_2079483040469073920",
+          "start": 35,
+          "url": "https://t.co/GeREOkKDIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079916778621476966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1602
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079483044235444600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttuuru0101: うちのママ意味わからん貶し方してくる https://t.co/GeREOkKDIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2079483040469073920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvOzsebwAAJusl.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079483040469073920"
+          ]
+        },
+        "author_id": "1784223606903644160",
+        "conversation_id": "2079483044235444600",
+        "created_at": "2026-07-21T08:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079483044235444600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeREOkKDIL",
+              "end": 42,
+              "expanded_url": "https://x.com/ttuuru0101/status/2079483044235444600/photo/1",
+              "media_key": "3_2079483040469073920",
+              "start": 19,
+              "url": "https://t.co/GeREOkKDIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079483044235444600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1282,
+          "impression_count": 1054731,
+          "like_count": 63579,
+          "quote_count": 66,
+          "reply_count": 16,
+          "retweet_count": 1602
+        },
+        "reply_settings": "everyone",
+        "text": "うちのママ意味わからん貶し方してくる https://t.co/GeREOkKDIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079483040469073920"
+          ],
+          "media_source_tweet_id": [
+            "2079483044235444600"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2079916778621476966",
+        "created_at": "2026-07-22T13:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079916778621476966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1784223606903644160",
+              "start": 3,
+              "username": "ttuuru0101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeREOkKDIL",
+              "end": 58,
+              "expanded_url": "https://x.com/ttuuru0101/status/2079483044235444600/photo/1",
+              "media_key": "3_2079483040469073920",
+              "start": 35,
+              "url": "https://t.co/GeREOkKDIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079916778621476966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1602
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079483044235444600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttuuru0101: うちのママ意味わからん貶し方してくる https://t.co/GeREOkKDIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 200,
+          "like_count": 8407,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3043
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T14:10:58.000Z",
+        "description": "ファンアートアカウント🗝@ktu_tu_0101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ktu_tu_0101"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/ptdP5sVAx7VG…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/ptdP5sVAx7VGUyfSyBP5yXl0kuh2",
+                "start": 0,
+                "url": "https://t.co/0iEyi5I2Nb"
+              }
+            ]
+          }
+        },
+        "id": "1784223606903644160",
+        "name": "っ",
+        "pinned_tweet_id": "2070140437155975325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962187313913688064/RFZBJzpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 43,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/0iEyi5I2Nb",
+        "username": "ttuuru0101",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039092109106622464"
+      ],
+      "media_source_tweet_id": [
+        "2039092112508244354"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2039352605822919106",
+    "created_at": "2026-04-01T14:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039352605822919106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1576938763",
+          "start": 3,
+          "username": "hagure_iro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5gp69YE0wY",
+          "end": 79,
+          "expanded_url": "https://x.com/hagure_iro/status/2039092112508244354/photo/1",
+          "media_key": "3_2039092109106622464",
+          "start": 56,
+          "url": "https://t.co/5gp69YE0wY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039352605822919106",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039092112508244354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hagure_iro: 令和始まって何年も経ったけど、\nこれ以上きれいな言葉に出逢えちゃいないなって。 https://t.co/5gp69YE0wY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2039092109106622464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HExPeDuaMAAtKsd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039092109106622464"
+          ],
+          "media_source_tweet_id": [
+            "2039092112508244354"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2039352605822919106",
+        "created_at": "2026-04-01T14:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039352605822919106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1576938763",
+              "start": 3,
+              "username": "hagure_iro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gp69YE0wY",
+              "end": 79,
+              "expanded_url": "https://x.com/hagure_iro/status/2039092112508244354/photo/1",
+              "media_key": "3_2039092109106622464",
+              "start": 56,
+              "url": "https://t.co/5gp69YE0wY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039352605822919106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039092112508244354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hagure_iro: 令和始まって何年も経ったけど、\nこれ以上きれいな言葉に出逢えちゃいないなって。 https://t.co/5gp69YE0wY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039092109106622464"
+          ]
+        },
+        "author_id": "1576938763",
+        "conversation_id": "2039092112508244354",
+        "created_at": "2026-03-31T21:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039092112508244354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gp69YE0wY",
+              "end": 63,
+              "expanded_url": "https://x.com/hagure_iro/status/2039092112508244354/photo/1",
+              "media_key": "3_2039092109106622464",
+              "start": 40,
+              "url": "https://t.co/5gp69YE0wY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039092112508244354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 31216,
+          "like_count": 1069,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "令和始まって何年も経ったけど、\nこれ以上きれいな言葉に出逢えちゃいないなって。 https://t.co/5gp69YE0wY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 124,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1371
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T06:32:12.000Z",
+        "description": "wowakaさんとヒトリエの楽曲が大好きです。ディズニーの推しはホセ・キャリオカ🦜",
+        "id": "1576938763",
+        "location": "市役所の6階らへん",
+        "name": "魚の手紙。",
+        "pinned_tweet_id": "1799203271967707483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038234709084540928/3EfnC9i__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 372,
+          "like_count": 117506,
+          "listed_count": 8,
+          "media_count": 6915,
+          "tweet_count": 28216
+        },
+        "username": "hagure_iro",
+        "verified": false
+      }
+    ]
+  }
+}

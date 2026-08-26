@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020008952671727616"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2020008959214825532",
+    "created_at": "2026-02-07T05:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T06:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020008959214825532"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "青森",
+          "probability": 0.646,
+          "start": 4,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4FwmW55Jtf",
+          "end": 30,
+          "expanded_url": "https://x.com/Rien6cf/status/2020008959214825532/photo/1",
+          "media_key": "3_2020008952671727616",
+          "start": 7,
+          "url": "https://t.co/4FwmW55Jtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020008959214825532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小理衣在青森 https://t.co/4FwmW55Jtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020008952671727616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiDcKMbcAAzTVj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020008952671727616"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2020008959214825532",
+        "created_at": "2026-02-07T05:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T06:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020008959214825532"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "青森",
+              "probability": 0.646,
+              "start": 4,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FwmW55Jtf",
+              "end": 30,
+              "expanded_url": "https://x.com/Rien6cf/status/2020008959214825532/photo/1",
+              "media_key": "3_2020008952671727616",
+              "start": 7,
+              "url": "https://t.co/4FwmW55Jtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020008959214825532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小理衣在青森 https://t.co/4FwmW55Jtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 49,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 179
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

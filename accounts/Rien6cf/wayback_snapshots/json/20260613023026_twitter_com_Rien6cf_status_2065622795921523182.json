@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065622510071390208"
+      ],
+      "media_source_tweet_id": [
+        "2065622512382497057"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065622795921523182",
+    "created_at": "2026-06-13T02:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065622795921523182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1423594963422547969",
+          "start": 3,
+          "username": "maru_Rema_maru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/96VDfyz3Ue",
+          "end": 77,
+          "expanded_url": "https://x.com/maru_Rema_maru/status/2065622512382497057/photo/1",
+          "media_key": "3_2065622510071390208",
+          "start": 54,
+          "url": "https://t.co/96VDfyz3Ue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065622795921523182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065622512382497057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maru_Rema_maru: 哈喽我是川川……（虚空薯条教主） 寻回互关中……\n或许你还记得我🥺 https://t.co/96VDfyz3Ue"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065622795921523182].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065622795921523182",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065622795921523182"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2065622510071390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqQupDbIAAvJZN.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065622510071390208"
+          ]
+        },
+        "author_id": "1423594963422547969",
+        "conversation_id": "2065622512382497057",
+        "created_at": "2026-06-13T02:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065622512382497057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96VDfyz3Ue",
+              "end": 57,
+              "expanded_url": "https://x.com/maru_Rema_maru/status/2065622512382497057/photo/1",
+              "media_key": "3_2065622510071390208",
+              "start": 34,
+              "url": "https://t.co/96VDfyz3Ue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065622512382497057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽我是川川……（虚空薯条教主） 寻回互关中……\n或许你还记得我🥺 https://t.co/96VDfyz3Ue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5565,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2567
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/前世@chuan_0123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "chuan_0123"
+              }
+            ]
+          }
+        },
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2019873676972404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064003232154951681/HwdMvkLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 288,
+          "like_count": 4278,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 345
+        },
+        "username": "maru_Rema_maru",
+        "verified": false
+      }
+    ]
+  }
+}

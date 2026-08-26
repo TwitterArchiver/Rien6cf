@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028455437411233792",
+        "3_2028455437386002432",
+        "3_2028455437398634496",
+        "3_2028455437373497344"
+      ],
+      "media_source_tweet_id": [
+        "2028455448622633225",
+        "2028455448622633225",
+        "2028455448622633225",
+        "2028455448622633225"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028714711358079431",
+    "created_at": "2026-03-03T06:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T07:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028714711358079431"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "半蔵モン線",
+          "probability": 0.2398,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1130413988133531648",
+          "start": 3,
+          "username": "akiaki_o9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jMV8uV6fuR",
+          "end": 62,
+          "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+          "media_key": "3_2028455437411233792",
+          "start": 39,
+          "url": "https://t.co/jMV8uV6fuR"
+        },
+        {
+          "display_url": "pic.x.com/jMV8uV6fuR",
+          "end": 62,
+          "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+          "media_key": "3_2028455437386002432",
+          "start": 39,
+          "url": "https://t.co/jMV8uV6fuR"
+        },
+        {
+          "display_url": "pic.x.com/jMV8uV6fuR",
+          "end": 62,
+          "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+          "media_key": "3_2028455437398634496",
+          "start": 39,
+          "url": "https://t.co/jMV8uV6fuR"
+        },
+        {
+          "display_url": "pic.x.com/jMV8uV6fuR",
+          "end": 62,
+          "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+          "media_key": "3_2028455437373497344",
+          "start": 39,
+          "url": "https://t.co/jMV8uV6fuR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028714711358079431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028455448622633225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akiaki_o9: 半蔵モン線にのれた( ･࿀･  )🚃💜.ᐟ.ᐟ https://t.co/jMV8uV6fuR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028455437411233792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaFeR2bMAAmfVc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2028455437386002432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaFeRwaMAALqTp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1776,
+        "media_key": "3_2028455437398634496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaFeRza8AAtOCm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028455437373497344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaFeRtbYAA9lqN.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028455437411233792",
+            "3_2028455437386002432",
+            "3_2028455437398634496",
+            "3_2028455437373497344"
+          ],
+          "media_source_tweet_id": [
+            "2028455448622633225",
+            "2028455448622633225",
+            "2028455448622633225",
+            "2028455448622633225"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028714711358079431",
+        "created_at": "2026-03-03T06:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028714711358079431"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "半蔵モン線",
+              "probability": 0.2398,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1130413988133531648",
+              "start": 3,
+              "username": "akiaki_o9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMV8uV6fuR",
+              "end": 62,
+              "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+              "media_key": "3_2028455437411233792",
+              "start": 39,
+              "url": "https://t.co/jMV8uV6fuR"
+            },
+            {
+              "display_url": "pic.x.com/jMV8uV6fuR",
+              "end": 62,
+              "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+              "media_key": "3_2028455437386002432",
+              "start": 39,
+              "url": "https://t.co/jMV8uV6fuR"
+            },
+            {
+              "display_url": "pic.x.com/jMV8uV6fuR",
+              "end": 62,
+              "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+              "media_key": "3_2028455437398634496",
+              "start": 39,
+              "url": "https://t.co/jMV8uV6fuR"
+            },
+            {
+              "display_url": "pic.x.com/jMV8uV6fuR",
+              "end": 62,
+              "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+              "media_key": "3_2028455437373497344",
+              "start": 39,
+              "url": "https://t.co/jMV8uV6fuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028714711358079431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028455448622633225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akiaki_o9: 半蔵モン線にのれた( ･࿀･  )🚃💜.ᐟ.ᐟ https://t.co/jMV8uV6fuR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028455437411233792",
+            "3_2028455437386002432",
+            "3_2028455437398634496",
+            "3_2028455437373497344"
+          ]
+        },
+        "author_id": "1130413988133531648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028455448622633225",
+        "created_at": "2026-03-02T13:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028455448622633225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "半蔵モン線",
+              "probability": 0.3323,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMV8uV6fuR",
+              "end": 47,
+              "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+              "media_key": "3_2028455437411233792",
+              "start": 24,
+              "url": "https://t.co/jMV8uV6fuR"
+            },
+            {
+              "display_url": "pic.x.com/jMV8uV6fuR",
+              "end": 47,
+              "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+              "media_key": "3_2028455437386002432",
+              "start": 24,
+              "url": "https://t.co/jMV8uV6fuR"
+            },
+            {
+              "display_url": "pic.x.com/jMV8uV6fuR",
+              "end": 47,
+              "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+              "media_key": "3_2028455437398634496",
+              "start": 24,
+              "url": "https://t.co/jMV8uV6fuR"
+            },
+            {
+              "display_url": "pic.x.com/jMV8uV6fuR",
+              "end": 47,
+              "expanded_url": "https://x.com/akiaki_o9/status/2028455448622633225/photo/1",
+              "media_key": "3_2028455437373497344",
+              "start": 24,
+              "url": "https://t.co/jMV8uV6fuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028455448622633225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 153195,
+          "like_count": 6106,
+          "quote_count": 44,
+          "reply_count": 5,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "半蔵モン線にのれた( ･࿀･  )🚃💜.ᐟ.ᐟ https://t.co/jMV8uV6fuR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 92,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 690
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-20T10:04:31.000Z",
+        "description": "福岡 ⇨ 東京 165㎝ / EC . アパレルモデル / OL / ポーカーコンパニオン / 撮影会 / コンカフェ@maidevi_concafe ໒꒱お洋服と撮影のお仕事が好きです✧̣̥̇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 59,
+                "username": "maidevi_concafe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akiaki_o9",
+                "end": 23,
+                "expanded_url": "http://instagram.com/akiaki_o9",
+                "start": 0,
+                "url": "https://t.co/yiy1W4jipF"
+              }
+            ]
+          }
+        },
+        "id": "1130413988133531648",
+        "location": "Instagram/TikTok𓊆akiaki_o9𓊇 ",
+        "name": "あき🐇🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356998240827179008/Y2wfH2DD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 110,
+          "like_count": 3824,
+          "listed_count": 32,
+          "media_count": 299,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/yiy1W4jipF",
+        "username": "akiaki_o9",
+        "verified": false
+      }
+    ]
+  }
+}

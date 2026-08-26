@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083472043211907072"
+      ],
+      "media_source_tweet_id": [
+        "2083472052636594342"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083537742613426380",
+    "created_at": "2026-08-01T12:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083537742613426380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082124926375649280",
+          "start": 3,
+          "username": "Yuki281331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RCTsoE3qbc",
+          "end": 122,
+          "expanded_url": "https://x.com/Yuki281331/status/2083472052636594342/photo/1",
+          "media_key": "3_2083472043211907072",
+          "start": 99,
+          "url": "https://t.co/RCTsoE3qbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083537742613426380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083472052636594342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki281331: 你们好，我的初号机因为挑衅马斯克被击毁，我已看不见抽奖转帖情况，不嫌麻烦的朋友可以帮转此贴\n我将重新在此贴以相同方式开奖，截止在8.5日\n我是岐哥，互fo寻回\n谢谢 https://t.co/RCTsoE3qbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2150,
+        "media_key": "3_2083472043211907072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn6yNsaYAA-d1-.jpg",
+        "width": 2126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083472043211907072"
+          ]
+        },
+        "author_id": "2082124926375649280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083472052636594342",
+        "created_at": "2026-08-01T08:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083472052636594342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCTsoE3qbc",
+              "end": 106,
+              "expanded_url": "https://x.com/Yuki281331/status/2083472052636594342/photo/1",
+              "media_key": "3_2083472043211907072",
+              "start": 83,
+              "url": "https://t.co/RCTsoE3qbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083472052636594342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "你们好，我的初号机因为挑衅马斯克被击毁，我已看不见抽奖转帖情况，不嫌麻烦的朋友可以帮转此贴\n我将重新在此贴以相同方式开奖，截止在8.5日\n我是岐哥，互fo寻回\n谢谢 https://t.co/RCTsoE3qbc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083472043211907072"
+          ],
+          "media_source_tweet_id": [
+            "2083472052636594342"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083537742613426380",
+        "created_at": "2026-08-01T12:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083537742613426380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082124926375649280",
+              "start": 3,
+              "username": "Yuki281331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCTsoE3qbc",
+              "end": 122,
+              "expanded_url": "https://x.com/Yuki281331/status/2083472052636594342/photo/1",
+              "media_key": "3_2083472043211907072",
+              "start": 99,
+              "url": "https://t.co/RCTsoE3qbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083537742613426380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083472052636594342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki281331: 你们好，我的初号机因为挑衅马斯克被击毁，我已看不见抽奖转帖情况，不嫌麻烦的朋友可以帮转此贴\n我将重新在此贴以相同方式开奖，截止在8.5日\n我是岐哥，互fo寻回\n谢谢 https://t.co/RCTsoE3qbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 207,
+          "like_count": 8992,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3223
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 102,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

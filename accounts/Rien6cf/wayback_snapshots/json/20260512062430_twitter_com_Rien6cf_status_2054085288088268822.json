@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054042134857289728"
+      ],
+      "media_source_tweet_id": [
+        "2054042141404631505"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054085288088268822",
+    "created_at": "2026-05-12T06:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054085288088268822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1921906445274275840",
+          "start": 3,
+          "username": "kosumo_see"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjs6TDJkwR",
+          "end": 53,
+          "expanded_url": "https://x.com/kosumo_see/status/2054042141404631505/photo/1",
+          "media_key": "3_2054042134857289728",
+          "start": 30,
+          "url": "https://t.co/bjs6TDJkwR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054085288088268822",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054042141404631505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kosumo_see: たまりまくったラクガキたち https://t.co/bjs6TDJkwR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1930,
+        "media_key": "3_2054042134857289728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFscFnakAAWfcH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054042134857289728"
+          ],
+          "media_source_tweet_id": [
+            "2054042141404631505"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054085288088268822",
+        "created_at": "2026-05-12T06:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054085288088268822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1921906445274275840",
+              "start": 3,
+              "username": "kosumo_see"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjs6TDJkwR",
+              "end": 53,
+              "expanded_url": "https://x.com/kosumo_see/status/2054042141404631505/photo/1",
+              "media_key": "3_2054042134857289728",
+              "start": 30,
+              "url": "https://t.co/bjs6TDJkwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054085288088268822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054042141404631505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kosumo_see: たまりまくったラクガキたち https://t.co/bjs6TDJkwR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054042134857289728"
+          ]
+        },
+        "author_id": "1921906445274275840",
+        "conversation_id": "2054042141404631505",
+        "created_at": "2026-05-12T03:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054042141404631505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjs6TDJkwR",
+              "end": 37,
+              "expanded_url": "https://x.com/kosumo_see/status/2054042141404631505/photo/1",
+              "media_key": "3_2054042134857289728",
+              "start": 14,
+              "url": "https://t.co/bjs6TDJkwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054042141404631505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 11310,
+          "like_count": 878,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "たまりまくったラクガキたち https://t.co/bjs6TDJkwR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 171,
+          "like_count": 3792,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1985
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T12:33:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rako624.booth.pm",
+                "end": 23,
+                "expanded_url": "https://rako624.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/agreEPtUjr"
+              }
+            ]
+          }
+        },
+        "id": "1921906445274275840",
+        "location": "ラッコのお腹の上",
+        "name": "ラッコさん練習中",
+        "pinned_tweet_id": "1930591000159989976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921906667295588352/4aHffupq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 364,
+          "like_count": 971,
+          "listed_count": 5,
+          "media_count": 149,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/agreEPtUjr",
+        "username": "kosumo_see",
+        "verified": false
+      }
+    ]
+  }
+}

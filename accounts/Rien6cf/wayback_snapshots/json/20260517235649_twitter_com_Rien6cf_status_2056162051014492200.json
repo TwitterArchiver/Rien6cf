@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055986557769973760"
+      ],
+      "media_source_tweet_id": [
+        "2055986560697548998"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056162051014492200",
+    "created_at": "2026-05-17T23:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056162051014492200"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "鳥羽水族館"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "ラッコ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "221302891",
+          "start": 3,
+          "username": "asaminbp5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s52cwruOre",
+          "end": 69,
+          "expanded_url": "https://x.com/asaminbp5/status/2055986560697548998/photo/1",
+          "media_key": "3_2055986557769973760",
+          "start": 46,
+          "url": "https://t.co/s52cwruOre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056162051014492200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055986560697548998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asaminbp5: キラちゃんの手を抱え込むメイちゃん🦦\n#鳥羽水族館 #ラッコ https://t.co/s52cwruOre"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2055986557769973760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhU4ZbbgAARLYK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055986557769973760"
+          ],
+          "media_source_tweet_id": [
+            "2055986560697548998"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056162051014492200",
+        "created_at": "2026-05-17T23:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056162051014492200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "鳥羽水族館"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "ラッコ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "221302891",
+              "start": 3,
+              "username": "asaminbp5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s52cwruOre",
+              "end": 69,
+              "expanded_url": "https://x.com/asaminbp5/status/2055986560697548998/photo/1",
+              "media_key": "3_2055986557769973760",
+              "start": 46,
+              "url": "https://t.co/s52cwruOre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056162051014492200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055986560697548998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asaminbp5: キラちゃんの手を抱え込むメイちゃん🦦\n#鳥羽水族館 #ラッコ https://t.co/s52cwruOre"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055986557769973760"
+          ]
+        },
+        "author_id": "221302891",
+        "conversation_id": "2055986560697548998",
+        "created_at": "2026-05-17T12:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055986560697548998"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "鳥羽水族館"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "ラッコ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s52cwruOre",
+              "end": 54,
+              "expanded_url": "https://x.com/asaminbp5/status/2055986560697548998/photo/1",
+              "media_key": "3_2055986557769973760",
+              "start": 31,
+              "url": "https://t.co/s52cwruOre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055986560697548998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 4259,
+          "like_count": 533,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "キラちゃんの手を抱え込むメイちゃん🦦\n#鳥羽水族館 #ラッコ https://t.co/s52cwruOre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 166,
+          "like_count": 4127,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2090
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-30T08:39:39.000Z",
+        "description": "夫婦でカワウソ＆ラッコを追いかけ全国の動物園、水族館へ！\nウォンバット、パンダ、ビーバーも時々(o^^o)",
+        "id": "221302891",
+        "location": "Japan",
+        "name": "Asamin",
+        "pinned_tweet_id": "1330458336366497792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079394134786334720/bklHFil8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 799,
+          "like_count": 117302,
+          "listed_count": 22,
+          "media_count": 2558,
+          "tweet_count": 7771
+        },
+        "username": "asaminbp5",
+        "verified": false
+      }
+    ]
+  }
+}

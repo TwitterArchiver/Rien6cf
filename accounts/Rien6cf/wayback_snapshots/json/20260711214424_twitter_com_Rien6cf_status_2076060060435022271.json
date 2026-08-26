@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075591234689933312"
+      ],
+      "media_source_tweet_id": [
+        "2075867698790318386"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2076060060435022271",
+    "created_at": "2026-07-11T21:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T22:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076060060435022271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3232746588",
+          "start": 3,
+          "username": "5percent_Dora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AUfa4qzZf6",
+          "end": 42,
+          "expanded_url": "https://x.com/5percent_Dora/status/2075867698790318386/photo/1",
+          "media_key": "3_2075591234689933312",
+          "start": 19,
+          "url": "https://t.co/AUfa4qzZf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076060060435022271",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 553
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075867698790318386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5percent_Dora: https://t.co/AUfa4qzZf6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2075591234689933312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM37OyKboAAXR7z.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075591234689933312"
+          ],
+          "media_source_tweet_id": [
+            "2075867698790318386"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2076060060435022271",
+        "created_at": "2026-07-11T21:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076060060435022271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3232746588",
+              "start": 3,
+              "username": "5percent_Dora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUfa4qzZf6",
+              "end": 42,
+              "expanded_url": "https://x.com/5percent_Dora/status/2075867698790318386/photo/1",
+              "media_key": "3_2075591234689933312",
+              "start": 19,
+              "url": "https://t.co/AUfa4qzZf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076060060435022271",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 553
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075867698790318386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5percent_Dora: https://t.co/AUfa4qzZf6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075591234689933312"
+          ]
+        },
+        "author_id": "3232746588",
+        "conversation_id": "2075867698790318386",
+        "created_at": "2026-07-11T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075867698790318386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUfa4qzZf6",
+              "end": 23,
+              "expanded_url": "https://x.com/5percent_Dora/status/2075867698790318386/photo/1",
+              "media_key": "3_2075591234689933312",
+              "start": 0,
+              "url": "https://t.co/AUfa4qzZf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075867698790318386",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 579,
+          "impression_count": 1445544,
+          "like_count": 25979,
+          "quote_count": 21,
+          "reply_count": 46,
+          "retweet_count": 552
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AUfa4qzZf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7526,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2904
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-01T17:41:38.000Z",
+        "description": "",
+        "id": "3232746588",
+        "name": "お前は東大に行け",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072671197624750080/a-Y17iaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167754,
+          "following_count": 29,
+          "like_count": 3347,
+          "listed_count": 772,
+          "media_count": 410,
+          "tweet_count": 34651
+        },
+        "url": "",
+        "username": "5percent_Dora",
+        "verified": true
+      }
+    ]
+  }
+}

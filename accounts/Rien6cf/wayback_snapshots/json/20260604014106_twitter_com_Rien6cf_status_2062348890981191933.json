@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062348890981191933",
+    "created_at": "2026-06-04T01:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062348890981191933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1912862808934346753",
+          "start": 3,
+          "username": "weirdfisheskkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062348890981191933",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 849
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062234992739033409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weirdfisheskkkk: se eu morrer hoje não dá 12 pessoas no meu velório"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062348890981191933",
+        "created_at": "2026-06-04T01:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062348890981191933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1912862808934346753",
+              "start": 3,
+              "username": "weirdfisheskkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062348890981191933",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 849
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062234992739033409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weirdfisheskkkk: se eu morrer hoje não dá 12 pessoas no meu velório"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912862808934346753",
+        "conversation_id": "2062234992739033409",
+        "created_at": "2026-06-03T18:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062234992739033409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062234992739033409",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 31165,
+          "like_count": 2921,
+          "quote_count": 47,
+          "reply_count": 12,
+          "retweet_count": 849
+        },
+        "reply_settings": "everyone",
+        "text": "se eu morrer hoje não dá 12 pessoas no meu velório"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 182,
+          "like_count": 5034,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2389
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T13:37:15.000Z",
+        "description": "E tudo que eu posso te dar é solidão com vista pro mar.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/linaxcarol?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/linaxcarol?igsh=YmZmYWtxY2xyajky&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/vJyUcs6qTe"
+              }
+            ]
+          }
+        },
+        "id": "1912862808934346753",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "caroline",
+        "pinned_tweet_id": "2055887971794960732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035783414532694016/TYnFge28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 688,
+          "like_count": 12832,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 6108
+        },
+        "url": "https://t.co/vJyUcs6qTe",
+        "username": "weirdfisheskkkk",
+        "verified": false
+      }
+    ]
+  }
+}

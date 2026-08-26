@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090683552979677184"
+      ],
+      "media_source_tweet_id": [
+        "2090683559791165761"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2090715179814465880",
+    "created_at": "2026-08-21T08:18:37.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090715179814465880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1664601148098224128",
+          "start": 3,
+          "username": "kami__519"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WypZRJMx7K",
+          "end": 57,
+          "expanded_url": "https://x.com/kami__519/status/2090683559791165761/photo/1",
+          "media_key": "3_2090683552979677184",
+          "start": 34,
+          "url": "https://t.co/WypZRJMx7K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090715179814465880",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090683552979677184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090683559791165761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kami__519: 前髪長い人あるある\n\n視界が常にこれ https://t.co/WypZRJMx7K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2090683552979677184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOZnVEa8AAjs9e.jpg",
+        "width": 499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090683552979677184"
+          ],
+          "media_source_tweet_id": [
+            "2090683559791165761"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2090715179814465880",
+        "created_at": "2026-08-21T08:18:37.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090715179814465880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1664601148098224128",
+              "start": 3,
+              "username": "kami__519"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WypZRJMx7K",
+              "end": 57,
+              "expanded_url": "https://x.com/kami__519/status/2090683559791165761/photo/1",
+              "media_key": "3_2090683552979677184",
+              "start": 34,
+              "url": "https://t.co/WypZRJMx7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090715179814465880",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090683552979677184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090683559791165761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kami__519: 前髪長い人あるある\n\n視界が常にこれ https://t.co/WypZRJMx7K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090683552979677184"
+          ]
+        },
+        "author_id": "1664601148098224128",
+        "conversation_id": "2090683559791165761",
+        "created_at": "2026-08-21T06:12:58.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090683559791165761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WypZRJMx7K",
+              "end": 42,
+              "expanded_url": "https://x.com/kami__519/status/2090683559791165761/photo/1",
+              "media_key": "3_2090683552979677184",
+              "start": 19,
+              "url": "https://t.co/WypZRJMx7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090683559791165761",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090683552979677184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3898,
+          "like_count": 309,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "前髪長い人あるある\n\n視界が常にこれ https://t.co/WypZRJMx7K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090715179814465880",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 216,
+          "like_count": 9649,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3411
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-02T11:53:57.000Z",
+        "description": "16歳｜サブ@axa8r｜鍵@rdz6q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "axa8r"
+              },
+              {
+                "end": 20,
+                "start": 14,
+                "username": "rdz6q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/kami__519",
+                "end": 23,
+                "expanded_url": "https://mond.how/kami__519",
+                "start": 0,
+                "url": "https://t.co/vJQvK3QJBr"
+              }
+            ]
+          }
+        },
+        "id": "1664601148098224128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090694057509183508",
+        "name": "紙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664601148098224128/1784293801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082155595898191872/xmzmX0et_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20026,
+          "following_count": 984,
+          "like_count": 147807,
+          "listed_count": 43,
+          "media_count": 789,
+          "tweet_count": 30827
+        },
+        "url": "https://t.co/vJQvK3QJBr",
+        "username": "kami__519",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

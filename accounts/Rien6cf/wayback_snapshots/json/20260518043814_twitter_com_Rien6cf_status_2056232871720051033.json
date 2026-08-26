@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055808420700450816"
+      ],
+      "media_source_tweet_id": [
+        "2055808442817032500"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056232871720051033",
+    "created_at": "2026-05-18T04:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056232871720051033"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 68,
+          "tag": "千葉市動物公園"
+        },
+        {
+          "end": 85,
+          "start": 77,
+          "tag": "レッサーパンダ"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "風太"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "602436204",
+          "start": 3,
+          "username": "ChibaZoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k3c8NIfKN4",
+          "end": 113,
+          "expanded_url": "https://x.com/ChibaZoo/status/2055808442817032500/photo/1",
+          "media_key": "3_2055808420700450816",
+          "start": 90,
+          "url": "https://t.co/k3c8NIfKN4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056232871720051033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 369
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055808442817032500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChibaZoo: 本日は気温が高くなるため、レッサーパンダ【風太】の展示はお休みさせていただきます。ご了承ください。(飼Ⅰ)\n#千葉市動物公園　#レッサーパンダ　#風太 https://t.co/k3c8NIfKN4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055808420700450816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIey3dIbcAAcLZC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055808420700450816"
+          ],
+          "media_source_tweet_id": [
+            "2055808442817032500"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056232871720051033",
+        "created_at": "2026-05-18T04:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056232871720051033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "千葉市動物公園"
+            },
+            {
+              "end": 85,
+              "start": 77,
+              "tag": "レッサーパンダ"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "風太"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "602436204",
+              "start": 3,
+              "username": "ChibaZoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3c8NIfKN4",
+              "end": 113,
+              "expanded_url": "https://x.com/ChibaZoo/status/2055808442817032500/photo/1",
+              "media_key": "3_2055808420700450816",
+              "start": 90,
+              "url": "https://t.co/k3c8NIfKN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056232871720051033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 369
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055808442817032500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChibaZoo: 本日は気温が高くなるため、レッサーパンダ【風太】の展示はお休みさせていただきます。ご了承ください。(飼Ⅰ)\n#千葉市動物公園　#レッサーパンダ　#風太 https://t.co/k3c8NIfKN4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055808420700450816"
+          ]
+        },
+        "author_id": "602436204",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1295937299117555712",
+              "name": "Kanto region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296114377788026880",
+              "name": "Chiba Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296485385434873857",
+              "name": "Chiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1296485385434873857",
+              "name": "Chiba"
+            }
+          }
+        ],
+        "conversation_id": "2055808442817032500",
+        "created_at": "2026-05-17T00:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055808442817032500"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "千葉市動物公園"
+            },
+            {
+              "end": 71,
+              "start": 63,
+              "tag": "レッサーパンダ"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "風太"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3c8NIfKN4",
+              "end": 99,
+              "expanded_url": "https://x.com/ChibaZoo/status/2055808442817032500/photo/1",
+              "media_key": "3_2055808420700450816",
+              "start": 76,
+              "url": "https://t.co/k3c8NIfKN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055808442817032500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 69479,
+          "like_count": 5141,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 369
+        },
+        "reply_settings": "everyone",
+        "text": "本日は気温が高くなるため、レッサーパンダ【風太】の展示はお休みさせていただきます。ご了承ください。(飼Ⅰ)\n#千葉市動物公園　#レッサーパンダ　#風太 https://t.co/k3c8NIfKN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 167,
+          "like_count": 4135,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2098
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-08T01:22:33.000Z",
+        "description": "千葉市動物公園の公式アカウントです。※投稿内容:動物の日常や、イベント情報など。※フォロー、リプライ(DM含む)は原則行っていませんのでご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "city.chiba.jp/zoo/index.html",
+                "end": 23,
+                "expanded_url": "https://www.city.chiba.jp/zoo/index.html",
+                "start": 0,
+                "url": "https://t.co/F0zbn6YciY"
+              }
+            ]
+          }
+        },
+        "id": "602436204",
+        "location": "千葉市若葉区源町280",
+        "name": "千葉市動物公園【公式】",
+        "pinned_tweet_id": "2053738675993997348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/761555977455841282/taRem8t5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161716,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 1989,
+          "media_count": 21189,
+          "tweet_count": 23456
+        },
+        "url": "https://t.co/F0zbn6YciY",
+        "username": "ChibaZoo",
+        "verified": false
+      }
+    ]
+  }
+}

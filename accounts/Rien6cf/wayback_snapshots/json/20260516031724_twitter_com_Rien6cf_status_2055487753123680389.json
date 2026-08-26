@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055279359863492608"
+      ],
+      "media_source_tweet_id": [
+        "2055279427295318492"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055487753123680389",
+    "created_at": "2026-05-16T03:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055487753123680389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1082947043868368897",
+          "start": 3,
+          "username": "K0MATSUYU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1dOOxXibsa",
+          "end": 58,
+          "expanded_url": "https://x.com/K0MATSUYU/status/2055279427295318492/video/1",
+          "media_key": "13_2055279359863492608",
+          "start": 35,
+          "url": "https://t.co/1dOOxXibsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055487753123680389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055279427295318492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K0MATSUYU: 本日\nトラブルの為\n急遽お休みします。 https://t.co/1dOOxXibsa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6486,
+        "height": 720,
+        "media_key": "13_2055279359863492608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055279359863492608/img/bM6MGDxnpYt-XqZ4.jpg",
+        "public_metrics": {
+          "view_count": 803012
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055279359863492608/vid/avc1/480x270/0-8OWcCFQmGxnrz3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055279359863492608/vid/avc1/640x360/4SxU26tfI5XVxkKj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055279359863492608/vid/avc1/1280x720/SMhE1lEnC6x49XHE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055279359863492608/pl/sItrsJLprzg0gvth.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 6486,
+        "height": 720,
+        "media_key": "13_2055279359863492608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055279359863492608/img/bM6MGDxnpYt-XqZ4.jpg",
+        "public_metrics": {
+          "view_count": 815799
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055279359863492608/vid/avc1/480x270/0-8OWcCFQmGxnrz3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055279359863492608/vid/avc1/640x360/4SxU26tfI5XVxkKj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055279359863492608/vid/avc1/1280x720/SMhE1lEnC6x49XHE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055279359863492608/pl/sItrsJLprzg0gvth.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055279359863492608"
+          ],
+          "media_source_tweet_id": [
+            "2055279427295318492"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055487753123680389",
+        "created_at": "2026-05-16T03:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055487753123680389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1082947043868368897",
+              "start": 3,
+              "username": "K0MATSUYU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1dOOxXibsa",
+              "end": 58,
+              "expanded_url": "https://x.com/K0MATSUYU/status/2055279427295318492/video/1",
+              "media_key": "13_2055279359863492608",
+              "start": 35,
+              "url": "https://t.co/1dOOxXibsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055487753123680389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055279427295318492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K0MATSUYU: 本日\nトラブルの為\n急遽お休みします。 https://t.co/1dOOxXibsa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055279359863492608"
+          ]
+        },
+        "author_id": "1082947043868368897",
+        "conversation_id": "2055279427295318492",
+        "created_at": "2026-05-15T13:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055279427295318492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1dOOxXibsa",
+              "end": 43,
+              "expanded_url": "https://x.com/K0MATSUYU/status/2055279427295318492/video/1",
+              "media_key": "13_2055279359863492608",
+              "start": 20,
+              "url": "https://t.co/1dOOxXibsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055279427295318492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1887,
+          "impression_count": 2412054,
+          "like_count": 46541,
+          "quote_count": 237,
+          "reply_count": 216,
+          "retweet_count": 3165
+        },
+        "reply_settings": "everyone",
+        "text": "本日\nトラブルの為\n急遽お休みします。 https://t.co/1dOOxXibsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 4010,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2066
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-09T10:27:50.000Z",
+        "description": "小松湯という銭湯です♨️ カラン男湯、女湯共に48個ずつあります。 東武東上線北池袋駅徒歩約7分です。 営業時間 16 :00～24 :00 定休日 毎週水曜日 第1木曜日TEL03-3983-0540 よろしくお願い致します‼️",
+        "id": "1082947043868368897",
+        "location": "東京 豊島区",
+        "name": "小松湯 豊島区北池袋の銭湯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1145893052843585537/DIl-p48n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 685,
+          "like_count": 11936,
+          "listed_count": 51,
+          "media_count": 846,
+          "tweet_count": 980
+        },
+        "username": "K0MATSUYU",
+        "verified": false
+      }
+    ]
+  }
+}

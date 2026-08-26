@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2052585062965944584",
+    "created_at": "2026-05-08T03:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052585062965944584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "437332642",
+          "start": 3,
+          "username": "TOBA_AQUARIUM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052585062965944584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1779
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052283236798320773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOBA_AQUARIUM: 5/9(土)13:30からラッコ「メイ」の誕生日YouTubeライブ配信を行います！㊗️\n\nお食事タイム終了後に特製バースデイケーキをプレゼント🎂✨\n\nみんなで一緒にメイの誕生日をお祝いしましょう🥰🎉\n\nライブ配信はこちらから▶︎ http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2052283231425437696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHssubuaoAAoIS4.jpg",
+        "width": 1051
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2052585062965944584",
+        "created_at": "2026-05-08T03:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052585062965944584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "437332642",
+              "start": 3,
+              "username": "TOBA_AQUARIUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052585062965944584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1779
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052283236798320773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOBA_AQUARIUM: 5/9(土)13:30からラッコ「メイ」の誕生日YouTubeライブ配信を行います！㊗️\n\nお食事タイム終了後に特製バースデイケーキをプレゼント🎂✨\n\nみんなで一緒にメイの誕生日をお祝いしましょう🥰🎉\n\nライブ配信はこちらから▶︎ http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052283231425437696"
+          ]
+        },
+        "author_id": "437332642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2052283236798320773",
+        "created_at": "2026-05-07T07:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052283236798320773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 140,
+              "tag": "鳥羽水族館"
+            },
+            {
+              "end": 151,
+              "start": 147,
+              "tag": "ラッコ"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "メイ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "5/9はラッコ「メイ」の誕生日🦦2004年に鳥羽水族館で誕生したメイは今年で22歳を迎えます！！13時からの「ラッコのお食事タイム」終了後に、特製アイスケーキをプレゼント🎂今年のケーキは事前にお客様から募集したデザイン案をもとに、飼育係と考案者様が一緒に作り上げたバースデーケーキとなります✨みんなで一緒にメイ...",
+              "display_url": "youtube.com/live/maUTU_bTC…",
+              "end": 139,
+              "expanded_url": "https://www.youtube.com/live/maUTU_bTCdg?si=j8u9MDERuQXKpfzL",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2052283282541428736/8dDHTZRC?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052283282541428736/8dDHTZRC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "《鳥羽水族館》ラッコ「メイ」㊗22歳！誕生日ライブ配信",
+              "unwound_url": "https://www.youtube.com/live/maUTU_bTCdg?si=j8u9MDERuQXKpfzL",
+              "url": "https://t.co/C4P0fOGf3I"
+            },
+            {
+              "display_url": "pic.x.com/1iJ1WU4IPL",
+              "end": 179,
+              "expanded_url": "https://x.com/TOBA_AQUARIUM/status/2052283236798320773/photo/1",
+              "media_key": "3_2052283231425437696",
+              "start": 156,
+              "url": "https://t.co/1iJ1WU4IPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052283236798320773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 602,
+          "impression_count": 200056,
+          "like_count": 9241,
+          "quote_count": 65,
+          "reply_count": 18,
+          "retweet_count": 1779
+        },
+        "reply_settings": "everyone",
+        "text": "5/9(土)13:30からラッコ「メイ」の誕生日YouTubeライブ配信を行います！㊗️\n\nお食事タイム終了後に特製バースデイケーキをプレゼント🎂✨\n\nみんなで一緒にメイの誕生日をお祝いしましょう🥰🎉\n\nライブ配信はこちらから▶︎ https://t.co/C4P0fOGf3I\n#鳥羽水族館 #ラッコ #メイ https://t.co/1iJ1WU4IPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 168,
+          "like_count": 3500,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1913
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-15T08:34:01.000Z",
+        "description": "三重県鳥羽市にある鳥羽水族館の公式アカウントです。 ジュゴンに会える、アフリカマナティーに会える、日本で唯一の水族館。主に新着情報や飼育日記の更新情報をつぶやいています。※Xでの質問、ＤＭにはお答えできません。お問い合わせはコチラhttps://t.co/RWMeg9Of3l",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aquarium.co.jp/contact/",
+                "end": 138,
+                "expanded_url": "https://aquarium.co.jp/contact/",
+                "start": 115,
+                "url": "https://t.co/RWMeg9Of3l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aquarium.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.aquarium.co.jp/",
+                "start": 0,
+                "url": "https://t.co/un6aKvMldW"
+              }
+            ]
+          }
+        },
+        "id": "437332642",
+        "location": "三重県鳥羽市鳥羽3-3-6",
+        "name": "鳥羽水族館（TOBA AQUARIUM）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875986159712690177/Mj7U3rWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296698,
+          "following_count": 58420,
+          "like_count": 38,
+          "listed_count": 4149,
+          "media_count": 6346,
+          "tweet_count": 13243
+        },
+        "url": "https://t.co/un6aKvMldW",
+        "username": "TOBA_AQUARIUM",
+        "verified": false
+      }
+    ]
+  }
+}

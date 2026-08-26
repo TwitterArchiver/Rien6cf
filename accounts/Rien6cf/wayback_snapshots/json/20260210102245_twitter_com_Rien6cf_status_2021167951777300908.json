@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2021167429615783972",
+    "created_at": "2026-02-10T10:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021167951777300908"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021167951777300908",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021167429615783972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "次は保護室かな？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2021167429615783972",
+        "created_at": "2026-02-10T10:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021167951777300908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021167951777300908",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021167429615783972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "次は保護室かな？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2021167429615783972",
+        "created_at": "2026-02-10T10:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021167429615783972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pakipakitoire/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/pakipakitoire/status/2021062594979823898",
+              "start": 12,
+              "url": "https://t.co/Wpp9NmnEVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021167429615783972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021062594979823898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救急までやちゃったくそ https://t.co/Wpp9NmnEVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 55,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 262
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

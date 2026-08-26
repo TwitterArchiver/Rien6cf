@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066468603961163776"
+      ],
+      "media_source_tweet_id": [
+        "2066468607924789405"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066503908906987729",
+    "created_at": "2026-06-15T12:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066503908906987729"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 17,
+          "tag": "IyowaGirlsDraw"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537417938583826432",
+          "start": 3,
+          "username": "N_NEKO_mizu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJGg7uhLsW",
+          "end": 56,
+          "expanded_url": "https://x.com/N_NEKO_mizu/status/2066468607924789405/photo/1",
+          "media_key": "3_2066468603961163776",
+          "start": 33,
+          "url": "https://t.co/xJGg7uhLsW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066503908906987729",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066468607924789405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N_NEKO_mizu: #IyowaGirlsDraw https://t.co/xJGg7uhLsW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2066468603961163776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2SPyaaQAA6G58.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066468603961163776"
+          ],
+          "media_source_tweet_id": [
+            "2066468607924789405"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066503908906987729",
+        "created_at": "2026-06-15T12:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066503908906987729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "IyowaGirlsDraw"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537417938583826432",
+              "start": 3,
+              "username": "N_NEKO_mizu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJGg7uhLsW",
+              "end": 56,
+              "expanded_url": "https://x.com/N_NEKO_mizu/status/2066468607924789405/photo/1",
+              "media_key": "3_2066468603961163776",
+              "start": 33,
+              "url": "https://t.co/xJGg7uhLsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066503908906987729",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066468607924789405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N_NEKO_mizu: #IyowaGirlsDraw https://t.co/xJGg7uhLsW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066468603961163776"
+          ]
+        },
+        "author_id": "1537417938583826432",
+        "conversation_id": "2066468607924789405",
+        "created_at": "2026-06-15T10:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066468607924789405"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "IyowaGirlsDraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJGg7uhLsW",
+              "end": 39,
+              "expanded_url": "https://x.com/N_NEKO_mizu/status/2066468607924789405/photo/1",
+              "media_key": "3_2066468603961163776",
+              "start": 16,
+              "url": "https://t.co/xJGg7uhLsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066468607924789405",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 10310,
+          "like_count": 1868,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "#IyowaGirlsDraw https://t.co/xJGg7uhLsW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 5778,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2603
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-16T12:53:30.000Z",
+        "description": "らんです。創作版権女子🩸🐾 https://t.co/DYoLNVDWDS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7ttj32qufke0fcz",
+                "end": 37,
+                "expanded_url": "https://marshmallow-qa.com/7ttj32qufke0fcz",
+                "start": 14,
+                "url": "https://t.co/DYoLNVDWDS"
+              }
+            ]
+          }
+        },
+        "id": "1537417938583826432",
+        "name": "らんねこ。",
+        "pinned_tweet_id": "2066108488338870751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063586862099570688/GkBtdZIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10549,
+          "following_count": 406,
+          "like_count": 46113,
+          "listed_count": 38,
+          "media_count": 390,
+          "tweet_count": 24093
+        },
+        "username": "N_NEKO_mizu",
+        "verified": false
+      }
+    ]
+  }
+}

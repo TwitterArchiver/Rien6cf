@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060312871863717889"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060312876838166830",
+    "created_at": "2026-05-29T10:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060312876838166830"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "金髪"
+        },
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U35l1M8wRG",
+          "end": 54,
+          "expanded_url": "https://x.com/Rien6cf/status/2060312876838166830/photo/1",
+          "media_key": "3_2060312871863717889",
+          "start": 31,
+          "url": "https://t.co/U35l1M8wRG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060312876838166830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手が面白いw\nたまに清楚系で悪くないな\n#金髪 #自撮り界隈 https://t.co/U35l1M8wRG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1202,
+        "media_key": "3_2060312871863717889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJezpBWaEAEoSoR.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060312871863717889"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060312876838166830",
+        "created_at": "2026-05-29T10:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060312876838166830"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "金髪"
+            },
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U35l1M8wRG",
+              "end": 54,
+              "expanded_url": "https://x.com/Rien6cf/status/2060312876838166830/photo/1",
+              "media_key": "3_2060312871863717889",
+              "start": 31,
+              "url": "https://t.co/U35l1M8wRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060312876838166830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手が面白いw\nたまに清楚系で悪くないな\n#金髪 #自撮り界隈 https://t.co/U35l1M8wRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 178,
+          "like_count": 4695,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2280
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

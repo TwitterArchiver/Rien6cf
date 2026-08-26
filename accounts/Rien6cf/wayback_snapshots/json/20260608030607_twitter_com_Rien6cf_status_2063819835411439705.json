@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063819835411439705",
+    "created_at": "2026-06-08T03:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063819835411439705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2002716961604812800",
+          "start": 3,
+          "username": "imduyyyyopppp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063819835411439705",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063500486599438816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imduyyyyopppp: 근데 생리대가 진짜 씹새끼인게\n이새끼 끝부분에 접착력 없는지 자꾸 떨어짐\n그래서 끝부분 개표독하게 뾰족해져서\n미친놈마냥 나 계속 찌름"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063819835411439705",
+        "created_at": "2026-06-08T03:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063819835411439705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2002716961604812800",
+              "start": 3,
+              "username": "imduyyyyopppp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063819835411439705",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063500486599438816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imduyyyyopppp: 근데 생리대가 진짜 씹새끼인게\n이새끼 끝부분에 접착력 없는지 자꾸 떨어짐\n그래서 끝부분 개표독하게 뾰족해져서\n미친놈마냥 나 계속 찌름"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002716961604812800",
+        "conversation_id": "2063500486599438816",
+        "created_at": "2026-06-07T05:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063500486599438816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063500486599438816",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 304771,
+          "like_count": 13056,
+          "quote_count": 99,
+          "reply_count": 53,
+          "retweet_count": 1147
+        },
+        "reply_settings": "everyone",
+        "text": "근데 생리대가 진짜 씹새끼인게\n이새끼 끝부분에 접착력 없는지 자꾸 떨어짐\n그래서 끝부분 개표독하게 뾰족해져서\n미친놈마냥 나 계속 찌름"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5231,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2464
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T12:25:18.000Z",
+        "description": "전두엽 아니고 귀두엽 아니고 유두엽 아니고 정두팔 아니고 정두엽입니다 우인:@iseogheon539552",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "iseogheon539552"
+              }
+            ]
+          }
+        },
+        "id": "2002716961604812800",
+        "location": "오티♥ 서연♥ 레정자♥ 설유♥",
+        "name": "정두엽",
+        "pinned_tweet_id": "2061037259223388305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062072292713373696/G1MNB71F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 491,
+          "like_count": 36503,
+          "listed_count": 20,
+          "media_count": 266,
+          "tweet_count": 6905
+        },
+        "username": "imduyyyyopppp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2075924905426907269",
+    "created_at": "2026-07-11T12:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075924905426907269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashdoddayim/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ashdoddayim/status/2075670141086625834",
+          "start": 12,
+          "url": "https://t.co/dvBUzMVUrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075924905426907269",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075670141086625834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "5mの男は動物園に行け https://t.co/dvBUzMVUrF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2075670134958526465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5C_YkXEAEOGFj.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2075924905426907269",
+        "created_at": "2026-07-11T12:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075924905426907269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashdoddayim/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ashdoddayim/status/2075670141086625834",
+              "start": 12,
+              "url": "https://t.co/dvBUzMVUrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075924905426907269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075670141086625834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5mの男は動物園に行け https://t.co/dvBUzMVUrF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075670134958526465"
+          ]
+        },
+        "author_id": "1650760829267062785",
+        "conversation_id": "2075670141086625834",
+        "created_at": "2026-07-10T19:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075670141086625834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2AGYV7d1p",
+              "end": 45,
+              "expanded_url": "https://x.com/ashdoddayim/status/2075670141086625834/photo/1",
+              "media_key": "3_2075670134958526465",
+              "start": 22,
+              "url": "https://t.co/i2AGYV7d1p"
+            },
+            {
+              "display_url": "x.com/harikayiw/stat…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/harikayiw/status/2075333294929883560",
+              "start": 46,
+              "url": "https://t.co/GeyzIJwR0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075670141086625834",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 878,
+          "impression_count": 762196,
+          "like_count": 17320,
+          "quote_count": 447,
+          "reply_count": 161,
+          "retweet_count": 1031
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075333294929883560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ezberleyin artık sunu https://t.co/i2AGYV7d1p https://t.co/GeyzIJwR0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 196,
+          "like_count": 7521,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2900
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:17:25.000Z",
+        "description": "super",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/5bYR2J9e…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/5bYR2J9ehpfuUbRReGuYIF?si=nTF5zUgATjeRWTMPyQF5zg",
+                "start": 0,
+                "url": "https://t.co/TIWUwlut9R"
+              }
+            ]
+          }
+        },
+        "id": "1650760829267062785",
+        "name": "tivitstar",
+        "pinned_tweet_id": "1674509243536273427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976203626512015360/HcgD9ANN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4716,
+          "following_count": 107,
+          "like_count": 30979,
+          "listed_count": 3,
+          "media_count": 2287,
+          "tweet_count": 22637
+        },
+        "url": "https://t.co/TIWUwlut9R",
+        "username": "ashdoddayim",
+        "verified": false
+      }
+    ]
+  }
+}

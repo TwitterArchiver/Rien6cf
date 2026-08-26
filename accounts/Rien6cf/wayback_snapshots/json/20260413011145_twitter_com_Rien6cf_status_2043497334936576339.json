@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043296483995467777",
+        "3_2043296483999670272"
+      ],
+      "media_source_tweet_id": [
+        "2043296488227541473",
+        "2043296488227541473"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2043497334936576339",
+    "created_at": "2026-04-13T01:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043497334936576339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1615937518364692482",
+          "start": 3,
+          "username": "jourikiichirou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AiAmUF4GQq",
+          "end": 61,
+          "expanded_url": "https://x.com/jourikiichirou/status/2043296488227541473/photo/1",
+          "media_key": "3_2043296483995467777",
+          "start": 38,
+          "url": "https://t.co/AiAmUF4GQq"
+        },
+        {
+          "display_url": "pic.x.com/AiAmUF4GQq",
+          "end": 61,
+          "expanded_url": "https://x.com/jourikiichirou/status/2043296488227541473/photo/1",
+          "media_key": "3_2043296483999670272",
+          "start": 38,
+          "url": "https://t.co/AiAmUF4GQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043497334936576339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 544
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043296488227541473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jourikiichirou: “ガチ”で友達がいないので毎日これ https://t.co/AiAmUF4GQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2043296483995467777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs_U4tawAEM1Cv.jpg",
+        "width": 281
+      },
+      {
+        "height": 317,
+        "media_key": "3_2043296483999670272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs_U4ua4AA0ntC.jpg",
+        "width": 279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043296483995467777",
+            "3_2043296483999670272"
+          ],
+          "media_source_tweet_id": [
+            "2043296488227541473",
+            "2043296488227541473"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2043497334936576339",
+        "created_at": "2026-04-13T01:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043497334936576339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1615937518364692482",
+              "start": 3,
+              "username": "jourikiichirou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiAmUF4GQq",
+              "end": 61,
+              "expanded_url": "https://x.com/jourikiichirou/status/2043296488227541473/photo/1",
+              "media_key": "3_2043296483995467777",
+              "start": 38,
+              "url": "https://t.co/AiAmUF4GQq"
+            },
+            {
+              "display_url": "pic.x.com/AiAmUF4GQq",
+              "end": 61,
+              "expanded_url": "https://x.com/jourikiichirou/status/2043296488227541473/photo/1",
+              "media_key": "3_2043296483999670272",
+              "start": 38,
+              "url": "https://t.co/AiAmUF4GQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043497334936576339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 544
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043296488227541473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jourikiichirou: “ガチ”で友達がいないので毎日これ https://t.co/AiAmUF4GQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043296483995467777",
+            "3_2043296483999670272"
+          ]
+        },
+        "author_id": "1615937518364692482",
+        "conversation_id": "2043296488227541473",
+        "created_at": "2026-04-12T11:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043296488227541473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiAmUF4GQq",
+              "end": 41,
+              "expanded_url": "https://x.com/jourikiichirou/status/2043296488227541473/photo/1",
+              "media_key": "3_2043296483995467777",
+              "start": 18,
+              "url": "https://t.co/AiAmUF4GQq"
+            },
+            {
+              "display_url": "pic.x.com/AiAmUF4GQq",
+              "end": 41,
+              "expanded_url": "https://x.com/jourikiichirou/status/2043296488227541473/photo/1",
+              "media_key": "3_2043296483999670272",
+              "start": 18,
+              "url": "https://t.co/AiAmUF4GQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043296488227541473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 494194,
+          "like_count": 7391,
+          "quote_count": 226,
+          "reply_count": 47,
+          "retweet_count": 544
+        },
+        "reply_settings": "everyone",
+        "text": "“ガチ”で友達がいないので毎日これ https://t.co/AiAmUF4GQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 135,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1556
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T05:01:51.000Z",
+        "description": "笑みが止まらん故w w w w @IKlSUGI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "IKlSUGI"
+              }
+            ]
+          }
+        },
+        "id": "1615937518364692482",
+        "location": "2024海軍中将",
+        "name": "めろう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925143541803864064/K5R1zSbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 1184,
+          "like_count": 22146,
+          "listed_count": 11,
+          "media_count": 1172,
+          "tweet_count": 7241
+        },
+        "username": "jourikiichirou",
+        "verified": false
+      }
+    ]
+  }
+}

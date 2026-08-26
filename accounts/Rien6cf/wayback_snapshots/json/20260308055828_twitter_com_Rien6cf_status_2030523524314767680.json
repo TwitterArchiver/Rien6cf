@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030392912715096065"
+      ],
+      "media_source_tweet_id": [
+        "2030392919824462192"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2030523524314767680",
+    "created_at": "2026-03-08T05:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030523524314767680"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "小田急",
+          "probability": 0.459,
+          "start": 14,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1162201730479603712",
+          "start": 3,
+          "username": "0622shud"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LO2OwgMhym",
+          "end": 71,
+          "expanded_url": "https://x.com/0622shud/status/2030392919824462192/photo/1",
+          "media_key": "3_2030392912715096065",
+          "start": 48,
+          "url": "https://t.co/LO2OwgMhym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030523524314767680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 464
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030392919824462192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0622shud: 小田急のダイヤ改正案内に「運賃改定はありません！！」と貼られてる。 https://t.co/LO2OwgMhym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030392912715096065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC1nmLzaoAEmOLO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030392912715096065"
+          ],
+          "media_source_tweet_id": [
+            "2030392919824462192"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2030523524314767680",
+        "created_at": "2026-03-08T05:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030523524314767680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "小田急",
+              "probability": 0.459,
+              "start": 14,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1162201730479603712",
+              "start": 3,
+              "username": "0622shud"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LO2OwgMhym",
+              "end": 71,
+              "expanded_url": "https://x.com/0622shud/status/2030392919824462192/photo/1",
+              "media_key": "3_2030392912715096065",
+              "start": 48,
+              "url": "https://t.co/LO2OwgMhym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030523524314767680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 464
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030392919824462192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0622shud: 小田急のダイヤ改正案内に「運賃改定はありません！！」と貼られてる。 https://t.co/LO2OwgMhym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030392912715096065"
+          ]
+        },
+        "author_id": "1162201730479603712",
+        "conversation_id": "2030392919824462192",
+        "created_at": "2026-03-07T21:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T22:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030392919824462192"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "小田急",
+              "probability": 0.4901,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LO2OwgMhym",
+              "end": 57,
+              "expanded_url": "https://x.com/0622shud/status/2030392919824462192/photo/1",
+              "media_key": "3_2030392912715096065",
+              "start": 34,
+              "url": "https://t.co/LO2OwgMhym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030392919824462192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 101543,
+          "like_count": 2675,
+          "quote_count": 48,
+          "reply_count": 16,
+          "retweet_count": 464
+        },
+        "reply_settings": "everyone",
+        "text": "小田急のダイヤ改正案内に「運賃改定はありません！！」と貼られてる。 https://t.co/LO2OwgMhym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 102,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 845
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-16T03:19:05.000Z",
+        "description": "旅行同人サークル「へっぷらけっこ！」代表(南方そらみ名義)/旅行/鉄道/発車標/‘19.03全県踏破/‘19.11全県宿泊/‘20.02初海外🇹🇼/JR 98%乗車/サンライズ瀬戸出雲 12回乗車",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heppurakekko.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://heppurakekko.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/eyuc5A6qXU"
+              }
+            ]
+          }
+        },
+        "id": "1162201730479603712",
+        "location": "New York, USA",
+        "name": "しゅど㌠@C107お疲れ様 新刊🍈委託中",
+        "pinned_tweet_id": "2006548694997553639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845110197104279552/SzwRr74F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 1136,
+          "like_count": 30259,
+          "listed_count": 57,
+          "media_count": 19013,
+          "tweet_count": 176908
+        },
+        "url": "https://t.co/eyuc5A6qXU",
+        "username": "0622shud",
+        "verified": false
+      }
+    ]
+  }
+}

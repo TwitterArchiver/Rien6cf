@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2043666201633845426",
+    "created_at": "2026-04-13T12:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043668922814369950"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043668922814369950",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043666201633845426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "公民老师是个特立独行的人，花了四节课给我们看砂之器让我们写感想，也提到了村八分。。砂之器讲的是一个麻风病父亲的孩子的故事，从小被歧视长大之后变成了有名的钢琴家，即便这样功成名就了杀了知道他过去的养父。。真可怕啊。。霸凌。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2043666201633845426",
+        "created_at": "2026-04-13T12:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043668922814369950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043668922814369950",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043666201633845426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公民老师是个特立独行的人，花了四节课给我们看砂之器让我们写感想，也提到了村八分。。砂之器讲的是一个麻风病父亲的孩子的故事，从小被歧视长大之后变成了有名的钢琴家，即便这样功成名就了杀了知道他过去的养父。。真可怕啊。。霸凌。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2043666201633845426",
+        "created_at": "2026-04-13T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043666201633845426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/interjc/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/interjc/status/2043498503549419812",
+              "start": 8,
+              "url": "https://t.co/kNl8eMJWg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043666201633845426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043498503549419812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有幸看过砂之器 https://t.co/kNl8eMJWg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 136,
+          "like_count": 2648,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1564
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

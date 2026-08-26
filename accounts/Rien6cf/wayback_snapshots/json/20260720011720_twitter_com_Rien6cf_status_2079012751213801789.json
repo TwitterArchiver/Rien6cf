@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1529660117896941569"
+      ],
+      "media_source_tweet_id": [
+        "1529660157235302400"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2079012751213801789",
+    "created_at": "2026-07-20T01:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079012751213801789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559069150785732608",
+          "start": 3,
+          "username": "Bakutan_bot1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V3D6PITxnp",
+          "end": 48,
+          "expanded_url": "https://x.com/GacchiRika/status/1529660157235302400/video/1",
+          "media_key": "7_1529660117896941569",
+          "start": 25,
+          "url": "https://t.co/V3D6PITxnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079012751213801789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078796995930570994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bakutan_bot1: むぎゅー！！ https://t.co/V3D6PITxnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7918,
+        "height": 960,
+        "media_key": "7_1529660117896941569",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1529660117896941569/pu/img/gIDt01B9HMmducC3.jpg",
+        "public_metrics": {
+          "view_count": 2741896
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1529660117896941569/pu/vid/360x270/Xbog_-t_0dJoLXuB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1529660117896941569/pu/vid/480x360/CpVQx1CNQ1xgGXw0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1529660117896941569/pu/vid/960x720/efIuMgKChe5e_xDX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1529660117896941569/pu/pl/8canPD7rQddF-pGN.m3u8?tag=12&v=568"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1529660117896941569"
+          ]
+        },
+        "author_id": "854362191675379716",
+        "conversation_id": "1529660157235302400",
+        "created_at": "2022-05-26T03:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2022-05-26T03:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1529660157235302400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "アザラシ"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "seal"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "海遊館"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ak0AHWzp7y",
+              "end": 54,
+              "expanded_url": "https://x.com/GacchiRika/status/1529660157235302400/video/1",
+              "media_key": "7_1529660117896941569",
+              "start": 31,
+              "url": "https://t.co/Ak0AHWzp7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1529660157235302400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3425,
+          "impression_count": 0,
+          "like_count": 131381,
+          "quote_count": 736,
+          "reply_count": 82,
+          "retweet_count": 28022
+        },
+        "reply_settings": "everyone",
+        "text": "むぎゅーってされるミゾレ\n\n#アザラシ #seal\n#海遊館 https://t.co/Ak0AHWzp7y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1529660117896941569"
+          ],
+          "media_source_tweet_id": [
+            "1529660157235302400"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2079012751213801789",
+        "created_at": "2026-07-20T01:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079012751213801789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559069150785732608",
+              "start": 3,
+              "username": "Bakutan_bot1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3D6PITxnp",
+              "end": 48,
+              "expanded_url": "https://x.com/GacchiRika/status/1529660157235302400/video/1",
+              "media_key": "7_1529660117896941569",
+              "start": 25,
+              "url": "https://t.co/V3D6PITxnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079012751213801789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078796995930570994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bakutan_bot1: むぎゅー！！ https://t.co/V3D6PITxnp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1529660117896941569"
+          ],
+          "media_source_tweet_id": [
+            "1529660157235302400"
+          ]
+        },
+        "author_id": "1559069150785732608",
+        "conversation_id": "2078796995930570994",
+        "created_at": "2026-07-19T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078796995930570994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3D6PITxnp",
+              "end": 30,
+              "expanded_url": "https://x.com/GacchiRika/status/1529660157235302400/video/1",
+              "media_key": "7_1529660117896941569",
+              "start": 7,
+              "url": "https://t.co/V3D6PITxnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078796995930570994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 21855,
+          "like_count": 807,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "むぎゅー！！ https://t.co/V3D6PITxnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8177,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2990
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T06:47:19.000Z",
+        "description": "癒やされる動物をツイートにて皆様にお届けします📦",
+        "id": "1559069150785732608",
+        "name": "癒しのお届け便 📦【動物】",
+        "pinned_tweet_id": "2042679758794953058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628720490398511105/RGzC-DTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356959,
+          "following_count": 13,
+          "like_count": 5489,
+          "listed_count": 791,
+          "media_count": 11329,
+          "tweet_count": 11440
+        },
+        "url": "",
+        "username": "Bakutan_bot1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055610751424053248"
+      ],
+      "media_source_tweet_id": [
+        "2055610755962302878"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055930496694231388",
+    "created_at": "2026-05-17T08:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055930496694231388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943507987987136512",
+          "start": 3,
+          "username": "Kata394"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9YeFizoCDZ",
+          "end": 64,
+          "expanded_url": "https://x.com/Kata394/status/2055610755962302878/photo/1",
+          "media_key": "3_2055610751424053248",
+          "start": 41,
+          "url": "https://t.co/9YeFizoCDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055930496694231388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055610755962302878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Kata394: ALTでお気持ちします。\n今起こったこと全て話します。 https://t.co/9YeFizoCDZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "うんこ出た",
+        "height": 1170,
+        "media_key": "3_2055610751424053248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIb_FlsawAAYaht.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055610751424053248"
+          ],
+          "media_source_tweet_id": [
+            "2055610755962302878"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055930496694231388",
+        "created_at": "2026-05-17T08:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055930496694231388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943507987987136512",
+              "start": 3,
+              "username": "Kata394"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YeFizoCDZ",
+              "end": 64,
+              "expanded_url": "https://x.com/Kata394/status/2055610755962302878/photo/1",
+              "media_key": "3_2055610751424053248",
+              "start": 41,
+              "url": "https://t.co/9YeFizoCDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055930496694231388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055610755962302878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Kata394: ALTでお気持ちします。\n今起こったこと全て話します。 https://t.co/9YeFizoCDZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055610751424053248"
+          ]
+        },
+        "author_id": "1943507987987136512",
+        "conversation_id": "2055610755962302878",
+        "created_at": "2026-05-16T11:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055610755962302878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YeFizoCDZ",
+              "end": 51,
+              "expanded_url": "https://x.com/Kata394/status/2055610755962302878/photo/1",
+              "media_key": "3_2055610751424053248",
+              "start": 28,
+              "url": "https://t.co/9YeFizoCDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055610755962302878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 2444346,
+          "like_count": 9176,
+          "quote_count": 47,
+          "reply_count": 148,
+          "retweet_count": 297
+        },
+        "reply_settings": "following",
+        "text": "ALTでお気持ちします。\n今起こったこと全て話します。 https://t.co/9YeFizoCDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 4086,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2078
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T03:10:05.000Z",
+        "description": "アイマスとポケカ好き/倉本千奈・高槻やよい・小宮果穂担当/お仕事の依頼はhttps://t.co/TF0ce5tCq7 /学マス以外もつぶやくことあります/アイコン描いて頂きました→@Isatsuki322",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "Isatsuki322"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "DMM.com",
+                "end": 59,
+                "expanded_url": "http://DMM.com",
+                "start": 36,
+                "url": "https://t.co/TF0ce5tCq7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaexyz33162.hatenadiary.com/entry/2025/10/…",
+                "end": 23,
+                "expanded_url": "https://kaexyz33162.hatenadiary.com/entry/2025/10/16/213039",
+                "start": 0,
+                "url": "https://t.co/rlGpmL5VBQ"
+              }
+            ]
+          }
+        },
+        "id": "1943507987987136512",
+        "name": "かた",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005967651789799424/izl99O9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 105,
+          "like_count": 4179,
+          "listed_count": 4,
+          "media_count": 1159,
+          "tweet_count": 6123
+        },
+        "url": "https://t.co/rlGpmL5VBQ",
+        "username": "Kata394",
+        "verified": false
+      }
+    ]
+  }
+}

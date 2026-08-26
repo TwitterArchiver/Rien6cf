@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053802823490617344"
+      ],
+      "media_source_tweet_id": [
+        "2053802828075077805"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054142297043058757",
+    "created_at": "2026-05-12T10:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054142297043058757"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 29,
+          "tag": "ラッコのキラちゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1872604440790011904",
+          "start": 3,
+          "username": "hnm_542"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8z6nr80n4X",
+          "end": 63,
+          "expanded_url": "https://x.com/hnm_542/status/2053802828075077805/photo/1",
+          "media_key": "3_2053802823490617344",
+          "start": 40,
+          "url": "https://t.co/8z6nr80n4X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054142297043058757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053802828075077805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hnm_542: ＼ニコッ／\n\n2026.5.8\n#ラッコのキラちゃん https://t.co/8z6nr80n4X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2053802823490617344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICSyVTaQAASq6q.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053802823490617344"
+          ],
+          "media_source_tweet_id": [
+            "2053802828075077805"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054142297043058757",
+        "created_at": "2026-05-12T10:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054142297043058757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "ラッコのキラちゃん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1872604440790011904",
+              "start": 3,
+              "username": "hnm_542"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8z6nr80n4X",
+              "end": 63,
+              "expanded_url": "https://x.com/hnm_542/status/2053802828075077805/photo/1",
+              "media_key": "3_2053802823490617344",
+              "start": 40,
+              "url": "https://t.co/8z6nr80n4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054142297043058757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053802828075077805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hnm_542: ＼ニコッ／\n\n2026.5.8\n#ラッコのキラちゃん https://t.co/8z6nr80n4X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053802823490617344"
+          ]
+        },
+        "author_id": "1872604440790011904",
+        "conversation_id": "2053802828075077805",
+        "created_at": "2026-05-11T11:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053802828075077805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "ラッコのキラちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8z6nr80n4X",
+              "end": 50,
+              "expanded_url": "https://x.com/hnm_542/status/2053802828075077805/photo/1",
+              "media_key": "3_2053802823490617344",
+              "start": 27,
+              "url": "https://t.co/8z6nr80n4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053802828075077805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 17250,
+          "like_count": 1738,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "＼ニコッ／\n\n2026.5.8\n#ラッコのキラちゃん https://t.co/8z6nr80n4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 171,
+          "like_count": 3812,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1997
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T11:24:31.000Z",
+        "description": "ライブ配信をきっかけにラッコ沼に落ちました｜もふもふたちを眺めるのが楽しい毎日｜カメラは勉強中🔰｜ラッコのリロくんメイちゃんキラちゃん🫶｜無言フォロー失礼します",
+        "id": "1872604440790011904",
+        "location": "九州🦦",
+        "name": "はなみ︎",
+        "pinned_tweet_id": "1907062345995894832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938202324977258496/SEpX0FSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 80,
+          "like_count": 2309,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 1959
+        },
+        "username": "hnm_542",
+        "verified": false
+      }
+    ]
+  }
+}

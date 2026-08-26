@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047866616202072064"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2047866678047019410",
+    "created_at": "2026-04-25T02:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047866678047019410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qYPqrSWgok",
+          "end": 30,
+          "expanded_url": "https://x.com/Rien6cf/status/2047866678047019410/video/1",
+          "media_key": "13_2047866616202072064",
+          "start": 7,
+          "url": "https://t.co/qYPqrSWgok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047866678047019410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "劲爆金粉双拼 https://t.co/qYPqrSWgok"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13166,
+        "height": 960,
+        "media_key": "13_2047866616202072064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047866616202072064/img/MPZfm-bjsSVNHrjA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047866616202072064/vid/avc1/320x426/rKI5eTb4yDd55ztp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047866616202072064/vid/avc1/480x640/CELGRliAZtre7anX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047866616202072064/vid/avc1/720x960/eaGox89E-6dNa61C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047866616202072064/pl/8tPInoSnoE1jIuNa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047866616202072064"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2047866678047019410",
+        "created_at": "2026-04-25T02:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047866678047019410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYPqrSWgok",
+              "end": 30,
+              "expanded_url": "https://x.com/Rien6cf/status/2047866678047019410/video/1",
+              "media_key": "13_2047866616202072064",
+              "start": 7,
+              "url": "https://t.co/qYPqrSWgok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047866678047019410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劲爆金粉双拼 https://t.co/qYPqrSWgok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 146,
+          "like_count": 3004,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1728
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

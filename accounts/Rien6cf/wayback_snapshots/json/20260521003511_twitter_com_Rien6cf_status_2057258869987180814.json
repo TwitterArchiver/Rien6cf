@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056739052062425088"
+      ],
+      "media_source_tweet_id": [
+        "2056739122245697772"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2057258869987180814",
+    "created_at": "2026-05-21T00:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057258869987180814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zykutbYnnS",
+          "end": 30,
+          "expanded_url": "https://x.com/water_1218/status/2056739122245697772/video/1",
+          "media_key": "13_2056739052062425088",
+          "start": 7,
+          "url": "https://t.co/zykutbYnnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057258869987180814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "かわいい.. https://t.co/zykutbYnnS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10795,
+        "height": 1280,
+        "media_key": "13_2056739052062425088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056739052062425088/img/BlrBn4s5C7EahhR-.jpg",
+        "public_metrics": {
+          "view_count": 15047
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056739052062425088/vid/avc1/320x568/YFDa9C65wvNRqNPQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056739052062425088/vid/avc1/480x852/1SWmWMRtdCynHPjc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056739052062425088/vid/avc1/720x1280/utrUJwz0aJGu57lI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056739052062425088/pl/sAoCI6ryanejpI53.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056739052062425088"
+          ],
+          "media_source_tweet_id": [
+            "2056739122245697772"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2057258869987180814",
+        "created_at": "2026-05-21T00:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057258869987180814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zykutbYnnS",
+              "end": 30,
+              "expanded_url": "https://x.com/water_1218/status/2056739122245697772/video/1",
+              "media_key": "13_2056739052062425088",
+              "start": 7,
+              "url": "https://t.co/zykutbYnnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057258869987180814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい.. https://t.co/zykutbYnnS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 169,
+          "like_count": 4332,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2166
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

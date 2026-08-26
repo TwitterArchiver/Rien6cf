@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056232159116169216"
+      ],
+      "media_source_tweet_id": [
+        "2056232273037672890"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056499594062922217",
+    "created_at": "2026-05-18T22:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T23:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056499594062922217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1805173276022616064",
+          "start": 3,
+          "username": "murinomiyu_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6bs51yAmMK",
+          "end": 74,
+          "expanded_url": "https://x.com/murinomiyu_jp/status/2056232273037672890/video/1",
+          "media_key": "13_2056232159116169216",
+          "start": 51,
+          "url": "https://t.co/6bs51yAmMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056499594062922217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056232273037672890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @murinomiyu_jp: 終電逃したら皆でこれやろうね\nそうすればこの国は平和になるはず https://t.co/6bs51yAmMK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13798,
+        "height": 1526,
+        "media_key": "13_2056232159116169216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056232159116169216/img/tV_3gXiYkkt3x_ZT.jpg",
+        "public_metrics": {
+          "view_count": 1178231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056232159116169216/vid/avc1/1170x1526/3mhw3HFP1Tjd5nc_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056232159116169216/pl/btV1hRxDyNoIUW-j.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056232159116169216/vid/avc1/320x416/p2nMvdBasbjemKfg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056232159116169216/vid/avc1/480x626/gHzSzJdSh18HmG3I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056232159116169216/vid/avc1/720x938/CcVgHfmX_q0idwSc.mp4"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056232159116169216"
+          ],
+          "media_source_tweet_id": [
+            "2056232273037672890"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056499594062922217",
+        "created_at": "2026-05-18T22:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056499594062922217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1805173276022616064",
+              "start": 3,
+              "username": "murinomiyu_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bs51yAmMK",
+              "end": 74,
+              "expanded_url": "https://x.com/murinomiyu_jp/status/2056232273037672890/video/1",
+              "media_key": "13_2056232159116169216",
+              "start": 51,
+              "url": "https://t.co/6bs51yAmMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056499594062922217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2450
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056232273037672890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @murinomiyu_jp: 終電逃したら皆でこれやろうね\nそうすればこの国は平和になるはず https://t.co/6bs51yAmMK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056232159116169216"
+          ]
+        },
+        "author_id": "1805173276022616064",
+        "conversation_id": "2056232273037672890",
+        "created_at": "2026-05-18T04:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056232273037672890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bs51yAmMK",
+              "end": 55,
+              "expanded_url": "https://x.com/murinomiyu_jp/status/2056232273037672890/video/1",
+              "media_key": "13_2056232159116169216",
+              "start": 32,
+              "url": "https://t.co/6bs51yAmMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056232273037672890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3474,
+          "impression_count": 2414775,
+          "like_count": 21406,
+          "quote_count": 425,
+          "reply_count": 498,
+          "retweet_count": 2450
+        },
+        "reply_settings": "everyone",
+        "text": "終電逃したら皆でこれやろうね\nそうすればこの国は平和になるはず https://t.co/6bs51yAmMK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 169,
+          "like_count": 4232,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2136
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T09:37:29.000Z",
+        "description": "むりすぎる人生😩 / お仕事依頼は気軽にDMください📩",
+        "id": "1805173276022616064",
+        "location": "Japan",
+        "name": "むり",
+        "pinned_tweet_id": "2054181138655244401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000007666375290880/Iz74awow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208057,
+          "following_count": 57,
+          "like_count": 5215,
+          "listed_count": 398,
+          "media_count": 564,
+          "tweet_count": 606
+        },
+        "username": "murinomiyu_jp",
+        "verified": true
+      }
+    ]
+  }
+}

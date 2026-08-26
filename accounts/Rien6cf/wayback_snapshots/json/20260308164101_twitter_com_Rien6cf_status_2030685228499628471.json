@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2030685228499628471",
+    "created_at": "2026-03-08T16:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030685228499628471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860951699797721088",
+          "start": 3,
+          "username": "Lesbideo25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030685228499628471",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030640620310835668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lesbideo25: 男の一人称あるある\n僕→きもい\n俺→きもい\n私→きもい\n吾輩→きもい\n朕→きもい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2030685228499628471",
+        "created_at": "2026-03-08T16:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030685228499628471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860951699797721088",
+              "start": 3,
+              "username": "Lesbideo25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030685228499628471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030640620310835668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lesbideo25: 男の一人称あるある\n僕→きもい\n俺→きもい\n私→きもい\n吾輩→きもい\n朕→きもい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860951699797721088",
+        "conversation_id": "2030640620310835668",
+        "created_at": "2026-03-08T13:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030640620310835668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030640620310835668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 48829,
+          "like_count": 726,
+          "quote_count": 57,
+          "reply_count": 40,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "男の一人称あるある\n僕→きもい\n俺→きもい\n私→きもい\n吾輩→きもい\n朕→きもい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 107,
+          "like_count": 1170,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 862
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T07:40:45.000Z",
+        "description": "500円くれたらアフィリエイト貼るので誰かください！\nbot(提供いつでも募集です〜) @lesbideo9\n✨アイコン✨ @ゆりさぴ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "lesbideo9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2013221765649178770/cS5z5hDqq6",
+                "start": 0,
+                "url": "https://t.co/VZXS4pjpuk"
+              }
+            ]
+          }
+        },
+        "id": "1860951699797721088",
+        "location": "dmのメンバー募集します誰でも入れます基本",
+        "name": "べにま",
+        "pinned_tweet_id": "1993245690102006133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014098930896621568/2REvcIoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3828,
+          "following_count": 286,
+          "like_count": 7191,
+          "listed_count": 7,
+          "media_count": 398,
+          "tweet_count": 5064
+        },
+        "url": "https://t.co/VZXS4pjpuk",
+        "username": "Lesbideo25",
+        "verified": false
+      }
+    ]
+  }
+}

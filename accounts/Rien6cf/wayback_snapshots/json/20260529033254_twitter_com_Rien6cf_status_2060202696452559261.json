@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060202696452559261",
+    "created_at": "2026-05-29T03:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060202696452559261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sumidaku_kouho…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/sumidaku_kouhou/status/2060156897463095697",
+          "start": 10,
+          "url": "https://t.co/1slG358mFw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060202696452559261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060156897463095697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么还有浣熊啊卧槽 https://t.co/1slG358mFw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060202696452559261",
+        "created_at": "2026-05-29T03:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060202696452559261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sumidaku_kouho…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/sumidaku_kouhou/status/2060156897463095697",
+              "start": 10,
+              "url": "https://t.co/1slG358mFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060202696452559261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060156897463095697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么还有浣熊啊卧槽 https://t.co/1slG358mFw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "412693725",
+        "conversation_id": "2060156897463095697",
+        "created_at": "2026-05-29T00:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060156897463095697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060156897463095697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16748,
+          "like_count": 252,
+          "quote_count": 23,
+          "reply_count": 2,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "警察署からのお知らせです。\n\n令和８年５月２９日（金）午前８時４５分ころ、墨田区東向島2丁目付近において、野生のアライグマが出現しました。\n野生のアライグマは気性が荒く、多くの病原体を持ち合わせているので、発見してもむやみに触れないでください。\n\n【問合せ先】向島警察署 03-3616-0110"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 175,
+          "like_count": 4669,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2274
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-15T01:28:01.000Z",
+        "description": "墨田区の危機管理アカウントです。防災防犯のほか感染症等の健康被害などに関する注意喚起と緊急情報を発信します。区からの情報だけでなく国や東京都などが発信するアカウントのフォローやリツイートを行います。墨田区へのご意見等は区ホームページよりお寄せください。\n墨田区公式ツイッター@sumida_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 137,
+                "username": "sumida_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "city.sumida.lg.jp",
+                "end": 23,
+                "expanded_url": "http://www.city.sumida.lg.jp",
+                "start": 0,
+                "url": "https://t.co/wmiKC3yziN"
+              }
+            ]
+          }
+        },
+        "id": "412693725",
+        "name": "墨田区危機管理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1437950620141436929/qMhEbE-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25954,
+          "following_count": 8,
+          "like_count": 431,
+          "listed_count": 417,
+          "media_count": 2845,
+          "tweet_count": 11904
+        },
+        "url": "https://t.co/wmiKC3yziN",
+        "username": "sumidaku_kouhou",
+        "verified": false
+      }
+    ]
+  }
+}

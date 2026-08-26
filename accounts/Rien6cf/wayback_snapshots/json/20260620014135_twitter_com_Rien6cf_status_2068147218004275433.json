@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067991951304232961"
+      ],
+      "media_source_tweet_id": [
+        "2067991956714840174"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068147218004275433",
+    "created_at": "2026-06-20T01:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068147218004275433"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "とっかりセンター"
+        },
+        {
+          "end": 44,
+          "start": 42,
+          "tag": "月"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291652313703014400",
+          "start": 3,
+          "username": "trmrmeer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YdQQLNjBrn",
+          "end": 68,
+          "expanded_url": "https://x.com/trmrmeer/status/2067991956714840174/photo/1",
+          "media_key": "3_2067991951304232961",
+          "start": 45,
+          "url": "https://t.co/YdQQLNjBrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068147218004275433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067991956714840174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trmrmeer: 2026.06.19\n\n握手🤝\n\n#とっかりセンター \n#月 https://t.co/YdQQLNjBrn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2067991951304232961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL7uRfbEAEFpcG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067991951304232961"
+          ],
+          "media_source_tweet_id": [
+            "2067991956714840174"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068147218004275433",
+        "created_at": "2026-06-20T01:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068147218004275433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 44,
+              "start": 42,
+              "tag": "月"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291652313703014400",
+              "start": 3,
+              "username": "trmrmeer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdQQLNjBrn",
+              "end": 68,
+              "expanded_url": "https://x.com/trmrmeer/status/2067991956714840174/photo/1",
+              "media_key": "3_2067991951304232961",
+              "start": 45,
+              "url": "https://t.co/YdQQLNjBrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068147218004275433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067991956714840174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trmrmeer: 2026.06.19\n\n握手🤝\n\n#とっかりセンター \n#月 https://t.co/YdQQLNjBrn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067991951304232961"
+          ]
+        },
+        "author_id": "1291652313703014400",
+        "conversation_id": "2067991956714840174",
+        "created_at": "2026-06-19T15:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067991956714840174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "とっかりセンター"
+            },
+            {
+              "end": 30,
+              "start": 28,
+              "tag": "月"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdQQLNjBrn",
+              "end": 54,
+              "expanded_url": "https://x.com/trmrmeer/status/2067991956714840174/photo/1",
+              "media_key": "3_2067991951304232961",
+              "start": 31,
+              "url": "https://t.co/YdQQLNjBrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067991956714840174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 11725,
+          "like_count": 1292,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "2026.06.19\n\n握手🤝\n\n#とっかりセンター \n#月 https://t.co/YdQQLNjBrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 190,
+          "like_count": 5856,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2618
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T08:28:14.000Z",
+        "description": "🦭🔰アイコンはジャンボ、ヘッダーはスカイです\n@wakamemarudayo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "wakamemarudayo"
+              }
+            ]
+          }
+        },
+        "id": "1291652313703014400",
+        "location": "⚠️無断転載禁止",
+        "name": "ねる",
+        "pinned_tweet_id": "2040306620157268455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004815202492264449/BuYvQ6Nv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 119,
+          "like_count": 16214,
+          "listed_count": 17,
+          "media_count": 1244,
+          "tweet_count": 6788
+        },
+        "url": "",
+        "username": "trmrmeer",
+        "verified": false
+      }
+    ]
+  }
+}

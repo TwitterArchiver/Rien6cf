@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064921425241424068",
+    "created_at": "2026-06-11T04:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064921425241424068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1965051931585585152",
+          "start": 3,
+          "username": "duumountain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064921425241424068",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 672
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064705354408349942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duumountain: 근데 ㄹㅇ 또래중에\n직장인도 휴학생도 백수도 취준생도 퇴사자 중 그 누구도 행복해 보이는 사람이 없음\n\n요즘 걍 다 정뼝시대인거임 아니면 내 주변에만 정뿅바이러스 퍼진거임????"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064921425241424068",
+        "created_at": "2026-06-11T04:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064921425241424068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965051931585585152",
+              "start": 3,
+              "username": "duumountain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064921425241424068",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 672
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064705354408349942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duumountain: 근데 ㄹㅇ 또래중에\n직장인도 휴학생도 백수도 취준생도 퇴사자 중 그 누구도 행복해 보이는 사람이 없음\n\n요즘 걍 다 정뼝시대인거임 아니면 내 주변에만 정뿅바이러스 퍼진거임????"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965051931585585152",
+        "conversation_id": "2064705354408349942",
+        "created_at": "2026-06-10T13:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064705354408349942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064705354408349942",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 114265,
+          "like_count": 2105,
+          "quote_count": 139,
+          "reply_count": 20,
+          "retweet_count": 672
+        },
+        "reply_settings": "everyone",
+        "text": "근데 ㄹㅇ 또래중에\n직장인도 휴학생도 백수도 취준생도 퇴사자 중 그 누구도 행복해 보이는 사람이 없음\n\n요즘 걍 다 정뼝시대인거임 아니면 내 주변에만 정뿅바이러스 퍼진거임????"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 186,
+          "like_count": 5478,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2543
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T13:57:57.000Z",
+        "description": "얼굴에 색칠 놀이 하고 사는 취준지망생\n#코덕 🤙🏼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "코덕"
+              }
+            ]
+          }
+        },
+        "id": "1965051931585585152",
+        "location": "협찬,광고는 DM / lamboo29@naver.com",
+        "name": "알라 الله",
+        "pinned_tweet_id": "2062235270024773850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034214762754740224/Jx2HegT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 1777,
+          "like_count": 26238,
+          "listed_count": 9,
+          "media_count": 739,
+          "tweet_count": 30580
+        },
+        "username": "duumountain",
+        "verified": true
+      }
+    ]
+  }
+}

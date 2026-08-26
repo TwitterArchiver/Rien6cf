@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2019443645162631447",
+    "created_at": "2026-02-05T16:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T17:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019443645162631447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rien6cf/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/rien6cf/status/2019442791579852840",
+          "start": 7,
+          "url": "https://t.co/VuTA9DY1oi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019443645162631447",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019442791579852840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根本不可能了 https://t.co/VuTA9DY1oi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2019443645162631447",
+        "created_at": "2026-02-05T16:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019443645162631447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rien6cf/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/rien6cf/status/2019442791579852840",
+              "start": 7,
+              "url": "https://t.co/VuTA9DY1oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019443645162631447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019442791579852840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根本不可能了 https://t.co/VuTA9DY1oi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2019442791579852840",
+        "created_at": "2026-02-05T16:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019442791579852840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019442791579852840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想穿着水手服和喜欢的人接吻，我想穿着水手服在一片蓝色的世界里起舞，转着圈大笑丝毫不忌惮地露出胳膊，想眯着眼睛笑说出最喜欢你了，水手服真好呀，青春真好啊，我好喜欢水手服。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 经常性无言fo  前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 48,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 151
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

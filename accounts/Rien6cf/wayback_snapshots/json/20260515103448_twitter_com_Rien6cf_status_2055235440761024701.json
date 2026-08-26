@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055194495235567616",
+        "3_2055194587120164865",
+        "3_2055194621136011264"
+      ],
+      "media_source_tweet_id": [
+        "2055195053325517141",
+        "2055195053325517141",
+        "2055195053325517141"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055235440761024701",
+    "created_at": "2026-05-15T10:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055235440761024701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1145467575540699136",
+          "start": 3,
+          "username": "UraShuzo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kK5vayCs9Z",
+          "end": 94,
+          "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+          "media_key": "3_2055194495235567616",
+          "start": 71,
+          "url": "https://t.co/kK5vayCs9Z"
+        },
+        {
+          "display_url": "pic.x.com/kK5vayCs9Z",
+          "end": 94,
+          "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+          "media_key": "3_2055194587120164865",
+          "start": 71,
+          "url": "https://t.co/kK5vayCs9Z"
+        },
+        {
+          "display_url": "pic.x.com/kK5vayCs9Z",
+          "end": 94,
+          "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+          "media_key": "3_2055194621136011264",
+          "start": 71,
+          "url": "https://t.co/kK5vayCs9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055235440761024701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1551
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055195053325517141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UraShuzo: 熊!!!\n\n2026年5月15日（金）\n15:30ころ\n\n青森市のど真ん中。\nCROSS TOWER A-BAY https://t.co/kK5vayCs9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_2055194495235567616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWEgSjasAAqy7d.jpg",
+        "width": 2534
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2055194587120164865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWElo2aYAEjnxS.jpg",
+        "width": 949
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2055194621136011264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWEnnkbAAAX-ci.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055194495235567616",
+            "3_2055194587120164865",
+            "3_2055194621136011264"
+          ],
+          "media_source_tweet_id": [
+            "2055195053325517141",
+            "2055195053325517141",
+            "2055195053325517141"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055235440761024701",
+        "created_at": "2026-05-15T10:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055235440761024701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1145467575540699136",
+              "start": 3,
+              "username": "UraShuzo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kK5vayCs9Z",
+              "end": 94,
+              "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+              "media_key": "3_2055194495235567616",
+              "start": 71,
+              "url": "https://t.co/kK5vayCs9Z"
+            },
+            {
+              "display_url": "pic.x.com/kK5vayCs9Z",
+              "end": 94,
+              "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+              "media_key": "3_2055194587120164865",
+              "start": 71,
+              "url": "https://t.co/kK5vayCs9Z"
+            },
+            {
+              "display_url": "pic.x.com/kK5vayCs9Z",
+              "end": 94,
+              "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+              "media_key": "3_2055194621136011264",
+              "start": 71,
+              "url": "https://t.co/kK5vayCs9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055235440761024701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1551
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055195053325517141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UraShuzo: 熊!!!\n\n2026年5月15日（金）\n15:30ころ\n\n青森市のど真ん中。\nCROSS TOWER A-BAY https://t.co/kK5vayCs9Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055194495235567616",
+            "3_2055194587120164865",
+            "3_2055194621136011264"
+          ]
+        },
+        "author_id": "1145467575540699136",
+        "conversation_id": "2055195053325517141",
+        "created_at": "2026-05-15T07:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055195053325517141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kK5vayCs9Z",
+              "end": 80,
+              "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+              "media_key": "3_2055194495235567616",
+              "start": 57,
+              "url": "https://t.co/kK5vayCs9Z"
+            },
+            {
+              "display_url": "pic.x.com/kK5vayCs9Z",
+              "end": 80,
+              "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+              "media_key": "3_2055194587120164865",
+              "start": 57,
+              "url": "https://t.co/kK5vayCs9Z"
+            },
+            {
+              "display_url": "pic.x.com/kK5vayCs9Z",
+              "end": 80,
+              "expanded_url": "https://x.com/UraShuzo/status/2055195053325517141/photo/1",
+              "media_key": "3_2055194621136011264",
+              "start": 57,
+              "url": "https://t.co/kK5vayCs9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055195053325517141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 438385,
+          "like_count": 2818,
+          "quote_count": 301,
+          "reply_count": 34,
+          "retweet_count": 1551
+        },
+        "reply_settings": "everyone",
+        "text": "熊!!!\n\n2026年5月15日（金）\n15:30ころ\n\n青森市のど真ん中。\nCROSS TOWER A-BAY https://t.co/kK5vayCs9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 3971,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2057
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-30T23:02:06.000Z",
+        "description": "【公式】株式会社西田酒造店\n 限定商品、新商品の案内をしています。弊社で直接の販売は行っておりませんが、お近くの特約店を案内しております。田酒　喜久泉　善知鳥",
+        "id": "1145467575540699136",
+        "name": "【公式】株式会社西田酒造店",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458293074132897793/RRaYZmIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11848,
+          "following_count": 0,
+          "like_count": 989,
+          "listed_count": 94,
+          "media_count": 436,
+          "tweet_count": 745
+        },
+        "username": "UraShuzo",
+        "verified": false
+      }
+    ]
+  }
+}

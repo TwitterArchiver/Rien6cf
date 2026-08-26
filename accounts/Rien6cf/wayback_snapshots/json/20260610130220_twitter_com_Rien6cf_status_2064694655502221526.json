@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2064694655502221526",
+    "created_at": "2026-06-10T13:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064694655502221526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1913024248320585728",
+          "start": 3,
+          "username": "fuckummfuckumm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064694655502221526",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1761
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064214152584056923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @fuckummfuckumm: 나도또래여자애들처럼\n화장품옷 택배기다리고 용돈여윳돈 많이받으면서\n괜찮은지능으로 알바하고\n사장이랑 친목하고\n스토리로 친구들이랑 맛난거먹는거올리고\n이렇게 평범한 축에 조금만이라도 끼어보고싶다고 씨발련아 왜 나는 왜나는…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2064694655502221526",
+        "created_at": "2026-06-10T13:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064694655502221526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1913024248320585728",
+              "start": 3,
+              "username": "fuckummfuckumm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064694655502221526",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1761
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064214152584056923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @fuckummfuckumm: 나도또래여자애들처럼\n화장품옷 택배기다리고 용돈여윳돈 많이받으면서\n괜찮은지능으로 알바하고\n사장이랑 친목하고\n스토리로 친구들이랑 맛난거먹는거올리고\n이렇게 평범한 축에 조금만이라도 끼어보고싶다고 씨발련아 왜 나는 왜나는…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913024248320585728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2064214152584056923",
+        "created_at": "2026-06-09T05:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064214152584056923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064214152584056923",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1837,
+          "impression_count": 1248280,
+          "like_count": 11551,
+          "quote_count": 904,
+          "reply_count": 1,
+          "retweet_count": 1761
+        },
+        "reply_settings": "verified",
+        "text": "나도또래여자애들처럼\n화장품옷 택배기다리고 용돈여윳돈 많이받으면서\n괜찮은지능으로 알바하고\n사장이랑 친목하고\n스토리로 친구들이랑 맛난거먹는거올리고\n이렇게 평범한 축에 조금만이라도 끼어보고싶다고 씨발련아 왜 나는 왜나는…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5430,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2531
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T00:18:24.000Z",
+        "description": "살고싶음",
+        "id": "1913024248320585728",
+        "name": "•⩊•",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057862462725341184/FudEWRW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 29,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 982,
+          "tweet_count": 6005
+        },
+        "username": "fuckummfuckumm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043650608897662976"
+      ],
+      "media_source_tweet_id": [
+        "2043650611800121511"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2043679057045602600",
+    "created_at": "2026-04-13T13:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043679057045602600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1212617657003859968",
+          "start": 3,
+          "username": "tkzwgrs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hnjv9vU9Jp",
+          "end": 65,
+          "expanded_url": "https://x.com/tkzwgrs/status/2043650611800121511/photo/1",
+          "media_key": "3_2043650608897662976",
+          "start": 42,
+          "url": "https://t.co/hnjv9vU9Jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043679057045602600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 758
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043650611800121511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @tkzwgrs: 【朗報】宮崎県さん、県初となるポメラニアンの警察犬を公開 https://t.co/hnjv9vU9Jp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1202,
+        "media_key": "3_2043650608897662976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyBZqxbIAAKOxn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043650608897662976"
+          ],
+          "media_source_tweet_id": [
+            "2043650611800121511"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2043679057045602600",
+        "created_at": "2026-04-13T13:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043679057045602600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1212617657003859968",
+              "start": 3,
+              "username": "tkzwgrs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnjv9vU9Jp",
+              "end": 65,
+              "expanded_url": "https://x.com/tkzwgrs/status/2043650611800121511/photo/1",
+              "media_key": "3_2043650608897662976",
+              "start": 42,
+              "url": "https://t.co/hnjv9vU9Jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043679057045602600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 758
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043650611800121511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @tkzwgrs: 【朗報】宮崎県さん、県初となるポメラニアンの警察犬を公開 https://t.co/hnjv9vU9Jp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043650608897662976"
+          ]
+        },
+        "author_id": "1212617657003859968",
+        "conversation_id": "2043650611800121511",
+        "created_at": "2026-04-13T11:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043650611800121511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnjv9vU9Jp",
+              "end": 52,
+              "expanded_url": "https://x.com/tkzwgrs/status/2043650611800121511/photo/1",
+              "media_key": "3_2043650608897662976",
+              "start": 29,
+              "url": "https://t.co/hnjv9vU9Jp"
+            },
+            {
+              "display_url": "x.com/tkzwgrs/status…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/tkzwgrs/status/1585465704987312128",
+              "start": 53,
+              "url": "https://t.co/oC0mfP8CvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043650611800121511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 431,
+          "impression_count": 656847,
+          "like_count": 9744,
+          "quote_count": 82,
+          "reply_count": 37,
+          "retweet_count": 758
+        },
+        "referenced_tweets": [
+          {
+            "id": "1585465704987312128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "【朗報】宮崎県さん、県初となるポメラニアンの警察犬を公開 https://t.co/hnjv9vU9Jp https://t.co/oC0mfP8CvZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 136,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1571
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T06:12:41.000Z",
+        "description": "Twitterの“今”がわかる！話題の事件などを1ツイートでわかりやすくまとめます。タバコ休憩にちょうどいいアカウントを目指しています。タレコミやお仕事のご依頼はDMまで。\n専属フェミニズムアドバイザー:  @minorit403 避難垢:@subgare3 削除要請はgrsakujo@Gメールドットコムまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "minorit403"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "subgare3"
+              }
+            ]
+          }
+        },
+        "id": "1212617657003859968",
+        "name": "滝沢ガレソ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007239789947277312/7V3LzQ0i_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2998191,
+          "following_count": 3990,
+          "like_count": 13033,
+          "listed_count": 7067,
+          "media_count": 14136,
+          "tweet_count": 46218
+        },
+        "username": "tkzwgrs",
+        "verified": true
+      }
+    ]
+  }
+}

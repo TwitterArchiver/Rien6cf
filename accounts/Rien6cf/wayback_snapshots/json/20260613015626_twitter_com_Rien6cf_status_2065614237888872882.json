@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065608462143569920"
+      ],
+      "media_source_tweet_id": [
+        "2065608539750690977"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2065614237888872882",
+    "created_at": "2026-06-13T01:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T02:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065614237888872882"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 59,
+          "tag": "鳥羽水族館"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "ラッコ"
+        },
+        {
+          "end": 81,
+          "start": 71,
+          "tag": "ラッコのキラちゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "437332642",
+          "start": 3,
+          "username": "TOBA_AQUARIUM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7s7M220n4T",
+          "end": 105,
+          "expanded_url": "https://x.com/TOBA_AQUARIUM/status/2065608539750690977/video/1",
+          "media_key": "13_2065608462143569920",
+          "start": 82,
+          "url": "https://t.co/7s7M220n4T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065614237888872882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 269
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065608539750690977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOBA_AQUARIUM: 飼育係と広報担当者が少しお話をしてる間に、このポーズで待っていたキラちゃん🥺🩷\n#鳥羽水族館 #ラッコ #ラッコのキラちゃん https://t.co/7s7M220n4T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23900,
+        "height": 720,
+        "media_key": "13_2065608462143569920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065608462143569920/img/D_YTzHH_uunCgDaO.jpg",
+        "public_metrics": {
+          "view_count": 2732
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065608462143569920/vid/avc1/480x270/kQhsuF-57NmKhGIZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065608462143569920/vid/avc1/640x360/7X3G2rTyyxtRa5PY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065608462143569920/vid/avc1/1280x720/cx4z2LRPylJxRzzM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065608462143569920/pl/YKqFjANFwFceSRNZ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065608462143569920"
+          ],
+          "media_source_tweet_id": [
+            "2065608539750690977"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2065614237888872882",
+        "created_at": "2026-06-13T01:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065614237888872882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "鳥羽水族館"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "ラッコ"
+            },
+            {
+              "end": 81,
+              "start": 71,
+              "tag": "ラッコのキラちゃん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "437332642",
+              "start": 3,
+              "username": "TOBA_AQUARIUM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7s7M220n4T",
+              "end": 105,
+              "expanded_url": "https://x.com/TOBA_AQUARIUM/status/2065608539750690977/video/1",
+              "media_key": "13_2065608462143569920",
+              "start": 82,
+              "url": "https://t.co/7s7M220n4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065614237888872882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065608539750690977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOBA_AQUARIUM: 飼育係と広報担当者が少しお話をしてる間に、このポーズで待っていたキラちゃん🥺🩷\n#鳥羽水族館 #ラッコ #ラッコのキラちゃん https://t.co/7s7M220n4T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065608462143569920"
+          ]
+        },
+        "author_id": "437332642",
+        "conversation_id": "2065608539750690977",
+        "created_at": "2026-06-13T01:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065608539750690977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "鳥羽水族館"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "ラッコ"
+            },
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "ラッコのキラちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7s7M220n4T",
+              "end": 86,
+              "expanded_url": "https://x.com/TOBA_AQUARIUM/status/2065608539750690977/video/1",
+              "media_key": "13_2065608462143569920",
+              "start": 63,
+              "url": "https://t.co/7s7M220n4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065608539750690977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 9148,
+          "like_count": 1189,
+          "quote_count": 17,
+          "reply_count": 7,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "飼育係と広報担当者が少しお話をしてる間に、このポーズで待っていたキラちゃん🥺🩷\n#鳥羽水族館 #ラッコ #ラッコのキラちゃん https://t.co/7s7M220n4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5561,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2564
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-15T08:34:01.000Z",
+        "description": "三重県鳥羽市にある鳥羽水族館の公式アカウントです。 ジュゴンに会える、アフリカマナティーに会える、日本で唯一の水族館。主に新着情報や飼育日記の更新情報をつぶやいています。※Xでの質問、ＤＭにはお答えできません。お問い合わせはコチラhttps://t.co/RWMeg9Of3l",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aquarium.co.jp/contact/",
+                "end": 138,
+                "expanded_url": "https://aquarium.co.jp/contact/",
+                "start": 115,
+                "url": "https://t.co/RWMeg9Of3l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tobaaquarium",
+                "end": 23,
+                "expanded_url": "https://lit.link/tobaaquarium",
+                "start": 0,
+                "url": "https://t.co/QwdhVuxQTL"
+              }
+            ]
+          }
+        },
+        "id": "437332642",
+        "location": "三重県鳥羽市鳥羽3-3-6",
+        "name": "鳥羽水族館（TOBA AQUARIUM）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875986159712690177/Mj7U3rWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299193,
+          "following_count": 58195,
+          "like_count": 38,
+          "listed_count": 4138,
+          "media_count": 6415,
+          "tweet_count": 13318
+        },
+        "url": "https://t.co/QwdhVuxQTL",
+        "username": "TOBA_AQUARIUM",
+        "verified": false
+      }
+    ]
+  }
+}

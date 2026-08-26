@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053050923677798400"
+      ],
+      "media_source_tweet_id": [
+        "2053050934931210553"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2053449475616813239",
+    "created_at": "2026-05-10T12:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053449475616813239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1405860548030337024",
+          "start": 3,
+          "username": "makkoi_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pvBzfHvPFa",
+          "end": 96,
+          "expanded_url": "https://x.com/makkoi_official/status/2053050934931210553/photo/1",
+          "media_key": "3_2053050923677798400",
+          "start": 73,
+          "url": "https://t.co/pvBzfHvPFa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053449475616813239",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2933
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053050934931210553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @makkoi_official: 中野坂上で俺の靴片方盗んでどっか行ったガキ共見てる？\nホンマに返してくれへんか、大人が1人泣いてます。 https://t.co/pvBzfHvPFa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053050923677798400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3m8AOaUAAS9eJ.jpg",
+        "width": 1946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053050923677798400"
+          ],
+          "media_source_tweet_id": [
+            "2053050934931210553"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2053449475616813239",
+        "created_at": "2026-05-10T12:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053449475616813239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1405860548030337024",
+              "start": 3,
+              "username": "makkoi_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvBzfHvPFa",
+              "end": 96,
+              "expanded_url": "https://x.com/makkoi_official/status/2053050934931210553/photo/1",
+              "media_key": "3_2053050923677798400",
+              "start": 73,
+              "url": "https://t.co/pvBzfHvPFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053449475616813239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2933
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053050934931210553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @makkoi_official: 中野坂上で俺の靴片方盗んでどっか行ったガキ共見てる？\nホンマに返してくれへんか、大人が1人泣いてます。 https://t.co/pvBzfHvPFa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053050923677798400"
+          ]
+        },
+        "author_id": "1405860548030337024",
+        "conversation_id": "2053050934931210553",
+        "created_at": "2026-05-09T09:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053050934931210553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvBzfHvPFa",
+              "end": 75,
+              "expanded_url": "https://x.com/makkoi_official/status/2053050934931210553/photo/1",
+              "media_key": "3_2053050923677798400",
+              "start": 52,
+              "url": "https://t.co/pvBzfHvPFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053050934931210553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1676,
+          "impression_count": 21535261,
+          "like_count": 71361,
+          "quote_count": 204,
+          "reply_count": 1032,
+          "retweet_count": 2933
+        },
+        "reply_settings": "everyone",
+        "text": "中野坂上で俺の靴片方盗んでどっか行ったガキ共見てる？\nホンマに返してくれへんか、大人が1人泣いてます。 https://t.co/pvBzfHvPFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3664,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1963
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-18T12:11:00.000Z",
+        "description": "#まっこいらすと 連絡先は→ makko2.official@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "まっこいらすと"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@makobayashi_o…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@makobayashi_official?si=vM5UQpeHvDDG6OKI",
+                "start": 0,
+                "url": "https://t.co/IymqCWfF6C"
+              }
+            ]
+          }
+        },
+        "id": "1405860548030337024",
+        "location": "まこばやしの塩でいくラジオ→",
+        "name": "まっこい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947368770928054273/JItaOFKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11317,
+          "following_count": 219,
+          "like_count": 52307,
+          "listed_count": 43,
+          "media_count": 3724,
+          "tweet_count": 8443
+        },
+        "url": "https://t.co/IymqCWfF6C",
+        "username": "makkoi_official",
+        "verified": true
+      }
+    ]
+  }
+}

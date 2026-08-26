@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2043666201633845426",
+    "created_at": "2026-04-13T12:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043666201633845426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/interjc/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/interjc/status/2043498503549419812",
+          "start": 8,
+          "url": "https://t.co/kNl8eMJWg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043666201633845426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043498503549419812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有幸看过砂之器 https://t.co/kNl8eMJWg3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2043497144624246784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv103zacAA3mvP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2043666201633845426",
+        "created_at": "2026-04-13T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043666201633845426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/interjc/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/interjc/status/2043498503549419812",
+              "start": 8,
+              "url": "https://t.co/kNl8eMJWg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043666201633845426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043498503549419812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有幸看过砂之器 https://t.co/kNl8eMJWg3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043497144624246784"
+          ]
+        },
+        "author_id": "11765952",
+        "conversation_id": "2043498503549419812",
+        "created_at": "2026-04-13T01:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043498503549419812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eUZ8unHedU",
+              "end": 85,
+              "expanded_url": "https://x.com/interjc/status/2043498503549419812/photo/1",
+              "media_key": "3_2043497144624246784",
+              "start": 62,
+              "url": "https://t.co/eUZ8unHedU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043498503549419812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 33767,
+          "like_count": 212,
+          "quote_count": 9,
+          "reply_count": 34,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "今天学到了村八分（むらはちぶ）这个词，才算搞懂了日本集体霸凌的底层逻辑\n\n这么看起来，日本人不遵守璐璐的话后果确实蛮严重的 https://t.co/eUZ8unHedU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 136,
+          "like_count": 2646,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1563
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜程序员｜大阪在住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 23,
+                "expanded_url": "http://justincourse.com",
+                "start": 0,
+                "url": "https://t.co/MNSqx9ncpS"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30162,
+          "following_count": 2326,
+          "like_count": 80230,
+          "listed_count": 272,
+          "media_count": 3943,
+          "tweet_count": 32583
+        },
+        "url": "https://t.co/MNSqx9ncpS",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

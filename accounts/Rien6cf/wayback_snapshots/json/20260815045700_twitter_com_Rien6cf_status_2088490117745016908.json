@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088472031608385537",
+        "3_2088472031570604032",
+        "3_2088472031570608128",
+        "3_2088472031524532224"
+      ],
+      "media_source_tweet_id": [
+        "2088472180803989556",
+        "2088472180803989556",
+        "2088472180803989556",
+        "2088472180803989556"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1244688939719348224",
+          "name": "Kagerou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1244688939719348224",
+          "name": "Kagerou Project"
+        }
+      }
+    ],
+    "conversation_id": "2088490117745016908",
+    "created_at": "2026-08-15T04:57:00.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088490117745016908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "134745940",
+          "start": 3,
+          "username": "Dsd_kgn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WoAWi84UT1",
+          "end": 53,
+          "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+          "media_key": "3_2088472031608385537",
+          "start": 30,
+          "url": "https://t.co/WoAWi84UT1"
+        },
+        {
+          "display_url": "pic.x.com/WoAWi84UT1",
+          "end": 53,
+          "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+          "media_key": "3_2088472031570604032",
+          "start": 30,
+          "url": "https://t.co/WoAWi84UT1"
+        },
+        {
+          "display_url": "pic.x.com/WoAWi84UT1",
+          "end": 53,
+          "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+          "media_key": "3_2088472031570608128",
+          "start": 30,
+          "url": "https://t.co/WoAWi84UT1"
+        },
+        {
+          "display_url": "pic.x.com/WoAWi84UT1",
+          "end": 53,
+          "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+          "media_key": "3_2088472031524532224",
+          "start": 30,
+          "url": "https://t.co/WoAWi84UT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088490117745016908",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088472031608385537"
+      },
+      {
+        "media_key": "3_2088472031570604032"
+      },
+      {
+        "media_key": "3_2088472031570608128"
+      },
+      {
+        "media_key": "3_2088472031524532224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3050
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088472180803989556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dsd_kgn: カゲロウデイズ2011~2024 https://t.co/WoAWi84UT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2088472031608385537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPu-P19bMAEfs6j.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2088472031570604032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPu-P10asAAn7fk.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2088472031570608128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPu-P10awAAnIHY.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2088472031524532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPu-P1pbsAAjbVJ.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088472031608385537",
+            "3_2088472031570604032",
+            "3_2088472031570608128",
+            "3_2088472031524532224"
+          ],
+          "media_source_tweet_id": [
+            "2088472180803989556",
+            "2088472180803989556",
+            "2088472180803989556",
+            "2088472180803989556"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          }
+        ],
+        "conversation_id": "2088490117745016908",
+        "created_at": "2026-08-15T04:57:00.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088490117745016908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "134745940",
+              "start": 3,
+              "username": "Dsd_kgn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoAWi84UT1",
+              "end": 53,
+              "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+              "media_key": "3_2088472031608385537",
+              "start": 30,
+              "url": "https://t.co/WoAWi84UT1"
+            },
+            {
+              "display_url": "pic.x.com/WoAWi84UT1",
+              "end": 53,
+              "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+              "media_key": "3_2088472031570604032",
+              "start": 30,
+              "url": "https://t.co/WoAWi84UT1"
+            },
+            {
+              "display_url": "pic.x.com/WoAWi84UT1",
+              "end": 53,
+              "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+              "media_key": "3_2088472031570608128",
+              "start": 30,
+              "url": "https://t.co/WoAWi84UT1"
+            },
+            {
+              "display_url": "pic.x.com/WoAWi84UT1",
+              "end": 53,
+              "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+              "media_key": "3_2088472031524532224",
+              "start": 30,
+              "url": "https://t.co/WoAWi84UT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088490117745016908",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088472031608385537"
+          },
+          {
+            "media_key": "3_2088472031570604032"
+          },
+          {
+            "media_key": "3_2088472031570608128"
+          },
+          {
+            "media_key": "3_2088472031524532224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3050
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088472180803989556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dsd_kgn: カゲロウデイズ2011~2024 https://t.co/WoAWi84UT1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088472031608385537",
+            "3_2088472031570604032",
+            "3_2088472031570608128",
+            "3_2088472031524532224"
+          ]
+        },
+        "author_id": "134745940",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          }
+        ],
+        "conversation_id": "2088472180803989556",
+        "created_at": "2026-08-15T03:45:44.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088472180803989556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoAWi84UT1",
+              "end": 40,
+              "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+              "media_key": "3_2088472031608385537",
+              "start": 17,
+              "url": "https://t.co/WoAWi84UT1"
+            },
+            {
+              "display_url": "pic.x.com/WoAWi84UT1",
+              "end": 40,
+              "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+              "media_key": "3_2088472031570604032",
+              "start": 17,
+              "url": "https://t.co/WoAWi84UT1"
+            },
+            {
+              "display_url": "pic.x.com/WoAWi84UT1",
+              "end": 40,
+              "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+              "media_key": "3_2088472031570608128",
+              "start": 17,
+              "url": "https://t.co/WoAWi84UT1"
+            },
+            {
+              "display_url": "pic.x.com/WoAWi84UT1",
+              "end": 40,
+              "expanded_url": "https://x.com/Dsd_kgn/status/2088472180803989556/photo/1",
+              "media_key": "3_2088472031524532224",
+              "start": 17,
+              "url": "https://t.co/WoAWi84UT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088472180803989556",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088472031608385537"
+          },
+          {
+            "media_key": "3_2088472031570604032"
+          },
+          {
+            "media_key": "3_2088472031570608128"
+          },
+          {
+            "media_key": "3_2088472031524532224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 629,
+          "impression_count": 139814,
+          "like_count": 11436,
+          "quote_count": 90,
+          "reply_count": 0,
+          "retweet_count": 3050
+        },
+        "reply_settings": "everyone",
+        "text": "カゲロウデイズ2011~2024 https://t.co/WoAWi84UT1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088490117745016908",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 210,
+          "like_count": 9286,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3324
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-19T09:45:15.000Z",
+        "description": "イラスト＆動画\n目つきの悪い人間が好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dsddsddsd.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://dsddsddsd.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/BqfXeVViJR"
+              }
+            ]
+          }
+        },
+        "id": "134745940",
+        "is_identity_verified": false,
+        "location": "連絡先→",
+        "most_recent_tweet_id": "2088485064162295963",
+        "name": "しづ",
+        "pinned_tweet_id": "2088468240855097512",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847080046521208833/c0kBhwex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339925,
+          "following_count": 414,
+          "like_count": 1301,
+          "listed_count": 2629,
+          "media_count": 141,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/BqfXeVViJR",
+        "username": "Dsd_kgn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

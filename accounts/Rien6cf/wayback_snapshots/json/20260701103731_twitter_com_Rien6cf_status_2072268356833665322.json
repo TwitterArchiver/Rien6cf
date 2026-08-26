@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2072268356833665322",
+    "created_at": "2026-07-01T10:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072268356833665322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "986478361",
+          "start": 3,
+          "username": "isubokuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072268356833665322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072267006410379504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isubokuro: こんなに感性豊かな方々と一緒に創作できて刺激的だったし嬉しかった（◜◡◝） sekaiさん誘ってくれてありがとう　2サビ後〜ラスサビ前の部分がお気に入りです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2072268356833665322",
+        "created_at": "2026-07-01T10:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072268356833665322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "986478361",
+              "start": 3,
+              "username": "isubokuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072268356833665322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072267006410379504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isubokuro: こんなに感性豊かな方々と一緒に創作できて刺激的だったし嬉しかった（◜◡◝） sekaiさん誘ってくれてありがとう　2サビ後〜ラスサビ前の部分がお気に入りです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "986478361",
+        "conversation_id": "2072267006410379504",
+        "created_at": "2026-07-01T10:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072267006410379504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072267006410379504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3076,
+          "like_count": 347,
+          "quote_count": 14,
+          "reply_count": 9,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "こんなに感性豊かな方々と一緒に創作できて刺激的だったし嬉しかった（◜◡◝） sekaiさん誘ってくれてありがとう　2サビ後〜ラスサビ前の部分がお気に入りです"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 195,
+          "like_count": 6670,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2754
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-03T11:48:20.000Z",
+        "description": "",
+        "id": "986478361",
+        "name": "いすぼくろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982923600064851970/m7xxf3Wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84073,
+          "following_count": 178,
+          "like_count": 25430,
+          "listed_count": 852,
+          "media_count": 11,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "isubokuro",
+        "verified": false
+      }
+    ]
+  }
+}

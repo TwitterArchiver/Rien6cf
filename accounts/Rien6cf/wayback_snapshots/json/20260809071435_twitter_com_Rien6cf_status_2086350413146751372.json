@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086110160129581056"
+      ],
+      "media_source_tweet_id": [
+        "2086110325343191087"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2086350413146751372",
+    "created_at": "2026-08-09T07:14:35.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086350413146751372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1471038329278074880",
+          "start": 3,
+          "username": "TACOWASA_223"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A0QIw29hbx",
+          "end": 41,
+          "expanded_url": "https://x.com/TACOWASA_223/status/2086110325343191087/video/1",
+          "media_key": "13_2086110160129581056",
+          "start": 18,
+          "url": "https://t.co/A0QIw29hbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086350413146751372",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2086110160129581056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086110325343191087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @TACOWASA_223: https://t.co/A0QIw29hbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34791,
+        "height": 590,
+        "media_key": "13_2086110160129581056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086110160129581056/img/4NmNAmmMouCJX2GQ.jpg",
+        "public_metrics": {
+          "view_count": 24710
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086110160129581056/vid/avc1/584x270/bE4oUaTbNpTdu-ep.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086110160129581056/vid/avc1/778x360/71ac2y2PU1CCp42Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086110160129581056/vid/avc1/1278x590/lC0dDbl097peyUmt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086110160129581056/pl/-M7RWbK-XM-DcRu9.m3u8?v=cfc"
+          }
+        ],
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086110160129581056"
+          ]
+        },
+        "author_id": "1471038329278074880",
+        "conversation_id": "2086110325343191087",
+        "created_at": "2026-08-08T15:20:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086110325343191087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0QIw29hbx",
+              "end": 23,
+              "expanded_url": "https://x.com/TACOWASA_223/status/2086110325343191087/video/1",
+              "media_key": "13_2086110160129581056",
+              "start": 0,
+              "url": "https://t.co/A0QIw29hbx"
+            },
+            {
+              "display_url": "x.com/dorocchixx/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dorocchixx/status/2085742245752496636",
+              "start": 24,
+              "url": "https://t.co/1fGeHARVDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086110325343191087",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086110160129581056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 87951,
+          "like_count": 3491,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085742245752496636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "https://t.co/A0QIw29hbx https://t.co/1fGeHARVDK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086110160129581056"
+          ],
+          "media_source_tweet_id": [
+            "2086110325343191087"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2086350413146751372",
+        "created_at": "2026-08-09T07:14:35.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086350413146751372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471038329278074880",
+              "start": 3,
+              "username": "TACOWASA_223"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0QIw29hbx",
+              "end": 41,
+              "expanded_url": "https://x.com/TACOWASA_223/status/2086110325343191087/video/1",
+              "media_key": "13_2086110160129581056",
+              "start": 18,
+              "url": "https://t.co/A0QIw29hbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086350413146751372",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086110160129581056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086110325343191087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @TACOWASA_223: https://t.co/A0QIw29hbx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086350413146751372",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 211,
+          "like_count": 9288,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3303
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-15T08:44:20.000Z",
+        "description": "マイクラとかネタツイとか フォロバやってます\nサブ@223_6330\n鍵@223_6430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "223_6330"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "223_6430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/TACOWASA_…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/TACOWASA_223",
+                "start": 0,
+                "url": "https://t.co/uAA1QnxFZP"
+              }
+            ]
+          }
+        },
+        "id": "1471038329278074880",
+        "is_identity_verified": false,
+        "location": "フォロバできてなかったらリプまで",
+        "most_recent_tweet_id": "2086332472384692287",
+        "name": "223",
+        "pinned_tweet_id": "2056331931068080527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471038329278074880/1758806791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732292141660147712/MAdF8Mcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14938,
+          "following_count": 16051,
+          "like_count": 259972,
+          "listed_count": 22,
+          "media_count": 2728,
+          "tweet_count": 125470
+        },
+        "url": "https://t.co/uAA1QnxFZP",
+        "username": "TACOWASA_223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

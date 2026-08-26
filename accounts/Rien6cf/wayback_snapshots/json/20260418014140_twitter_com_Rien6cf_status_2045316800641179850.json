@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045144637850214401"
+      ],
+      "media_source_tweet_id": [
+        "2045144640370987428"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2045316800641179850",
+    "created_at": "2026-04-18T01:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045316800641179850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1792158516096180224",
+          "start": 3,
+          "username": "Dr_Duckter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rR1clkDM0y",
+          "end": 46,
+          "expanded_url": "https://x.com/Dr_Duckter/status/2045144640370987428/photo/1",
+          "media_key": "3_2045144637850214401",
+          "start": 23,
+          "url": "https://t.co/rR1clkDM0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045316800641179850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045144640370987428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr_Duckter: 还敢禁吗闹钟 https://t.co/rR1clkDM0y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1659,
+        "media_key": "3_2045144637850214401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHQNmVbYAEgpDZ.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045144637850214401"
+          ],
+          "media_source_tweet_id": [
+            "2045144640370987428"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2045316800641179850",
+        "created_at": "2026-04-18T01:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045316800641179850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792158516096180224",
+              "start": 3,
+              "username": "Dr_Duckter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rR1clkDM0y",
+              "end": 46,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2045144640370987428/photo/1",
+              "media_key": "3_2045144637850214401",
+              "start": 23,
+              "url": "https://t.co/rR1clkDM0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045316800641179850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045144640370987428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr_Duckter: 还敢禁吗闹钟 https://t.co/rR1clkDM0y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045144637850214401"
+          ]
+        },
+        "author_id": "1792158516096180224",
+        "conversation_id": "2045144640370987428",
+        "created_at": "2026-04-17T14:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045144640370987428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rR1clkDM0y",
+              "end": 30,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2045144640370987428/photo/1",
+              "media_key": "3_2045144637850214401",
+              "start": 7,
+              "url": "https://t.co/rR1clkDM0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045144640370987428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 47296,
+          "like_count": 691,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "还敢禁吗闹钟 https://t.co/rR1clkDM0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 141,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1656
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter  \n\n被B了就是你友链的原因  查成分回关\n\n非互关投稿/中共招安：drduckter@proton.me\n\npremium赞助位：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr Drizzy Duckter Duckworth DingDongJi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041732131186208769/TvZD5dx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 1064,
+          "like_count": 18996,
+          "listed_count": 19,
+          "media_count": 433,
+          "tweet_count": 2505
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

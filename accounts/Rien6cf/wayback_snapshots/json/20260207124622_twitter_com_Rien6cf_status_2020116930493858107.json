@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2020115771754426637",
+    "created_at": "2026-02-07T12:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T13:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020116930493858107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1825918631433412608",
+          "start": 0,
+          "username": "eeennki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020116930493858107",
+    "in_reply_to_user_id": "1825918631433412608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020115771754426637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eeennki 唉我也好想我想抱着对象傻笑抱着对象微醺，唉对象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2020115771754426637",
+        "created_at": "2026-02-07T12:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T13:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020116930493858107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1825918631433412608",
+              "start": 0,
+              "username": "eeennki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020116930493858107",
+        "in_reply_to_user_id": "1825918631433412608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020115771754426637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eeennki 唉我也好想我想抱着对象傻笑抱着对象微醺，唉对象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825918631433412608",
+        "conversation_id": "2020115771754426637",
+        "created_at": "2026-02-07T12:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T13:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020115771754426637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020115771754426637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天咋了好想谈恋爱……想和对象每天腻在一块呜呜呜😵‍💫我要抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 49,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 187
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T15:32:01.000Z",
+        "description": "˙𖦹 ⋆꙳ ໑ ᮫࣭ ꩜ ｡⠀ ⠀⠀ ⠀",
+        "id": "1825918631433412608",
+        "name": "enki",
+        "pinned_tweet_id": "1912884811255226399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019206829121695744/EoXGTwzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 228,
+          "like_count": 4466,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 1751
+        },
+        "username": "eeennki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2028728397460062371",
+    "created_at": "2026-03-03T07:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T08:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028728397460062371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aiyo44/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/aiyo44/status/2028594850598130102",
+          "start": 7,
+          "url": "https://t.co/65VfwhNOdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028728397460062371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028594850598130102",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠笑死我了 https://t.co/65VfwhNOdf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2028728397460062371",
+        "created_at": "2026-03-03T07:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028728397460062371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aiyo44/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aiyo44/status/2028594850598130102",
+              "start": 7,
+              "url": "https://t.co/65VfwhNOdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028728397460062371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028594850598130102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠笑死我了 https://t.co/65VfwhNOdf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937591116985171969",
+        "conversation_id": "2028594850598130102",
+        "created_at": "2026-03-02T22:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T23:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028594850598130102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028594850598130102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 45487,
+          "like_count": 350,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "高中上seminar\n美国白男老师：这次essay的theme是liberty\n我：那我要写中国\n老师：please dont i dont wanna lose my job\n没人懂这句话从一个年轻美国白男里说出来的搞笑程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 93,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 692
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:18:32.000Z",
+        "description": "豆包你能拯救我吗",
+        "id": "1937591116985171969",
+        "name": "小爱lovv1e",
+        "pinned_tweet_id": "2026051085283041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027838917362249728/rOXfsuHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 271,
+          "like_count": 10390,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2111
+        },
+        "username": "Aiyo44",
+        "verified": false
+      }
+    ]
+  }
+}

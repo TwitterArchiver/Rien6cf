@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2033471616282415493",
+    "created_at": "2026-03-16T09:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033471616282415493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806445156561985536",
+          "start": 3,
+          "username": "nico67Kn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033471616282415493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 781
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033408368661172711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @nico67Kn: JRの車内で財布盗った方\n\nマジで返してください\n中身見てもらってわかったと思うんですけど大学生から財布取らんとって下さい😿\nもうお金はいいんで他マジで返してください"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2033471616282415493",
+        "created_at": "2026-03-16T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033471616282415493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806445156561985536",
+              "start": 3,
+              "username": "nico67Kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033471616282415493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 781
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033408368661172711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @nico67Kn: JRの車内で財布盗った方\n\nマジで返してください\n中身見てもらってわかったと思うんですけど大学生から財布取らんとって下さい😿\nもうお金はいいんで他マジで返してください"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806445156561985536",
+        "conversation_id": "2033408368661172711",
+        "created_at": "2026-03-16T05:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033408368661172711"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "JR",
+              "probability": 0.5128,
+              "start": 0,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033408368661172711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 1561581,
+          "like_count": 18045,
+          "quote_count": 44,
+          "reply_count": 17,
+          "retweet_count": 781
+        },
+        "reply_settings": "following",
+        "text": "JRの車内で財布盗った方\n\nマジで返してください\n中身見てもらってわかったと思うんですけど大学生から財布取らんとって下さい😿\nもうお金はいいんで他マジで返してください"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 112,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1112
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T21:51:22.000Z",
+        "description": "関西鷲🦅/ #8 #53 #54 #67 #132 /大内くんビジユニ着用",
+        "id": "1806445156561985536",
+        "name": "ニコ＠関西鷲",
+        "pinned_tweet_id": "2014684695758569898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012164576180383744/DJTDh7Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 385,
+          "like_count": 2930,
+          "listed_count": 8,
+          "media_count": 520,
+          "tweet_count": 3870
+        },
+        "username": "nico67Kn",
+        "verified": false
+      }
+    ]
+  }
+}

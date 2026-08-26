@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2063258623627968617",
+    "created_at": "2026-06-06T13:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063258623627968617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994221672577298432",
+          "start": 3,
+          "username": "ugtp4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063258623627968617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062877395850539430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ugtp4: 皆さん、首吊りは苦しいです(経験談)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2063258623627968617",
+        "created_at": "2026-06-06T13:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063258623627968617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994221672577298432",
+              "start": 3,
+              "username": "ugtp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063258623627968617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062877395850539430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ugtp4: 皆さん、首吊りは苦しいです(経験談)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994221672577298432",
+        "conversation_id": "2062877395850539430",
+        "created_at": "2026-06-05T12:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062877395850539430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062877395850539430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 41060,
+          "like_count": 1154,
+          "quote_count": 17,
+          "reply_count": 21,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "皆さん、首吊りは苦しいです(経験談)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 184,
+          "like_count": 5132,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2437
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T01:48:31.000Z",
+        "description": "05┊︎🚺 ┊︎専門▶︎退学┊︎うつ病┊︎ASD,ADHD(グレー)┊︎任意入院2回┊︎医療保護入院１回(閉鎖2回┊︎開放2回 )┊︎ネガツイ多め ┊︎🗝@Yu1_021",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "Yu1_021"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/41tcs9qsbxg489…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/41tcs9qsbxg489j?t=dGvTfX&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Omo7IbcVQP"
+              }
+            ]
+          }
+        },
+        "id": "1994221672577298432",
+        "location": "天国",
+        "name": "無理ちゃ@閉鎖病棟入院中",
+        "pinned_tweet_id": "2005202227133366763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002312551141629952/S16yZ2lR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 104,
+          "like_count": 22999,
+          "listed_count": 18,
+          "media_count": 11,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/Omo7IbcVQP",
+        "username": "ugtp4",
+        "verified": false
+      }
+    ]
+  }
+}

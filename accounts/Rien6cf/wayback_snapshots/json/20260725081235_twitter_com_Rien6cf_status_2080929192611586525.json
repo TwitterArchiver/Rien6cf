@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080733220564246528"
+      ],
+      "media_source_tweet_id": [
+        "2080733222850159041"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2080929192611586525",
+    "created_at": "2026-07-25T08:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080929192611586525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1200626819948597249",
+          "start": 3,
+          "username": "rxcemxlk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gX57fwgaFi",
+          "end": 57,
+          "expanded_url": "https://x.com/rxcemxlk/status/2080733222850159041/photo/1",
+          "media_key": "3_2080733220564246528",
+          "start": 34,
+          "url": "https://t.co/gX57fwgaFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080929192611586525",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080733222850159041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rxcemxlk: I don’t wanna today https://t.co/gX57fwgaFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2080733220564246528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOA_1wQWIAATDoi.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080733220564246528"
+          ]
+        },
+        "author_id": "1200626819948597249",
+        "conversation_id": "2080733222850159041",
+        "created_at": "2026-07-24T19:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080733222850159041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gX57fwgaFi",
+              "end": 43,
+              "expanded_url": "https://x.com/rxcemxlk/status/2080733222850159041/photo/1",
+              "media_key": "3_2080733220564246528",
+              "start": 20,
+              "url": "https://t.co/gX57fwgaFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080733222850159041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 6645,
+          "like_count": 870,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "I don’t wanna today https://t.co/gX57fwgaFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080733220564246528"
+          ],
+          "media_source_tweet_id": [
+            "2080733222850159041"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2080929192611586525",
+        "created_at": "2026-07-25T08:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080929192611586525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1200626819948597249",
+              "start": 3,
+              "username": "rxcemxlk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gX57fwgaFi",
+              "end": 57,
+              "expanded_url": "https://x.com/rxcemxlk/status/2080733222850159041/photo/1",
+              "media_key": "3_2080733220564246528",
+              "start": 34,
+              "url": "https://t.co/gX57fwgaFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080929192611586525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080733222850159041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rxcemxlk: I don’t wanna today https://t.co/gX57fwgaFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2080735603323523206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 202,
+          "like_count": 8671,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3107
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-30T04:05:23.000Z",
+        "description": "artist and emo dork piloted by the swarm || https://t.co/TNa69PQSUG\n ||!sometimes nsfw!||",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/rxcemxlk",
+                "end": 67,
+                "expanded_url": "https://ko-fi.com/rxcemxlk",
+                "start": 44,
+                "url": "https://t.co/TNa69PQSUG"
+              }
+            ]
+          }
+        },
+        "id": "1200626819948597249",
+        "location": "🪲",
+        "name": "rice milk",
+        "pinned_tweet_id": "2080168156761337944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055510639632629760/xYG5uYgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 1477,
+          "like_count": 108386,
+          "listed_count": 6,
+          "media_count": 4615,
+          "tweet_count": 37648
+        },
+        "url": "",
+        "username": "rxcemxlk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064620615945031697",
+    "created_at": "2026-06-10T08:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064620615945031697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryoko___xyz/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ryoko___xyz/status/2064280191707611432",
+          "start": 17,
+          "url": "https://t.co/GE5HIyoIdT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064620615945031697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064280191707611432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✨スーパー発達障害でございます✨ https://t.co/GE5HIyoIdT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064620615945031697",
+        "created_at": "2026-06-10T08:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064620615945031697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryoko___xyz/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ryoko___xyz/status/2064280191707611432",
+              "start": 17,
+              "url": "https://t.co/GE5HIyoIdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064620615945031697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064280191707611432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✨スーパー発達障害でございます✨ https://t.co/GE5HIyoIdT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618893396315373568",
+        "conversation_id": "2064280191707611432",
+        "created_at": "2026-06-09T09:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064280191707611432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064280191707611432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2890,
+          "impression_count": 2581818,
+          "like_count": 41884,
+          "quote_count": 1057,
+          "reply_count": 143,
+          "retweet_count": 2355
+        },
+        "reply_settings": "everyone",
+        "text": "初対面で話がおもしろすぎる人はたぶん発達障害かうつ病です。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5403,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2520
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T08:47:36.000Z",
+        "description": "マッチングアプリで結婚しました。アプリで安全にサクッと結婚する方法を配信中。50人以上の婚活者さんが成婚されました。ブログ・note・電話相談室やってます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryoko.xyz",
+                "end": 23,
+                "expanded_url": "http://ryoko.xyz",
+                "start": 0,
+                "url": "https://t.co/VGDWd6dxw9"
+              }
+            ]
+          }
+        },
+        "id": "1618893396315373568",
+        "location": "東京都",
+        "name": "涼子＠アプリ婚活",
+        "pinned_tweet_id": "1998658252893298867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004391900758130688/RKhviaBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 1096,
+          "like_count": 5482,
+          "listed_count": 10,
+          "media_count": 123,
+          "tweet_count": 6785
+        },
+        "url": "https://t.co/VGDWd6dxw9",
+        "username": "Ryoko___xyz",
+        "verified": true
+      }
+    ]
+  }
+}

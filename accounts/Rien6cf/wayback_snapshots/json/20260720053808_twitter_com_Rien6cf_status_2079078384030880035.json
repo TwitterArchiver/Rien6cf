@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078982192609550336"
+      ],
+      "media_source_tweet_id": [
+        "2078982197051359575"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2079078384030880035",
+    "created_at": "2026-07-20T05:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079078384030880035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712622475",
+          "start": 3,
+          "username": "koji_ysenpai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F3UZUvz3no",
+          "end": 79,
+          "expanded_url": "https://x.com/koji_ysenpai/status/2078982197051359575/photo/1",
+          "media_key": "3_2078982192609550336",
+          "start": 56,
+          "url": "https://t.co/F3UZUvz3no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079078384030880035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 765
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078982197051359575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koji_ysenpai: 2001年7月20日発売\n\n『真夏の夜の淫夢』\n\n25周年おめでとう！！！ https://t.co/F3UZUvz3no"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078982192609550336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoHSgza4AAsKVm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078982192609550336"
+          ]
+        },
+        "author_id": "1712622475",
+        "conversation_id": "2078982197051359575",
+        "created_at": "2026-07-19T23:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078982197051359575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3UZUvz3no",
+              "end": 61,
+              "expanded_url": "https://x.com/koji_ysenpai/status/2078982197051359575/photo/1",
+              "media_key": "3_2078982192609550336",
+              "start": 38,
+              "url": "https://t.co/F3UZUvz3no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078982197051359575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 441,
+          "impression_count": 217835,
+          "like_count": 4012,
+          "quote_count": 84,
+          "reply_count": 48,
+          "retweet_count": 765
+        },
+        "reply_settings": "everyone",
+        "text": "2001年7月20日発売\n\n『真夏の夜の淫夢』\n\n25周年おめでとう！！！ https://t.co/F3UZUvz3no"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078982192609550336"
+          ],
+          "media_source_tweet_id": [
+            "2078982197051359575"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2079078384030880035",
+        "created_at": "2026-07-20T05:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079078384030880035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712622475",
+              "start": 3,
+              "username": "koji_ysenpai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3UZUvz3no",
+              "end": 79,
+              "expanded_url": "https://x.com/koji_ysenpai/status/2078982197051359575/photo/1",
+              "media_key": "3_2078982192609550336",
+              "start": 56,
+              "url": "https://t.co/F3UZUvz3no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079078384030880035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 765
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078982197051359575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koji_ysenpai: 2001年7月20日発売\n\n『真夏の夜の淫夢』\n\n25周年おめでとう！！！ https://t.co/F3UZUvz3no"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8195,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2991
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-30T12:11:27.000Z",
+        "description": "野獣先輩の尊い日常\n過激なものや不快感のあるものは控えめに。\nみんなに愛される先輩を目指して画像を投稿します。",
+        "id": "1712622475",
+        "name": "愛される存在と化した先輩",
+        "pinned_tweet_id": "2076799670551285977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054174787891830784/sUXZdWPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3262,
+          "following_count": 2070,
+          "like_count": 3629,
+          "listed_count": 7,
+          "media_count": 208,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "koji_ysenpai",
+        "verified": true
+      }
+    ]
+  }
+}

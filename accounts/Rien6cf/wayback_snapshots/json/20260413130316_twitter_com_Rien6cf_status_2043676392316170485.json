@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2043676392316170485",
+    "created_at": "2026-04-13T13:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043676392316170485"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 62,
+          "tag": "MRTニュース"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "宮崎"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2572816262",
+          "start": 3,
+          "username": "mrtnewsnext"
+        }
+      ],
+      "urls": [
+        {
+          "description": "犯罪捜査や行方不明者の捜索などで活躍が期待される警察犬に、宮崎県内で初めてポメラニアンが選ばれ、13日、嘱託書が交付されました。日向警察署で嘱託書が交付されたのは、2匹の警察犬と警察犬指導士2人です。こ…",
+          "display_url": "newsdig.tbs.co.jp/articles/mrt/2…",
+          "end": 61,
+          "expanded_url": "https://newsdig.tbs.co.jp/articles/mrt/2594932",
+          "images": [
+            {
+              "height": 675,
+              "url": "https://pbs.twimg.com/news_img/2043529699511443456/BxWBSqkH?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2043529699511443456/BxWBSqkH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 38,
+          "status": 200,
+          "title": "宮崎県内初　ポメラニアンの警察犬が誕生 | MRTニュース ｜ ＭＲＴ宮崎放送",
+          "unwound_url": "https://newsdig.tbs.co.jp/articles/mrt/2594932",
+          "url": "https://t.co/eclLYFUfLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043676392316170485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37334
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043529678296690701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrtnewsnext: 宮崎県内初　ポメラニアンの警察犬が誕生 \nhttps://t.co/eclLYFUfLi\n#MRTニュース #宮崎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2043676392316170485",
+        "created_at": "2026-04-13T13:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043676392316170485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "MRTニュース"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "宮崎"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2572816262",
+              "start": 3,
+              "username": "mrtnewsnext"
+            }
+          ],
+          "urls": [
+            {
+              "description": "犯罪捜査や行方不明者の捜索などで活躍が期待される警察犬に、宮崎県内で初めてポメラニアンが選ばれ、13日、嘱託書が交付されました。日向警察署で嘱託書が交付されたのは、2匹の警察犬と警察犬指導士2人です。こ…",
+              "display_url": "newsdig.tbs.co.jp/articles/mrt/2…",
+              "end": 61,
+              "expanded_url": "https://newsdig.tbs.co.jp/articles/mrt/2594932",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2043529699511443456/BxWBSqkH?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043529699511443456/BxWBSqkH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "宮崎県内初　ポメラニアンの警察犬が誕生 | MRTニュース ｜ ＭＲＴ宮崎放送",
+              "unwound_url": "https://newsdig.tbs.co.jp/articles/mrt/2594932",
+              "url": "https://t.co/eclLYFUfLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043676392316170485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37334
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043529678296690701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrtnewsnext: 宮崎県内初　ポメラニアンの警察犬が誕生 \nhttps://t.co/eclLYFUfLi\n#MRTニュース #宮崎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2572816262",
+        "conversation_id": "2043529678296690701",
+        "created_at": "2026-04-13T03:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043529678296690701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "MRTニュース"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "宮崎"
+            }
+          ],
+          "urls": [
+            {
+              "description": "犯罪捜査や行方不明者の捜索などで活躍が期待される警察犬に、宮崎県内で初めてポメラニアンが選ばれ、13日、嘱託書が交付されました。日向警察署で嘱託書が交付されたのは、2匹の警察犬と警察犬指導士2人です。こ…",
+              "display_url": "newsdig.tbs.co.jp/articles/mrt/2…",
+              "end": 44,
+              "expanded_url": "https://newsdig.tbs.co.jp/articles/mrt/2594932",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2043529699511443456/BxWBSqkH?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043529699511443456/BxWBSqkH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "宮崎県内初　ポメラニアンの警察犬が誕生 | MRTニュース ｜ ＭＲＴ宮崎放送",
+              "unwound_url": "https://newsdig.tbs.co.jp/articles/mrt/2594932",
+              "url": "https://t.co/eclLYFUfLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043529678296690701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10178,
+          "impression_count": 6530790,
+          "like_count": 166037,
+          "quote_count": 3798,
+          "reply_count": 232,
+          "retweet_count": 37334
+        },
+        "reply_settings": "everyone",
+        "text": "宮崎県内初　ポメラニアンの警察犬が誕生 \nhttps://t.co/eclLYFUfLi\n#MRTニュース #宮崎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 136,
+          "like_count": 2650,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1567
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-17T12:22:50.000Z",
+        "description": "宮崎県の宮崎放送　ＭＲＴニュースの公式Ｔｗｉｔｔｅｒです。  宮崎の最新情報をお伝えします。MRTテレビ「Check!」（16：50～18：55）でも詳しくお伝えします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newsdig.tbs.co.jp/list/news/mrt",
+                "end": 23,
+                "expanded_url": "https://newsdig.tbs.co.jp/list/news/mrt",
+                "start": 0,
+                "url": "https://t.co/PJ9wbK82Qv"
+              }
+            ]
+          }
+        },
+        "id": "2572816262",
+        "location": "宮崎県宮崎市",
+        "name": "ＭＲＴニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376326296968433669/fuf91z8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15536,
+          "following_count": 172,
+          "like_count": 286,
+          "listed_count": 160,
+          "media_count": 1791,
+          "tweet_count": 48929
+        },
+        "url": "https://t.co/PJ9wbK82Qv",
+        "username": "mrtnewsnext",
+        "verified": false
+      }
+    ]
+  }
+}

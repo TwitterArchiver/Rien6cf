@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054059748040089600"
+      ],
+      "media_source_tweet_id": [
+        "2054060204191515031"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054346214263701721",
+    "created_at": "2026-05-12T23:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T00:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054346214263701721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578976494",
+          "start": 3,
+          "username": "taraba777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M0iMjZ9LoB",
+          "end": 65,
+          "expanded_url": "https://x.com/taraba777/status/2054060204191515031/photo/1",
+          "media_key": "3_2054059748040089600",
+          "start": 42,
+          "url": "https://t.co/M0iMjZ9LoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054346214263701721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 259
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054060204191515031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taraba777: 全部のラベル白黒許したらスーパーが葬式会場になるぞ！ https://t.co/M0iMjZ9LoB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2054059748040089600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIF8dT1boAAV_Jb.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054059748040089600"
+          ],
+          "media_source_tweet_id": [
+            "2054060204191515031"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054346214263701721",
+        "created_at": "2026-05-12T23:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054346214263701721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578976494",
+              "start": 3,
+              "username": "taraba777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0iMjZ9LoB",
+              "end": 65,
+              "expanded_url": "https://x.com/taraba777/status/2054060204191515031/photo/1",
+              "media_key": "3_2054059748040089600",
+              "start": 42,
+              "url": "https://t.co/M0iMjZ9LoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054346214263701721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 259
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054060204191515031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taraba777: 全部のラベル白黒許したらスーパーが葬式会場になるぞ！ https://t.co/M0iMjZ9LoB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054059748040089600"
+          ]
+        },
+        "author_id": "1578976494",
+        "conversation_id": "2054060204191515031",
+        "created_at": "2026-05-12T04:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:43:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054059845431787647",
+          "2054060204191515031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0iMjZ9LoB",
+              "end": 50,
+              "expanded_url": "https://x.com/taraba777/status/2054060204191515031/photo/1",
+              "media_key": "3_2054059748040089600",
+              "start": 27,
+              "url": "https://t.co/M0iMjZ9LoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054060204191515031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 78093,
+          "like_count": 2300,
+          "quote_count": 67,
+          "reply_count": 74,
+          "retweet_count": 259
+        },
+        "reply_settings": "everyone",
+        "text": "全部のラベル白黒許したらスーパーが葬式会場になるぞ！ https://t.co/M0iMjZ9LoB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 170,
+          "like_count": 3843,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2006
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-09T00:32:44.000Z",
+        "description": "早起きは3satoshiの得ヾ(:3ﾉｼヾ)ﾉｼ 経済ニュース・仮想通貨",
+        "id": "1578976494",
+        "location": "大阪",
+        "name": "越前🐕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322114618592911361/0DtFBbwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27599,
+          "following_count": 997,
+          "like_count": 138527,
+          "listed_count": 402,
+          "media_count": 7055,
+          "tweet_count": 137212
+        },
+        "username": "taraba777",
+        "verified": true
+      }
+    ]
+  }
+}

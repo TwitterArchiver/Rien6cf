@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073549215331143680"
+      ],
+      "media_source_tweet_id": [
+        "2073549218279756013"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2073858696636145882",
+    "created_at": "2026-07-05T19:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073858696636145882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1372888613260652546",
+          "start": 3,
+          "username": "nM___0606___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tF9QBIfdBZ",
+          "end": 53,
+          "expanded_url": "https://x.com/nM___0606___/status/2073549218279756013/photo/1",
+          "media_key": "3_2073549215331143680",
+          "start": 30,
+          "url": "https://t.co/tF9QBIfdBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073858696636145882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073549218279756013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nM___0606___: 愛國者ワラワラで今これ https://t.co/tF9QBIfdBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2073549215331143680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMa6BnQaUAAlTXm.jpg",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073549215331143680"
+          ],
+          "media_source_tweet_id": [
+            "2073549218279756013"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2073858696636145882",
+        "created_at": "2026-07-05T19:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073858696636145882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1372888613260652546",
+              "start": 3,
+              "username": "nM___0606___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF9QBIfdBZ",
+              "end": 53,
+              "expanded_url": "https://x.com/nM___0606___/status/2073549218279756013/photo/1",
+              "media_key": "3_2073549215331143680",
+              "start": 30,
+              "url": "https://t.co/tF9QBIfdBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073858696636145882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073549218279756013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nM___0606___: 愛國者ワラワラで今これ https://t.co/tF9QBIfdBZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073549215331143680"
+          ]
+        },
+        "author_id": "1372888613260652546",
+        "conversation_id": "2073549218279756013",
+        "created_at": "2026-07-04T23:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073549218279756013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF9QBIfdBZ",
+              "end": 35,
+              "expanded_url": "https://x.com/nM___0606___/status/2073549218279756013/photo/1",
+              "media_key": "3_2073549215331143680",
+              "start": 12,
+              "url": "https://t.co/tF9QBIfdBZ"
+            },
+            {
+              "display_url": "x.com/tokyomanana/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/tokyomanana/status/2073332848233513004",
+              "start": 36,
+              "url": "https://t.co/Gct1nkHKJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073549218279756013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 22928,
+          "like_count": 488,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073332848233513004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愛國者ワラワラで今これ https://t.co/tF9QBIfdBZ https://t.co/Gct1nkHKJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 194,
+          "like_count": 7066,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2814
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-19T12:32:20.000Z",
+        "description": "中野四葉推し",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/nM___0606___",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/nM___0606___",
+                "start": 0,
+                "url": "https://t.co/Zt5pUEzq7O"
+              }
+            ]
+          }
+        },
+        "id": "1372888613260652546",
+        "location": "♥️♻️ not always 賛同",
+        "name": "NM△ 🌾☀️🐰⚙️🐾💻🌺💴🐗🇯🇵🐙🍊🍈🍞🍥",
+        "pinned_tweet_id": "2072708105654485095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063613836259897345/-nqtlVj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15846,
+          "following_count": 14626,
+          "like_count": 33104,
+          "listed_count": 142,
+          "media_count": 6677,
+          "tweet_count": 65322
+        },
+        "url": "https://t.co/Zt5pUEzq7O",
+        "username": "nM___0606___",
+        "verified": false
+      }
+    ]
+  }
+}

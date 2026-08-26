@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2084152662749331805",
+    "created_at": "2026-08-03T05:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084152662749331805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606573782143057921",
+          "start": 3,
+          "username": "Cocoi_tea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084152662749331805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2684
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083895524642721846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cocoi_tea: 妈的我每天上推特都感觉你们这群人画画好好看啊，什么韩国人日本人中国人都画的好牛逼啊，看得我都愤怒了，我也想画这么好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2084152662749331805",
+        "created_at": "2026-08-03T05:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084152662749331805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606573782143057921",
+              "start": 3,
+              "username": "Cocoi_tea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084152662749331805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083895524642721846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cocoi_tea: 妈的我每天上推特都感觉你们这群人画画好好看啊，什么韩国人日本人中国人都画的好牛逼啊，看得我都愤怒了，我也想画这么好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606573782143057921",
+        "conversation_id": "2083895524642721846",
+        "created_at": "2026-08-02T12:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083895524642721846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083895524642721846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 793,
+          "impression_count": 557313,
+          "like_count": 17852,
+          "quote_count": 160,
+          "reply_count": 307,
+          "retweet_count": 2685
+        },
+        "reply_settings": "everyone",
+        "text": "妈的我每天上推特都感觉你们这群人画画好好看啊，什么韩国人日本人中国人都画的好牛逼啊，看得我都愤怒了，我也想画这么好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 210,
+          "like_count": 9083,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3240
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T08:53:43.000Z",
+        "description": "请不要随意揣测我，不接受任何委托",
+        "id": "1606573782143057921",
+        "name": "ココteあ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031545556162711552/q2VnEppr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12916,
+          "following_count": 604,
+          "like_count": 2497,
+          "listed_count": 43,
+          "media_count": 343,
+          "tweet_count": 1712
+        },
+        "url": "",
+        "username": "Cocoi_tea",
+        "verified": false
+      }
+    ]
+  }
+}

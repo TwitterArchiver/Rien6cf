@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1244688939719348224",
+          "name": "Kagerou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1244688939719348224",
+          "name": "Kagerou Project"
+        }
+      }
+    ],
+    "conversation_id": "2088850828182606267",
+    "created_at": "2026-08-16T04:50:21.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088850828182606267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786294949526507520",
+          "start": 3,
+          "username": "natuboti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088850828182606267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088568483466670101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @natuboti: 元メカクシ団だった皆様‼️‼️‼️‼️‼️‼️‼️‼️‼️\nサマータイムレコードとか‼️‼️‼️カゲロウデイズだけで終わらないでください‼️‼️‼️‼️‼️‼️‼️\n全部聞いてください‼️‼️‼️‼️‼️‼️‼️あなた達が忘れている間に新しいアルバム…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          }
+        ],
+        "conversation_id": "2088850828182606267",
+        "created_at": "2026-08-16T04:50:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088850828182606267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786294949526507520",
+              "start": 3,
+              "username": "natuboti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088850828182606267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088568483466670101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @natuboti: 元メカクシ団だった皆様‼️‼️‼️‼️‼️‼️‼️‼️‼️\nサマータイムレコードとか‼️‼️‼️カゲロウデイズだけで終わらないでください‼️‼️‼️‼️‼️‼️‼️\n全部聞いてください‼️‼️‼️‼️‼️‼️‼️あなた達が忘れている間に新しいアルバム…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786294949526507520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1244688939719348224",
+              "name": "Kagerou Project"
+            }
+          }
+        ],
+        "conversation_id": "2088568483466670101",
+        "created_at": "2026-08-15T10:08:24.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088568483466670101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088568483466670101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 485,
+          "impression_count": 375995,
+          "like_count": 13855,
+          "quote_count": 74,
+          "reply_count": 10,
+          "retweet_count": 957
+        },
+        "reply_settings": "everyone",
+        "text": "元メカクシ団だった皆様‼️‼️‼️‼️‼️‼️‼️‼️‼️\nサマータイムレコードとか‼️‼️‼️カゲロウデイズだけで終わらないでください‼️‼️‼️‼️‼️‼️‼️\n全部聞いてください‼️‼️‼️‼️‼️‼️‼️あなた達が忘れている間に新しいアルバムも出てるの‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088850828182606267",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 210,
+          "like_count": 9301,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-03T07:21:25.000Z",
+        "description": "フルで言うと夏野墓地子です\nカゲプロの創作とか妄想とか\n遥貴狂です\n九ノ瀬の記念日ちょっと後に産まれて後悔ズ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/natu_boti",
+                "end": 23,
+                "expanded_url": "https://lit.link/natu_boti",
+                "start": 0,
+                "url": "https://t.co/G6kMpsospy"
+              }
+            ]
+          }
+        },
+        "id": "1786294949526507520",
+        "is_identity_verified": false,
+        "location": "公式cpと百合cp以外は大体地雷です",
+        "most_recent_tweet_id": "2088655734871662733",
+        "name": "なつぼち",
+        "pinned_tweet_id": "2086082898135019545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786294949526507520/1783637545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074839441185947648/EkVGHhwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 53,
+          "like_count": 12278,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1300
+        },
+        "url": "https://t.co/G6kMpsospy",
+        "username": "natuboti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

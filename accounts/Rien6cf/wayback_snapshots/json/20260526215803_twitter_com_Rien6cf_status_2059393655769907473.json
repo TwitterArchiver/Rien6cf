@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059042375725670400"
+      ],
+      "media_source_tweet_id": [
+        "2059042407619162477"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2059393655769907473",
+    "created_at": "2026-05-26T21:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T22:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059393655769907473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1314435779859341312",
+          "start": 3,
+          "username": "koji_kingdom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u2cDcr1xSz",
+          "end": 69,
+          "expanded_url": "https://x.com/koji_kingdom/status/2059042407619162477/photo/1",
+          "media_key": "3_2059042375725670400",
+          "start": 46,
+          "url": "https://t.co/u2cDcr1xSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059393655769907473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059042407619162477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koji_kingdom: 飛ぶキラちゃん\n\nphoto 2026.05.25📷️ https://t.co/u2cDcr1xSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2059042375725670400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMwIaaa4AAYtJK.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059042375725670400"
+          ],
+          "media_source_tweet_id": [
+            "2059042407619162477"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2059393655769907473",
+        "created_at": "2026-05-26T21:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059393655769907473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1314435779859341312",
+              "start": 3,
+              "username": "koji_kingdom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2cDcr1xSz",
+              "end": 69,
+              "expanded_url": "https://x.com/koji_kingdom/status/2059042407619162477/photo/1",
+              "media_key": "3_2059042375725670400",
+              "start": 46,
+              "url": "https://t.co/u2cDcr1xSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059393655769907473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059042407619162477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koji_kingdom: 飛ぶキラちゃん\n\nphoto 2026.05.25📷️ https://t.co/u2cDcr1xSz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059042375725670400"
+          ]
+        },
+        "author_id": "1314435779859341312",
+        "conversation_id": "2059042407619162477",
+        "created_at": "2026-05-25T22:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059042407619162477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2cDcr1xSz",
+              "end": 51,
+              "expanded_url": "https://x.com/koji_kingdom/status/2059042407619162477/photo/1",
+              "media_key": "3_2059042375725670400",
+              "start": 28,
+              "url": "https://t.co/u2cDcr1xSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059042407619162477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 26196,
+          "like_count": 2464,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "飛ぶキラちゃん\n\nphoto 2026.05.25📷️ https://t.co/u2cDcr1xSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 174,
+          "like_count": 4573,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2243
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T05:21:41.000Z",
+        "description": "主に動物の投稿\nラッコ・ネコ科・レッサーパンダが多め\n写真はJPEG.トリミング.色補正🐿\nAI加工は一切しません🐥\nコメントの返信少ないです🦥\n \nInstagramがメイン\nhttps://t.co/fjZkoyboMc 🦦\nhttps://t.co/b6VaOwnBPy 🐱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/koujinx",
+                "end": 112,
+                "expanded_url": "http://instagram.com/koujinx",
+                "start": 89,
+                "url": "https://t.co/fjZkoyboMc"
+              },
+              {
+                "display_url": "instagram.com/koji_kingdom",
+                "end": 138,
+                "expanded_url": "http://instagram.com/koji_kingdom",
+                "start": 115,
+                "url": "https://t.co/b6VaOwnBPy"
+              }
+            ]
+          }
+        },
+        "id": "1314435779859341312",
+        "location": "知られざる王国",
+        "name": "こーじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565493143751229440/msiNgZ-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 293,
+          "like_count": 60543,
+          "listed_count": 15,
+          "media_count": 6159,
+          "tweet_count": 8713
+        },
+        "username": "koji_kingdom",
+        "verified": false
+      }
+    ]
+  }
+}

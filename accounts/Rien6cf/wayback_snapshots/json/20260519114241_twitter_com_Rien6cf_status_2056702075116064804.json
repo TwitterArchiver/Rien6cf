@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056521609444515840"
+      ],
+      "media_source_tweet_id": [
+        "2056521612028203224"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2056702075116064804",
+    "created_at": "2026-05-19T11:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056702075116064804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1801947889046040576",
+          "start": 3,
+          "username": "mogumogumatetsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ID2bjYjE6",
+          "end": 48,
+          "expanded_url": "https://x.com/mogumogumatetsu/status/2056521612028203224/photo/1",
+          "media_key": "3_2056521609444515840",
+          "start": 25,
+          "url": "https://t.co/9ID2bjYjE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056702075116064804",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056521612028203224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mogumogumatetsu: ！！？ https://t.co/9ID2bjYjE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_2056521609444515840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIo7ggPa4AASxuc.jpg",
+        "width": 1369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056521609444515840"
+          ],
+          "media_source_tweet_id": [
+            "2056521612028203224"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2056702075116064804",
+        "created_at": "2026-05-19T11:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056702075116064804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1801947889046040576",
+              "start": 3,
+              "username": "mogumogumatetsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ID2bjYjE6",
+              "end": 48,
+              "expanded_url": "https://x.com/mogumogumatetsu/status/2056521612028203224/photo/1",
+              "media_key": "3_2056521609444515840",
+              "start": 25,
+              "url": "https://t.co/9ID2bjYjE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056702075116064804",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056521612028203224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mogumogumatetsu: ！！？ https://t.co/9ID2bjYjE6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056521609444515840"
+          ]
+        },
+        "author_id": "1801947889046040576",
+        "conversation_id": "2056521612028203224",
+        "created_at": "2026-05-18T23:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056521612028203224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ID2bjYjE6",
+              "end": 27,
+              "expanded_url": "https://x.com/mogumogumatetsu/status/2056521612028203224/photo/1",
+              "media_key": "3_2056521609444515840",
+              "start": 4,
+              "url": "https://t.co/9ID2bjYjE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056521612028203224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 17148,
+          "like_count": 1589,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "！！？ https://t.co/9ID2bjYjE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 170,
+          "like_count": 4261,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2143
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T12:01:10.000Z",
+        "description": "ラッコ大好き🦦\nメイちゃんのバズーカ砲に心撃ち抜かれました🦦\nメイちゃんキラちゃんあと100年生きて！！\n可愛いものも好き🧸💕\n人見知りラッコ。無言フォロー失礼します。",
+        "id": "1801947889046040576",
+        "location": "メイちゃんの秘密のポケットの片隅",
+        "name": "マリィ🦦🦦🌼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049996534973181952/fQBlZ7uT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 225,
+          "like_count": 29169,
+          "listed_count": 5,
+          "media_count": 731,
+          "tweet_count": 1879
+        },
+        "username": "mogumogumatetsu",
+        "verified": false
+      }
+    ]
+  }
+}

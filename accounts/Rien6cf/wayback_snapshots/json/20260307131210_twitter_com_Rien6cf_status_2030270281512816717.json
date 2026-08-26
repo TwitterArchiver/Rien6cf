@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030090824097353732"
+      ],
+      "media_source_tweet_id": [
+        "2030090831168958884"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2030270281512816717",
+    "created_at": "2026-03-07T13:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030270281512816717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1921404644661870592",
+          "start": 3,
+          "username": "shinwaseda120"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TUdFQSZJRc",
+          "end": 42,
+          "expanded_url": "https://x.com/shinwaseda120/status/2030090831168958884/photo/1",
+          "media_key": "3_2030090824097353732",
+          "start": 19,
+          "url": "https://t.co/TUdFQSZJRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030270281512816717",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030090831168958884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinwaseda120: https://t.co/TUdFQSZJRc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2030090824097353732",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCxU2UAaUAQQCBp.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030090824097353732"
+          ],
+          "media_source_tweet_id": [
+            "2030090831168958884"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2030270281512816717",
+        "created_at": "2026-03-07T13:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030270281512816717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1921404644661870592",
+              "start": 3,
+              "username": "shinwaseda120"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUdFQSZJRc",
+              "end": 42,
+              "expanded_url": "https://x.com/shinwaseda120/status/2030090831168958884/photo/1",
+              "media_key": "3_2030090824097353732",
+              "start": 19,
+              "url": "https://t.co/TUdFQSZJRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030270281512816717",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030090831168958884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinwaseda120: https://t.co/TUdFQSZJRc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030090824097353732"
+          ]
+        },
+        "author_id": "1921404644661870592",
+        "conversation_id": "2030090831168958884",
+        "created_at": "2026-03-07T01:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T02:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030090831168958884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUdFQSZJRc",
+              "end": 23,
+              "expanded_url": "https://x.com/shinwaseda120/status/2030090831168958884/photo/1",
+              "media_key": "3_2030090824097353732",
+              "start": 0,
+              "url": "https://t.co/TUdFQSZJRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030090831168958884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 629,
+          "impression_count": 591235,
+          "like_count": 20083,
+          "quote_count": 125,
+          "reply_count": 19,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TUdFQSZJRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 102,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 832
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T03:19:09.000Z",
+        "description": "k＝1 立教仮面→早稲田🌸",
+        "id": "1921404644661870592",
+        "name": "しん",
+        "pinned_tweet_id": "2028737216122618200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944176628277686274/kPBqYnZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 755,
+          "like_count": 3457,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 672
+        },
+        "username": "shinwaseda120",
+        "verified": false
+      }
+    ]
+  }
+}

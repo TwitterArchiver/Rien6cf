@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2041993840337547583",
+    "created_at": "2026-04-08T21:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T22:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041993951188807710"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041993951188807710",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041993840337547583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢我的话能不能转一转呀msk不给我推流😿😿爱你们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2041993835589595140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFaekxPa8AQQuWe.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2041993840337547583",
+        "created_at": "2026-04-08T21:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041993951188807710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041993951188807710",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041993840337547583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢我的话能不能转一转呀msk不给我推流😿😿爱你们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041993835589595140"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2041993840337547583",
+        "created_at": "2026-04-08T21:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041993840337547583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/upBKiOlY4C",
+              "end": 40,
+              "expanded_url": "https://x.com/Rien6cf/status/2041993840337547583/photo/1",
+              "media_key": "3_2041993835589595140",
+              "start": 17,
+              "url": "https://t.co/upBKiOlY4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041993840337547583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前髪が消えた...\n#自撮り界隈 https://t.co/upBKiOlY4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 131,
+          "like_count": 2523,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1500
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

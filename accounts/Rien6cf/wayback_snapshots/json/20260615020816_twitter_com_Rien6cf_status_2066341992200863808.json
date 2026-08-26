@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066110755406262272"
+      ],
+      "media_source_tweet_id": [
+        "2066110763627118890"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2066341992200863808",
+    "created_at": "2026-06-15T02:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066341992200863808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1815207828975697920",
+          "start": 3,
+          "username": "mi_hypermeep"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PnlWJ3u7dZ",
+          "end": 74,
+          "expanded_url": "https://x.com/mi_hypermeep/status/2066110763627118890/photo/1",
+          "media_key": "3_2066110755406262272",
+          "start": 51,
+          "url": "https://t.co/PnlWJ3u7dZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066341992200863808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066110763627118890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mi_hypermeep: この世で一番大きいキラちゃん！！！！！！最高すぎた、大阪ラッコ旅 https://t.co/PnlWJ3u7dZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2066110755406262272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxMyQqasAAcvV4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066110755406262272"
+          ],
+          "media_source_tweet_id": [
+            "2066110763627118890"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2066341992200863808",
+        "created_at": "2026-06-15T02:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066341992200863808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1815207828975697920",
+              "start": 3,
+              "username": "mi_hypermeep"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnlWJ3u7dZ",
+              "end": 74,
+              "expanded_url": "https://x.com/mi_hypermeep/status/2066110763627118890/photo/1",
+              "media_key": "3_2066110755406262272",
+              "start": 51,
+              "url": "https://t.co/PnlWJ3u7dZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066341992200863808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066110763627118890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mi_hypermeep: この世で一番大きいキラちゃん！！！！！！最高すぎた、大阪ラッコ旅 https://t.co/PnlWJ3u7dZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066110755406262272"
+          ]
+        },
+        "author_id": "1815207828975697920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2066110763627118890",
+        "created_at": "2026-06-14T10:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066110763627118890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnlWJ3u7dZ",
+              "end": 56,
+              "expanded_url": "https://x.com/mi_hypermeep/status/2066110763627118890/photo/1",
+              "media_key": "3_2066110755406262272",
+              "start": 33,
+              "url": "https://t.co/PnlWJ3u7dZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066110763627118890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10932,
+          "like_count": 535,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "この世で一番大きいキラちゃん！！！！！！最高すぎた、大阪ラッコ旅 https://t.co/PnlWJ3u7dZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 5739,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2594
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T02:10:57.000Z",
+        "description": "ハイパーラッコクリエイター/ラコへの激重感情を持て余してイラストとかぬいぐるみとかネイルを作るニンゲン/ #メイキラファンアート とタグ付けしてるものは非商用です 動画は音出ます",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 53,
+                "tag": "メイキラファンアート"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/HYPER_meep",
+                "end": 23,
+                "expanded_url": "https://suzuri.jp/HYPER_meep",
+                "start": 0,
+                "url": "https://t.co/VgwlUhLi52"
+              }
+            ]
+          }
+        },
+        "id": "1815207828975697920",
+        "name": "ミー(mi)",
+        "pinned_tweet_id": "1879482891375349913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047117931126177792/FKp_ImSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 366,
+          "like_count": 17109,
+          "listed_count": 9,
+          "media_count": 1452,
+          "tweet_count": 10461
+        },
+        "url": "https://t.co/VgwlUhLi52",
+        "username": "mi_hypermeep",
+        "verified": false
+      }
+    ]
+  }
+}

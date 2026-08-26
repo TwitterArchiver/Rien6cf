@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      }
+    ],
+    "conversation_id": "2079036716711923734",
+    "created_at": "2026-07-20T02:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079036716711923734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "116548789",
+          "start": 3,
+          "username": "UN_NERV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079036716711923734",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1796
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079023511922966901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @UN_NERV: 【梅雨の時期に関する関東甲信地方気象情報】\n関東甲信地方は梅雨明けしたと見られます。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2079036716711923734",
+        "created_at": "2026-07-20T02:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079036716711923734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "116548789",
+              "start": 3,
+              "username": "UN_NERV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079036716711923734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1796
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079023511922966901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @UN_NERV: 【梅雨の時期に関する関東甲信地方気象情報】\n関東甲信地方は梅雨明けしたと見られます。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "116548789",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2079023511922966901",
+        "created_at": "2026-07-20T02:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079023511922966901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079023511922966901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 160638,
+          "like_count": 1381,
+          "quote_count": 172,
+          "reply_count": 0,
+          "retweet_count": 1796
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【梅雨の時期に関する関東甲信地方気象情報】\n関東甲信地方は梅雨明けしたと見られます。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8179,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2991
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-22T21:35:21.000Z",
+        "description": "U.N.NERV ネルフです。お問い合わせなどは @NERVPR 宛にお願いいたします。 特務機関NERV防災アプリ → https://t.co/87eFK8f5hl Official English Account → @EN_NERV ※本アカウントの名称およびアイコンは、エヴァンゲリオン版権元の許諾に基づき使用しています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "NERVPR"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "EN_NERV"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nerv.app",
+                "end": 84,
+                "expanded_url": "http://nerv.app",
+                "start": 61,
+                "url": "https://t.co/87eFK8f5hl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nerv.app",
+                "end": 23,
+                "expanded_url": "https://nerv.app/",
+                "start": 0,
+                "url": "https://t.co/Sc9oJAvu4d"
+              }
+            ]
+          }
+        },
+        "id": "116548789",
+        "location": "第3新東京市",
+        "name": "特務機関NERV",
+        "pinned_tweet_id": "1963955169370034560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1106073272502763520/3_992uWj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3157848,
+          "following_count": 215,
+          "like_count": 21,
+          "listed_count": 48053,
+          "media_count": 103268,
+          "tweet_count": 379598
+        },
+        "url": "https://t.co/Sc9oJAvu4d",
+        "username": "UN_NERV",
+        "verified": true
+      }
+    ]
+  }
+}

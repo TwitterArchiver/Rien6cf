@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072208744327585792"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2072208751009120561",
+    "created_at": "2026-07-01T06:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072208751009120561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rtuM0Vgk2e",
+          "end": 23,
+          "expanded_url": "https://x.com/Rien6cf/status/2072208751009120561/photo/1",
+          "media_key": "3_2072208744327585792",
+          "start": 0,
+          "url": "https://t.co/rtuM0Vgk2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072208751009120561",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/rtuM0Vgk2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072208744327585792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMH237oaoAA3CdP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072208744327585792"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2072208751009120561",
+        "created_at": "2026-07-01T06:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072208751009120561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtuM0Vgk2e",
+              "end": 23,
+              "expanded_url": "https://x.com/Rien6cf/status/2072208751009120561/photo/1",
+              "media_key": "3_2072208744327585792",
+              "start": 0,
+              "url": "https://t.co/rtuM0Vgk2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072208751009120561",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rtuM0Vgk2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @Shiki0830_\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 195,
+          "like_count": 6631,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2747
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

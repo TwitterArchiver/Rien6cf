@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2079107770759200990",
+    "created_at": "2026-07-20T07:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079107770759200990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "匿名のメッセージを受け付けています。",
+          "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+          "end": 23,
+          "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+          "images": [
+            {
+              "height": 300,
+              "url": "https://pbs.twimg.com/news_img/2079107771077926912/tRXW9ThI?format=png&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079107771077926912/tRXW9ThI?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "りえちゃんは緊張してるにマシュマロを投げる | マシュマロ",
+          "unwound_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+          "url": "https://t.co/Mt1H72IVWd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079107770759200990",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Mt1H72IVWd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2079107770759200990",
+        "created_at": "2026-07-20T07:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079107770759200990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "匿名のメッセージを受け付けています。",
+              "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+              "end": 23,
+              "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2079107771077926912/tRXW9ThI?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079107771077926912/tRXW9ThI?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "りえちゃんは緊張してるにマシュマロを投げる | マシュマロ",
+              "unwound_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+              "url": "https://t.co/Mt1H72IVWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079107770759200990",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Mt1H72IVWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8216,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2995
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062165743291289600"
+      ],
+      "media_source_tweet_id": [
+        "2062165750614560934"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062443067886678243",
+    "created_at": "2026-06-04T07:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062443067886678243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1794323350980009985",
+          "start": 3,
+          "username": "siawase_onegai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7eTprkHkA",
+          "end": 109,
+          "expanded_url": "https://x.com/siawase_onegai/status/2062165750614560934/photo/1",
+          "media_key": "3_2062165743291289600",
+          "start": 86,
+          "url": "https://t.co/i7eTprkHkA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062443067886678243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062165750614560934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siawase_onegai: てぃっくとっくで多分中学生だけど\niLiFEすきでiLiFEブロックっていうルールが謎すぎる最近多すぎるなった気になってる人達😞💧 https://t.co/i7eTprkHkA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062165743291289600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5I0VTbUAAguft.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062165743291289600"
+          ],
+          "media_source_tweet_id": [
+            "2062165750614560934"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062443067886678243",
+        "created_at": "2026-06-04T07:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062443067886678243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1794323350980009985",
+              "start": 3,
+              "username": "siawase_onegai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7eTprkHkA",
+              "end": 109,
+              "expanded_url": "https://x.com/siawase_onegai/status/2062165750614560934/photo/1",
+              "media_key": "3_2062165743291289600",
+              "start": 86,
+              "url": "https://t.co/i7eTprkHkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062443067886678243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062165750614560934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siawase_onegai: てぃっくとっくで多分中学生だけど\niLiFEすきでiLiFEブロックっていうルールが謎すぎる最近多すぎるなった気になってる人達😞💧 https://t.co/i7eTprkHkA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062165743291289600"
+          ]
+        },
+        "author_id": "1794323350980009985",
+        "conversation_id": "2062165750614560934",
+        "created_at": "2026-06-03T13:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062165750614560934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7eTprkHkA",
+              "end": 89,
+              "expanded_url": "https://x.com/siawase_onegai/status/2062165750614560934/photo/1",
+              "media_key": "3_2062165743291289600",
+              "start": 66,
+              "url": "https://t.co/i7eTprkHkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062165750614560934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 38725,
+          "like_count": 249,
+          "quote_count": 21,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "てぃっくとっくで多分中学生だけど\niLiFEすきでiLiFEブロックっていうルールが謎すぎる最近多すぎるなった気になってる人達😞💧 https://t.co/i7eTprkHkA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 182,
+          "like_count": 5046,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2400
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T11:03:41.000Z",
+        "description": "@ilife_sumire 純嶺みき一筋^. ̫ .^ ̳♡⃛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ilife_sumire"
+              }
+            ]
+          }
+        },
+        "id": "1794323350980009985",
+        "name": "Himari⟡.·*.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051248769472385024/yUUqSzb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 211,
+          "like_count": 6209,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 411
+        },
+        "username": "siawase_onegai",
+        "verified": false
+      }
+    ]
+  }
+}

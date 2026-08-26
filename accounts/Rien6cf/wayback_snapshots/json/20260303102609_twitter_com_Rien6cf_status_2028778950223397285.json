@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2028765317573579003",
+    "created_at": "2026-03-03T10:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028778950223397285"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "こぬのさん",
+          "probability": 0.7906,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2023729444276629505",
+          "start": 0,
+          "username": "6v2vWUEuxp14685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028778950223397285",
+    "in_reply_to_user_id": "2023729444276629505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028765317573579003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6v2vWUEuxp14685 こぬのさん、、、優しい、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2028765317573579003",
+        "created_at": "2026-03-03T10:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028778950223397285"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "こぬのさん",
+              "probability": 0.7906,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2023729444276629505",
+              "start": 0,
+              "username": "6v2vWUEuxp14685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028778950223397285",
+        "in_reply_to_user_id": "2023729444276629505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028765317573579003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6v2vWUEuxp14685 こぬのさん、、、優しい、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023729444276629505",
+        "conversation_id": "2028765317573579003",
+        "created_at": "2026-03-03T09:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028765317573579003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028765317573579003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私が言う｢全員死ね｣にFFさんは含まれていません‼️幸せになってほしいよ😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 93,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 697
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T12:01:56.000Z",
+        "description": "無能ガイジ︎ ︎ ︎ ︎🗝@konuno_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "konuno_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/qvg8kxcocpbvrf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/qvg8kxcocpbvrfo?t=7PGb0B&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/n9YIYdh4gz"
+              }
+            ]
+          }
+        },
+        "id": "2023729444276629505",
+        "name": "こぬの",
+        "pinned_tweet_id": "2024111835159343107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024031728999059456/xH_qAVoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 77,
+          "like_count": 1833,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/n9YIYdh4gz",
+        "username": "6v2vWUEuxp14685",
+        "verified": false
+      }
+    ]
+  }
+}

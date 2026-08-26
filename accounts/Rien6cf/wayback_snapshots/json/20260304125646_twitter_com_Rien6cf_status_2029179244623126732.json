@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2029179244623126732",
+    "created_at": "2026-03-04T12:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029179244623126732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ami__dxm/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ami__dxm/status/2029002339076719020",
+          "start": 3,
+          "url": "https://t.co/LlFh1dV7oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029179244623126732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029002339076719020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "こわ https://t.co/LlFh1dV7oo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029002328037310467",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCh23gMawAMUX0Z.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2029179244623126732",
+        "created_at": "2026-03-04T12:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029179244623126732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ami__dxm/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ami__dxm/status/2029002339076719020",
+              "start": 3,
+              "url": "https://t.co/LlFh1dV7oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029179244623126732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029002339076719020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こわ https://t.co/LlFh1dV7oo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029002328037310467"
+          ]
+        },
+        "author_id": "1711153626985689088",
+        "conversation_id": "2029002339076719020",
+        "created_at": "2026-03-04T01:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029002339076719020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gz865soLrb",
+              "end": 107,
+              "expanded_url": "https://x.com/ami__dxm/status/2029002339076719020/photo/1",
+              "media_key": "3_2029002328037310467",
+              "start": 84,
+              "url": "https://t.co/Gz865soLrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029002339076719020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6923,
+          "like_count": 112,
+          "quote_count": 12,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "こいつ自分のこと女とか言ってるけどただのヤリモクのおじだから繋がらない方がいいよ\nあとDMちょっと返事遅れるだけで秒でブロックしてくるからマジで繋がるのオススメしない https://t.co/Gz865soLrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 100,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 739
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T22:56:41.000Z",
+        "description": "病み､自傷､OD､イラスト､スプタン/大好きな推し@Amamiya_Miya2,@amamiya_subdayo,@ayopi_maru/💍♡@frostkilledme/依存先,アイコン⛓️@M__0802__⛓️/避難@xx_ami_dxm/🗝@ami__xx2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Amamiya_Miya2"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "amamiya_subdayo"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "ayopi_maru"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "frostkilledme"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "M__0802__"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "xx_ami_dxm"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "ami__xx2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/73p5pf597onjea…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/73p5pf597onjeao?t=Q1i99v&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/CrXUJLp8nI"
+              }
+            ]
+          }
+        },
+        "id": "1711153626985689088",
+        "location": "死は救済、詳しい事はタグ",
+        "name": "碧珠(あみ)",
+        "pinned_tweet_id": "2028139331546976366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023003454600609792/0Rb3Dod3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 1327,
+          "like_count": 25470,
+          "listed_count": 40,
+          "media_count": 975,
+          "tweet_count": 29454
+        },
+        "url": "https://t.co/CrXUJLp8nI",
+        "username": "ami__dxm",
+        "verified": false
+      }
+    ]
+  }
+}

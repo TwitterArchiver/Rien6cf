@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2023189308363219110",
+    "created_at": "2026-02-16T00:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T01:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023189308363219110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964325531819921412",
+          "start": 3,
+          "username": "helvetica_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023189308363219110",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 792
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023017674327150811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @helvetica_7: ガチでエッチがすぎる夢を見た(炉心融解)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2023189308363219110",
+        "created_at": "2026-02-16T00:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023189308363219110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964325531819921412",
+              "start": 3,
+              "username": "helvetica_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023189308363219110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 792
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023017674327150811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @helvetica_7: ガチでエッチがすぎる夢を見た(炉心融解)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964325531819921412",
+        "conversation_id": "2023017674327150811",
+        "created_at": "2026-02-15T12:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023017674327150811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023017674327150811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 316,
+          "impression_count": 185910,
+          "like_count": 8108,
+          "quote_count": 53,
+          "reply_count": 2,
+          "retweet_count": 792
+        },
+        "reply_settings": "following",
+        "text": "ガチでエッチがすぎる夢を見た(炉心融解)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 416
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T13:51:30.000Z",
+        "description": "ぎ",
+        "id": "1964325531819921412",
+        "name": "❼",
+        "pinned_tweet_id": "1964361881268998440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000768686962171905/3ZtNSeIm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 151,
+          "like_count": 24062,
+          "listed_count": 5,
+          "media_count": 88,
+          "tweet_count": 447
+        },
+        "username": "helvetica_7",
+        "verified": false
+      }
+    ]
+  }
+}

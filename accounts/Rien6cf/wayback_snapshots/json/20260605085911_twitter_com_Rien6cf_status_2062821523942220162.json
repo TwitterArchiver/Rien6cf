@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062821523942220162",
+    "created_at": "2026-06-05T08:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062821523942220162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774015170878316544",
+          "start": 3,
+          "username": "hoshigataaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062821523942220162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 632
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062550925991125305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshigataaaa: 男、168cmがいちばんメロい\n理由は、確実に高身長の部類なのに、170cmないから「俺は身長高いかもだけど高身長って名乗れるほどではないかなー、」みたいな自認してそうで謙虚そうだから"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062821523942220162",
+        "created_at": "2026-06-05T08:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062821523942220162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774015170878316544",
+              "start": 3,
+              "username": "hoshigataaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062821523942220162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 632
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062550925991125305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshigataaaa: 男、168cmがいちばんメロい\n理由は、確実に高身長の部類なのに、170cmないから「俺は身長高いかもだけど高身長って名乗れるほどではないかなー、」みたいな自認してそうで謙虚そうだから"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774015170878316544",
+        "conversation_id": "2062550925991125305",
+        "created_at": "2026-06-04T15:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062550925991125305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062550925991125305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1296,
+          "impression_count": 3774552,
+          "like_count": 8349,
+          "quote_count": 3276,
+          "reply_count": 595,
+          "retweet_count": 632
+        },
+        "reply_settings": "everyone",
+        "text": "男、168cmがいちばんメロい\n理由は、確実に高身長の部類なのに、170cmないから「俺は身長高いかもだけど高身長って名乗れるほどではないかなー、」みたいな自認してそうで謙虚そうだから"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 184,
+          "like_count": 5089,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2414
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T10:06:19.000Z",
+        "description": "B1→B2→B1",
+        "id": "1774015170878316544",
+        "name": "星形",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051644612528529408/3wbql6n9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 527,
+          "like_count": 10801,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1977
+        },
+        "username": "hoshigataaaa",
+        "verified": false
+      }
+    ]
+  }
+}

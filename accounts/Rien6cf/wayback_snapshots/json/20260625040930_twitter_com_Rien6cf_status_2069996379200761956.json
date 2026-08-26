@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2069996379200761956",
+    "created_at": "2026-06-25T04:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069996379200761956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumi320521/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yumi320521/status/2069379854651539688",
+          "start": 8,
+          "url": "https://t.co/7U0HYOhnoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069996379200761956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069379854651539688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无所畏惧（。。 https://t.co/7U0HYOhnoS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2069996379200761956",
+        "created_at": "2026-06-25T04:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069996379200761956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumi320521/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yumi320521/status/2069379854651539688",
+              "start": 8,
+              "url": "https://t.co/7U0HYOhnoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069996379200761956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069379854651539688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无所畏惧（。。 https://t.co/7U0HYOhnoS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2069379854651539688",
+        "created_at": "2026-06-23T11:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069379854651539688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069379854651539688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7392,
+          "like_count": 43,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门别人看见手臂你们会自卑吗 每次我都会小心挡着…（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 6175,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2681
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n桃井愛莉一生のファン🍑💞\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 140,
+          "like_count": 4592,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

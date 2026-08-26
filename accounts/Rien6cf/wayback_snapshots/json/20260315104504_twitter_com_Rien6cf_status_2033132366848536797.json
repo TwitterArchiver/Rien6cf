@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033042996795682818"
+      ],
+      "media_source_tweet_id": [
+        "2033043005633073319"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2033132366848536797",
+    "created_at": "2026-03-15T10:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T11:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033132366848536797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845528159065702400",
+          "start": 3,
+          "username": "mitakoe123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OiWof6hFtW",
+          "end": 57,
+          "expanded_url": "https://x.com/mitakoe123/status/2033043005633073319/photo/1",
+          "media_key": "3_2033042996795682818",
+          "start": 34,
+          "url": "https://t.co/OiWof6hFtW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033132366848536797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 562
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033043005633073319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitakoe123: 包丁(享年8歳)  死因:キャベツ https://t.co/OiWof6hFtW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2033042996795682818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbR1YUaMAI311m.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033042996795682818"
+          ],
+          "media_source_tweet_id": [
+            "2033043005633073319"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033132366848536797",
+        "created_at": "2026-03-15T10:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033132366848536797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845528159065702400",
+              "start": 3,
+              "username": "mitakoe123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OiWof6hFtW",
+              "end": 57,
+              "expanded_url": "https://x.com/mitakoe123/status/2033043005633073319/photo/1",
+              "media_key": "3_2033042996795682818",
+              "start": 34,
+              "url": "https://t.co/OiWof6hFtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033132366848536797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 562
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033043005633073319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitakoe123: 包丁(享年8歳)  死因:キャベツ https://t.co/OiWof6hFtW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033042996795682818"
+          ]
+        },
+        "author_id": "1845528159065702400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033043005633073319",
+        "created_at": "2026-03-15T04:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033043005633073319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OiWof6hFtW",
+              "end": 41,
+              "expanded_url": "https://x.com/mitakoe123/status/2033043005633073319/photo/1",
+              "media_key": "3_2033042996795682818",
+              "start": 18,
+              "url": "https://t.co/OiWof6hFtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033043005633073319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 223601,
+          "like_count": 10380,
+          "quote_count": 53,
+          "reply_count": 78,
+          "retweet_count": 562
+        },
+        "reply_settings": "everyone",
+        "text": "包丁(享年8歳)  死因:キャベツ https://t.co/OiWof6hFtW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 110,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1081
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T18:13:05.000Z",
+        "description": "「えっ」ってなった投稿だけ集めてます。",
+        "id": "1845528159065702400",
+        "name": "見た瞬間、声出たやつ",
+        "pinned_tweet_id": "2033042211399676244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015299146429960192/ym4eZtOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10221,
+          "following_count": 4534,
+          "like_count": 2110,
+          "listed_count": 11,
+          "media_count": 560,
+          "tweet_count": 9738
+        },
+        "username": "mitakoe123",
+        "verified": true
+      }
+    ]
+  }
+}

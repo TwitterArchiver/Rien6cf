@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055618167985274980",
+    "created_at": "2026-05-18T04:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056228279418576936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735501744510263297",
+          "start": 0,
+          "username": "Yaesaki_Mimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056228279418576936",
+    "in_reply_to_user_id": "1735501744510263297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055618167985274980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yaesaki_Mimu 笑えないやん"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055618167985274980].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055618167985274980",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055618167985274980"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055618167985274980",
+        "created_at": "2026-05-18T04:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056228279418576936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735501744510263297",
+              "start": 0,
+              "username": "Yaesaki_Mimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056228279418576936",
+        "in_reply_to_user_id": "1735501744510263297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055618167985274980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yaesaki_Mimu 笑えないやん"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 167,
+          "like_count": 4133,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2096
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T03:27:31.000Z",
+        "description": "すりーでーもでるとかいろいろ あ、一応バイ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mimunohouse.booth.pm",
+                "end": 23,
+                "expanded_url": "https://mimunohouse.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/47yXbLyg8A"
+              }
+            ]
+          }
+        },
+        "id": "1735501744510263297",
+        "location": "くらいとこ",
+        "name": "М̷и̷м̷у̷🐟️🦴【みむ】",
+        "pinned_tweet_id": "2054550978276606448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409697382432768/O5unyrRB_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 1033,
+          "like_count": 116367,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 8669
+        },
+        "url": "https://t.co/47yXbLyg8A",
+        "username": "Yaesaki_Mimu",
+        "verified": false
+      }
+    ]
+  }
+}

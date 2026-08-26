@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080995602222247936"
+      ],
+      "media_source_tweet_id": [
+        "2080995612271796653"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2081397569511739726",
+    "created_at": "2026-07-26T15:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081397569511739726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WCxFbesKpV",
+          "end": 42,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2080995612271796653/photo/1",
+          "media_key": "3_2080995602222247936",
+          "start": 19,
+          "url": "https://t.co/WCxFbesKpV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081397569511739726",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080995612271796653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: https://t.co/WCxFbesKpV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1964,
+        "media_key": "3_2080995602222247936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEueYGbcAA1rxj.jpg",
+        "width": 2426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080995602222247936"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2080995612271796653",
+        "created_at": "2026-07-25T12:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080995612271796653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCxFbesKpV",
+              "end": 23,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2080995612271796653/photo/1",
+              "media_key": "3_2080995602222247936",
+              "start": 0,
+              "url": "https://t.co/WCxFbesKpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080995612271796653",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 25062,
+          "like_count": 1344,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WCxFbesKpV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080995602222247936"
+          ],
+          "media_source_tweet_id": [
+            "2080995612271796653"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2081397569511739726",
+        "created_at": "2026-07-26T15:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081397569511739726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCxFbesKpV",
+              "end": 42,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2080995612271796653/photo/1",
+              "media_key": "3_2080995602222247936",
+              "start": 19,
+              "url": "https://t.co/WCxFbesKpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081397569511739726",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080995612271796653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: https://t.co/WCxFbesKpV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2080735603323523206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 202,
+          "like_count": 8691,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3120
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96656,
+          "following_count": 2182,
+          "like_count": 7326,
+          "listed_count": 202,
+          "media_count": 473,
+          "tweet_count": 3639
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "2021390566261653730",
+    "created_at": "2026-02-11T01:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T02:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021390566261653730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874114063527272448",
+          "start": 3,
+          "username": "sigureisGod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021390566261653730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 222
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021187428787077324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @sigureisGod: 人生の難易度\n\nLevel1 生まれる\nLevel5 友達作る\nLevel10  中学卒業\nLevel30  バイトの面接に受かる\nLevel50   恋人を作る\nLevel100  高校卒業\nLevel250  大学卒業\nLevel400…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2021390566261653730",
+        "created_at": "2026-02-11T01:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021390566261653730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874114063527272448",
+              "start": 3,
+              "username": "sigureisGod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021390566261653730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021187428787077324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @sigureisGod: 人生の難易度\n\nLevel1 生まれる\nLevel5 友達作る\nLevel10  中学卒業\nLevel30  バイトの面接に受かる\nLevel50   恋人を作る\nLevel100  高校卒業\nLevel250  大学卒業\nLevel400…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874114063527272448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2021187428787077324",
+        "created_at": "2026-02-10T11:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021187428787077324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021187428787077324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 187984,
+          "like_count": 6766,
+          "quote_count": 120,
+          "reply_count": 34,
+          "retweet_count": 222
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "人生の難易度\n\nLevel1 生まれる\nLevel5 友達作る\nLevel10  中学卒業\nLevel30  バイトの面接に受かる\nLevel50   恋人を作る\nLevel100  高校卒業\nLevel250  大学卒業\nLevel400  年収1000万\nLevel500   結婚する\nLevel1000  金持ちになる\nLevel5000  社長になる\n\nLevel999999   人間全員と会話する"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 279
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T15:23:20.000Z",
+        "description": "ツイッター廃人界隈 アニメ好き サブ垢→@siguma4gumaboy key→@sigu521 251→@Torial555 相方→@daburutatti36 アイコン制作→@zine_chandayo DMのグループあります。メンバー募集中！入りたい人はリプへ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "siguma4gumaboy"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "sigu521"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Torial555"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "daburutatti36"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "zine_chandayo"
+              }
+            ]
+          }
+        },
+        "id": "1874114063527272448",
+        "name": "しぐ",
+        "pinned_tweet_id": "2020815460967620795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017605837637009408/dz15VnKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 2113,
+          "like_count": 36009,
+          "listed_count": 16,
+          "media_count": 1057,
+          "tweet_count": 16914
+        },
+        "username": "sigureisGod",
+        "verified": false
+      }
+    ]
+  }
+}

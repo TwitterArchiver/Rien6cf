@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052513765195997184"
+      ],
+      "media_source_tweet_id": [
+        "2053090107821850940"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2053443775205441679",
+    "created_at": "2026-05-10T11:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053443775205441679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1943635247863832576",
+          "start": 3,
+          "username": "Busujima_sakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FQHTze9043",
+          "end": 61,
+          "expanded_url": "https://x.com/Busujima_sakura/status/2053090107821850940/video/1",
+          "media_key": "13_2052513765195997184",
+          "start": 38,
+          "url": "https://t.co/FQHTze9043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053443775205441679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053090107821850940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Busujima_sakura: わんこ！！\n\nいや、\nラッコです https://t.co/FQHTze9043"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7267,
+        "height": 720,
+        "media_key": "13_2052513765195997184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052513765195997184/img/YHa8SdjZbcUynavH.jpg",
+        "public_metrics": {
+          "view_count": 17242
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052513765195997184/vid/avc1/480x270/HTNIVGRJYy27DWL3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052513765195997184/vid/avc1/640x360/ZF5gS5WEAjcOk0jL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052513765195997184/vid/avc1/1280x720/-b06BykgEoy7_DE2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052513765195997184/pl/ANGkumbWmQgBcjCB.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052513765195997184"
+          ],
+          "media_source_tweet_id": [
+            "2053090107821850940"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2053443775205441679",
+        "created_at": "2026-05-10T11:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053443775205441679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1943635247863832576",
+              "start": 3,
+              "username": "Busujima_sakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQHTze9043",
+              "end": 61,
+              "expanded_url": "https://x.com/Busujima_sakura/status/2053090107821850940/video/1",
+              "media_key": "13_2052513765195997184",
+              "start": 38,
+              "url": "https://t.co/FQHTze9043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053443775205441679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053090107821850940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Busujima_sakura: わんこ！！\n\nいや、\nラッコです https://t.co/FQHTze9043"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052513765195997184"
+          ]
+        },
+        "author_id": "1943635247863832576",
+        "conversation_id": "2053090107821850940",
+        "created_at": "2026-05-09T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053090107821850940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQHTze9043",
+              "end": 40,
+              "expanded_url": "https://x.com/Busujima_sakura/status/2053090107821850940/video/1",
+              "media_key": "13_2052513765195997184",
+              "start": 17,
+              "url": "https://t.co/FQHTze9043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053090107821850940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 48941,
+          "like_count": 5090,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "わんこ！！\n\nいや、\nラッコです https://t.co/FQHTze9043"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 172,
+          "like_count": 3655,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1959
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:36:40.000Z",
+        "description": "5月は21:30に投稿予定/WiFiあるところでしかX出来ません/\n園館公式ポストが追いにくくなるためフォローはお会いした方のみしています🙏/\nインスタはdm用/\n無断使用・無断転載NG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/busujima_to_sa…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/busujima_to_sakura?igsh=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/BAtIE09qCE"
+              }
+            ]
+          }
+        },
+        "id": "1943635247863832576",
+        "location": "カメラ売場",
+        "name": "毒島(ぶすじま)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008155468217360385/zOFZGiRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 112,
+          "like_count": 3601,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/BAtIE09qCE",
+        "username": "Busujima_sakura",
+        "verified": false
+      }
+    ]
+  }
+}

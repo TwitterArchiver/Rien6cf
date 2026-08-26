@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2037089526167019548",
+    "created_at": "2026-03-26T08:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037089876928336296"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037089876928336296",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037089526167019548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没人的话我会黑箱亲友喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037089512476860419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUyHl7bYAM0c8F.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2037089526167019548",
+        "created_at": "2026-03-26T08:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037089876928336296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037089876928336296",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037089526167019548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没人的话我会黑箱亲友喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037089512476860419"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2037089526167019548",
+        "created_at": "2026-03-26T08:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037089526167019548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AegyU2s5MO",
+              "end": 103,
+              "expanded_url": "https://x.com/Rien6cf/status/2037089526167019548/photo/1",
+              "media_key": "3_2037089512476860419",
+              "start": 80,
+              "url": "https://t.co/AegyU2s5MO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037089526167019548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "50fo！！决定开一个抽奖喵\n我打算抽一点亲测好吃的神必小零食或者小香水，可以折现（20r左右！\n参加条件是评论➕转发➕关注，现关也来得及🥹\n谢谢大家我爱你们 https://t.co/AegyU2s5MO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコと愛と希望がほしいです",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2035372064241303646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 120,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1285
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064418865891950592"
+      ],
+      "media_source_tweet_id": [
+        "2064418896225189889"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064545990250754327",
+    "created_at": "2026-06-10T03:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064545990250754327"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "男鹿水族館GAO"
+        },
+        {
+          "end": 68,
+          "start": 60,
+          "tag": "ゴマフアザラシ"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "こまち"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "ターボ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1286865442682757126",
+          "start": 3,
+          "username": "go38382802"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bFf73ywQRQ",
+          "end": 102,
+          "expanded_url": "https://x.com/go38382802/status/2064418896225189889/video/1",
+          "media_key": "7_2064418865891950592",
+          "start": 79,
+          "url": "https://t.co/bFf73ywQRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064545990250754327",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064418896225189889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @go38382802: 追い払われるターボ😂\n🦭ただ搔いてただけなのだ…\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#こまち　#ターボ https://t.co/bFf73ywQRQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8175,
+        "height": 720,
+        "media_key": "7_2064418865891950592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064418865891950592/pu/img/DNDqI7Y5quxQ_C5H.jpg",
+        "public_metrics": {
+          "view_count": 1269
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064418865891950592/pu/vid/avc1/480x270/QIsNkRAK5DMYYQJ2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064418865891950592/pu/vid/avc1/640x360/ZinZNk3a6HTBs2n1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064418865891950592/pu/vid/avc1/1280x720/6Dg6hGCtg4X2KX1C.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064418865891950592/pu/pl/pZqOhNqj_CLxJDpj.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064418865891950592"
+          ],
+          "media_source_tweet_id": [
+            "2064418896225189889"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064545990250754327",
+        "created_at": "2026-06-10T03:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064545990250754327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "男鹿水族館GAO"
+            },
+            {
+              "end": 68,
+              "start": 60,
+              "tag": "ゴマフアザラシ"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "こまち"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "ターボ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1286865442682757126",
+              "start": 3,
+              "username": "go38382802"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFf73ywQRQ",
+              "end": 102,
+              "expanded_url": "https://x.com/go38382802/status/2064418896225189889/video/1",
+              "media_key": "7_2064418865891950592",
+              "start": 79,
+              "url": "https://t.co/bFf73ywQRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064545990250754327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064418896225189889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @go38382802: 追い払われるターボ😂\n🦭ただ搔いてただけなのだ…\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#こまち　#ターボ https://t.co/bFf73ywQRQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064418865891950592"
+          ]
+        },
+        "author_id": "1286865442682757126",
+        "conversation_id": "2064418896225189889",
+        "created_at": "2026-06-09T18:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064418896225189889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "男鹿水族館GAO"
+            },
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "ゴマフアザラシ"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "こまち"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "ターボ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFf73ywQRQ",
+              "end": 86,
+              "expanded_url": "https://x.com/go38382802/status/2064418896225189889/video/1",
+              "media_key": "7_2064418865891950592",
+              "start": 63,
+              "url": "https://t.co/bFf73ywQRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064418896225189889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3625,
+          "like_count": 345,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "追い払われるターボ😂\n🦭ただ搔いてただけなのだ…\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#こまち　#ターボ https://t.co/bFf73ywQRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5383,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2511
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T03:26:56.000Z",
+        "description": "男鹿水族館のこまちさんに出会い、にわかアザラーとなりました🦭",
+        "id": "1286865442682757126",
+        "name": "りん🍀",
+        "pinned_tweet_id": "1846086991894675655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886001458077937664/wR8Xgfg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 148,
+          "like_count": 30891,
+          "listed_count": 13,
+          "media_count": 2146,
+          "tweet_count": 4496
+        },
+        "username": "go38382802",
+        "verified": false
+      }
+    ]
+  }
+}

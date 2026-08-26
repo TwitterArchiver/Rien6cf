@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054506725143969792"
+      ],
+      "media_source_tweet_id": [
+        "2054506729258496065"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2054561343957770679",
+    "created_at": "2026-05-13T13:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054561343957770679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662417702353526787",
+          "start": 3,
+          "username": "nzqlo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/olBLxQ5Zmx",
+          "end": 49,
+          "expanded_url": "https://x.com/nzqlo/status/2054506729258496065/photo/1",
+          "media_key": "3_2054506725143969792",
+          "start": 26,
+          "url": "https://t.co/olBLxQ5Zmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054561343957770679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054506729258496065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzqlo: 自殺配信してお墓でも立てよう https://t.co/olBLxQ5Zmx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_2054506725143969792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMS-zTbgAAlg_W.jpg",
+        "width": 420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054506725143969792"
+          ],
+          "media_source_tweet_id": [
+            "2054506729258496065"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2054561343957770679",
+        "created_at": "2026-05-13T13:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054561343957770679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662417702353526787",
+              "start": 3,
+              "username": "nzqlo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/olBLxQ5Zmx",
+              "end": 49,
+              "expanded_url": "https://x.com/nzqlo/status/2054506729258496065/photo/1",
+              "media_key": "3_2054506725143969792",
+              "start": 26,
+              "url": "https://t.co/olBLxQ5Zmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054561343957770679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054506729258496065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzqlo: 自殺配信してお墓でも立てよう https://t.co/olBLxQ5Zmx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054506725143969792"
+          ]
+        },
+        "author_id": "1662417702353526787",
+        "conversation_id": "2054506729258496065",
+        "created_at": "2026-05-13T10:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054506729258496065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olBLxQ5Zmx",
+              "end": 38,
+              "expanded_url": "https://x.com/nzqlo/status/2054506729258496065/photo/1",
+              "media_key": "3_2054506725143969792",
+              "start": 15,
+              "url": "https://t.co/olBLxQ5Zmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054506729258496065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 61119,
+          "like_count": 3126,
+          "quote_count": 15,
+          "reply_count": 16,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "自殺配信してお墓でも立てよう https://t.co/olBLxQ5Zmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 170,
+          "like_count": 3886,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2026
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T11:17:37.000Z",
+        "description": "❤︎ @2nwxq🗝@mmnyankill_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "2nwxq"
+              },
+              {
+                "end": 22,
+                "start": 10,
+                "username": "mmnyankill_"
+              }
+            ]
+          }
+        },
+        "id": "1662417702353526787",
+        "name": "m",
+        "pinned_tweet_id": "2051557605290676381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037772529990000640/hOvldnPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3808,
+          "following_count": 28,
+          "like_count": 2970,
+          "listed_count": 8,
+          "media_count": 63,
+          "tweet_count": 575
+        },
+        "username": "nzqlo",
+        "verified": false
+      }
+    ]
+  }
+}

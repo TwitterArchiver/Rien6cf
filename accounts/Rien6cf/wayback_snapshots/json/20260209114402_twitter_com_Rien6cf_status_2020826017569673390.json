@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020783872263540736"
+      ],
+      "media_source_tweet_id": [
+        "2020792289665405157"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2020826017569673390",
+    "created_at": "2026-02-09T11:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T12:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020826017569673390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1511649533763420161",
+          "start": 3,
+          "username": "yukia_1128"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mD80fCWWgM",
+          "end": 47,
+          "expanded_url": "https://x.com/yukia_1128/status/2020792289665405157/photo/1",
+          "media_key": "3_2020783872263540736",
+          "start": 24,
+          "url": "https://t.co/mD80fCWWgM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020826017569673390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 647
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020792289665405157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @yukia_1128: ローリンガール https://t.co/mD80fCWWgM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020783872263540736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtEOaobUAAR41y.jpg",
+        "width": 1547
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020783872263540736"
+          ],
+          "media_source_tweet_id": [
+            "2020792289665405157"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2020826017569673390",
+        "created_at": "2026-02-09T11:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020826017569673390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1511649533763420161",
+              "start": 3,
+              "username": "yukia_1128"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mD80fCWWgM",
+              "end": 47,
+              "expanded_url": "https://x.com/yukia_1128/status/2020792289665405157/photo/1",
+              "media_key": "3_2020783872263540736",
+              "start": 24,
+              "url": "https://t.co/mD80fCWWgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020826017569673390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 647
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020792289665405157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @yukia_1128: ローリンガール https://t.co/mD80fCWWgM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020783872263540736"
+          ]
+        },
+        "author_id": "1511649533763420161",
+        "conversation_id": "2020792289665405157",
+        "created_at": "2026-02-09T09:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020792289665405157"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "ローリンガール",
+              "probability": 0.3661,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mD80fCWWgM",
+              "end": 31,
+              "expanded_url": "https://x.com/yukia_1128/status/2020792289665405157/photo/1",
+              "media_key": "3_2020783872263540736",
+              "start": 8,
+              "url": "https://t.co/mD80fCWWgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020792289665405157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 42547,
+          "like_count": 5391,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 647
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ローリンガール https://t.co/mD80fCWWgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 55,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 237
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T10:19:08.000Z",
+        "description": "初音ミクの絵を描く。FAやご報告等→ #ゆきあちゃんのゆきだるま\nご依頼をされる前にご確認ください→ https://t.co/wQnkfaQcRH",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 19,
+                "tag": "ゆきあちゃんのゆきだるま"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "profcard.info/u/UrrtDlPfQ0TY…",
+                "end": 74,
+                "expanded_url": "https://profcard.info/u/UrrtDlPfQ0TYEtrISEMya0WKHEp2",
+                "start": 51,
+                "url": "https://t.co/wQnkfaQcRH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukia1128",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukia1128",
+                "start": 0,
+                "url": "https://t.co/qsK9ybUBEx"
+              }
+            ]
+          }
+        },
+        "id": "1511649533763420161",
+        "name": "*雪愛*",
+        "pinned_tweet_id": "1995410036093501488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898388258087927809/3voetHC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44773,
+          "following_count": 243,
+          "like_count": 8329,
+          "listed_count": 237,
+          "media_count": 419,
+          "tweet_count": 2740
+        },
+        "url": "https://t.co/qsK9ybUBEx",
+        "username": "yukia_1128",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070318671097176064"
+      ],
+      "media_source_tweet_id": [
+        "2070318673706000392"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2070320027270885392",
+    "created_at": "2026-06-26T01:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070320027270885392"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "凍結"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "拡散希望"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066136751618588672",
+          "start": 3,
+          "username": "xokrkg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SaAeGCrgKt",
+          "end": 52,
+          "expanded_url": "https://x.com/xokrkg/status/2070318673706000392/photo/1",
+          "media_key": "3_2070318671097176064",
+          "start": 29,
+          "url": "https://t.co/SaAeGCrgKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070320027270885392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070318673706000392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xokrkg: たすけて\n #凍結  #拡散希望 https://t.co/SaAeGCrgKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2070318671097176064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLs_3MKbIAAdZPs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070318671097176064"
+          ],
+          "media_source_tweet_id": [
+            "2070318673706000392"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2070320027270885392",
+        "created_at": "2026-06-26T01:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070320027270885392"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "凍結"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "拡散希望"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066136751618588672",
+              "start": 3,
+              "username": "xokrkg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaAeGCrgKt",
+              "end": 52,
+              "expanded_url": "https://x.com/xokrkg/status/2070318673706000392/photo/1",
+              "media_key": "3_2070318671097176064",
+              "start": 29,
+              "url": "https://t.co/SaAeGCrgKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070320027270885392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070318673706000392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xokrkg: たすけて\n #凍結  #拡散希望 https://t.co/SaAeGCrgKt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070318671097176064"
+          ]
+        },
+        "author_id": "2066136751618588672",
+        "conversation_id": "2070318673706000392",
+        "created_at": "2026-06-26T01:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070318673706000392"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "凍結"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "拡散希望"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaAeGCrgKt",
+              "end": 40,
+              "expanded_url": "https://x.com/xokrkg/status/2070318673706000392/photo/1",
+              "media_key": "3_2070318671097176064",
+              "start": 17,
+              "url": "https://t.co/SaAeGCrgKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070318673706000392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "たすけて\n #凍結  #拡散希望 https://t.co/SaAeGCrgKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 191,
+          "like_count": 6275,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2699
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T12:34:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ldq1m9fijy331t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ldq1m9fijy331to?t=FFtWoe&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/zxYciIpwUk"
+              }
+            ]
+          }
+        },
+        "id": "2066136751618588672",
+        "location": "本垢凍結  前世2個",
+        "name": "怖（こぬの）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066146669029400576/ITCZAeIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 16,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/zxYciIpwUk",
+        "username": "xokrkg",
+        "verified": false
+      }
+    ]
+  }
+}

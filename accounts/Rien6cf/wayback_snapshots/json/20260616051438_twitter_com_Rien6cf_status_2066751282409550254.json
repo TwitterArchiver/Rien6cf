@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2066751047927058471",
+    "created_at": "2026-06-16T05:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066751282409550254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512401066981146629",
+          "start": 0,
+          "username": "Tsukishima_hane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066751282409550254",
+    "in_reply_to_user_id": "1512401066981146629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066751047927058471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukishima_hane 我发现留学真能改变阶级啊，以前我只是个平民，现在我都想偷点东西。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066751047927058471].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066751047927058471",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066751047927058471"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2066751047927058471",
+        "created_at": "2026-06-16T05:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066751282409550254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512401066981146629",
+              "start": 0,
+              "username": "Tsukishima_hane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066751282409550254",
+        "in_reply_to_user_id": "1512401066981146629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066751047927058471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukishima_hane 我发现留学真能改变阶级啊，以前我只是个平民，现在我都想偷点东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 188,
+          "like_count": 5786,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2605
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T12:05:01.000Z",
+        "description": "月嶋羽音です。\n一具男尸｜🏳️‍🌈 无性别｜自介在隔壁（目移）｜江東区｜镜中的我@GABA_ga_suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "GABA_ga_suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "end": 23,
+                "expanded_url": "http://marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "start": 0,
+                "url": "https://t.co/LhhLTxA2kl"
+              }
+            ]
+          }
+        },
+        "id": "1512401066981146629",
+        "location": "少女ノ夢",
+        "name": "金牌厨师长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961513268922781696/WOi1NOc2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 359,
+          "like_count": 3229,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 3324
+        },
+        "url": "https://t.co/LhhLTxA2kl",
+        "username": "Tsukishima_hane",
+        "verified": false
+      }
+    ]
+  }
+}

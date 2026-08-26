@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085712571001430016",
+        "3_2085712570942726144"
+      ],
+      "media_source_tweet_id": [
+        "2085712577699651643",
+        "2085712577699651643"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2085723757424050384",
+    "created_at": "2026-08-07T13:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085723757424050384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1378792485728649220",
+          "start": 3,
+          "username": "Nonfic_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5EL7yS0nKh",
+          "end": 62,
+          "expanded_url": "https://x.com/Nonfic_official/status/2085712577699651643/photo/1",
+          "media_key": "3_2085712571001430016",
+          "start": 39,
+          "url": "https://t.co/5EL7yS0nKh"
+        },
+        {
+          "display_url": "pic.x.com/5EL7yS0nKh",
+          "end": 62,
+          "expanded_url": "https://x.com/Nonfic_official/status/2085712577699651643/photo/1",
+          "media_key": "3_2085712570942726144",
+          "start": 39,
+          "url": "https://t.co/5EL7yS0nKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085723757424050384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3487
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085712577699651643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nonfic_official: のんふぃく！メンバー卒業のお知らせ https://t.co/5EL7yS0nKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2085712571001430016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHwiGIbYAAGIRr.jpg",
+        "width": 2480
+      },
+      {
+        "height": 3508,
+        "media_key": "3_2085712570942726144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHwiF6boAA1-CJ.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085712571001430016",
+            "3_2085712570942726144"
+          ]
+        },
+        "author_id": "1378792485728649220",
+        "conversation_id": "2085712577699651643",
+        "created_at": "2026-08-07T13:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085712577699651643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EL7yS0nKh",
+              "end": 41,
+              "expanded_url": "https://x.com/Nonfic_official/status/2085712577699651643/photo/1",
+              "media_key": "3_2085712571001430016",
+              "start": 18,
+              "url": "https://t.co/5EL7yS0nKh"
+            },
+            {
+              "display_url": "pic.x.com/5EL7yS0nKh",
+              "end": 41,
+              "expanded_url": "https://x.com/Nonfic_official/status/2085712577699651643/photo/1",
+              "media_key": "3_2085712570942726144",
+              "start": 18,
+              "url": "https://t.co/5EL7yS0nKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085712577699651643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 823,
+          "impression_count": 1428874,
+          "like_count": 20697,
+          "quote_count": 5207,
+          "reply_count": 202,
+          "retweet_count": 3488
+        },
+        "reply_settings": "everyone",
+        "text": "のんふぃく！メンバー卒業のお知らせ https://t.co/5EL7yS0nKh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085712571001430016",
+            "3_2085712570942726144"
+          ],
+          "media_source_tweet_id": [
+            "2085712577699651643",
+            "2085712577699651643"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2085723757424050384",
+        "created_at": "2026-08-07T13:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085723757424050384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1378792485728649220",
+              "start": 3,
+              "username": "Nonfic_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EL7yS0nKh",
+              "end": 62,
+              "expanded_url": "https://x.com/Nonfic_official/status/2085712577699651643/photo/1",
+              "media_key": "3_2085712571001430016",
+              "start": 39,
+              "url": "https://t.co/5EL7yS0nKh"
+            },
+            {
+              "display_url": "pic.x.com/5EL7yS0nKh",
+              "end": 62,
+              "expanded_url": "https://x.com/Nonfic_official/status/2085712577699651643/photo/1",
+              "media_key": "3_2085712570942726144",
+              "start": 39,
+              "url": "https://t.co/5EL7yS0nKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085723757424050384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3487
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085712577699651643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nonfic_official: のんふぃく！メンバー卒業のお知らせ https://t.co/5EL7yS0nKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 211,
+          "like_count": 9281,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3287
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T19:33:46.000Z",
+        "description": "「貴方の愛した私はノンフィクションですか？」公式グッズ（https://t.co/SpQemP1AOe）出演依頼・お問い合わせ▶non-fiction@imaginate.jp / ライブ予定(https://t.co/Gp9qN2Vpe5) /HEROINES #のんふぃく #ふぃくみん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 132,
+                "tag": "のんふぃく"
+              },
+              {
+                "end": 145,
+                "start": 139,
+                "tag": "ふぃくみん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "heroines.stores.jp",
+                "end": 51,
+                "expanded_url": "http://heroines.stores.jp",
+                "start": 28,
+                "url": "https://t.co/SpQemP1AOe"
+              },
+              {
+                "display_url": "timetr.ee/pc/nonfic_offi…",
+                "end": 120,
+                "expanded_url": "https://timetr.ee/pc/nonfic_official",
+                "start": 97,
+                "url": "https://t.co/Gp9qN2Vpe5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCHESj…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCHESjSxJMTVqYnJU724pwGw",
+                "start": 0,
+                "url": "https://t.co/M8wkVhSX9J"
+              }
+            ]
+          }
+        },
+        "id": "1378792485728649220",
+        "location": "HEROINES【ヒロインズ】",
+        "name": "のんふぃく！",
+        "pinned_tweet_id": "2078072263480684719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443613332481609730/s0jNsucA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89938,
+          "following_count": 15,
+          "like_count": 26,
+          "listed_count": 495,
+          "media_count": 2708,
+          "tweet_count": 2958
+        },
+        "url": "https://t.co/M8wkVhSX9J",
+        "username": "Nonfic_official",
+        "verified": true
+      }
+    ]
+  }
+}

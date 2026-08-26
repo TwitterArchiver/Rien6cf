@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2063999382505336832"
+      ],
+      "media_source_tweet_id": [
+        "2063999389564363125"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2064245638267797616",
+    "created_at": "2026-06-09T07:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064245638267797616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1453566612628410371",
+          "start": 3,
+          "username": "ruikenpi02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oYJqXOh7Qc",
+          "end": 39,
+          "expanded_url": "https://x.com/ruikenpi02/status/2063999389564363125/photo/1",
+          "media_key": "16_2063999382505336832",
+          "start": 16,
+          "url": "https://t.co/oYJqXOh7Qc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064245638267797616",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063999389564363125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruikenpi02: https://t.co/oYJqXOh7Qc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2063999382505336832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKTMgLrbMAAbtHt.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKTMgLrbMAAbtHt.mp4"
+          }
+        ],
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063999382505336832"
+          ],
+          "media_source_tweet_id": [
+            "2063999389564363125"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2064245638267797616",
+        "created_at": "2026-06-09T07:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064245638267797616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1453566612628410371",
+              "start": 3,
+              "username": "ruikenpi02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYJqXOh7Qc",
+              "end": 39,
+              "expanded_url": "https://x.com/ruikenpi02/status/2063999389564363125/photo/1",
+              "media_key": "16_2063999382505336832",
+              "start": 16,
+              "url": "https://t.co/oYJqXOh7Qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064245638267797616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063999389564363125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruikenpi02: https://t.co/oYJqXOh7Qc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063999382505336832"
+          ]
+        },
+        "author_id": "1453566612628410371",
+        "conversation_id": "2063999389564363125",
+        "created_at": "2026-06-08T14:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063999389564363125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYJqXOh7Qc",
+              "end": 23,
+              "expanded_url": "https://x.com/ruikenpi02/status/2063999389564363125/photo/1",
+              "media_key": "16_2063999382505336832",
+              "start": 0,
+              "url": "https://t.co/oYJqXOh7Qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063999389564363125",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 3556,
+          "like_count": 579,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oYJqXOh7Qc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 187,
+          "like_count": 5332,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2491
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T03:38:13.000Z",
+        "description": "どっとのるです。るいちの音楽垢兼雑多呟き Mix cloud▶︎https://t.co/Ls88loz2jq 絵描く@rui6001\n本垢にて一生ボカロイラスト依頼受け付けております。DMまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "rui6001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mixcloud.com/DotnoRu/",
+                "end": 55,
+                "expanded_url": "https://www.mixcloud.com/DotnoRu/",
+                "start": 32,
+                "url": "https://t.co/Ls88loz2jq"
+              }
+            ]
+          }
+        },
+        "id": "1453566612628410371",
+        "name": ".noЯu",
+        "pinned_tweet_id": "2059971402627960889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059970379846959104/FLAUsoee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 195,
+          "like_count": 14347,
+          "listed_count": 2,
+          "media_count": 1533,
+          "tweet_count": 17224
+        },
+        "username": "ruikenpi02",
+        "verified": false
+      }
+    ]
+  }
+}

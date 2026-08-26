@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019777122240548864"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2019777135066718219",
+    "created_at": "2026-02-06T14:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019777135066718219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsgf55qVqG",
+          "end": 53,
+          "expanded_url": "https://x.com/Rien6cf/status/2019777135066718219/photo/1",
+          "media_key": "3_2019777122240548864",
+          "start": 30,
+          "url": "https://t.co/bsgf55qVqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019777135066718219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ハートちょうだいーー\nたぶんもう二度としないから記念として https://t.co/bsgf55qVqG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2019777135066718219].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2019777135066718219",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2019777135066718219"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019777122240548864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAewl2ib0AA5d99.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015660556133478400/xRLf1Bjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 49,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 174
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

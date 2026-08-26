@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028412166517477376",
+        "3_2028412167322750977",
+        "3_2028412169801646080",
+        "3_2028412170598567936"
+      ],
+      "media_source_tweet_id": [
+        "2028412173165486176",
+        "2028412173165486176",
+        "2028412173165486176",
+        "2028412173165486176"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2028714690646569000",
+    "created_at": "2026-03-03T06:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T07:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028714690646569000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888926982551060480",
+          "start": 3,
+          "username": "Kurihira2025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rw143qQZIH",
+          "end": 54,
+          "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+          "media_key": "3_2028412166517477376",
+          "start": 31,
+          "url": "https://t.co/rw143qQZIH"
+        },
+        {
+          "display_url": "pic.x.com/rw143qQZIH",
+          "end": 54,
+          "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+          "media_key": "3_2028412167322750977",
+          "start": 31,
+          "url": "https://t.co/rw143qQZIH"
+        },
+        {
+          "display_url": "pic.x.com/rw143qQZIH",
+          "end": 54,
+          "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+          "media_key": "3_2028412169801646080",
+          "start": 31,
+          "url": "https://t.co/rw143qQZIH"
+        },
+        {
+          "display_url": "pic.x.com/rw143qQZIH",
+          "end": 54,
+          "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+          "media_key": "3_2028412170598567936",
+          "start": 31,
+          "url": "https://t.co/rw143qQZIH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028714690646569000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 586
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028412173165486176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kurihira2025: JRに喧嘩を売るスタイル https://t.co/rw143qQZIH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2028412166517477376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZeHlNa0AA1Glq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2028412167322750977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZeHoNaUAEEd32.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2028412169801646080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZeHxcbQAAVM1l.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2028412170598567936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZeH0abUAAPZJr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028412166517477376",
+            "3_2028412167322750977",
+            "3_2028412169801646080",
+            "3_2028412170598567936"
+          ],
+          "media_source_tweet_id": [
+            "2028412173165486176",
+            "2028412173165486176",
+            "2028412173165486176",
+            "2028412173165486176"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2028714690646569000",
+        "created_at": "2026-03-03T06:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028714690646569000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888926982551060480",
+              "start": 3,
+              "username": "Kurihira2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rw143qQZIH",
+              "end": 54,
+              "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+              "media_key": "3_2028412166517477376",
+              "start": 31,
+              "url": "https://t.co/rw143qQZIH"
+            },
+            {
+              "display_url": "pic.x.com/rw143qQZIH",
+              "end": 54,
+              "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+              "media_key": "3_2028412167322750977",
+              "start": 31,
+              "url": "https://t.co/rw143qQZIH"
+            },
+            {
+              "display_url": "pic.x.com/rw143qQZIH",
+              "end": 54,
+              "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+              "media_key": "3_2028412169801646080",
+              "start": 31,
+              "url": "https://t.co/rw143qQZIH"
+            },
+            {
+              "display_url": "pic.x.com/rw143qQZIH",
+              "end": 54,
+              "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+              "media_key": "3_2028412170598567936",
+              "start": 31,
+              "url": "https://t.co/rw143qQZIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028714690646569000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 586
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028412173165486176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kurihira2025: JRに喧嘩を売るスタイル https://t.co/rw143qQZIH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028412166517477376",
+            "3_2028412167322750977",
+            "3_2028412169801646080",
+            "3_2028412170598567936"
+          ]
+        },
+        "author_id": "1888926982551060480",
+        "conversation_id": "2028412173165486176",
+        "created_at": "2026-03-02T10:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028412173165486176"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "JR",
+              "probability": 0.5117,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rw143qQZIH",
+              "end": 36,
+              "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+              "media_key": "3_2028412166517477376",
+              "start": 13,
+              "url": "https://t.co/rw143qQZIH"
+            },
+            {
+              "display_url": "pic.x.com/rw143qQZIH",
+              "end": 36,
+              "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+              "media_key": "3_2028412167322750977",
+              "start": 13,
+              "url": "https://t.co/rw143qQZIH"
+            },
+            {
+              "display_url": "pic.x.com/rw143qQZIH",
+              "end": 36,
+              "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+              "media_key": "3_2028412169801646080",
+              "start": 13,
+              "url": "https://t.co/rw143qQZIH"
+            },
+            {
+              "display_url": "pic.x.com/rw143qQZIH",
+              "end": 36,
+              "expanded_url": "https://x.com/Kurihira2025/status/2028412173165486176/photo/1",
+              "media_key": "3_2028412170598567936",
+              "start": 13,
+              "url": "https://t.co/rw143qQZIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028412173165486176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 272023,
+          "like_count": 3046,
+          "quote_count": 119,
+          "reply_count": 33,
+          "retweet_count": 586
+        },
+        "reply_settings": "everyone",
+        "text": "JRに喧嘩を売るスタイル https://t.co/rw143qQZIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォロー申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 92,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 690
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T12:24:50.000Z",
+        "description": "馬車軌の美しさ。kissX50+18-55から卒業したい",
+        "id": "1888926982551060480",
+        "location": "杉並と練馬の狭間",
+        "name": "くりひら",
+        "pinned_tweet_id": "2027961622149656600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329977956638720/SmQmCZXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 685,
+          "like_count": 11282,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 860
+        },
+        "username": "Kurihira2025",
+        "verified": false
+      }
+    ]
+  }
+}

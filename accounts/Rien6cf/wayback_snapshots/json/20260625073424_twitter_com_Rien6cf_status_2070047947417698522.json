@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069963315917537280",
+        "3_2069963315921739776"
+      ],
+      "media_source_tweet_id": [
+        "2069963320149553346",
+        "2069963320149553346"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070047947417698522",
+    "created_at": "2026-06-25T07:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070047947417698522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1876488774789873664",
+          "start": 3,
+          "username": "hakuhime_az"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oAiKbCi7D2",
+          "end": 65,
+          "expanded_url": "https://x.com/hakuhime_az/status/2069963320149553346/photo/1",
+          "media_key": "3_2069963315917537280",
+          "start": 42,
+          "url": "https://t.co/oAiKbCi7D2"
+        },
+        {
+          "display_url": "pic.x.com/oAiKbCi7D2",
+          "end": 65,
+          "expanded_url": "https://x.com/hakuhime_az/status/2069963320149553346/photo/1",
+          "media_key": "3_2069963315921739776",
+          "start": 42,
+          "url": "https://t.co/oAiKbCi7D2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070047947417698522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069963320149553346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakuhime_az: ポンちゃんいつのまにのり味になっていたの！ꉂꉂ🦭 https://t.co/oAiKbCi7D2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069963315917537280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLn8qy9awAAvha9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 793,
+        "media_key": "3_2069963315921739776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLn8qy-a4AA0Th9.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069963315917537280",
+            "3_2069963315921739776"
+          ],
+          "media_source_tweet_id": [
+            "2069963320149553346",
+            "2069963320149553346"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070047947417698522",
+        "created_at": "2026-06-25T07:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070047947417698522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1876488774789873664",
+              "start": 3,
+              "username": "hakuhime_az"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAiKbCi7D2",
+              "end": 65,
+              "expanded_url": "https://x.com/hakuhime_az/status/2069963320149553346/photo/1",
+              "media_key": "3_2069963315917537280",
+              "start": 42,
+              "url": "https://t.co/oAiKbCi7D2"
+            },
+            {
+              "display_url": "pic.x.com/oAiKbCi7D2",
+              "end": 65,
+              "expanded_url": "https://x.com/hakuhime_az/status/2069963320149553346/photo/1",
+              "media_key": "3_2069963315921739776",
+              "start": 42,
+              "url": "https://t.co/oAiKbCi7D2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070047947417698522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069963320149553346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakuhime_az: ポンちゃんいつのまにのり味になっていたの！ꉂꉂ🦭 https://t.co/oAiKbCi7D2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069963315917537280",
+            "3_2069963315921739776"
+          ]
+        },
+        "author_id": "1876488774789873664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069963320149553346",
+        "created_at": "2026-06-25T01:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069963320149553346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAiKbCi7D2",
+              "end": 48,
+              "expanded_url": "https://x.com/hakuhime_az/status/2069963320149553346/photo/1",
+              "media_key": "3_2069963315917537280",
+              "start": 25,
+              "url": "https://t.co/oAiKbCi7D2"
+            },
+            {
+              "display_url": "pic.x.com/oAiKbCi7D2",
+              "end": 48,
+              "expanded_url": "https://x.com/hakuhime_az/status/2069963320149553346/photo/1",
+              "media_key": "3_2069963315921739776",
+              "start": 25,
+              "url": "https://t.co/oAiKbCi7D2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069963320149553346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4665,
+          "like_count": 293,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "ポンちゃんいつのまにのり味になっていたの！ꉂꉂ🦭 https://t.co/oAiKbCi7D2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "🗝 @Shiki0830_\n選別あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Shiki0830_"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 190,
+          "like_count": 6191,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2684
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T04:39:37.000Z",
+        "description": "アザラシ写真家🦭@hakuhime_ は永久凍結🥲🦭月刊SEALとアザラー座談会 やってます✨個体識別班🦭今いちばん欲しいものはアザラシのヒゲ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "hakuhime_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hakuhime_az/pr…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hakuhime_az/profilecard/?igsh=N2o5aDdpMjdobGc4",
+                "start": 0,
+                "url": "https://t.co/TYj9eCHryb"
+              }
+            ]
+          }
+        },
+        "id": "1876488774789873664",
+        "name": "はくひめ🦭",
+        "pinned_tweet_id": "1970433380568449197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876488922513203200/Zu2dVEod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 643,
+          "like_count": 11177,
+          "listed_count": 21,
+          "media_count": 1581,
+          "tweet_count": 10609
+        },
+        "url": "https://t.co/TYj9eCHryb",
+        "username": "hakuhime_az",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2023225485074034903",
+    "created_at": "2026-02-16T02:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023225485074034903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suiseimushi__0…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/suiseimushi__02/status/2022971035356975446",
+          "start": 9,
+          "url": "https://t.co/wPC9Bg6aVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023225485074034903",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022971035356975446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当たり前じゃんw https://t.co/wPC9Bg6aVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022971027274584064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMJbl-b0AAuBoD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2023225485074034903",
+        "created_at": "2026-02-16T02:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023225485074034903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suiseimushi__0…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/suiseimushi__02/status/2022971035356975446",
+              "start": 9,
+              "url": "https://t.co/wPC9Bg6aVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023225485074034903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022971035356975446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当たり前じゃんw https://t.co/wPC9Bg6aVI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022971027274584064"
+          ]
+        },
+        "author_id": "1794250093421629440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022971035356975446",
+        "created_at": "2026-02-15T09:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022971035356975446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnkfLLaWXn",
+              "end": 39,
+              "expanded_url": "https://x.com/suiseimushi__02/status/2022971035356975446/photo/1",
+              "media_key": "3_2022971027274584064",
+              "start": 16,
+              "url": "https://t.co/ZnkfLLaWXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022971035356975446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 632618,
+          "like_count": 17751,
+          "quote_count": 494,
+          "reply_count": 84,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "びっくりするほど、美味しく無い https://t.co/ZnkfLLaWXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "关于理衣的一切。08/地雷系/偶尔一o 常に無言フォロー　前世@みんなの黙示録",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2017096414896279719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 421
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T06:12:20.000Z",
+        "description": "無芸大食",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/85iarnwovmumcw…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/85iarnwovmumcwc?t=NOjZ4g&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/zBzdGmTiJX"
+              }
+            ]
+          }
+        },
+        "id": "1794250093421629440",
+        "name": "山田田中",
+        "pinned_tweet_id": "1880290221625094508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877665712573190144/vVHgHY1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 763,
+          "like_count": 72613,
+          "listed_count": 20,
+          "media_count": 1369,
+          "tweet_count": 14912
+        },
+        "url": "https://t.co/zBzdGmTiJX",
+        "username": "suiseimushi__02",
+        "verified": false
+      }
+    ]
+  }
+}

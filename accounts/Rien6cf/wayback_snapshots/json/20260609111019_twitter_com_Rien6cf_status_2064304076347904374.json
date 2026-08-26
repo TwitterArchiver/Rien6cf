@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2064302074964345131",
+    "created_at": "2026-06-09T11:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064304076347904374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735501744510263297",
+          "start": 0,
+          "username": "Yaesaki_Mimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064304076347904374",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064302074964345131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yaesaki_Mimu \n1.呼び方：みむさん\n2.ガチの本音： 賢い\n3.ブロックされたら？： 泣く\n4.好感度： 75／100\n5.身内にするなら： 弟かな\n6.通話できるか： たぶん\n7.リアルで会えるか： 会える\n8.LINE交換できるか： した\n9.彼氏彼女いそうか∶いなさそう\n10.このツイやる　やったら無限ループじゃん"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2064302074964345131",
+        "created_at": "2026-06-09T11:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064304076347904374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735501744510263297",
+              "start": 0,
+              "username": "Yaesaki_Mimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064304076347904374",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064302074964345131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yaesaki_Mimu \n1.呼び方：みむさん\n2.ガチの本音： 賢い\n3.ブロックされたら？： 泣く\n4.好感度： 75／100\n5.身内にするなら： 弟かな\n6.通話できるか： たぶん\n7.リアルで会えるか： 会える\n8.LINE交換できるか： した\n9.彼氏彼女いそうか∶いなさそう\n10.このツイやる　やったら無限ループじゃん"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2064302074964345131",
+        "created_at": "2026-06-09T11:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064302074964345131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "いいねでやる"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064302074964345131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#いいねでやる\n\n1.呼び方：\n2.ガチの本音： \n3.ブロックされたら？： \n4.好感度： \n5.身内にするなら： \n6.通話できるか： \n7.リアルで会えるか： \n8.LINE交換できるか： \n9.彼氏彼女いそうか∶ \n10.このツイやる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 185,
+          "like_count": 5351,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2496
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T03:27:31.000Z",
+        "description": "3Dモデルとかいろいろ",
+        "id": "1735501744510263297",
+        "location": "くらいとこ",
+        "name": "みむ🐟️🦴【MIMU】",
+        "pinned_tweet_id": "2054550978276606448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015409697382432768/O5unyrRB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 1055,
+          "like_count": 122027,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 9159
+        },
+        "username": "Yaesaki_Mimu",
+        "verified": false
+      }
+    ]
+  }
+}

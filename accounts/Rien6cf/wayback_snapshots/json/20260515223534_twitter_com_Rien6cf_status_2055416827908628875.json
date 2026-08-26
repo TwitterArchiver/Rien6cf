@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055243507963723776"
+      ],
+      "media_source_tweet_id": [
+        "2055243510828441768"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2055416827908628875",
+    "created_at": "2026-05-15T22:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T23:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055416827908628875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IH6NYHKU4i",
+          "end": 42,
+          "expanded_url": "https://x.com/Kyanu_tut/status/2055243510828441768/photo/1",
+          "media_key": "3_2055243507963723776",
+          "start": 19,
+          "url": "https://t.co/IH6NYHKU4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055416827908628875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055243510828441768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 你们谁 https://t.co/IH6NYHKU4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1718,
+        "media_key": "3_2055243507963723776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWxFNMbAAAWe6Y.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055243507963723776"
+          ],
+          "media_source_tweet_id": [
+            "2055243510828441768"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2055416827908628875",
+        "created_at": "2026-05-15T22:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055416827908628875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IH6NYHKU4i",
+              "end": 42,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2055243510828441768/photo/1",
+              "media_key": "3_2055243507963723776",
+              "start": 19,
+              "url": "https://t.co/IH6NYHKU4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055416827908628875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055243510828441768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 你们谁 https://t.co/IH6NYHKU4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055243507963723776"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2055243510828441768",
+        "created_at": "2026-05-15T11:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055243510828441768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IH6NYHKU4i",
+              "end": 27,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2055243510828441768/photo/1",
+              "media_key": "3_2055243507963723776",
+              "start": 4,
+              "url": "https://t.co/IH6NYHKU4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055243510828441768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5105,
+          "like_count": 142,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/IH6NYHKU4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nADHD/ASD  SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 168,
+          "like_count": 3976,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2059
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 411,
+          "like_count": 715,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 2001
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

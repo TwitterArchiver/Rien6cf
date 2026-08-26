@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2064621640831652222",
+    "created_at": "2026-06-10T08:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064621640831652222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17306975",
+          "start": 3,
+          "username": "livedoornews"
+        }
+      ],
+      "urls": [
+        {
+          "description": "通信カラオケ・JOYSOUNDのカラオケ総合デイリーランキング(6月7日付)で、CMでおなじみのサウンドロゴ「伯方の塩」が4位にランクインした。数秒で完結する“究極のタイパ”コンテンツが、カラオケの楽しみ方に新たな",
+          "display_url": "news.livedoor.com/article/detail…",
+          "end": 81,
+          "expanded_url": "https://news.livedoor.com/article/detail/31503692/",
+          "images": [
+            {
+              "height": 734,
+              "url": "https://pbs.twimg.com/news_img/2064565975811289088/oXlKt86-?format=jpg&name=orig",
+              "width": 1108
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2064565975811289088/oXlKt86-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 58,
+          "status": 200,
+          "title": "JOYSOUND総合ランキング4位に「伯方の塩」 “究極のタイパ”でカラオケトレンドに異変",
+          "unwound_url": "https://news.livedoor.com/article/detail/31503692/",
+          "url": "https://t.co/74PrJQu90I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064621640831652222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064565972246110308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livedoornews: 【異例】「伯方の塩」カラオケ・JOYSOUNDの総合ランキング4位にランクイン\nhttps://t.co/74PrJQu90I\n\n2025年12月の配信開始以来、SNSを中心に話題を集めてきたコンテンツ。短いフレーズを一瞬で歌い切る爽快感に加…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_2064560097909723136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbKeHVa0AAv1Ay.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2064621640831652222",
+        "created_at": "2026-06-10T08:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064621640831652222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17306975",
+              "start": 3,
+              "username": "livedoornews"
+            }
+          ],
+          "urls": [
+            {
+              "description": "通信カラオケ・JOYSOUNDのカラオケ総合デイリーランキング(6月7日付)で、CMでおなじみのサウンドロゴ「伯方の塩」が4位にランクインした。数秒で完結する“究極のタイパ”コンテンツが、カラオケの楽しみ方に新たな",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 81,
+              "expanded_url": "https://news.livedoor.com/article/detail/31503692/",
+              "images": [
+                {
+                  "height": 734,
+                  "url": "https://pbs.twimg.com/news_img/2064565975811289088/oXlKt86-?format=jpg&name=orig",
+                  "width": 1108
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064565975811289088/oXlKt86-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "JOYSOUND総合ランキング4位に「伯方の塩」 “究極のタイパ”でカラオケトレンドに異変",
+              "unwound_url": "https://news.livedoor.com/article/detail/31503692/",
+              "url": "https://t.co/74PrJQu90I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064621640831652222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064565972246110308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livedoornews: 【異例】「伯方の塩」カラオケ・JOYSOUNDの総合ランキング4位にランクイン\nhttps://t.co/74PrJQu90I\n\n2025年12月の配信開始以来、SNSを中心に話題を集めてきたコンテンツ。短いフレーズを一瞬で歌い切る爽快感に加…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064560097909723136"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2064565972246110308",
+        "created_at": "2026-06-10T04:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064565972246110308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "通信カラオケ・JOYSOUNDのカラオケ総合デイリーランキング(6月7日付)で、CMでおなじみのサウンドロゴ「伯方の塩」が4位にランクインした。数秒で完結する“究極のタイパ”コンテンツが、カラオケの楽しみ方に新たな",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 63,
+              "expanded_url": "https://news.livedoor.com/article/detail/31503692/",
+              "images": [
+                {
+                  "height": 734,
+                  "url": "https://pbs.twimg.com/news_img/2064565975811289088/oXlKt86-?format=jpg&name=orig",
+                  "width": 1108
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064565975811289088/oXlKt86-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "JOYSOUND総合ランキング4位に「伯方の塩」 “究極のタイパ”でカラオケトレンドに異変",
+              "unwound_url": "https://news.livedoor.com/article/detail/31503692/",
+              "url": "https://t.co/74PrJQu90I"
+            },
+            {
+              "display_url": "pic.x.com/yDUxzNHu7d",
+              "end": 186,
+              "expanded_url": "https://x.com/livedoornews/status/2064565972246110308/photo/1",
+              "media_key": "3_2064560097909723136",
+              "start": 163,
+              "url": "https://t.co/yDUxzNHu7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064565972246110308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1101,
+          "impression_count": 752702,
+          "like_count": 13384,
+          "quote_count": 720,
+          "reply_count": 164,
+          "retweet_count": 4171
+        },
+        "reply_settings": "everyone",
+        "text": "【異例】「伯方の塩」カラオケ・JOYSOUNDの総合ランキング4位にランクイン\nhttps://t.co/74PrJQu90I\n\n2025年12月の配信開始以来、SNSを中心に話題を集めてきたコンテンツ。短いフレーズを一瞬で歌い切る爽快感に加え、カラオケ採点機能にも対応。新たな“定番コンテンツ”としての存在感を高めている。 https://t.co/yDUxzNHu7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 187,
+          "like_count": 5406,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2522
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169956,
+          "following_count": 108,
+          "like_count": 2287,
+          "listed_count": 13995,
+          "media_count": 290434,
+          "tweet_count": 468270
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062100555678519694",
+    "created_at": "2026-06-03T09:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062100555678519694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2021708716173881344",
+          "start": 3,
+          "username": "imshiptopgong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062100555678519694",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1065
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062048244432347595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imshiptopgong: 생리왜함?\n솔직히 미성년자는 생리하먄 안되는거 아님?\n임신할일 없고 임신하면 인생 망하잖아\n그냥 20살 되자마자 모두가\n하나 둘 셋 생리 시작! 이러면 안되는거야?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062100555678519694",
+        "created_at": "2026-06-03T09:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062100555678519694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2021708716173881344",
+              "start": 3,
+              "username": "imshiptopgong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062100555678519694",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1065
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062048244432347595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imshiptopgong: 생리왜함?\n솔직히 미성년자는 생리하먄 안되는거 아님?\n임신할일 없고 임신하면 인생 망하잖아\n그냥 20살 되자마자 모두가\n하나 둘 셋 생리 시작! 이러면 안되는거야?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021708716173881344",
+        "conversation_id": "2062048244432347595",
+        "created_at": "2026-06-03T05:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062048244432347595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062048244432347595",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 390179,
+          "like_count": 9278,
+          "quote_count": 352,
+          "reply_count": 37,
+          "retweet_count": 1065
+        },
+        "reply_settings": "everyone",
+        "text": "생리왜함?\n솔직히 미성년자는 생리하먄 안되는거 아님?\n임신할일 없고 임신하면 인생 망하잖아\n그냥 20살 되자마자 모두가\n하나 둘 셋 생리 시작! 이러면 안되는거야?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 184,
+          "like_count": 4994,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2373
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T22:13:50.000Z",
+        "description": "",
+        "id": "2021708716173881344",
+        "name": "응애",
+        "pinned_tweet_id": "2057864891822964844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061120550194622464/Tx-OCgWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 128,
+          "like_count": 18746,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 7055
+        },
+        "username": "imshiptopgong",
+        "verified": false
+      }
+    ]
+  }
+}

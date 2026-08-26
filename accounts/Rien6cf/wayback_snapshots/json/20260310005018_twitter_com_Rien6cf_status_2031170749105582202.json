@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2031170749105582202",
+    "created_at": "2026-03-10T00:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T01:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031170749105582202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/takepon5895/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/takepon5895/status/2030992088981221606",
+          "start": 13,
+          "url": "https://t.co/ksb2bknAVn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031170749105582202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030992088981221606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "子作りから不倫までって草 https://t.co/ksb2bknAVn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2030992082048053248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-Iibga8AAUXJX.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2031170749105582202",
+        "created_at": "2026-03-10T00:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031170749105582202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takepon5895/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/takepon5895/status/2030992088981221606",
+              "start": 13,
+              "url": "https://t.co/ksb2bknAVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031170749105582202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030992088981221606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "子作りから不倫までって草 https://t.co/ksb2bknAVn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030992082048053248"
+          ]
+        },
+        "author_id": "2015404916261699584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042847671",
+              "name": "UNIQLO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042847671",
+              "name": "UNIQLO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "ideas for outfits to wear.",
+              "id": "1255971854306562048",
+              "name": "Everyday style"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10042847671",
+              "name": "UNIQLO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288803906768666625",
+              "name": "Fashion business"
+            }
+          }
+        ],
+        "conversation_id": "2030992088981221606",
+        "created_at": "2026-03-09T13:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030992088981221606"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "錦糸町",
+              "probability": 0.6991,
+              "start": 58,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ts6G9iedS1",
+              "end": 90,
+              "expanded_url": "https://x.com/takepon5895/status/2030992088981221606/photo/1",
+              "media_key": "3_2030992082048053248",
+              "start": 67,
+              "url": "https://t.co/Ts6G9iedS1"
+            },
+            {
+              "display_url": "x.com/natsu_tech_mom…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/natsu_tech_mom/status/2030632391249932701",
+              "start": 91,
+              "url": "https://t.co/X6hVptUWRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030992088981221606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 745008,
+          "like_count": 4265,
+          "quote_count": 118,
+          "reply_count": 38,
+          "retweet_count": 568
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030632391249932701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "おまけに繁華街のすぐ近くにラブホ街が広がっているので子作りから不倫まで同じ街で完結できる素晴らしいコンパクトシティが錦糸町なのである https://t.co/Ts6G9iedS1 https://t.co/X6hVptUWRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "ラッコ、愛と希望",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 113,
+          "like_count": 1233,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 920
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T12:42:44.000Z",
+        "description": "美容医療、サプリ、アンチエイジング Amazonアソシエイト参加中",
+        "id": "2015404916261699584",
+        "name": "タケ_",
+        "pinned_tweet_id": "2022583835909841039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021556985251209216/2Ynnrlnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8681,
+          "following_count": 629,
+          "like_count": 4293,
+          "listed_count": 16,
+          "media_count": 132,
+          "tweet_count": 1402
+        },
+        "username": "takepon5895",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062128436987179232",
+    "created_at": "2026-06-03T11:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062128436987179232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1576927342584156162",
+          "start": 3,
+          "username": "Ljndisidid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062128436987179232",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31979
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061445517314503125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ljndisidid: 그치만... 똥의 유일한 역할은 세상에 나오는 것인걸요"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062128436987179232",
+        "created_at": "2026-06-03T11:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062128436987179232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1576927342584156162",
+              "start": 3,
+              "username": "Ljndisidid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062128436987179232",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31979
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061445517314503125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ljndisidid: 그치만... 똥의 유일한 역할은 세상에 나오는 것인걸요"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576927342584156162",
+        "conversation_id": "2061445517314503125",
+        "created_at": "2026-06-01T13:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061445517314503125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_eukchan/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/_eukchan/status/2061435537786048751",
+              "start": 31,
+              "url": "https://t.co/XGsOYnXzwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061445517314503125",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7331,
+          "impression_count": 13942469,
+          "like_count": 122315,
+          "quote_count": 2570,
+          "reply_count": 301,
+          "retweet_count": 31979
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061435537786048751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "그치만... 똥의 유일한 역할은 세상에 나오는 것인걸요 https://t.co/XGsOYnXzwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 184,
+          "like_count": 5011,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2378
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T13:29:48.000Z",
+        "description": "@so_chonchon 그리고 @chungyoile 에서 \n활동합니다. 아 그리고 인디잡지 @passionfruitzin 도 만듭니다. 🥷🥷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "so_chonchon"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "chungyoile"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "passionfruitzin"
+              }
+            ]
+          }
+        },
+        "id": "1576927342584156162",
+        "name": "한돌",
+        "pinned_tweet_id": "1640158664349855744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052004452497031168/wFnym15M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 125,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 521
+        },
+        "username": "Ljndisidid",
+        "verified": false
+      }
+    ]
+  }
+}

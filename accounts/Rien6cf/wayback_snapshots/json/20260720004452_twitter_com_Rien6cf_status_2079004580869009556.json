@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078776661232001024"
+      ],
+      "media_source_tweet_id": [
+        "2078793470849015957"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079004580869009556",
+    "created_at": "2026-07-20T00:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079004580869009556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1529810100667686918",
+          "start": 3,
+          "username": "magaobot1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XyQE6FSD1k",
+          "end": 38,
+          "expanded_url": "https://x.com/magaobot1/status/2078793470849015957/photo/1",
+          "media_key": "3_2078776661232001024",
+          "start": 15,
+          "url": "https://t.co/XyQE6FSD1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079004580869009556",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078793470849015957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magaobot1: https://t.co/XyQE6FSD1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2078776661232001024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlMXAwbIAAnK8B.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078776661232001024"
+          ]
+        },
+        "author_id": "1529810100667686918",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078793470849015957",
+        "created_at": "2026-07-19T10:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078793470849015957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyQE6FSD1k",
+              "end": 23,
+              "expanded_url": "https://x.com/magaobot1/status/2078793470849015957/photo/1",
+              "media_key": "3_2078776661232001024",
+              "start": 0,
+              "url": "https://t.co/XyQE6FSD1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078793470849015957",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1236,
+          "impression_count": 655755,
+          "like_count": 16440,
+          "quote_count": 54,
+          "reply_count": 13,
+          "retweet_count": 1159
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XyQE6FSD1k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078776661232001024"
+          ],
+          "media_source_tweet_id": [
+            "2078793470849015957"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079004580869009556",
+        "created_at": "2026-07-20T00:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079004580869009556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1529810100667686918",
+              "start": 3,
+              "username": "magaobot1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyQE6FSD1k",
+              "end": 38,
+              "expanded_url": "https://x.com/magaobot1/status/2078793470849015957/photo/1",
+              "media_key": "3_2078776661232001024",
+              "start": 15,
+              "url": "https://t.co/XyQE6FSD1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079004580869009556",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078793470849015957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magaobot1: https://t.co/XyQE6FSD1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "_Rie_",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 198,
+          "like_count": 8161,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2986
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T13:02:15.000Z",
+        "description": "DMにて募集しています✉️",
+        "id": "1529810100667686918",
+        "location": "採用→👍",
+        "name": "何やってんだお前ェ‼︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061025330283020288/rsp_IKB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57939,
+          "following_count": 19,
+          "like_count": 1402,
+          "listed_count": 24,
+          "media_count": 348,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "magaobot1",
+        "verified": false
+      }
+    ]
+  }
+}

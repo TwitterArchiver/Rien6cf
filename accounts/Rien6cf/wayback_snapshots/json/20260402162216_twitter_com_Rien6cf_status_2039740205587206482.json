@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2039740205587206482",
+    "created_at": "2026-04-02T16:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039740205587206482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rien6cf/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/rien6cf/status/2039739699435319392",
+          "start": 25,
+          "url": "https://t.co/hDh72yrWEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039740205587206482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039739699435319392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在家就想一个人待着一个人待着了又觉得，好孤独呀， https://t.co/hDh72yrWEO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2039740205587206482",
+        "created_at": "2026-04-02T16:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039740205587206482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rien6cf/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/rien6cf/status/2039739699435319392",
+              "start": 25,
+              "url": "https://t.co/hDh72yrWEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039740205587206482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039739699435319392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在家就想一个人待着一个人待着了又觉得，好孤独呀， https://t.co/hDh72yrWEO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2039738516759019862",
+        "created_at": "2026-04-02T16:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039739699435319392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987868389709422593",
+              "start": 0,
+              "username": "ruki52621534059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039739699435319392",
+        "in_reply_to_user_id": "1987868389709422593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039739303929299033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki52621534059 哎我好想回家但是又不是想家（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 124,
+          "like_count": 2199,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1389
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

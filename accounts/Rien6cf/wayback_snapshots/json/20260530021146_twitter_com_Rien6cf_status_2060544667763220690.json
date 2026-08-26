@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060362007896080384"
+      ],
+      "media_source_tweet_id": [
+        "2060362014200098891"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060544667763220690",
+    "created_at": "2026-05-30T02:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060544667763220690"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "アラレちゃん"
+        },
+        {
+          "end": 46,
+          "start": 38,
+          "tag": "ワモンアザラシ"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "海遊館"
+        },
+        {
+          "end": 63,
+          "start": 52,
+          "tag": "ringedseal"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726657566208618496",
+          "start": 3,
+          "username": "lala_seal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8NUiGtTXY",
+          "end": 87,
+          "expanded_url": "https://x.com/lala_seal/status/2060362014200098891/photo/1",
+          "media_key": "3_2060362007896080384",
+          "start": 64,
+          "url": "https://t.co/e8NUiGtTXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060544667763220690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060362014200098891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lala_seal: 2026.5\n\nｽﾔﾋﾟｯ\n\n#アラレちゃん\n#ワモンアザラシ\n#海遊館\n#ringedseal https://t.co/e8NUiGtTXY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060362007896080384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfgVHVbQAAVD79.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060362007896080384"
+          ],
+          "media_source_tweet_id": [
+            "2060362014200098891"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060544667763220690",
+        "created_at": "2026-05-30T02:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060544667763220690"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "アラレちゃん"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "ワモンアザラシ"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "海遊館"
+            },
+            {
+              "end": 63,
+              "start": 52,
+              "tag": "ringedseal"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726657566208618496",
+              "start": 3,
+              "username": "lala_seal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8NUiGtTXY",
+              "end": 87,
+              "expanded_url": "https://x.com/lala_seal/status/2060362014200098891/photo/1",
+              "media_key": "3_2060362007896080384",
+              "start": 64,
+              "url": "https://t.co/e8NUiGtTXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060544667763220690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060362014200098891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lala_seal: 2026.5\n\nｽﾔﾋﾟｯ\n\n#アラレちゃん\n#ワモンアザラシ\n#海遊館\n#ringedseal https://t.co/e8NUiGtTXY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060362007896080384"
+          ]
+        },
+        "author_id": "1726657566208618496",
+        "conversation_id": "2060362014200098891",
+        "created_at": "2026-05-29T14:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060362014200098891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "アラレちゃん"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "ワモンアザラシ"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "海遊館"
+            },
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "ringedseal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8NUiGtTXY",
+              "end": 72,
+              "expanded_url": "https://x.com/lala_seal/status/2060362014200098891/photo/1",
+              "media_key": "3_2060362007896080384",
+              "start": 49,
+              "url": "https://t.co/e8NUiGtTXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060362014200098891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 4901,
+          "like_count": 549,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "2026.5\n\nｽﾔﾋﾟｯ\n\n#アラレちゃん\n#ワモンアザラシ\n#海遊館\n#ringedseal https://t.co/e8NUiGtTXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 178,
+          "like_count": 4720,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2288
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T17:44:23.000Z",
+        "description": "🩵 ɪ ᴀᴍ ʀɪɴɢᴇᴅ sᴇᴀʟ ʟᴏᴠᴇʀ🦭🩵海遊館でミゾレちゃんを見てからアザラシが大好きになりました。国際アザラシの日生まれのアザラシファン🔰です。",
+        "id": "1726657566208618496",
+        "name": "LaLa_puppu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745710997749608448/AasR5l27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 202,
+          "like_count": 38777,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 688
+        },
+        "username": "lala_seal",
+        "verified": false
+      }
+    ]
+  }
+}

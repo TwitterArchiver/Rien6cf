@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2028768893624561693",
+    "created_at": "2026-03-03T15:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T16:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028861873551265889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "129833702",
+          "start": 0,
+          "username": "4gewoshenzhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028861873551265889",
+    "in_reply_to_user_id": "129833702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028768893624561693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4gewoshenzhen 感觉中文很难小声说、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2028768893624561693",
+        "created_at": "2026-03-03T15:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028861873551265889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "129833702",
+              "start": 0,
+              "username": "4gewoshenzhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028861873551265889",
+        "in_reply_to_user_id": "129833702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028768893624561693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4gewoshenzhen 感觉中文很难小声说、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "129833702",
+        "conversation_id": "2028768893624561693",
+        "created_at": "2026-03-03T09:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028768893624561693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028768893624561693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7016,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "中国語わからん人あるある\n\n普通話って北京語とは違うの？\n廣東話って中国語の方言やろ？自分中国喋れるのにわからへんの？ホンマに中国語喋れるん？\n自分の四声おかしない？\nいつも中国語喋る時、喧嘩してるん？\n声でかい、うるさい！中国語静かに喋られへんの？\n広東語と台湾語はほぼ同じ　NOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "絶対ミスらない！！！常に無言フォローして申し訳ないです⭐︎",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2027054287394951198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 96,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 711
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-05T15:13:14.000Z",
+        "description": "日本の名古屋在住。台湾に3ヶ月1回出張に行く人。でもベトナムが好き。台湾の離島と温泉の制覇をこっそり目指してたり。S.H.Eの田馥甄推し。ソフトテニスとクラフトビールと温泉、サウナが好き。2017年〜2022年まで中国深圳に現地採用で働いていました。今は某日系中堅上場企業海外営業職。",
+        "id": "129833702",
+        "location": "愛知県名古屋市守山区",
+        "name": "4gewo@深圳🇨🇳→名古屋🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956542142547132416/LyG5_jop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 861,
+          "like_count": 39262,
+          "listed_count": 18,
+          "media_count": 4208,
+          "tweet_count": 29815
+        },
+        "username": "4gewoshenzhen",
+        "verified": false
+      }
+    ]
+  }
+}

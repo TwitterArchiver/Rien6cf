@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063633217274695681"
+      ],
+      "media_source_tweet_id": [
+        "2063633234383237537"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      }
+    ],
+    "conversation_id": "2063808210528882827",
+    "created_at": "2026-06-08T02:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063808210528882827"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "男鹿水族館GAO"
+        },
+        {
+          "end": 55,
+          "start": 47,
+          "tag": "ゴマフアザラシ"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "ゴクウ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1286865442682757126",
+          "start": 3,
+          "username": "go38382802"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Ci5S47O5B",
+          "end": 84,
+          "expanded_url": "https://x.com/go38382802/status/2063633234383237537/video/1",
+          "media_key": "7_2063633217274695681",
+          "start": 61,
+          "url": "https://t.co/1Ci5S47O5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063808210528882827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063633234383237537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @go38382802: ゴクウも寿司握ってる🍣\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#ゴクウ https://t.co/1Ci5S47O5B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6242,
+        "height": 1280,
+        "media_key": "7_2063633217274695681",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063633217274695681/pu/img/oWuVH-J7EyUqohg1.jpg",
+        "public_metrics": {
+          "view_count": 790
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063633217274695681/pu/vid/avc1/320x568/uaagMKAJDyulsVdi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063633217274695681/pu/vid/avc1/480x852/3UO8P2Ygxwb0PpoR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063633217274695681/pu/vid/avc1/720x1280/PB4CLNg_PsClOx00.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063633217274695681/pu/pl/S_kMTWoKlm1RRvS6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063633217274695681"
+          ],
+          "media_source_tweet_id": [
+            "2063633234383237537"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2063808210528882827",
+        "created_at": "2026-06-08T02:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063808210528882827"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "男鹿水族館GAO"
+            },
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "ゴマフアザラシ"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "ゴクウ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1286865442682757126",
+              "start": 3,
+              "username": "go38382802"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ci5S47O5B",
+              "end": 84,
+              "expanded_url": "https://x.com/go38382802/status/2063633234383237537/video/1",
+              "media_key": "7_2063633217274695681",
+              "start": 61,
+              "url": "https://t.co/1Ci5S47O5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063808210528882827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063633234383237537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @go38382802: ゴクウも寿司握ってる🍣\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#ゴクウ https://t.co/1Ci5S47O5B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063633217274695681"
+          ]
+        },
+        "author_id": "1286865442682757126",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2063633234383237537",
+        "created_at": "2026-06-07T14:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063633234383237537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "男鹿水族館GAO"
+            },
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "ゴマフアザラシ"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "ゴクウ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ci5S47O5B",
+              "end": 68,
+              "expanded_url": "https://x.com/go38382802/status/2063633234383237537/video/1",
+              "media_key": "7_2063633217274695681",
+              "start": 45,
+              "url": "https://t.co/1Ci5S47O5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063633234383237537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 3244,
+          "like_count": 348,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "ゴクウも寿司握ってる🍣\n20260607\n#男鹿水族館GAO　#ゴマフアザラシ\n#ゴクウ https://t.co/1Ci5S47O5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 186,
+          "like_count": 5224,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2461
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T03:26:56.000Z",
+        "description": "男鹿水族館のこまちさんに出会い、にわかアザラーとなりました🦭",
+        "id": "1286865442682757126",
+        "name": "りん🍀",
+        "pinned_tweet_id": "1846086991894675655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886001458077937664/wR8Xgfg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 148,
+          "like_count": 30791,
+          "listed_count": 13,
+          "media_count": 2137,
+          "tweet_count": 4471
+        },
+        "username": "go38382802",
+        "verified": false
+      }
+    ]
+  }
+}

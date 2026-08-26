@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057057292890275840"
+      ],
+      "media_source_tweet_id": [
+        "2057057298561069279"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2057167416510337116",
+    "created_at": "2026-05-20T18:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057167416510337116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "154114381",
+          "start": 3,
+          "username": "Ueeeeeeeeee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYkLNQgMb0",
+          "end": 52,
+          "expanded_url": "https://x.com/Ueeeeeeeeee/status/2057057298561069279/photo/1",
+          "media_key": "3_2057057292890275840",
+          "start": 29,
+          "url": "https://t.co/UYkLNQgMb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057167416510337116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057057298561069279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ueeeeeeeeee: おさかな１つくださいな https://t.co/UYkLNQgMb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057057292890275840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwitYlaAAATfgK.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057057292890275840"
+          ],
+          "media_source_tweet_id": [
+            "2057057298561069279"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2057167416510337116",
+        "created_at": "2026-05-20T18:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057167416510337116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "154114381",
+              "start": 3,
+              "username": "Ueeeeeeeeee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYkLNQgMb0",
+              "end": 52,
+              "expanded_url": "https://x.com/Ueeeeeeeeee/status/2057057298561069279/photo/1",
+              "media_key": "3_2057057292890275840",
+              "start": 29,
+              "url": "https://t.co/UYkLNQgMb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057167416510337116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057057298561069279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ueeeeeeeeee: おさかな１つくださいな https://t.co/UYkLNQgMb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057057292890275840"
+          ]
+        },
+        "author_id": "154114381",
+        "conversation_id": "2057057298561069279",
+        "created_at": "2026-05-20T11:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057057298561069279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYkLNQgMb0",
+              "end": 35,
+              "expanded_url": "https://x.com/Ueeeeeeeeee/status/2057057298561069279/photo/1",
+              "media_key": "3_2057057292890275840",
+              "start": 12,
+              "url": "https://t.co/UYkLNQgMb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057057298561069279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 8673,
+          "like_count": 1088,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "おさかな１つくださいな https://t.co/UYkLNQgMb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 169,
+          "like_count": 4315,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2161
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-10T12:02:12.000Z",
+        "description": "動物大好き🐈🐕ラッコ大好き🦦🦦鳥羽水大好き🪸🫧\nストアはこちらに移りました→https://t.co/tXw4SWjPOC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/oue_store?s=21",
+                "end": 61,
+                "expanded_url": "http://x.com/oue_store?s=21",
+                "start": 38,
+                "url": "https://t.co/tXw4SWjPOC"
+              }
+            ]
+          }
+        },
+        "id": "154114381",
+        "name": "おゆい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054921492983640064/N4wnRgxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 268,
+          "like_count": 20922,
+          "listed_count": 5,
+          "media_count": 1292,
+          "tweet_count": 11622
+        },
+        "username": "Ueeeeeeeeee",
+        "verified": false
+      }
+    ]
+  }
+}

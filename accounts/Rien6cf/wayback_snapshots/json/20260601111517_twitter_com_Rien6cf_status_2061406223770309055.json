@@ -1,0 +1,673 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2061402438607966208"
+      ],
+      "media_source_tweet_id": [
+        "2061402515724456280"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Yuma Uchida (内田優馬)",
+          "id": "1129127155693002752",
+          "name": "Yuma Uchida"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Yuma Uchida (内田優馬)",
+          "id": "1129127155693002752",
+          "name": "Yuma Uchida"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Yuma Uchida (内田優馬)",
+          "id": "1129127155693002752",
+          "name": "Yuma Uchida"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      }
+    ],
+    "conversation_id": "2061406223770309055",
+    "created_at": "2026-06-01T11:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061406223770309055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1689545382",
+          "start": 3,
+          "username": "Nico_nico_Sou"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/u2NexzSefAM",
+          "end": 72,
+          "expanded_url": "https://youtu.be/u2NexzSefAM",
+          "start": 49,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?v=u2NexzSefAM&feature=youtu.be",
+          "url": "https://t.co/prQVBXGc4r"
+        },
+        {
+          "display_url": "pic.x.com/ePEKmAEmEN",
+          "end": 96,
+          "expanded_url": "https://x.com/Nico_nico_Sou/status/2061402515724456280/video/1",
+          "media_key": "13_2061402438607966208",
+          "start": 73,
+          "url": "https://t.co/ePEKmAEmEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061406223770309055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061402515724456280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nico_nico_Sou: 6/8 20:00\n\nSou × 内田雄馬 「蠟灰」 MV\nhttps://t.co/prQVBXGc4r https://t.co/ePEKmAEmEN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13565,
+        "height": 1080,
+        "media_key": "13_2061402438607966208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061402438607966208/img/Hu3UKWO3WqFjAA3Y.jpg",
+        "public_metrics": {
+          "view_count": 1375
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061402438607966208/vid/avc1/1920x1080/Xf1T8pDuBlz7-Tz8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061402438607966208/pl/SdRCEF0o3cQUr-Oq.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061402438607966208/vid/avc1/480x270/IouJIgx9xJIKt5yK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061402438607966208/vid/avc1/640x360/7GXd8sUz-vb2YnTt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061402438607966208/vid/avc1/1280x720/KBgQvGqp2QNsfUy0.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061402438607966208"
+          ],
+          "media_source_tweet_id": [
+            "2061402515724456280"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Yuma Uchida (内田優馬)",
+              "id": "1129127155693002752",
+              "name": "Yuma Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Yuma Uchida (内田優馬)",
+              "id": "1129127155693002752",
+              "name": "Yuma Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Yuma Uchida (内田優馬)",
+              "id": "1129127155693002752",
+              "name": "Yuma Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          }
+        ],
+        "conversation_id": "2061406223770309055",
+        "created_at": "2026-06-01T11:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061406223770309055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1689545382",
+              "start": 3,
+              "username": "Nico_nico_Sou"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/u2NexzSefAM",
+              "end": 72,
+              "expanded_url": "https://youtu.be/u2NexzSefAM",
+              "start": 49,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=u2NexzSefAM&feature=youtu.be",
+              "url": "https://t.co/prQVBXGc4r"
+            },
+            {
+              "display_url": "pic.x.com/ePEKmAEmEN",
+              "end": 96,
+              "expanded_url": "https://x.com/Nico_nico_Sou/status/2061402515724456280/video/1",
+              "media_key": "13_2061402438607966208",
+              "start": 73,
+              "url": "https://t.co/ePEKmAEmEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061406223770309055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061402515724456280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nico_nico_Sou: 6/8 20:00\n\nSou × 内田雄馬 「蠟灰」 MV\nhttps://t.co/prQVBXGc4r https://t.co/ePEKmAEmEN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061402438607966208"
+          ]
+        },
+        "author_id": "1689545382",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Yuma Uchida (内田優馬)",
+              "id": "1129127155693002752",
+              "name": "Yuma Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Yuma Uchida (内田優馬)",
+              "id": "1129127155693002752",
+              "name": "Yuma Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Yuma Uchida (内田優馬)",
+              "id": "1129127155693002752",
+              "name": "Yuma Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          }
+        ],
+        "conversation_id": "2061402515724456280",
+        "created_at": "2026-06-01T11:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061402515724456280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/u2NexzSefAM",
+              "end": 53,
+              "expanded_url": "https://youtu.be/u2NexzSefAM",
+              "start": 30,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=u2NexzSefAM&feature=youtu.be",
+              "url": "https://t.co/prQVBXGc4r"
+            },
+            {
+              "display_url": "pic.x.com/ePEKmAEmEN",
+              "end": 77,
+              "expanded_url": "https://x.com/Nico_nico_Sou/status/2061402515724456280/video/1",
+              "media_key": "13_2061402438607966208",
+              "start": 54,
+              "url": "https://t.co/ePEKmAEmEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061402515724456280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5830,
+          "like_count": 541,
+          "quote_count": 56,
+          "reply_count": 35,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "6/8 20:00\n\nSou × 内田雄馬 「蠟灰」 MV\nhttps://t.co/prQVBXGc4r https://t.co/ePEKmAEmEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 182,
+          "like_count": 4913,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2337
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-22T00:28:37.000Z",
+        "description": "爽快に、歌ってみてます。\n6月からツアー始まります！\n是非きてね！\n→ https://t.co/OrghkwdG8l\n\nFA：#おえかきSou庫\nスタッフ公式：@sou_staff_mg\nどの日常：@Dononichijo \nそっとブルー：@sottoblue",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 64,
+                "tag": "おえかきSou庫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "sou_staff_mg"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "Dononichijo"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "sottoblue"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "SouLIVE2026.lnk.to/Finder_ticket",
+                "end": 59,
+                "expanded_url": "http://SouLIVE2026.lnk.to/Finder_ticket",
+                "start": 36,
+                "url": "https://t.co/OrghkwdG8l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCLAhL…",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/channel/UCLAhLxCcqi5afnNTQNnfX-g?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/kgObVwpZMH"
+              }
+            ]
+          }
+        },
+        "id": "1689545382",
+        "location": "ねこです",
+        "name": "Sou@6月からツアーはじまる！",
+        "pinned_tweet_id": "2047631661089861782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005283484601090048/MSJMw5YX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621406,
+          "following_count": 1269,
+          "like_count": 20563,
+          "listed_count": 4287,
+          "media_count": 2234,
+          "tweet_count": 17413
+        },
+        "url": "https://t.co/kgObVwpZMH",
+        "username": "Nico_nico_Sou",
+        "verified": true
+      }
+    ]
+  }
+}

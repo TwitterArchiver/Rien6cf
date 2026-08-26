@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062090272591548416"
+      ],
+      "media_source_tweet_id": [
+        "2062090274546012553"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2062343950787346856",
+    "created_at": "2026-06-04T01:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062343950787346856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895676229220741120",
+          "start": 3,
+          "username": "aedx_xmno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/svV8qvhDfi",
+          "end": 53,
+          "expanded_url": "https://x.com/aedx_xmno/status/2062090274546012553/photo/1",
+          "media_key": "3_2062090272591548416",
+          "start": 30,
+          "url": "https://t.co/svV8qvhDfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062343950787346856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062090274546012553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aedx_xmno: 病み垢界隈のみんなのアイドル https://t.co/svV8qvhDfi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "3_2062090272591548416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ELXCbkAAr8vd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062090272591548416"
+          ],
+          "media_source_tweet_id": [
+            "2062090274546012553"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2062343950787346856",
+        "created_at": "2026-06-04T01:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062343950787346856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895676229220741120",
+              "start": 3,
+              "username": "aedx_xmno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/svV8qvhDfi",
+              "end": 53,
+              "expanded_url": "https://x.com/aedx_xmno/status/2062090274546012553/photo/1",
+              "media_key": "3_2062090272591548416",
+              "start": 30,
+              "url": "https://t.co/svV8qvhDfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062343950787346856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062090274546012553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aedx_xmno: 病み垢界隈のみんなのアイドル https://t.co/svV8qvhDfi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062090272591548416"
+          ]
+        },
+        "author_id": "1895676229220741120",
+        "conversation_id": "2062090274546012553",
+        "created_at": "2026-06-03T08:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062090274546012553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svV8qvhDfi",
+              "end": 38,
+              "expanded_url": "https://x.com/aedx_xmno/status/2062090274546012553/photo/1",
+              "media_key": "3_2062090272591548416",
+              "start": 15,
+              "url": "https://t.co/svV8qvhDfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062090274546012553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 13488,
+          "like_count": 736,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "病み垢界隈のみんなのアイドル https://t.co/svV8qvhDfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "りえです、よろしく\nCN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "りーたん",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 182,
+          "like_count": 5025,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2385
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T03:24:04.000Z",
+        "description": "恥の多い生涯を送ってきました。\n251🩵 @kana_wrod オキニ\n@nicoUx_xU \n@miysita1218 \n@kamin_nemu \n@lyyuhyp_o0 \n@FYT071\n@siaaaacccc \n@OD_menhRa \n\n🗝@dx_xm12247",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "kana_wrod"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "nicoUx_xU"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "miysita1218"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "kamin_nemu"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "lyyuhyp_o0"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "username": "FYT071"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "siaaaacccc"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "OD_menhRa"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "dx_xm12247"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qr.paypay.ne.jp/p2p01_vbtsEkVy…",
+                "end": 23,
+                "expanded_url": "https://qr.paypay.ne.jp/p2p01_vbtsEkVytaLSUQuW",
+                "start": 0,
+                "url": "https://t.co/aOyYvv5Ldu"
+              }
+            ]
+          }
+        },
+        "id": "1895676229220741120",
+        "location": "募金箱→",
+        "name": "キュアあのの🥹ᩚ世界めじこん化計画",
+        "pinned_tweet_id": "2059267506855190852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057660297943654400/ytVuQAyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 726,
+          "like_count": 10225,
+          "listed_count": 16,
+          "media_count": 557,
+          "tweet_count": 9932
+        },
+        "url": "https://t.co/aOyYvv5Ldu",
+        "username": "aedx_xmno",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2065841179594276864"
+      ],
+      "media_source_tweet_id": [
+        "2065841200368640162"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2066137727075299396",
+    "created_at": "2026-06-14T12:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066137727075299396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ohKLNB1Iuh",
+          "end": 72,
+          "expanded_url": "https://x.com/eduantao/status/2065841200368640162/video/1",
+          "media_key": "7_2065841179594276864",
+          "start": 49,
+          "url": "https://t.co/ohKLNB1Iuh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066137727075299396",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1755
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065841200368640162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: Minha saúde mental se resume aqui: https://t.co/ohKLNB1Iuh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10936,
+        "height": 480,
+        "media_key": "7_2065841179594276864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065841179594276864/pu/img/mAbeANzydxXFpQe8.jpg",
+        "public_metrics": {
+          "view_count": 41903
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065841179594276864/pu/vid/avc1/490x270/MnDmsNVRZIK7m-GE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065841179594276864/pu/vid/avc1/654x360/qUQEx8H07j7sSDWC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065841179594276864/pu/vid/avc1/874x480/qlLp73-PNyytSpAZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065841179594276864/pu/pl/5xgw9LakP4Gs26QQ.m3u8?tag=12"
+          }
+        ],
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065841179594276864"
+          ],
+          "media_source_tweet_id": [
+            "2065841200368640162"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2066137727075299396",
+        "created_at": "2026-06-14T12:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066137727075299396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohKLNB1Iuh",
+              "end": 72,
+              "expanded_url": "https://x.com/eduantao/status/2065841200368640162/video/1",
+              "media_key": "7_2065841179594276864",
+              "start": 49,
+              "url": "https://t.co/ohKLNB1Iuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066137727075299396",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1755
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065841200368640162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: Minha saúde mental se resume aqui: https://t.co/ohKLNB1Iuh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065841179594276864"
+          ]
+        },
+        "author_id": "2046395388974845952",
+        "conversation_id": "2065841200368640162",
+        "created_at": "2026-06-13T16:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065841200368640162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohKLNB1Iuh",
+              "end": 58,
+              "expanded_url": "https://x.com/eduantao/status/2065841200368640162/video/1",
+              "media_key": "7_2065841179594276864",
+              "start": 35,
+              "url": "https://t.co/ohKLNB1Iuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065841200368640162",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 505,
+          "impression_count": 123415,
+          "like_count": 7198,
+          "quote_count": 20,
+          "reply_count": 3,
+          "retweet_count": 1755
+        },
+        "reply_settings": "everyone",
+        "text": "Minha saúde mental se resume aqui: https://t.co/ohKLNB1Iuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 189,
+          "like_count": 5697,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2587
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 818,
+          "like_count": 84,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 486
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

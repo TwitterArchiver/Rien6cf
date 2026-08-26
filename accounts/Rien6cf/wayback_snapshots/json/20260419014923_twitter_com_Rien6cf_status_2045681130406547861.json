@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2045681130406547861",
+    "created_at": "2026-04-19T01:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T02:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045681130406547861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rien6cf/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/rien6cf/status/2045318767513924029",
+          "start": 16,
+          "url": "https://t.co/8djRlvLoKU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045681130406547861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045318767513924029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈让我别计较了，我现在很那个 https://t.co/8djRlvLoKU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2045681130406547861",
+        "created_at": "2026-04-19T01:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T02:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045681130406547861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rien6cf/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/rien6cf/status/2045318767513924029",
+              "start": 16,
+              "url": "https://t.co/8djRlvLoKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045681130406547861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045318767513924029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈让我别计较了，我现在很那个 https://t.co/8djRlvLoKU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2045318767513924029",
+        "created_at": "2026-04-18T01:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045318767513924029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045318767513924029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于从我妈那里听到了困扰我十几年的问题的答案然后觉得真的好笑，就因为她爸生病了她很可怜，，我无数次预想过的答案，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 142,
+          "like_count": 2834,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1671
+        },
+        "username": "Rien6cf",
+        "verified": false
+      }
+    ]
+  }
+}

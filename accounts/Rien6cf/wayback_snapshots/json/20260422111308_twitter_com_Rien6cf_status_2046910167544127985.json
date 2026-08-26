@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046906882653302784"
+      ],
+      "media_source_tweet_id": [
+        "2046906900487483672"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      }
+    ],
+    "conversation_id": "2046910167544127985",
+    "created_at": "2026-04-22T11:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046910167544127985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1689545382",
+          "start": 3,
+          "username": "Nico_nico_Sou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fkj7J83Rgo",
+          "end": 83,
+          "expanded_url": "https://x.com/Nico_nico_Sou/status/2046906900487483672/photo/1",
+          "media_key": "3_2046906882653302784",
+          "start": 60,
+          "url": "https://t.co/Fkj7J83Rgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046910167544127985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046906900487483672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nico_nico_Sou: 4/23（木）20:00\n\n新しい歌ってみたを投稿します\nよろしくおねがいします https://t.co/Fkj7J83Rgo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2046906882653302784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgS9vzaMAACvnh.jpg",
+        "width": 1688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046906882653302784"
+          ],
+          "media_source_tweet_id": [
+            "2046906900487483672"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          }
+        ],
+        "conversation_id": "2046910167544127985",
+        "created_at": "2026-04-22T11:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046910167544127985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1689545382",
+              "start": 3,
+              "username": "Nico_nico_Sou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fkj7J83Rgo",
+              "end": 83,
+              "expanded_url": "https://x.com/Nico_nico_Sou/status/2046906900487483672/photo/1",
+              "media_key": "3_2046906882653302784",
+              "start": 60,
+              "url": "https://t.co/Fkj7J83Rgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046910167544127985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046906900487483672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nico_nico_Sou: 4/23（木）20:00\n\n新しい歌ってみたを投稿します\nよろしくおねがいします https://t.co/Fkj7J83Rgo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046906882653302784"
+          ]
+        },
+        "author_id": "1689545382",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          }
+        ],
+        "conversation_id": "2046906900487483672",
+        "created_at": "2026-04-22T11:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046906900487483672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fkj7J83Rgo",
+              "end": 64,
+              "expanded_url": "https://x.com/Nico_nico_Sou/status/2046906900487483672/photo/1",
+              "media_key": "3_2046906882653302784",
+              "start": 41,
+              "url": "https://t.co/Fkj7J83Rgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046906900487483672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5040,
+          "like_count": 494,
+          "quote_count": 90,
+          "reply_count": 51,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "4/23（木）20:00\n\n新しい歌ってみたを投稿します\nよろしくおねがいします https://t.co/Fkj7J83Rgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n一块薯饼\n顺女//LGBTQ友好\n想要活下去",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 142,
+          "like_count": 2937,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1704
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-22T00:28:37.000Z",
+        "description": "爽快に、歌ってみてます。\n2026.3.4（水）「Panorama」 発売しました！ \n→ https://t.co/GXY4S1KNwW\n\nFA：#おえかきSou庫\nスタッフ公式：@sou_staff_mg\nどの日常：@Dononichijo \nそっとブルー：@sottoblue",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 74,
+                "tag": "おえかきSou庫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "sou_staff_mg"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Dononichijo"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "sottoblue"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "king-cr.jp/sou_panorama/",
+                "end": 69,
+                "expanded_url": "https://king-cr.jp/sou_panorama/",
+                "start": 46,
+                "url": "https://t.co/GXY4S1KNwW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sou-official.jp",
+                "end": 23,
+                "expanded_url": "https://sou-official.jp/",
+                "start": 0,
+                "url": "https://t.co/f0gXbcBCui"
+              }
+            ]
+          }
+        },
+        "id": "1689545382",
+        "location": "ねこです",
+        "name": "Sou@6月からツアーはじまる！",
+        "pinned_tweet_id": "2043282983428518316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005283484601090048/MSJMw5YX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622617,
+          "following_count": 1252,
+          "like_count": 20271,
+          "listed_count": 4289,
+          "media_count": 2219,
+          "tweet_count": 17300
+        },
+        "url": "https://t.co/f0gXbcBCui",
+        "username": "Nico_nico_Sou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2083323613785334257",
+    "created_at": "2026-08-01T07:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083448332652024279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026155042584354816",
+          "start": 0,
+          "username": "konuno_sub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083448332652024279",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083323613785334257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konuno_sub メンション失礼します\n\nこぬちゃん\n繋がってみたかった\n特になし\n話し方が面白いー！\nやらなくても大丈夫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2083323613785334257",
+        "created_at": "2026-08-01T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083448332652024279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026155042584354816",
+              "start": 0,
+              "username": "konuno_sub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083448332652024279",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083323613785334257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konuno_sub メンション失礼します\n\nこぬちゃん\n繋がってみたかった\n特になし\n話し方が面白いー！\nやらなくても大丈夫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2083323613785334257",
+        "created_at": "2026-07-31T22:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T23:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083323613785334257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "リプかいいねでやります"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083323613785334257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#リプかいいねでやります \n\n勝手に呼んでる呼び名： \n第一印象： \n偏見： \n好きなとこ： \n貴方も同じ投稿すべき\n\nやって"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 206,
+          "like_count": 8971,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3220
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T04:40:33.000Z",
+        "description": "こぬの  シャドバン中でこっちいますㅤ⠀​​ㅤㅤ⠀​​ㅤㅤ⠀ ⠀       厳選あり",
+        "id": "2026155042584354816",
+        "location": "女の子のみ",
+        "name": "こぬちゃん",
+        "pinned_tweet_id": "2081463491958087741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078880166236078080/OXfTI-Jy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 1994,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1389
+        },
+        "url": "",
+        "username": "konuno_sub",
+        "verified": false
+      }
+    ]
+  }
+}

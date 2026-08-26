@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2068655118141227498",
+    "created_at": "2026-06-21T11:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068655118141227498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1793291881222422528",
+          "start": 3,
+          "username": "KeepImperative"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068655118141227498",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 542
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068566801546662129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KeepImperative: 오늘은 1년 중 낮이 가장 긴 하지!\n여러분의 인생도 늘 따뜻한 빛이 더 많이 들면 좋겠습니다"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2068655118141227498",
+        "created_at": "2026-06-21T11:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068655118141227498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1793291881222422528",
+              "start": 3,
+              "username": "KeepImperative"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068655118141227498",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 542
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068566801546662129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KeepImperative: 오늘은 1년 중 낮이 가장 긴 하지!\n여러분의 인생도 늘 따뜻한 빛이 더 많이 들면 좋겠습니다"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793291881222422528",
+        "conversation_id": "2068566801546662129",
+        "created_at": "2026-06-21T05:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068566801546662129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068566801546662129",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 37348,
+          "like_count": 1333,
+          "quote_count": 89,
+          "reply_count": 0,
+          "retweet_count": 542
+        },
+        "reply_settings": "everyone",
+        "text": "오늘은 1년 중 낮이 가장 긴 하지!\n여러분의 인생도 늘 따뜻한 빛이 더 많이 들면 좋겠습니다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "頑張ってるよ",
+        "id": "2015660394967404544",
+        "name": "ビビビビ",
+        "pinned_tweet_id": "2066386359686971787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 191,
+          "like_count": 5986,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2638
+        },
+        "url": "",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T14:44:45.000Z",
+        "description": "칸트봇 아니고 닉이 칸트예요 칸트 왕팬이에요 || 정지 대비계 @KeepGuterWille",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "KeepGuterWille"
+              }
+            ]
+          }
+        },
+        "id": "1793291881222422528",
+        "name": "칸트",
+        "pinned_tweet_id": "1996186654579757106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951256740592492545/GdSu75zH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16301,
+          "following_count": 46,
+          "like_count": 4769,
+          "listed_count": 15,
+          "media_count": 492,
+          "tweet_count": 6659
+        },
+        "url": "",
+        "username": "KeepImperative",
+        "verified": false
+      }
+    ]
+  }
+}

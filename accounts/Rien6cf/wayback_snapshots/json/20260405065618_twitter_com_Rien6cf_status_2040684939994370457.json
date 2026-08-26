@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2040684939994370457",
+    "created_at": "2026-04-05T06:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T07:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040684939994370457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040684939994370457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040585857548398733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 没人觉得 光腿神器 这个名字很好笑吗，热销这么久的产品居然没有一个更正式的名字\n\n就好像有人把筷子叫做吃饭神器一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2040684939994370457",
+        "created_at": "2026-04-05T06:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040684939994370457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040684939994370457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040585857548398733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 没人觉得 光腿神器 这个名字很好笑吗，热销这么久的产品居然没有一个更正式的名字\n\n就好像有人把筷子叫做吃饭神器一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "126581934",
+        "conversation_id": "2040585857548398733",
+        "created_at": "2026-04-05T00:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:21:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040585684554326106",
+          "2040585857548398733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040585857548398733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 68129,
+          "like_count": 625,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得 光腿神器 这个名字很好笑吗，热销这么久的产品居然没有一个更正式的名字\n\n就好像有人把筷子叫做吃饭神器一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\n顺女//LGBTQ友好\nツイ廃",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 127,
+          "like_count": 2323,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1414
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49440,
+          "following_count": 632,
+          "like_count": 5628,
+          "listed_count": 197,
+          "media_count": 26611,
+          "tweet_count": 378372
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

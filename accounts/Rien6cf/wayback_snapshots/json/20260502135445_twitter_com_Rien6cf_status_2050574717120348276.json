@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050403854651621376",
+        "3_2050403854626545664",
+        "3_2050403854634848256",
+        "3_2050403854622265345"
+      ],
+      "media_source_tweet_id": [
+        "2050403860909535348",
+        "2050403860909535348",
+        "2050403860909535348",
+        "2050403860909535348"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2050574717120348276",
+    "created_at": "2026-05-02T13:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050574717120348276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3160769827",
+          "start": 3,
+          "username": "ruikumae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6JyG5GM8F",
+          "end": 52,
+          "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+          "media_key": "3_2050403854651621376",
+          "start": 29,
+          "url": "https://t.co/s6JyG5GM8F"
+        },
+        {
+          "display_url": "pic.x.com/s6JyG5GM8F",
+          "end": 52,
+          "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+          "media_key": "3_2050403854626545664",
+          "start": 29,
+          "url": "https://t.co/s6JyG5GM8F"
+        },
+        {
+          "display_url": "pic.x.com/s6JyG5GM8F",
+          "end": 52,
+          "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+          "media_key": "3_2050403854634848256",
+          "start": 29,
+          "url": "https://t.co/s6JyG5GM8F"
+        },
+        {
+          "display_url": "pic.x.com/s6JyG5GM8F",
+          "end": 52,
+          "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+          "media_key": "3_2050403854622265345",
+          "start": 29,
+          "url": "https://t.co/s6JyG5GM8F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050574717120348276",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4001
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050403860909535348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruikumae: 中国のネットで拾ってきたやつ https://t.co/s6JyG5GM8F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2050403854651621376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR_cTqaAAAICW4.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2050403854626545664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR_cTkbYAA_TJM.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2050403854634848256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR_cTmaEAAn-Xk.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2050403854622265345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR_cTjaEAElJ03.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050403854651621376",
+            "3_2050403854626545664",
+            "3_2050403854634848256",
+            "3_2050403854622265345"
+          ],
+          "media_source_tweet_id": [
+            "2050403860909535348",
+            "2050403860909535348",
+            "2050403860909535348",
+            "2050403860909535348"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2050574717120348276",
+        "created_at": "2026-05-02T13:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050574717120348276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3160769827",
+              "start": 3,
+              "username": "ruikumae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6JyG5GM8F",
+              "end": 52,
+              "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+              "media_key": "3_2050403854651621376",
+              "start": 29,
+              "url": "https://t.co/s6JyG5GM8F"
+            },
+            {
+              "display_url": "pic.x.com/s6JyG5GM8F",
+              "end": 52,
+              "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+              "media_key": "3_2050403854626545664",
+              "start": 29,
+              "url": "https://t.co/s6JyG5GM8F"
+            },
+            {
+              "display_url": "pic.x.com/s6JyG5GM8F",
+              "end": 52,
+              "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+              "media_key": "3_2050403854634848256",
+              "start": 29,
+              "url": "https://t.co/s6JyG5GM8F"
+            },
+            {
+              "display_url": "pic.x.com/s6JyG5GM8F",
+              "end": 52,
+              "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+              "media_key": "3_2050403854622265345",
+              "start": 29,
+              "url": "https://t.co/s6JyG5GM8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050574717120348276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4001
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050403860909535348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruikumae: 中国のネットで拾ってきたやつ https://t.co/s6JyG5GM8F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050403854651621376",
+            "3_2050403854626545664",
+            "3_2050403854634848256",
+            "3_2050403854622265345"
+          ]
+        },
+        "author_id": "3160769827",
+        "conversation_id": "2050403860909535348",
+        "created_at": "2026-05-02T02:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050403860909535348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6JyG5GM8F",
+              "end": 38,
+              "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+              "media_key": "3_2050403854651621376",
+              "start": 15,
+              "url": "https://t.co/s6JyG5GM8F"
+            },
+            {
+              "display_url": "pic.x.com/s6JyG5GM8F",
+              "end": 38,
+              "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+              "media_key": "3_2050403854626545664",
+              "start": 15,
+              "url": "https://t.co/s6JyG5GM8F"
+            },
+            {
+              "display_url": "pic.x.com/s6JyG5GM8F",
+              "end": 38,
+              "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+              "media_key": "3_2050403854634848256",
+              "start": 15,
+              "url": "https://t.co/s6JyG5GM8F"
+            },
+            {
+              "display_url": "pic.x.com/s6JyG5GM8F",
+              "end": 38,
+              "expanded_url": "https://x.com/ruikumae/status/2050403860909535348/photo/1",
+              "media_key": "3_2050403854622265345",
+              "start": 15,
+              "url": "https://t.co/s6JyG5GM8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050403860909535348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1767,
+          "impression_count": 858817,
+          "like_count": 33367,
+          "quote_count": 133,
+          "reply_count": 85,
+          "retweet_count": 4001
+        },
+        "reply_settings": "everyone",
+        "text": "中国のネットで拾ってきたやつ https://t.co/s6JyG5GM8F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nネズミ生活",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 162,
+          "like_count": 3267,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1818
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-17T08:28:15.000Z",
+        "description": "🇨🇳×🇨🇳の中国出身モデル🐼電車のつり革に頭ぶつけて「イテッ」と言ってしまうのが悩み。高身長あるあるですよね。YouTubeで中国語・中国文化発信中！趣味はアニメと競馬🏇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/175S6HSFJE1VJ?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/IRioiqV3AT"
+              }
+            ]
+          }
+        },
+        "id": "3160769827",
+        "location": "中国四川出身",
+        "name": "熊江琉衣/チャイナ娘くまちゃん",
+        "pinned_tweet_id": "1280441291092852738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408726093075419141/Zhmq8k36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32218,
+          "following_count": 333,
+          "like_count": 9229,
+          "listed_count": 300,
+          "media_count": 4724,
+          "tweet_count": 16839
+        },
+        "url": "https://t.co/IRioiqV3AT",
+        "username": "ruikumae",
+        "verified": false
+      }
+    ]
+  }
+}

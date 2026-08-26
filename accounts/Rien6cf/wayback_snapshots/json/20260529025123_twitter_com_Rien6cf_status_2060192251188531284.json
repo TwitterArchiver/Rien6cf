@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059998313127243776"
+      ],
+      "media_source_tweet_id": [
+        "2059998319380971693"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2060192251188531284",
+    "created_at": "2026-05-29T02:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060192251188531284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1229707931639136256",
+          "start": 3,
+          "username": "shupra004"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OIPOdzqTfP",
+          "end": 99,
+          "expanded_url": "https://x.com/shupra004/status/2059998319380971693/photo/1",
+          "media_key": "3_2059998313127243776",
+          "start": 76,
+          "url": "https://t.co/OIPOdzqTfP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060192251188531284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059998319380971693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shupra004: 【猫で学ぶ中国語の連続四声】\n\n　　　　看　　　电　　　视\n　　　　kàn        diàn        shì https://t.co/OIPOdzqTfP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2059998313127243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaVjSvacAARwaP.jpg",
+        "width": 1619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059998313127243776"
+          ],
+          "media_source_tweet_id": [
+            "2059998319380971693"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2060192251188531284",
+        "created_at": "2026-05-29T02:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060192251188531284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1229707931639136256",
+              "start": 3,
+              "username": "shupra004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OIPOdzqTfP",
+              "end": 99,
+              "expanded_url": "https://x.com/shupra004/status/2059998319380971693/photo/1",
+              "media_key": "3_2059998313127243776",
+              "start": 76,
+              "url": "https://t.co/OIPOdzqTfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060192251188531284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059998319380971693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shupra004: 【猫で学ぶ中国語の連続四声】\n\n　　　　看　　　电　　　视\n　　　　kàn        diàn        shì https://t.co/OIPOdzqTfP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059998313127243776"
+          ]
+        },
+        "author_id": "1229707931639136256",
+        "conversation_id": "2059998319380971693",
+        "created_at": "2026-05-28T14:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059998319380971693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OIPOdzqTfP",
+              "end": 84,
+              "expanded_url": "https://x.com/shupra004/status/2059998319380971693/photo/1",
+              "media_key": "3_2059998313127243776",
+              "start": 61,
+              "url": "https://t.co/OIPOdzqTfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059998319380971693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6431,
+          "like_count": 242,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "【猫で学ぶ中国語の連続四声】\n\n　　　　看　　　电　　　视\n　　　　kàn        diàn        shì https://t.co/OIPOdzqTfP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "CN/JP/EN\nラッコ好き\nADHD/ASD SJK",
+        "id": "2015660394967404544",
+        "name": "窪園チヨコは絶対ミスらない",
+        "pinned_tweet_id": "2039354213549965528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 175,
+          "like_count": 4669,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2273
+        },
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T10:03:22.000Z",
+        "description": "中国語大喜利アカウント。FF外通知は全て切っています。基本フォロバしてますが、見落としがちなので鍵垢の方含めフォロバ無かったらリプかDMください。",
+        "id": "1229707931639136256",
+        "location": "日本",
+        "name": "しゅぷら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439410017963163649/SEBLvwfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8889,
+          "following_count": 6992,
+          "like_count": 751894,
+          "listed_count": 43,
+          "media_count": 1973,
+          "tweet_count": 9875
+        },
+        "username": "shupra004",
+        "verified": false
+      }
+    ]
+  }
+}

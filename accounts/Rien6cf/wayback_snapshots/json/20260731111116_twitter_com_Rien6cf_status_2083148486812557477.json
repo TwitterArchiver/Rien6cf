@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083147920199806976"
+      ],
+      "media_source_tweet_id": [
+        "2083148116166099282"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2083148486812557477",
+    "created_at": "2026-07-31T11:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083148486812557477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1286475130823049216",
+          "start": 3,
+          "username": "taizan_5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rryl4m60jw",
+          "end": 37,
+          "expanded_url": "https://x.com/taizan_5/status/2083148116166099282/video/1",
+          "media_key": "13_2083147920199806976",
+          "start": 14,
+          "url": "https://t.co/rryl4m60jw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083148486812557477",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083148116166099282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taizan_5: https://t.co/rryl4m60jw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11541,
+        "height": 1080,
+        "media_key": "13_2083147920199806976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083147920199806976/img/vBow3-JbSMnRDax2.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083147920199806976/vid/avc1/640x360/vOc2I4I7pSiz_3UC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083147920199806976/pl/xV1-70KjdA9on8OZ.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083147920199806976/vid/avc1/480x270/bl8DUYhB9_xSqTLk.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083147920199806976/vid/avc1/1920x1080/RPER3mNQ9bMsls-b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083147920199806976/vid/avc1/1280x720/6aBGfs625ok_S7Mu.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083147920199806976"
+          ]
+        },
+        "author_id": "1286475130823049216",
+        "conversation_id": "2083148116166099282",
+        "created_at": "2026-07-31T11:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083148116166099282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rryl4m60jw",
+              "end": 23,
+              "expanded_url": "https://x.com/taizan_5/status/2083148116166099282/video/1",
+              "media_key": "13_2083147920199806976",
+              "start": 0,
+              "url": "https://t.co/rryl4m60jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083148116166099282",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 671,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rryl4m60jw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083147920199806976"
+          ],
+          "media_source_tweet_id": [
+            "2083148116166099282"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2083148486812557477",
+        "created_at": "2026-07-31T11:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083148486812557477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1286475130823049216",
+              "start": 3,
+              "username": "taizan_5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rryl4m60jw",
+              "end": 37,
+              "expanded_url": "https://x.com/taizan_5/status/2083148116166099282/video/1",
+              "media_key": "13_2083147920199806976",
+              "start": 14,
+              "url": "https://t.co/rryl4m60jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083148486812557477",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083148116166099282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taizan_5: https://t.co/rryl4m60jw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143739146973185/D-uMZZb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 206,
+          "like_count": 8938,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-24T01:36:32.000Z",
+        "description": "『一ノ瀬家の大罪』『タコピーの原罪』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shonenjumpplus.com/episode/326975…",
+                "end": 23,
+                "expanded_url": "https://shonenjumpplus.com/episode/3269754496638370192",
+                "start": 0,
+                "url": "https://t.co/cVqzO2kaew"
+              }
+            ]
+          }
+        },
+        "id": "1286475130823049216",
+        "name": "タイザン5",
+        "pinned_tweet_id": "1939241131021390174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1308408802111299584/7U5ChoM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513841,
+          "following_count": 5,
+          "like_count": 927,
+          "listed_count": 841,
+          "media_count": 305,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/cVqzO2kaew",
+        "username": "taizan_5",
+        "verified": true
+      }
+    ]
+  }
+}

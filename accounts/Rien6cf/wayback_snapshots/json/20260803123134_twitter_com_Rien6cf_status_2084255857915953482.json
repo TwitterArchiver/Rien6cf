@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083827453378850816"
+      ],
+      "media_source_tweet_id": [
+        "2083827518927413536"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2084255857915953482",
+    "created_at": "2026-08-03T12:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084255857915953482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2070892945327456256",
+          "start": 3,
+          "username": "king_of_gappy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DIB4n8B5J6",
+          "end": 64,
+          "expanded_url": "https://x.com/king_of_gappy/status/2083827518927413536/video/1",
+          "media_key": "13_2083827453378850816",
+          "start": 41,
+          "url": "https://t.co/DIB4n8B5J6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084255857915953482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083827518927413536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @king_of_gappy: 留学でアメリカ行った友達が大麻やっててこれ https://t.co/DIB4n8B5J6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21133,
+        "height": 720,
+        "media_key": "13_2083827453378850816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083827453378850816/img/P03CZV3q2iXZWkbf.jpg",
+        "public_metrics": {
+          "view_count": 692253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083827453378850816/vid/avc1/480x270/EuT2A75IK-nQsPgJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083827453378850816/vid/avc1/640x360/CWei4iM_iiU_ArXO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083827453378850816/vid/avc1/1280x720/K3vlJAvcoKk6ENQh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083827453378850816/pl/zFj40O9Y7KPl77ot.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083827453378850816"
+          ]
+        },
+        "author_id": "2070892945327456256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2083827518927413536",
+        "created_at": "2026-08-02T08:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083827518927413536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIB4n8B5J6",
+              "end": 45,
+              "expanded_url": "https://x.com/king_of_gappy/status/2083827518927413536/video/1",
+              "media_key": "13_2083827453378850816",
+              "start": 22,
+              "url": "https://t.co/DIB4n8B5J6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083827518927413536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4428,
+          "impression_count": 1366806,
+          "like_count": 26426,
+          "quote_count": 122,
+          "reply_count": 26,
+          "retweet_count": 2192
+        },
+        "reply_settings": "everyone",
+        "text": "留学でアメリカ行った友達が大麻やっててこれ https://t.co/DIB4n8B5J6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083827453378850816"
+          ],
+          "media_source_tweet_id": [
+            "2083827518927413536"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2084255857915953482",
+        "created_at": "2026-08-03T12:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084255857915953482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2070892945327456256",
+              "start": 3,
+              "username": "king_of_gappy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIB4n8B5J6",
+              "end": 64,
+              "expanded_url": "https://x.com/king_of_gappy/status/2083827518927413536/video/1",
+              "media_key": "13_2083827453378850816",
+              "start": 41,
+              "url": "https://t.co/DIB4n8B5J6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084255857915953482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083827518927413536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @king_of_gappy: 留学でアメリカ行った友達が大麻やっててこれ https://t.co/DIB4n8B5J6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "SJK//\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YUns"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 210,
+          "like_count": 9113,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3244
+        },
+        "url": "https://t.co/C9FVl8YUns",
+        "username": "Rien6cf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-27T15:34:41.000Z",
+        "description": "友情の輪はどこまでも(ブル垢に限る) 20↑/🚹\n好きなもの:ブルアカ/ワカモ/ジョジョリオン/Elvis Presley/Prince\nサブ @Joe_suke08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Joe_suke08"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bookmeter.com/users/1754583",
+                "end": 23,
+                "expanded_url": "https://bookmeter.com/users/1754583",
+                "start": 0,
+                "url": "https://t.co/qxddXsGYWs"
+              }
+            ]
+          }
+        },
+        "id": "2070892945327456256",
+        "location": "TG大学病院",
+        "name": "ジョースケ🐶",
+        "pinned_tweet_id": "2083483684213240312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082764798081810432/rgo9WsOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 451,
+          "like_count": 5647,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3128
+        },
+        "url": "https://t.co/qxddXsGYWs",
+        "username": "king_of_gappy",
+        "verified": false
+      }
+    ]
+  }
+}
