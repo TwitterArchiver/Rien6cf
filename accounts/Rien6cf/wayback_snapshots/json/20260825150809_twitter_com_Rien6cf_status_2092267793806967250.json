@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2092267793806967250",
+    "created_at": "2026-08-25T15:08:09.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T16:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092267793806967250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1755664020944941056",
+          "start": 3,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092267793806967250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091858836638605370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Korewoizontoyo: 回避型和焦虑型依恋在一起绝对会是地狱吧，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2092267793806967250",
+        "created_at": "2026-08-25T15:08:09.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092267793806967250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1755664020944941056",
+              "start": 3,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092267793806967250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091858836638605370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Korewoizontoyo: 回避型和焦虑型依恋在一起绝对会是地狱吧，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2091858836638605370",
+        "created_at": "2026-08-24T12:03:06.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091858836638605370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091858836638605370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11862,
+          "like_count": 229,
+          "quote_count": 7,
+          "reply_count": 53,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "回避型和焦虑型依恋在一起绝对会是地狱吧，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092267793806967250",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 228,
+          "like_count": 9905,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3453
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。非二元性别/性别流动。会查成分回关。\n\n我最重要最爱的女孩@67De_dian🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "67De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2092258106273329646",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2087622424019992584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755664020944941056/1783600638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092246536931655680/D9y_JTTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 577,
+          "like_count": 5545,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1573
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094384920336678912"
+      ],
+      "media_source_tweet_id": [
+        "2094384928440098959"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205247603799019520",
+          "name": "Haruhi Suzumiya"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205247603799019520",
+          "name": "Haruhi Suzumiya"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2095047807300411636",
+    "created_at": "2026-09-02T07:14:56.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095047807300411636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1612007294170202114",
+          "start": 3,
+          "username": "drafty_1218"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCmWWLzeJg",
+          "end": 52,
+          "expanded_url": "https://x.com/drafty_1218/status/2094384928440098959/photo/1",
+          "media_key": "3_2094384920336678912",
+          "start": 29,
+          "url": "https://t.co/MCmWWLzeJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095047807300411636",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094384920336678912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1290
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094384928440098959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drafty_1218: コラボ決定ありがとう！ https://t.co/MCmWWLzeJg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094384920336678912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC__Q-aQAAhAQG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094384920336678912"
+          ],
+          "media_source_tweet_id": [
+            "2094384928440098959"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2095047807300411636",
+        "created_at": "2026-09-02T07:14:56.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095047807300411636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1612007294170202114",
+              "start": 3,
+              "username": "drafty_1218"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCmWWLzeJg",
+              "end": 52,
+              "expanded_url": "https://x.com/drafty_1218/status/2094384928440098959/photo/1",
+              "media_key": "3_2094384920336678912",
+              "start": 29,
+              "url": "https://t.co/MCmWWLzeJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095047807300411636",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094384920336678912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1290
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094384928440098959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drafty_1218: コラボ決定ありがとう！ https://t.co/MCmWWLzeJg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094384920336678912"
+          ]
+        },
+        "author_id": "1612007294170202114",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2094384928440098959",
+        "created_at": "2026-08-31T11:20:53.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094384928440098959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCmWWLzeJg",
+              "end": 35,
+              "expanded_url": "https://x.com/drafty_1218/status/2094384928440098959/photo/1",
+              "media_key": "3_2094384920336678912",
+              "start": 12,
+              "url": "https://t.co/MCmWWLzeJg"
+            },
+            {
+              "display_url": "x.com/haruhi_officia…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/haruhi_official/status/2092537536493068665",
+              "start": 36,
+              "url": "https://t.co/JIG405gvOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094384928440098959",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094384920336678912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 718,
+          "impression_count": 111923,
+          "like_count": 7755,
+          "quote_count": 10,
+          "reply_count": 8,
+          "retweet_count": 1290
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092537536493068665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "コラボ決定ありがとう！ https://t.co/MCmWWLzeJg https://t.co/JIG405gvOe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095047807300411636",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 256,
+          "like_count": 9950,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-08T08:44:31.000Z",
+        "description": "涼宮ハルヒの憂鬱 絵を描きます サブ:@skm_sos\n📮:https://t.co/vrSJR6QivM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "skm_sos"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/skm_kz",
+                "end": 53,
+                "expanded_url": "https://odaibako.net/u/skm_kz",
+                "start": 30,
+                "url": "https://t.co/vrSJR6QivM"
+              }
+            ]
+          }
+        },
+        "id": "1612007294170202114",
+        "is_identity_verified": false,
+        "location": "ここ",
+        "most_recent_tweet_id": "2094831530795565443",
+        "name": "すきまかぜ",
+        "pinned_tweet_id": "2043652119165882674",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612007294170202114/1783404437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043699026638610432/-De1iIFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 132,
+          "like_count": 9785,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 3222
+        },
+        "url": "",
+        "username": "drafty_1218",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

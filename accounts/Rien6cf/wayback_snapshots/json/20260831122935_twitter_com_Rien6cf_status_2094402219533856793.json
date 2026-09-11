@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2094334395020988809",
+    "created_at": "2026-08-31T12:29:35.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094402219533856793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795232279733886976",
+          "start": 0,
+          "username": "DejikoPinkchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094402219533856793",
+    "in_reply_to_user_id": "1795232279733886976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094334395020988809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DejikoPinkchan 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5600,
+        "height": 720,
+        "media_key": "13_2094334369494417408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094334369494417408/img/-9o7ji3Y4FWzwZ9s.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094334369494417408/vid/avc1/360x270/KYOer2mBvEXsrn-I.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094334369494417408/vid/avc1/480x360/BwNmalJNH61HuQBf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094334369494417408/vid/avc1/960x720/lzDHCt3Im9rFMoPi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094334369494417408/pl/NwZi45UZ5jA8bnV1.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2094334395020988809",
+        "created_at": "2026-08-31T12:29:35.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094402219533856793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795232279733886976",
+              "start": 0,
+              "username": "DejikoPinkchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094402219533856793",
+        "in_reply_to_user_id": "1795232279733886976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094334395020988809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DejikoPinkchan 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094334369494417408"
+          ]
+        },
+        "author_id": "1795232279733886976",
+        "conversation_id": "2094334395020988809",
+        "created_at": "2026-08-31T08:00:05.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094334395020988809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKe6YZmBzR",
+              "end": 27,
+              "expanded_url": "https://x.com/DejikoPinkchan/status/2094334395020988809/video/1",
+              "media_key": "13_2094334369494417408",
+              "start": 4,
+              "url": "https://t.co/dKe6YZmBzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094334395020988809",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094334369494417408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发过呀 https://t.co/dKe6YZmBzR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094402219533856793",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 257,
+          "like_count": 9941,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3494
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T23:15:16.000Z",
+        "description": "别太在意我，随便发发而已",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aixipi",
+                "end": 23,
+                "expanded_url": "http://ngl.link/aixipi",
+                "start": 0,
+                "url": "https://t.co/izgV1vabMh"
+              }
+            ]
+          }
+        },
+        "id": "1795232279733886976",
+        "is_identity_verified": false,
+        "location": "监狱",
+        "most_recent_tweet_id": "2094334422917210440",
+        "name": "朱熙鳳死後被剁成百零八塊舍例子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795232279733886976/1787281585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092369048772452352/ciRRkypT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 198,
+          "like_count": 3433,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/izgV1vabMh",
+        "username": "DejikoPinkchan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2091544803641274795",
+    "created_at": "2026-08-27T08:18:19.000Z",
+    "display_text_range": [
+      20,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092889434811486376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1719378738369200128",
+          "start": 0,
+          "username": "shi_zi5888"
+        },
+        {
+          "end": 19,
+          "id": "1795232279733886976",
+          "start": 12,
+          "username": "AiXipi"
+        },
+        {
+          "end": 32,
+          "id": "2012423737887379456",
+          "start": 24,
+          "username": "Xzz__64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092889434811486376",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092889244859834783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shi_zi5888 @AiXipi 二等奖：@Xzz__64"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2091544803641274795",
+        "created_at": "2026-08-27T08:18:19.000Z",
+        "display_text_range": [
+          20,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092889434811486376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1719378738369200128",
+              "start": 0,
+              "username": "shi_zi5888"
+            },
+            {
+              "end": 19,
+              "id": "1795232279733886976",
+              "start": 12,
+              "username": "AiXipi"
+            },
+            {
+              "end": 32,
+              "id": "2012423737887379456",
+              "start": 24,
+              "username": "Xzz__64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092889434811486376",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092889244859834783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shi_zi5888 @AiXipi 二等奖：@Xzz__64"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2091544803641274795",
+        "created_at": "2026-08-27T08:17:34.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092889244859834783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1719378738369200128",
+              "start": 8,
+              "username": "shi_zi5888"
+            },
+            {
+              "end": 31,
+              "id": "1795232279733886976",
+              "start": 24,
+              "username": "AiXipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092889244859834783",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091544803641274795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开奖！恭喜一等奖@shi_zi5888 \n二等奖@AiXipi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092889434811486376",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 249,
+          "like_count": 9913,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-31T15:40:19.000Z",
+        "description": "",
+        "id": "1719378738369200128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092649862357827922",
+        "name": "喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091587901377425408/15Xn5Ho__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 128,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "shi_zi5888",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T23:15:16.000Z",
+        "description": "高中生，性别随父，别太在意我，随便发发而已",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aixipi",
+                "end": 23,
+                "expanded_url": "http://ngl.link/aixipi",
+                "start": 0,
+                "url": "https://t.co/izgV1v9DWJ"
+              }
+            ]
+          }
+        },
+        "id": "1795232279733886976",
+        "is_identity_verified": false,
+        "location": "监狱",
+        "most_recent_tweet_id": "2092770817906253855",
+        "name": "朱熙鳳死後被做成百零八塊舍例子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795232279733886976/1787281585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092369048772452352/ciRRkypT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 195,
+          "like_count": 3323,
+          "listed_count": 6,
+          "media_count": 37,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/izgV1v9DWJ",
+        "username": "AiXipi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T07:16:35.000Z",
+        "description": "生在春风中，活在药效里\nMTX🏳️‍⚧️｜无证含糖ing🍥｜HRT2024.1｜💊Oder｜INFP-T🦋｜怕疼不自残｜不键政｜摆烂高中生🏫｜喜互fo🤗\nNya",
+        "id": "2012423737887379456",
+        "is_identity_verified": false,
+        "location": "幻境里",
+        "most_recent_tweet_id": "2092837255324782703",
+        "name": "序章MuKe__🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012423737887379456/1774271927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090126141214388224/tnz2Gx2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 613,
+          "like_count": 8932,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "Xzz__64",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

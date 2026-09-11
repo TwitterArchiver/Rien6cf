@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2094209212960428042",
+    "created_at": "2026-08-30T23:42:39.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T00:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094209212960428042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17306975",
+          "start": 3,
+          "username": "livedoornews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094209212960428042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4336
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094077937515418089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livedoornews: 【祝】8月31日は「初音ミクの誕生日」\n\n2007年8月31日にクリプトン・フューチャー・メディアから発売された。キャラクターボイス担当は声優の藤田咲。VOCALOIDの代名詞的存在であり、ネット発の音楽カルチャーに多大な影響を与えている。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_2092136144012234752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjCvQWa0AADXtL.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2094209212960428042",
+        "created_at": "2026-08-30T23:42:39.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094209212960428042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17306975",
+              "start": 3,
+              "username": "livedoornews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094209212960428042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4336
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094077937515418089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livedoornews: 【祝】8月31日は「初音ミクの誕生日」\n\n2007年8月31日にクリプトン・フューチャー・メディアから発売された。キャラクターボイス担当は声優の藤田咲。VOCALOIDの代名詞的存在であり、ネット発の音楽カルチャーに多大な影響を与えている。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092136144012234752"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2094077937515418089",
+        "created_at": "2026-08-30T15:01:01.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094077937515418089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4fFlt9byi",
+              "end": 144,
+              "expanded_url": "https://x.com/livedoornews/status/2094077937515418089/photo/1",
+              "media_key": "3_2092136144012234752",
+              "start": 121,
+              "url": "https://t.co/n4fFlt9byi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094077937515418089",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092136144012234752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 227915,
+          "like_count": 11300,
+          "quote_count": 195,
+          "reply_count": 39,
+          "retweet_count": 4336
+        },
+        "reply_settings": "everyone",
+        "text": "【祝】8月31日は「初音ミクの誕生日」\n\n2007年8月31日にクリプトン・フューチャー・メディアから発売された。キャラクターボイス担当は声優の藤田咲。VOCALOIDの代名詞的存在であり、ネット発の音楽カルチャーに多大な影響を与えている。 https://t.co/n4fFlt9byi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094209212960428042",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 257,
+          "like_count": 9945,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094202253150457989",
+        "name": "ライブドアニュース",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17306975/1693883446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203228,
+          "following_count": 108,
+          "like_count": 2280,
+          "listed_count": 14058,
+          "media_count": 295538,
+          "tweet_count": 476177
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337446253756497926",
+          "name": "Sou"
+        }
+      }
+    ],
+    "conversation_id": "2093298985238937766",
+    "created_at": "2026-08-28T11:25:44.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093298985238937766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1689545382",
+          "start": 3,
+          "username": "Nico_nico_Sou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093298985238937766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093293825250959744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nico_nico_Sou: まじか！アツ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          }
+        ],
+        "conversation_id": "2093298985238937766",
+        "created_at": "2026-08-28T11:25:44.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093298985238937766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1689545382",
+              "start": 3,
+              "username": "Nico_nico_Sou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093298985238937766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093293825250959744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nico_nico_Sou: まじか！アツ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689545382",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337446253756497926",
+              "name": "Sou"
+            }
+          }
+        ],
+        "conversation_id": "2093293825250959744",
+        "created_at": "2026-08-28T11:05:14.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093293825250959744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sottoblue/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/sottoblue/status/2093293429543641353",
+              "start": 7,
+              "url": "https://t.co/GSVdr3Pup4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093293825250959744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10151,
+          "like_count": 454,
+          "quote_count": 3,
+          "reply_count": 40,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093293429543641353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まじか！アツ https://t.co/GSVdr3Pup4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093298985238937766",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 250,
+          "like_count": 9918,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3471
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-22T00:28:37.000Z",
+        "description": "爽快に、歌ってみてます。\nFA：#おえかきSou庫\nスタッフ公式：@sou_staff_mg\nどの日常：@Dononichijo \nそっとブルー：@sottoblue",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 16,
+                "tag": "おえかきSou庫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "sou_staff_mg"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "Dononichijo"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "sottoblue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCLAhL…",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/channel/UCLAhLxCcqi5afnNTQNnfX-g?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/kgObVwprX9"
+              }
+            ]
+          }
+        },
+        "id": "1689545382",
+        "is_identity_verified": false,
+        "location": "ねこです",
+        "most_recent_tweet_id": "2093293825250959744",
+        "name": "Sou",
+        "pinned_tweet_id": "2091100207274701078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689545382/1766656867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005283484601090048/MSJMw5YX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618561,
+          "following_count": 1315,
+          "like_count": 21554,
+          "listed_count": 4243,
+          "media_count": 2290,
+          "tweet_count": 17759
+        },
+        "url": "https://t.co/kgObVwprX9",
+        "username": "Nico_nico_Sou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

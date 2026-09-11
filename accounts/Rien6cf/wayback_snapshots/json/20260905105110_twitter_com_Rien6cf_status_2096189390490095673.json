@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2096189390490095673",
+    "created_at": "2026-09-05T10:51:10.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096189390490095673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1693889579068395520",
+          "start": 3,
+          "username": "jesus1nomgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096189390490095673",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3318
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095840571197989367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @jesus1nomgo: 죄송한데 목 위에 달린게 너무 무거운데 혹시 이거 못자르나요?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2096189390490095673",
+        "created_at": "2026-09-05T10:51:10.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096189390490095673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1693889579068395520",
+              "start": 3,
+              "username": "jesus1nomgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096189390490095673",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095840571197989367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @jesus1nomgo: 죄송한데 목 위에 달린게 너무 무거운데 혹시 이거 못자르나요?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693889579068395520",
+        "conversation_id": "2095840571197989367",
+        "created_at": "2026-09-04T11:45:05.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095840571197989367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095840571197989367",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 215177,
+          "like_count": 10388,
+          "quote_count": 108,
+          "reply_count": 0,
+          "retweet_count": 3318
+        },
+        "reply_settings": "following",
+        "text": "죄송한데 목 위에 달린게 너무 무거운데 혹시 이거 못자르나요?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096189390490095673",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 258,
+          "like_count": 10005,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3517
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-22T07:35:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/jesus1nomgo",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/jesus1nomgo",
+                "start": 0,
+                "url": "https://t.co/fsrb32wnwj"
+              }
+            ]
+          }
+        },
+        "id": "1693889579068395520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096177263335428305",
+        "name": "한마디",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004586442136391680/RbQ_Krxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48798,
+          "following_count": 28,
+          "like_count": 13,
+          "listed_count": 11,
+          "media_count": 299,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/fsrb32wnwj",
+        "username": "jesus1nomgo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

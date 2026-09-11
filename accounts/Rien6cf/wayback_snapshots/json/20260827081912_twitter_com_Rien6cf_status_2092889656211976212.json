@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2091544803641274795",
+    "created_at": "2026-08-27T08:19:12.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092889656211976212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "2000386018953101312",
+          "start": 4,
+          "username": "MiraOmicronCeti"
+        },
+        {
+          "end": 37,
+          "id": "1243828267439792128",
+          "start": 21,
+          "username": "Haocha_Feiming_"
+        },
+        {
+          "end": 52,
+          "id": "1384923621160886275",
+          "start": 38,
+          "username": "minealphacoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092889656211976212",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091544803641274795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三等奖：@MiraOmicronCeti @Haocha_Feiming_ @minealphacoin 请大家带上收款码来找我！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2091544793646239746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQao6IkaEAIzvH2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2091544803641274795",
+        "created_at": "2026-08-27T08:19:12.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092889656211976212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2000386018953101312",
+              "start": 4,
+              "username": "MiraOmicronCeti"
+            },
+            {
+              "end": 37,
+              "id": "1243828267439792128",
+              "start": 21,
+              "username": "Haocha_Feiming_"
+            },
+            {
+              "end": 52,
+              "id": "1384923621160886275",
+              "start": 38,
+              "username": "minealphacoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092889656211976212",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091544803641274795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三等奖：@MiraOmicronCeti @Haocha_Feiming_ @minealphacoin 请大家带上收款码来找我！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091544793646239746"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2091544803641274795",
+        "created_at": "2026-08-23T15:15:14.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091544803641274795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MWcar1d31",
+              "end": 72,
+              "expanded_url": "https://x.com/Rien6cf/status/2091544803641274795/photo/1",
+              "media_key": "3_2091544793646239746",
+              "start": 49,
+              "url": "https://t.co/2MWcar1d31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091544803641274795",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091544793646239746"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 978,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝百fo抽奖一下\n一等奖20r/1\n二等奖10r/2\n三等6.66r/2\n\n条件是转发➕关注！ https://t.co/2MWcar1d31"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092889656211976212",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 249,
+          "like_count": 9913,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3469
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092803393249263940",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1778279652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 256,
+          "like_count": 7168,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092881865808155016",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 149,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-21T17:35:38.000Z",
+        "description": "The future of mobile crypto is here!\nDownload the app from https://t.co/bDglmcDs4D\n\nAnd become the Alpha of crypto!\nJoin our growing community today!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "minealpha.net",
+                "end": 82,
+                "expanded_url": "https://www.minealpha.net",
+                "start": 59,
+                "url": "https://t.co/bDglmcDs4D"
+              }
+            ]
+          }
+        },
+        "id": "1384923621160886275",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2075165676407308788",
+        "name": "Alpha Network",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384924151635451907/gRW6DTEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140825,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 44,
+          "media_count": 61,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "minealphacoin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

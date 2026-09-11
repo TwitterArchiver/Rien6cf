@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092480870599061504"
+      ],
+      "media_source_tweet_id": [
+        "2092480877037224282"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2092568427491967092",
+    "created_at": "2026-08-26T11:02:45.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092568427491967092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892328513518391298",
+          "start": 3,
+          "username": "yuka2179"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1W5iosFXc",
+          "end": 54,
+          "expanded_url": "https://x.com/yuka2179/status/2092480877037224282/photo/1",
+          "media_key": "3_2092480870599061504",
+          "start": 31,
+          "url": "https://t.co/C1W5iosFXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092568427491967092",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "alt_text": "シェーマ\nあだぽしゃ\nアプリコット\nあなたはヒーロー\nぴんく\n性格悪くてすみません。\nパジャミィ\nハイドレンジア\n水死体は恋したい",
+        "media_key": "3_2092480870599061504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092480877037224282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuka2179: 私が今プロセカに収録して欲しい曲 https://t.co/C1W5iosFXc"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "シェーマ\nあだぽしゃ\nアプリコット\nあなたはヒーロー\nぴんく\n性格悪くてすみません。\nパジャミィ\nハイドレンジア\n水死体は恋したい",
+        "height": 2048,
+        "media_key": "3_2092480870599061504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQn8Q-9bcAAtHkt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092480870599061504"
+          ],
+          "media_source_tweet_id": [
+            "2092480877037224282"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2092568427491967092",
+        "created_at": "2026-08-26T11:02:45.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092568427491967092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892328513518391298",
+              "start": 3,
+              "username": "yuka2179"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1W5iosFXc",
+              "end": 54,
+              "expanded_url": "https://x.com/yuka2179/status/2092480877037224282/photo/1",
+              "media_key": "3_2092480870599061504",
+              "start": 31,
+              "url": "https://t.co/C1W5iosFXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092568427491967092",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "シェーマ\nあだぽしゃ\nアプリコット\nあなたはヒーロー\nぴんく\n性格悪くてすみません。\nパジャミィ\nハイドレンジア\n水死体は恋したい",
+            "media_key": "3_2092480870599061504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092480877037224282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuka2179: 私が今プロセカに収録して欲しい曲 https://t.co/C1W5iosFXc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092480870599061504"
+          ]
+        },
+        "author_id": "1892328513518391298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2092480877037224282",
+        "created_at": "2026-08-26T05:14:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092480877037224282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1W5iosFXc",
+              "end": 40,
+              "expanded_url": "https://x.com/yuka2179/status/2092480877037224282/photo/1",
+              "media_key": "3_2092480870599061504",
+              "start": 17,
+              "url": "https://t.co/C1W5iosFXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092480877037224282",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "シェーマ\nあだぽしゃ\nアプリコット\nあなたはヒーロー\nぴんく\n性格悪くてすみません。\nパジャミィ\nハイドレンジア\n水死体は恋したい",
+            "media_key": "3_2092480870599061504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 28187,
+          "like_count": 1650,
+          "quote_count": 85,
+          "reply_count": 11,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "私が今プロセカに収録して欲しい曲 https://t.co/C1W5iosFXc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092568427491967092",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 238,
+          "like_count": 9911,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3461
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-19T21:41:18.000Z",
+        "description": "奏、みのり推し/女/未成年/無言フォロー大歓迎/時差リプ歓迎/フォロバは合いそうな人\n百合、プセ、東方、zeta、学マス、いよわ大好き\n🗝️@Yuka21079\nDM OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Yuka21079"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Yuka2179",
+                "end": 23,
+                "expanded_url": "https://lit.link/Yuka2179",
+                "start": 0,
+                "url": "https://t.co/Cm0iR27KeU"
+              }
+            ]
+          }
+        },
+        "id": "1892328513518391298",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092548204520960381",
+        "name": "ゆか",
+        "pinned_tweet_id": "2092118591617503727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892328513518391298/1784894746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080625990942990336/vfOOKUHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 561,
+          "like_count": 15044,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/Cm0iR27KeU",
+        "username": "yuka2179",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1763544947268182016"
+      ],
+      "media_source_tweet_id": [
+        "1763544997335646273"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2096816323619909943",
+    "created_at": "2026-09-07T04:22:23.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096816323619909943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559069150785732608",
+          "start": 3,
+          "username": "Bakutan_bot1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t9qRgiiOcC",
+          "end": 75,
+          "expanded_url": "https://x.com/hm_ym_hm_k/status/1763544997335646273/video/1",
+          "media_key": "7_1763544947268182016",
+          "start": 52,
+          "url": "https://t.co/t9qRgiiOcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096816323619909943",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_1763544947268182016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1248
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096176515394232720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bakutan_bot1: タオルで拭き拭きされて気持ちよさそうな顔をするアザラシの赤ちゃん\n https://t.co/t9qRgiiOcC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20170,
+        "height": 720,
+        "media_key": "7_1763544947268182016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1763544947268182016/pu/img/QYXx3pkUmUsh3cFe.jpg",
+        "public_metrics": {
+          "view_count": 2442717
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1763544947268182016/pu/vid/avc1/480x270/cwUZMoozL4COSGQt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1763544947268182016/pu/vid/avc1/640x360/t5KIJgCFfxQcxlj1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1763544947268182016/pu/vid/avc1/1280x720/4KOw2IqF3yPssnQm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1763544947268182016/pu/pl/Au2tJHvzeYPj5ELS.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1763544947268182016"
+          ],
+          "media_source_tweet_id": [
+            "1763544997335646273"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2096816323619909943",
+        "created_at": "2026-09-07T04:22:23.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096816323619909943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559069150785732608",
+              "start": 3,
+              "username": "Bakutan_bot1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9qRgiiOcC",
+              "end": 75,
+              "expanded_url": "https://x.com/hm_ym_hm_k/status/1763544997335646273/video/1",
+              "media_key": "7_1763544947268182016",
+              "start": 52,
+              "url": "https://t.co/t9qRgiiOcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096816323619909943",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1763544947268182016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1248
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096176515394232720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bakutan_bot1: タオルで拭き拭きされて気持ちよさそうな顔をするアザラシの赤ちゃん\n https://t.co/t9qRgiiOcC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1763544947268182016"
+          ],
+          "media_source_tweet_id": [
+            "1763544997335646273"
+          ]
+        },
+        "author_id": "1559069150785732608",
+        "conversation_id": "2096176515394232720",
+        "created_at": "2026-09-05T10:00:01.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096176515394232720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9qRgiiOcC",
+              "end": 57,
+              "expanded_url": "https://x.com/hm_ym_hm_k/status/1763544997335646273/video/1",
+              "media_key": "7_1763544947268182016",
+              "start": 34,
+              "url": "https://t.co/t9qRgiiOcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096176515394232720",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1763544947268182016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1131,
+          "impression_count": 309628,
+          "like_count": 11150,
+          "quote_count": 63,
+          "reply_count": 12,
+          "retweet_count": 1248
+        },
+        "reply_settings": "everyone",
+        "text": "タオルで拭き拭きされて気持ちよさそうな顔をするアザラシの赤ちゃん\n https://t.co/t9qRgiiOcC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1763544947268182016"
+          ]
+        },
+        "author_id": "481923397",
+        "conversation_id": "1763544997335646273",
+        "created_at": "2024-03-01T12:41:07.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2024-03-01T13:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1763544997335646273"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "しながわ水族館"
+            },
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "ゴマフアザラシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5Zc6nDx0I",
+              "end": 81,
+              "expanded_url": "https://x.com/hm_ym_hm_k/status/1763544997335646273/video/1",
+              "media_key": "7_1763544947268182016",
+              "start": 58,
+              "url": "https://t.co/Z5Zc6nDx0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1763544997335646273",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1763544947268182016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5892,
+          "impression_count": 6466498,
+          "like_count": 78270,
+          "quote_count": 974,
+          "reply_count": 36,
+          "retweet_count": 13250
+        },
+        "reply_settings": "everyone",
+        "text": "最後の最後にタオルで拭き拭きされて気持ちよさそうな顔をするアザラシの赤ちゃん\n#しながわ水族館 \n#ゴマフアザラシ https://t.co/Z5Zc6nDx0I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096816323619909943",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 257,
+          "like_count": 10015,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3522
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-15T06:47:19.000Z",
+        "description": "癒やされる動物をツイートにて皆様にお届けします📦",
+        "id": "1559069150785732608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096810693047787908",
+        "name": "癒しのお届け便 📦【動物】",
+        "pinned_tweet_id": "2042679758794953058",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559069150785732608/1676988742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628720490398511105/RGzC-DTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356967,
+          "following_count": 10,
+          "like_count": 4688,
+          "listed_count": 790,
+          "media_count": 11866,
+          "tweet_count": 11970
+        },
+        "url": "",
+        "username": "Bakutan_bot1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

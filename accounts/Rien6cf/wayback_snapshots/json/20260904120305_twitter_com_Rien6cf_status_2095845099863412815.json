@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095499005467979776"
+      ],
+      "media_source_tweet_id": [
+        "2095499021486006686"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2095845099863412815",
+    "created_at": "2026-09-04T12:03:05.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095845099863412815"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "GUMI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1722073356911177728",
+          "start": 3,
+          "username": "ha_yaneha_yaoki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ngTtwzsYoL",
+          "end": 64,
+          "expanded_url": "https://x.com/ha_yaneha_yaoki/status/2095499021486006686/video/1",
+          "media_key": "13_2095499005467979776",
+          "start": 41,
+          "url": "https://t.co/ngTtwzsYoL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095845099863412815",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2095499005467979776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1763
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095499021486006686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ha_yaneha_yaoki: #GUMI の日おめでとう動画‼︎🥕🌟 https://t.co/ngTtwzsYoL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8033,
+        "height": 1010,
+        "media_key": "13_2095499005467979776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095499005467979776/img/SBQHd-8WmZXKJQOy.jpg",
+        "public_metrics": {
+          "view_count": 42803
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095499005467979776/vid/avc1/320x448/6S_dzt9H2M6P1v7-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095499005467979776/vid/avc1/480x672/hycgf40CWs-9Ok_b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095499005467979776/vid/avc1/720x1010/mdd7OYR3kSUlYHOt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095499005467979776/pl/gMskMJa-ZKRU-o-u.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095499005467979776"
+          ],
+          "media_source_tweet_id": [
+            "2095499021486006686"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2095845099863412815",
+        "created_at": "2026-09-04T12:03:05.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095845099863412815"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "GUMI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1722073356911177728",
+              "start": 3,
+              "username": "ha_yaneha_yaoki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ngTtwzsYoL",
+              "end": 64,
+              "expanded_url": "https://x.com/ha_yaneha_yaoki/status/2095499021486006686/video/1",
+              "media_key": "13_2095499005467979776",
+              "start": 41,
+              "url": "https://t.co/ngTtwzsYoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095845099863412815",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095499005467979776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1763
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095499021486006686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ha_yaneha_yaoki: #GUMI の日おめでとう動画‼︎🥕🌟 https://t.co/ngTtwzsYoL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095499005467979776"
+          ]
+        },
+        "author_id": "1722073356911177728",
+        "conversation_id": "2095499021486006686",
+        "created_at": "2026-09-03T13:07:53.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095499021486006686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "GUMI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ngTtwzsYoL",
+              "end": 43,
+              "expanded_url": "https://x.com/ha_yaneha_yaoki/status/2095499021486006686/video/1",
+              "media_key": "13_2095499005467979776",
+              "start": 20,
+              "url": "https://t.co/ngTtwzsYoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095499021486006686",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095499005467979776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 839,
+          "impression_count": 109487,
+          "like_count": 8807,
+          "quote_count": 14,
+          "reply_count": 4,
+          "retweet_count": 1763
+        },
+        "reply_settings": "everyone",
+        "text": "#GUMI の日おめでとう動画‼︎🥕🌟 https://t.co/ngTtwzsYoL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095845099863412815",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 256,
+          "like_count": 9994,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3516
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-08T02:07:52.000Z",
+        "description": "絵が上手くなりたい練習&雑多アカウント\n一次二次創作FAほんとになんでもありです(_ _)人\nhttps://t.co/r28or0WasV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ha_yaneha_yao…",
+                "end": 70,
+                "expanded_url": "https://skeb.jp/@ha_yaneha_yaoki",
+                "start": 47,
+                "url": "https://t.co/r28or0WasV"
+              }
+            ]
+          }
+        },
+        "id": "1722073356911177728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095803207691985351",
+        "name": "やた",
+        "pinned_tweet_id": "2090637016824476120",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722073356911177728/1780018570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049310108916838400/2jrhRWlp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 404,
+          "like_count": 10828,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "ha_yaneha_yaoki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
