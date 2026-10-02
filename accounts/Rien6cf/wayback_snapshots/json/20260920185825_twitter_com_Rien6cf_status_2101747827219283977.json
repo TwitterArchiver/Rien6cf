@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2101747827219283977",
+    "created_at": "2026-09-20T18:58:25.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T19:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101747827219283977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1898927350416367616",
+          "start": 3,
+          "username": "amoescitalopram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101747827219283977",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3355
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101378973796089892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amoescitalopram: so quem ja tentou se matar com 13 anos vai entender o sentimento de chegar nos 18 e nao ter visão de futuro algum"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2101747827219283977",
+        "created_at": "2026-09-20T18:58:25.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T19:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101747827219283977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1898927350416367616",
+              "start": 3,
+              "username": "amoescitalopram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101747827219283977",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3355
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101378973796089892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amoescitalopram: so quem ja tentou se matar com 13 anos vai entender o sentimento de chegar nos 18 e nao ter visão de futuro algum"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898927350416367616",
+        "conversation_id": "2101378973796089892",
+        "created_at": "2026-09-19T18:32:43.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101378973796089892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101378973796089892",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 505,
+          "impression_count": 156979,
+          "like_count": 14639,
+          "quote_count": 164,
+          "reply_count": 62,
+          "retweet_count": 3355
+        },
+        "reply_settings": "everyone",
+        "text": "so quem ja tentou se matar com 13 anos vai entender o sentimento de chegar nos 18 e nao ter visão de futuro algum"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101747827219283977",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 250,
+          "like_count": 10097,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 3585
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-10T02:43:58.000Z",
+        "description": "",
+        "id": "1898927350416367616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101449307090034959",
+        "name": "´ཀ`",
+        "pinned_tweet_id": "2087364462617530853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898927350416367616/1786751281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101017753586962432/IKW1Ryuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3033,
+          "following_count": 159,
+          "like_count": 10268,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 5483
+        },
+        "url": "",
+        "username": "amoescitalopram",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

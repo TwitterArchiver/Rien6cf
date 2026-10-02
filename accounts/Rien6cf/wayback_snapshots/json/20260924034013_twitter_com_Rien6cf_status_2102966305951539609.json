@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2102966305951539609",
+    "created_at": "2026-09-24T03:40:13.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102966305951539609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2084928826417860608",
+          "start": 3,
+          "username": "neruneru_zinsei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102966305951539609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102764883850969550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neruneru_zinsei: ツイッタラーの春夏秋冬使える季語\n\n鬱\n4にたい\n安楽死\n希死念慮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2102966305951539609",
+        "created_at": "2026-09-24T03:40:13.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102966305951539609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2084928826417860608",
+              "start": 3,
+              "username": "neruneru_zinsei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102966305951539609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102764883850969550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neruneru_zinsei: ツイッタラーの春夏秋冬使える季語\n\n鬱\n4にたい\n安楽死\n希死念慮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084928826417860608",
+        "conversation_id": "2102764883850969550",
+        "created_at": "2026-09-23T14:19:50.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102764883850969550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102764883850969550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 20340,
+          "like_count": 2565,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "ツイッタラーの春夏秋冬使える季語\n\n鬱\n4にたい\n安楽死\n希死念慮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102966305951539609",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 253,
+          "like_count": 10101,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 3596
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T09:06:02.000Z",
+        "description": "ネタツイ&雑談&👊🩸 fsljk 脇見恐怖症 \n幸せツイないです❣️\n🗝@miru_nakinwo999",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "miru_nakinwo999"
+              }
+            ]
+          }
+        },
+        "id": "2084928826417860608",
+        "is_identity_verified": false,
+        "location": "アメリカ合衆国",
+        "most_recent_tweet_id": "2102913698650349714",
+        "name": "ねるね",
+        "pinned_tweet_id": "2096403478864404867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084928826417860608/1789986354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095101064026771456/MMm7n-oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 879,
+          "like_count": 7028,
+          "listed_count": 29,
+          "media_count": 399,
+          "tweet_count": 2976
+        },
+        "url": "",
+        "username": "neruneru_zinsei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

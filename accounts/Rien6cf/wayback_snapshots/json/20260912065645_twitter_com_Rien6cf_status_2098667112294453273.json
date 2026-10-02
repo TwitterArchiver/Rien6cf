@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098372789908742144"
+      ],
+      "media_source_tweet_id": [
+        "2098372800734269838"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2098667112294453273",
+    "created_at": "2026-09-12T06:56:45.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098667112294453273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039006837773901826",
+          "start": 3,
+          "username": "taiasmnm44"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VoDg5uqewF",
+          "end": 83,
+          "expanded_url": "https://x.com/taiasmnm44/status/2098372800734269838/video/1",
+          "media_key": "13_2098372789908742144",
+          "start": 60,
+          "url": "https://t.co/VoDg5uqewF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098667112294453273",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2098372789908742144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1034
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098372800734269838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taiasmnm44: 親に修学旅行は絶対行けって言われてこのままだと修学旅行だけくる不登校になりそうで今これ https://t.co/VoDg5uqewF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5750,
+        "height": 600,
+        "media_key": "13_2098372789908742144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098372789908742144/img/xdkLk4hqI5QFnjfP.jpg",
+        "public_metrics": {
+          "view_count": 159108
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098372789908742144/vid/avc1/378x270/GDFN4HAk6cUV7CkT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098372789908742144/vid/avc1/504x360/R5A46jkd6QuCA7WT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098372789908742144/vid/avc1/840x600/A0WmogUtHeRhqIhv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098372789908742144/pl/RUCDUu604fbBmtX3.m3u8"
+          }
+        ],
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098372789908742144"
+          ],
+          "media_source_tweet_id": [
+            "2098372800734269838"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2098667112294453273",
+        "created_at": "2026-09-12T06:56:45.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098667112294453273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039006837773901826",
+              "start": 3,
+              "username": "taiasmnm44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VoDg5uqewF",
+              "end": 83,
+              "expanded_url": "https://x.com/taiasmnm44/status/2098372800734269838/video/1",
+              "media_key": "13_2098372789908742144",
+              "start": 60,
+              "url": "https://t.co/VoDg5uqewF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098667112294453273",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098372789908742144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1034
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098372800734269838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taiasmnm44: 親に修学旅行は絶対行けって言われてこのままだと修学旅行だけくる不登校になりそうで今これ https://t.co/VoDg5uqewF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098372789908742144"
+          ]
+        },
+        "author_id": "2039006837773901826",
+        "conversation_id": "2098372800734269838",
+        "created_at": "2026-09-11T11:27:16.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098372800734269838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VoDg5uqewF",
+              "end": 67,
+              "expanded_url": "https://x.com/taiasmnm44/status/2098372800734269838/video/1",
+              "media_key": "13_2098372789908742144",
+              "start": 44,
+              "url": "https://t.co/VoDg5uqewF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098372800734269838",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098372789908742144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1499,
+          "impression_count": 337335,
+          "like_count": 9273,
+          "quote_count": 244,
+          "reply_count": 11,
+          "retweet_count": 1034
+        },
+        "reply_settings": "everyone",
+        "text": "親に修学旅行は絶対行けって言われてこのままだと修学旅行だけくる不登校になりそうで今これ https://t.co/VoDg5uqewF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098667112294453273",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 254,
+          "like_count": 10071,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3538
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-31T15:49:42.000Z",
+        "description": "神界隈\n相方→@mahiru_nanoda\n251→@hrlool\n人見知り/ネタ被りしてたら言ってくださいすぐ消します\n自我@rororo39_9\nゆる鍵@kuranonano123\n最奥@yooo1_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "mahiru_nanoda"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "hrlool"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "rororo39_9"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "kuranonano123"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "yooo1_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/zfzsw9tluc9ov8…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/zfzsw9tluc9ov8y?t=AZX4Ew&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FKLH0sRWfk"
+              }
+            ]
+          }
+        },
+        "id": "2039006837773901826",
+        "is_identity_verified": false,
+        "location": "十万×1 万×5 千×14",
+        "most_recent_tweet_id": "2098659836947046634",
+        "name": "ロ口ロ口ロ",
+        "pinned_tweet_id": "2074121525427605693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039006837773901826/1782120603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086615833430921216/HnK0R-eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 708,
+          "like_count": 28448,
+          "listed_count": 4,
+          "media_count": 1215,
+          "tweet_count": 7374
+        },
+        "url": "https://t.co/FKLH0sRWfk",
+        "username": "taiasmnm44",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

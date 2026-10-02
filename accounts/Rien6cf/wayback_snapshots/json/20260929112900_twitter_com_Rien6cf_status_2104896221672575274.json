@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2104896221672575274",
+    "created_at": "2026-09-29T11:29:00.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104896221672575274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1586975852025479169",
+          "start": 3,
+          "username": "greenrice_wtnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104896221672575274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3383
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104720463415083382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @greenrice_wtnb: たぶんそろそろ、祈るだけで晴れにするビジネスをやる男女2人組が出現する"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2104896221672575274",
+        "created_at": "2026-09-29T11:29:00.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104896221672575274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1586975852025479169",
+              "start": 3,
+              "username": "greenrice_wtnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104896221672575274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3383
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104720463415083382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @greenrice_wtnb: たぶんそろそろ、祈るだけで晴れにするビジネスをやる男女2人組が出現する"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586975852025479169",
+        "conversation_id": "2104720463415083382",
+        "created_at": "2026-09-28T23:50:36.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T00:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104720463415083382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YahooNewsTopic…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/YahooNewsTopics/status/2104689859118121468",
+              "start": 36,
+              "url": "https://t.co/UCCeCvFVLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104720463415083382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1515,
+          "impression_count": 5213415,
+          "like_count": 63938,
+          "quote_count": 304,
+          "reply_count": 41,
+          "retweet_count": 3387
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104689859118121468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "たぶんそろそろ、祈るだけで晴れにするビジネスをやる男女2人組が出現する https://t.co/UCCeCvFVLA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n呟きとか\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104896221672575274",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 251,
+          "like_count": 10137,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 3620
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-31T06:58:32.000Z",
+        "description": "静岡県清水町できぬむすめ🌾にこまる🌾古代みどり米(みどりまい)🌾や旬の野菜を4.5haで栽培、直売している零細極小農家です！ \nオープンソースのIoTシステム【AgriSynapse】開発者でもあります。\nお米は受注後精米で分量1kg~承ります！\n 当農園のお米は下記URLからご注文頂けます。ご注文お待ちしております！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "greenrice-wtnb-farm.jimdofree.com",
+                "end": 23,
+                "expanded_url": "https://greenrice-wtnb-farm.jimdofree.com",
+                "start": 0,
+                "url": "https://t.co/Kz82Ns2EAg"
+              }
+            ]
+          }
+        },
+        "id": "1586975852025479169",
+        "is_identity_verified": true,
+        "location": "サイレントヒル",
+        "most_recent_tweet_id": "2104880499961557030",
+        "name": "みどり米の【わたなべ農園】🌾静岡県清水町",
+        "pinned_tweet_id": "2098756346191753242",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586975852025479169/1667630506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586985922033487872/ZUAAA1x5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3330,
+          "following_count": 1345,
+          "like_count": 58684,
+          "listed_count": 32,
+          "media_count": 2571,
+          "tweet_count": 21242
+        },
+        "url": "https://t.co/Kz82Ns2EAg",
+        "username": "greenrice_wtnb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

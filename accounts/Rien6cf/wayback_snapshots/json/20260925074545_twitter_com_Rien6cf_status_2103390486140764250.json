@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2103390486140764250",
+    "created_at": "2026-09-25T07:45:45.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103390486140764250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1884745808605818880",
+          "start": 3,
+          "username": "Bunbohue40037"
+        },
+        {
+          "end": 29,
+          "id": "1386157702787731459",
+          "start": 19,
+          "username": "kiss_o3o_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103390486140764250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103185457475625350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunbohue40037: @kiss_o3o_ 手冲的时候水流到屁股缝怎么办？进入个人中心-设置-隐私设置-关闭屁股缝，可以合上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2103390486140764250",
+        "created_at": "2026-09-25T07:45:45.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103390486140764250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1884745808605818880",
+              "start": 3,
+              "username": "Bunbohue40037"
+            },
+            {
+              "end": 29,
+              "id": "1386157702787731459",
+              "start": 19,
+              "username": "kiss_o3o_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103390486140764250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103185457475625350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunbohue40037: @kiss_o3o_ 手冲的时候水流到屁股缝怎么办？进入个人中心-设置-隐私设置-关闭屁股缝，可以合上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884745808605818880",
+        "conversation_id": "2102844887330931144",
+        "created_at": "2026-09-24T18:11:03.000Z",
+        "display_text_range": [
+          11,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103185457475625350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1386157702787731459",
+              "start": 0,
+              "username": "kiss_o3o_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103185457475625350",
+        "in_reply_to_user_id": "1386157702787731459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11040,
+          "like_count": 573,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102844887330931144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_o3o_ 手冲的时候水流到屁股缝怎么办？进入个人中心-设置-隐私设置-关闭屁股缝，可以合上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n呟きなど、\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103390486140764250",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 252,
+          "like_count": 10108,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 3602
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103363478723473547",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884745808605818880/1759586488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 651,
+          "like_count": 215070,
+          "listed_count": 6,
+          "media_count": 1681,
+          "tweet_count": 23963
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-25T03:19:46.000Z",
+        "description": "幸福幸福请来到我身边吧🤲🏻",
+        "id": "1386157702787731459",
+        "is_identity_verified": false,
+        "location": "喜欢我就给我打钱",
+        "most_recent_tweet_id": "2103356136569381346",
+        "name": "🌲",
+        "pinned_tweet_id": "1991015985944670296",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1386157702787731459/1782669317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007172104282877953/KBx8-U19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4112,
+          "following_count": 295,
+          "like_count": 29579,
+          "listed_count": 7,
+          "media_count": 31,
+          "tweet_count": 9426
+        },
+        "url": "",
+        "username": "kiss_o3o_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

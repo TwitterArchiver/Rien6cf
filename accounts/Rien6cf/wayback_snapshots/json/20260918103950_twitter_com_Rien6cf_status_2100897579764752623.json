@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100897547095293952"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "conversation_id": "2100897579764752623",
+    "created_at": "2026-09-18T10:39:50.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100897579764752623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJxJwmTMdT",
+          "end": 28,
+          "expanded_url": "https://x.com/Rien6cf/status/2100897579764752623/video/1",
+          "media_key": "13_2100897547095293952",
+          "start": 5,
+          "url": "https://t.co/BJxJwmTMdT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100897579764752623",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2100897547095293952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "うんうん https://t.co/BJxJwmTMdT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10200,
+        "height": 1280,
+        "media_key": "13_2100897547095293952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100897547095293952/img/vdrBrVLoDDiZJiyn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100897547095293952/vid/avc1/320x568/BAH_vq0KOSy2x-aL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100897547095293952/vid/avc1/480x852/6OH7FOnEyPppoWfm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100897547095293952/vid/avc1/720x1280/oNsDsYZUt533FVHS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100897547095293952/pl/fprmqXti3Xm9Z0mz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100897547095293952"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "conversation_id": "2100897579764752623",
+        "created_at": "2026-09-18T10:39:50.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100897579764752623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJxJwmTMdT",
+              "end": 28,
+              "expanded_url": "https://x.com/Rien6cf/status/2100897579764752623/video/1",
+              "media_key": "13_2100897547095293952",
+              "start": 5,
+              "url": "https://t.co/BJxJwmTMdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100897579764752623",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100897547095293952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "うんうん https://t.co/BJxJwmTMdT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100897579764752623",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 250,
+          "like_count": 10083,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3569
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

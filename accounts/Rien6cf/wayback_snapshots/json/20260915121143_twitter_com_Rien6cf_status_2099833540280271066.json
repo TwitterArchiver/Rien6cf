@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099833531069583360",
+        "3_2099833531052810240"
+      ]
+    },
+    "author_id": "2015660394967404544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Barbecues and Grilling",
+          "id": "858037909219192833",
+          "name": "Grilling"
+        }
+      }
+    ],
+    "conversation_id": "2099833540280271066",
+    "created_at": "2026-09-15T12:11:43.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099833540280271066"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KetSiWauTM",
+          "end": 37,
+          "expanded_url": "https://x.com/Rien6cf/status/2099833540280271066/photo/1",
+          "media_key": "3_2099833531069583360",
+          "start": 14,
+          "url": "https://t.co/KetSiWauTM"
+        },
+        {
+          "display_url": "pic.x.com/KetSiWauTM",
+          "end": 37,
+          "expanded_url": "https://x.com/Rien6cf/status/2099833540280271066/photo/1",
+          "media_key": "3_2099833531052810240",
+          "start": 14,
+          "url": "https://t.co/KetSiWauTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099833540280271066",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099833531069583360"
+      },
+      {
+        "media_key": "3_2099833531052810240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "焼肉デート♡\n#自撮り界隈 https://t.co/KetSiWauTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099833531069583360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQbeJrbUAAako5.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099833531052810240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQbeJnbYAAZz-D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099833531069583360",
+            "3_2099833531052810240"
+          ]
+        },
+        "author_id": "2015660394967404544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2099833540280271066",
+        "created_at": "2026-09-15T12:11:43.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099833540280271066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KetSiWauTM",
+              "end": 37,
+              "expanded_url": "https://x.com/Rien6cf/status/2099833540280271066/photo/1",
+              "media_key": "3_2099833531069583360",
+              "start": 14,
+              "url": "https://t.co/KetSiWauTM"
+            },
+            {
+              "display_url": "pic.x.com/KetSiWauTM",
+              "end": 37,
+              "expanded_url": "https://x.com/Rien6cf/status/2099833540280271066/photo/1",
+              "media_key": "3_2099833531052810240",
+              "start": 14,
+              "url": "https://t.co/KetSiWauTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099833540280271066",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099833531069583360"
+          },
+          {
+            "media_key": "3_2099833531052810240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "焼肉デート♡\n#自撮り界隈 https://t.co/KetSiWauTM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099833540280271066",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 253,
+          "like_count": 10075,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3554
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

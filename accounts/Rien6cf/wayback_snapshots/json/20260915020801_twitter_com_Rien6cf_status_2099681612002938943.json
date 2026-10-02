@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015660394967404544",
+    "conversation_id": "2099411770461045231",
+    "created_at": "2026-09-15T02:08:01.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T03:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099681612002938943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853729342049947648",
+          "start": 0,
+          "username": "Rosy_Natsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099681612002938943",
+    "in_reply_to_user_id": "1853729342049947648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099660279026172356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rosy_Natsuki 小鸡我要和你玩一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2099411770461045231",
+        "created_at": "2026-09-15T02:08:01.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099681612002938943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853729342049947648",
+              "start": 0,
+              "username": "Rosy_Natsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099681612002938943",
+        "in_reply_to_user_id": "1853729342049947648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099660279026172356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rosy_Natsuki 小鸡我要和你玩一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853729342049947648",
+        "conversation_id": "2099411770461045231",
+        "created_at": "2026-09-15T00:43:14.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099660279026172356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099660279026172356",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099411770461045231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf 老鼠要过要吃要过最好最大的生日"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/成人済\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099681612002938943",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 253,
+          "like_count": 10076,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3552
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-05T09:21:44.000Z",
+        "description": "なつキ｜jk📖｜工作員｜2024～CABINETS-Sugar(須賀京介)ｻﾝ｜HEROINES｜無言フォロー失礼します",
+        "id": "1853729342049947648",
+        "is_identity_verified": false,
+        "location": "東京都📖",
+        "most_recent_tweet_id": "2099660279026172356",
+        "name": "なつキ🐣",
+        "pinned_tweet_id": "2083841902319915310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853729342049947648/1784612329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031009909270298624/Z4tf8J-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 201,
+          "like_count": 4062,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1467
+        },
+        "url": "",
+        "username": "Rosy_Natsuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
